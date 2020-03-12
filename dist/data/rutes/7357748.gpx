@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.049260" lon="2.149281">
+    <ele>751.8</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Font de la Prada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.066090" lon="2.135890">
+    <ele>810.1</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Font de Perenoguera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.008230" lon="2.182400">
+    <ele>567.6</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Gorg Negre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.027350" lon="2.149280">
+    <ele>726.0</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Les Fosses</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.013240" lon="2.157620">
+    <ele>690.0</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Molí de l'Aumatell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.059710" lon="2.138050">
+    <ele>781.4</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Molí de Perenoguera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.002030" lon="2.204001">
+    <ele>550.5</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Puigví</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.992869" lon="2.222473">
+    <ele>516.6</ele>
+    <time>2006-09-21T08:23:52Z</time>
+    <name>Santa Cecília de Voltregà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.003537" lon="2.197306">
+    <ele>558.5</ele>
+    <time>2014-01-02T14:08:17Z</time>
+    <name>Angelats</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.078685" lon="2.151932">
+    <ele>1055.2</ele>
+    <time>2014-02-06T13:01:57Z</time>
+    <name>Els Munts</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.057429" lon="2.151853">
+    <ele>807.2</ele>
+    <time>2014-02-06T13:02:08Z</time>
+    <name>Sant Boi de Lluçanès</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.010766" lon="2.206179">
+    <ele>841.9</ele>
+    <time>2014-02-06T15:54:55Z</time>
+    <name>Sant Martí Xic</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.077657" lon="2.130635">
+    <ele>888.5</ele>
+    <time>2014-02-06T15:55:54Z</time>
+    <name>Hostal del Vilar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.997897" lon="2.195860">
+    <ele>788.6</ele>
+    <time>2014-02-06T17:35:08Z</time>
+    <name>Santa Perpètua</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Del santuari dels Munts a Santa Cecília de Voltregà per la riera de Sorreigs</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Del santuari dels Munts a Santa Cecília de Voltregà per la riera de Sorreigs (PR C-46)&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Des del santuari dels Munts, excel·lent mirador del Lluçanès, el Berguedà, el Bages i el Pirineu oriental, es davalla resseguint el curs de la riera de Sorreigs entre camps de conreu, boscos i una frondosa vegetació de ribera. Es discorre per un espai protegit (Espai d'Interès Natural) inclòs, des del setembre de 2006, a la Xarxa Natura 2000 que compta amb indrets de gran bellesa natural com el gorg Negre, engorjat entre cingleres, font de diverses llegendes que el consideraven de profunditat inescrutable i punt de reunió de bruixes. Aquest és un itinerari catalogat com a petit recorregut, el PR C-46, pensat per a ser fet a peu, forma de desplaçament obligada si es fa en pujada, però que, de baixada, també es pot realitzar en bicicleta tot terreny sempre i quan, atenció, es disposi d'un bon nivell. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El principal problema que cal preveure és la tornada al punt de sortida: mancat de connexions amb transport públic, al municipi de Sant Agustí de Lluçanès, on comença la ruta, només s’hi pot accedir amb cotxe havent-ne deixat un altre a Santa Cecília de Voltregà. Una altra opció és completar la volta tornant als Munts per algun dels nombrosos itineraris que recorren el Voltreganès, per exemple pujant a Sant Martí Xic (sobre Sant Hipòlit) pel GR-3, que connecta amb el PR C-46 a les granges d'Angelats (20 km i 600 m de desnivell positiu). 
+Com que el recorregut segueix de molt a prop la riera és un terreny on la vegetació creix molt ràpid i, de vegades, pot dificultar el pas en alguns trams especialment densos. La major part del recorregut està, però, en molt bon estat i sempre senyalitzat amb marques grogues i blanques. 
+ 
+Per arribar al punt de sortida, el santuari de la Mare de Déu dels Munts, cal agafar la pista asfaltada que hi puja des de l'Hostal del Vilar, punt d'unió de les carreteres BP-4653, BV-4341 i BV-4608. Per arribar-hi des de Vic es pren la carretera C-17 en direcció nord fins a Sant Quirze de Besora, on s'agafa cap a ponent la BP-4654 per trencar a l'esquerra (al sud), al collet de Sant Agustí, per la BP-4653 fins a l'esmentat hostal. 
+ 
+0 km (1.057 m). Santuari de la Mare de Déu dels Munts. Talaia immillorable d'Osona i els Pirineus, des d’aquí es veu des del Puigmal al Pedraforca. Es baixen 300 m per la pista fins a un trencall on comença el PR C-46: cal prendre la pista de terra cap a l’esquerra (S) fins a un collet (km 0,73, 1.025 m, 15 min) on es deixen les marques vermelles i blanques del GR-3 i on comença pròpiament el descens, que acumularà 760 m de desnivell de baixada. La pista porta en ràpida baixada a la BV-4609, que se segueix per l'esquerra (E) però només 270 m fins a trobar un trencall: es gira en rodó a la dreta (NO) per una pista que porta a la riera i a un terreny gairebé pla, on se circula molt lentament prop de l’aigua per un terreny tou i ple de vegetació. Es recomana anar amb les cames protegides per les ortigues i esbarzers que s'hi troben. 
+ 
+4,10 km (783 m), 1 h. Molí de Perenoguera. Seguint els senyals del PR C-46, per senders i pistes es recorren diversos indrets de la riera com el gorg de la Vaca, el molí de Perenoguera (el qual es passa ben a prop), la font de la Prada, les Fosses, el Puig, el molí de l'Aumetell... 
+ 
+11,36 km (676 m), 2 h 45 min. Meandre. S'arriba a un eixamplament del llit de la riera, tot ell rocós, que dóna pas a un meandre. Cal evitar-lo girant a l'esquerra i pujant una ziga-zaga per tornar a la riera i seguir fins al molí de Guiteres. Poc després es creua per enèsima vegada la riera i s'estalvia un altre meandre similar amb el salt de Guiteres tot fent una petita pujada. 
+ 
+13,37 km (643 m), 3 h 15 min. Mas Miolet i embassament. El sender es troba de nou amb una pista just on la riera desemboca a un petit embassament al costat del mas Miolet. Es segueix la pista baixant cap al NE i, més endavant, es troba un trencall senyalitzat (km 14,41, 628 m, 3 h 30 min) que porta al gorg Negre, sens dubte l'indret més espectacular del descens. Es recomana passar pel mirador del gorg baixant i després pujant 40 m de desnivell. 
+ 
+16,05 km (538 m), 4 h. Granges d'Angelats. La pista segueix baixant cap al fons de la riera deixant un altre trencall a l'esquerra que porta a la part inferior del gorg Negre. En arribar a les granges d'Angelats es creua el GR-3 i el PR C-49 (el qual, cap a la dreta, en direcció SO, puja a Santa Perpètua i, cap a l'esquerra, en direcció NE, al castell de Voltregà). Cal seguir baixant, ara amb la riera a la dreta. Es passa Puigví i es fa el tram final passant pel Molí del Guiu i el mas Riquer. Entre alts arbres s’arriba al pont de Santa Cecília, on acaba el sender PR C-46. Per la carretera BV-4602 es continua cap a l’esquerra (NO) i s’entra al poble pujant cap a l’església. 
+ 
+19,43 km (519 m), 4 h 50 min. Santa Cecília de Voltregà. Final del recorregut. 
+ 
+Des de Santa Cecília es pot seguir el PR C-49 (veure ruta De Voltregà a Santa Perpetua pel PR C-49) per anar a Sant Hipòlit de Voltregà (a 4,19 km). Es recomana seguir aquest tram amb un bon plànol amb el track de la ruta superposat. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Del santuario de los Munts a Santa Cecília de Voltregà por el torrente de Sorreigs (PR C-46)&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Desde el santuario Dels Munts, excelente mirador del Lluçanès, Berguedà, el Bages y el Pirineo oriental, se desciende siguiendo el curso del torrente de Sorreigs entre campos de cultivo, bosques y una frondosa vegetación de ribera. Se discurre por un espacio protegido (Espacio de Interés Natural) incluido, desde septiembre de 2006, en la Red Natura 2000 que cuenta con lugares de gran belleza natural como el Gorg Negre, desfiladero entre riscos, fuente de diversas leyendas que lo consideraban de profundidad inescrutable y punto de reunión de brujas. Este es un itinerario catalogado como pequeño recorrido, el PR C-46, pensado para ser hecho a pie, forma de desplazamiento obligada si se hace en subida, pero que, de bajada, también se puede realizar en bicicleta de montaña siempre y cuando, atención, se disponga de un buen nivel.&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El principal problema que hay que prever es la vuelta al punto de salida: sin conexiones de transporte público, al municipio de Sant Agustí de Lluçanès, donde comienza la ruta, sólo se puede acceder en coche habiendo dejado otro en Santa Cecília de Voltregà. Otra opción es completar la vuelta volviendo a Els Munts por alguno de los numerosos itinerarios que recorren el Voltreganès, por ejemplo subiendo a Sant Martí Xic (sobre Sant Hipòlit) por el GR-3, que conecta con el PR C-46 en las granjas de Angelats (20 km y 600 m de desnivel positivo). 
+Como el recorrido sigue muy de cerca el arroyo es un terreno donde la vegetación crece muy rápido y, a veces, puede dificultar el paso en algunos tramos especialmente densos. La mayor parte del recorrido está, sin embargo, en muy buen estado y siempre señalizado con marcas amarillas y blancas. 
+ 
+Para llegar al punto de salida, el santuario de la Mare de Déu dels Munts, hay que coger la pista asfaltada que sube desde el Hostal del Vilar, punto de unión de las carreteras BP-4653, BV-4341 y BV-4608. Para llegar desde Vic se toma la carretera C-17 en dirección norte hasta Sant Quirze de Besora, donde se toma hacia poniente la BP-4654 para girar a la izquierda (al sur), el collado de Sant Agustí, por la BP-4653 hasta el mencionado hostal. 
+ 
+0 km (1.057 m). Mare de Déu dels Munts. Atalaya inmejorable de Osona y los Pirineos, desde aquí se ve desde el Puigmal al Pedraforca. Se bajan 300 metros por la pista hasta un cruce donde comienza el PR C-46: hay que tomar la pista de tierra hacia la izquierda (S) hasta un collado (km 0,73, 1.025 m, 15 min) donde se dejan las marcas rojas y blancas del GR-3 y donde comienza propiamente el descenso, que acumulará 760 m de desnivel de bajada. La pista lleva en rápida bajada a la BV-4609, que se sigue por la izquierda (E) pero sólo 270 m hasta encontrar un desvío: se gira en redondo a la derecha (NO) por una pista que lleva al torrente ya un terreno casi plano, donde se circula muy lentamente cerca del agua por un terreno blando y lleno de vegetación. Se recomienda ir con las piernas protegidas por las ortigas y zarzas que se encuentran. 
+ 
+4,10 km (783 m), 1 h. Molino de Perenoguera. Siguiendo las señales del PR C-46, por senderos y pistas se recorren diversos lugares del torrente como el Gorg de la Vaca, el molino de Perenoguera (el cual se pasa muy cerca), la fuente de la Prada, las Fosses, el Puig, el molino del Aumetell... 
+ 
+11,36 km (676 m), 2 h 45 min. Meandro. Se llega a un ensanchamiento rocoso del lecho del torrente que da paso a un meandro. Hay que evitarlo girando a la izquierda y subiendo un zigzag para volver al torrente y seguir hasta el molino de Guiteres. Poco después se cruza por enésima vez el arroyo y se ahorra otro meandro similar con el salto de Guiteres haciendo una pequeña subida. 
+ 
+13,37 km (643 m), 3 h 15 min. Mas Miolet y embalse. El sendero se encuentra de nuevo con una pista justo donde el arroyo desemboca en un pequeño embalse al lado del mas Miolet. Se sigue la pista bajando hacia el NE y, más adelante, se encuentra un desvío señalizado (km 14,41, 628 m, 3 h 30 min) que lleva al Gorg Negre, sin duda el lugar más espectacular del descenso. Se recomienda pasar por el mirador de la poza bajando y luego subiendo 40 metros de desnivel. 
+ 
+16,05 km (538 m), 4 h. Granjas de Angelats. La pista sigue bajando hacia el fondo del torrente dejando otro desvío a la izquierda que lleva a la parte inferior del Gorg Negre. Al llegar a las granjas de Angelats se cruza el GR-3 y el PR C-49 (el cual, hacia la derecha, en dirección SO, sube a Santa Perpètua y, hacia la izquierda, en dirección NE, al castillo de Voltregà). Hay que seguir bajando, ahora con el arroyo a la derecha. Se pasa Puigví y se hace el tramo final pasando por el molino del Guiu y el mas Riquer. Entre altos árboles se llega al puente de Santa Cecília, donde termina el sendero PR C-46. Por la carretera BV-4602 se continúa hacia la izquierda (NO) y se entra en el pueblo subiendo hacia la iglesia. 
+ 
+19,43 km (519 m), 4 h 50 min. Santa Cecília de Voltregà. Final del recorrido. 
+ 
+Desde Santa Cecília se puede seguir el PR C-49 (ver ruta De Voltregà a Santa Perpètua por el PR C-49) para ir a Sant Hipòlit de Voltregà (a 4,19 km). Se recomienda seguir este tramo con un buen plano con el track de la ruta superpuesto.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Munts’ sanctuary to Santa Cecília de Voltregà along the Sorreigs watercourse (PR C-46)&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;From the Santuari dels Munts, an excellent vantage point over the Lluçanès, Berguedà and Bages regions and the eastern Pyrenees, you descend the route of the Sorreigs watercourse through crop fields, woods and abundant riverside vegetation. It winds through a protected area (an Area of Natural Interest) included, since September 2006, in the Natura 2000 Network, which possesses areas of great natural beauty such as the Gorg Negre, a ravine plunging between cliffs, the source of different legends that considered it to be of incalculable depth and a meeting point for witches. This is an itinerary classified as a short-distance route. The PR C-46 is designed to be covered on foot, the obligatory form of movement if you are climbing. If you are descending, you can also go on mountain bike, but only, do take note, if you are fit.&lt;/i&gt; 
+Marked trail. This itinerary is also ideal for mountain bike.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/12/2013&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.078762" lon="2.153297">
+        <ele>1057.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.078578" lon="2.152696">
+        <ele>1056.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.078592" lon="2.149111">
+        <ele>1030.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.078430" lon="2.149089">
+        <ele>1027.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.077998" lon="2.148527">
+        <ele>1018.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.077316" lon="2.148742">
+        <ele>1007.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.076770" lon="2.148622">
+        <ele>1007.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.076167" lon="2.148733">
+        <ele>1013.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.076454" lon="2.147846">
+        <ele>1025.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.075786" lon="2.147136">
+        <ele>1009.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.074674" lon="2.145101">
+        <ele>980.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.073568" lon="2.144137">
+        <ele>969.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.073090" lon="2.143944">
+        <ele>961.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.072749" lon="2.144105">
+        <ele>957.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.072499" lon="2.143893">
+        <ele>956.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.072042" lon="2.143822">
+        <ele>949.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.071571" lon="2.140157">
+        <ele>912.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.071549" lon="2.138812">
+        <ele>896.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.071182" lon="2.138791">
+        <ele>891.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.070038" lon="2.139864">
+        <ele>884.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.069762" lon="2.139710">
+        <ele>876.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.070000" lon="2.137810">
+        <ele>859.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.070400" lon="2.136644">
+        <ele>854.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.070374" lon="2.136173">
+        <ele>849.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.070217" lon="2.136038">
+        <ele>845.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.069869" lon="2.136132">
+        <ele>839.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.069029" lon="2.135798">
+        <ele>828.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.068130" lon="2.136411">
+        <ele>823.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.067439" lon="2.136352">
+        <ele>821.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.066930" lon="2.136830">
+        <ele>820.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.067312" lon="2.136221">
+        <ele>816.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.067684" lon="2.135980">
+        <ele>813.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.067110" lon="2.135093">
+        <ele>816.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.066601" lon="2.134967">
+        <ele>814.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.065796" lon="2.135746">
+        <ele>806.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.065591" lon="2.135489">
+        <ele>805.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.065438" lon="2.134874">
+        <ele>804.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.065030" lon="2.134535">
+        <ele>801.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.064697" lon="2.133893">
+        <ele>798.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.064416" lon="2.133637">
+        <ele>799.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.063807" lon="2.133543">
+        <ele>797.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.063382" lon="2.133851">
+        <ele>795.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.063062" lon="2.133905">
+        <ele>795.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.062075" lon="2.135637">
+        <ele>792.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.061199" lon="2.136531">
+        <ele>784.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.060307" lon="2.136603">
+        <ele>785.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.060169" lon="2.137180">
+        <ele>782.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.059263" lon="2.138432">
+        <ele>778.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.058706" lon="2.138746">
+        <ele>775.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.058510" lon="2.138410">
+        <ele>776.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.058321" lon="2.138376">
+        <ele>777.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.057980" lon="2.138677">
+        <ele>775.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.057590" lon="2.139438">
+        <ele>778.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.056954" lon="2.140014">
+        <ele>776.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.056765" lon="2.141153">
+        <ele>768.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.056462" lon="2.141713">
+        <ele>765.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.055803" lon="2.142017">
+        <ele>765.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.055155" lon="2.142788">
+        <ele>764.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.054505" lon="2.143056">
+        <ele>761.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.053531" lon="2.144701">
+        <ele>759.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.053008" lon="2.144746">
+        <ele>756.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.052195" lon="2.145765">
+        <ele>754.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.051850" lon="2.147009">
+        <ele>752.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.050646" lon="2.148607">
+        <ele>748.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.049617" lon="2.148845">
+        <ele>748.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.049215" lon="2.149400">
+        <ele>751.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.049134" lon="2.149879">
+        <ele>744.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.046547" lon="2.151611">
+        <ele>752.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.045456" lon="2.151510">
+        <ele>751.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.045202" lon="2.153121">
+        <ele>740.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.044244" lon="2.151986">
+        <ele>743.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.042456" lon="2.150456">
+        <ele>745.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.041060" lon="2.148650">
+        <ele>743.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.040798" lon="2.148521">
+        <ele>742.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038250" lon="2.148555">
+        <ele>731.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.035487" lon="2.148785">
+        <ele>726.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.034274" lon="2.147817">
+        <ele>739.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.033598" lon="2.147783">
+        <ele>734.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.031929" lon="2.148555">
+        <ele>727.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030625" lon="2.148835">
+        <ele>727.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030253" lon="2.149060">
+        <ele>726.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.029719" lon="2.148681">
+        <ele>727.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028930" lon="2.148510">
+        <ele>727.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028237" lon="2.148568">
+        <ele>724.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027484" lon="2.149119">
+        <ele>727.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027154" lon="2.148244">
+        <ele>727.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026723" lon="2.147784">
+        <ele>726.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.025941" lon="2.147982">
+        <ele>729.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.025238" lon="2.147303">
+        <ele>729.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023854" lon="2.146500">
+        <ele>724.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023437" lon="2.146693">
+        <ele>721.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023308" lon="2.147157">
+        <ele>723.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023432" lon="2.148305">
+        <ele>727.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.022902" lon="2.149134">
+        <ele>715.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.022304" lon="2.149305">
+        <ele>709.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.022103" lon="2.148945">
+        <ele>707.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.021592" lon="2.149248">
+        <ele>703.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020956" lon="2.149087">
+        <ele>700.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020459" lon="2.149150">
+        <ele>697.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020366" lon="2.149296">
+        <ele>699.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.019856" lon="2.149206">
+        <ele>700.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.019292" lon="2.149619">
+        <ele>700.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018354" lon="2.150585">
+        <ele>699.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018319" lon="2.150803">
+        <ele>700.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018534" lon="2.151217">
+        <ele>706.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018460" lon="2.151562">
+        <ele>705.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017658" lon="2.152684">
+        <ele>702.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017085" lon="2.153230">
+        <ele>697.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015871" lon="2.153336">
+        <ele>703.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015017" lon="2.153577">
+        <ele>696.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.014723" lon="2.154076">
+        <ele>694.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.014290" lon="2.155743">
+        <ele>693.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013626" lon="2.156048">
+        <ele>691.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013398" lon="2.156340">
+        <ele>691.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013296" lon="2.157103">
+        <ele>692.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013451" lon="2.158557">
+        <ele>694.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013258" lon="2.159248">
+        <ele>695.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012654" lon="2.159860">
+        <ele>684.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012596" lon="2.160519">
+        <ele>681.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012707" lon="2.160910">
+        <ele>678.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013405" lon="2.161565">
+        <ele>682.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013699" lon="2.162329">
+        <ele>675.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013361" lon="2.162345">
+        <ele>679.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013070" lon="2.161866">
+        <ele>683.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013020" lon="2.162452">
+        <ele>688.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012697" lon="2.162638">
+        <ele>690.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012363" lon="2.162467">
+        <ele>692.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011745" lon="2.163012">
+        <ele>689.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011785" lon="2.163501">
+        <ele>681.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.010625" lon="2.165026">
+        <ele>665.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.010530" lon="2.165500">
+        <ele>666.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.010697" lon="2.166282">
+        <ele>667.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011940" lon="2.167497">
+        <ele>678.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011712" lon="2.168406">
+        <ele>682.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011233" lon="2.168714">
+        <ele>680.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009593" lon="2.169152">
+        <ele>671.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008707" lon="2.169291">
+        <ele>665.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008551" lon="2.168918">
+        <ele>662.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008318" lon="2.169127">
+        <ele>662.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008316" lon="2.169416">
+        <ele>661.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008493" lon="2.169674">
+        <ele>660.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009087" lon="2.170173">
+        <ele>659.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009728" lon="2.170401">
+        <ele>662.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009804" lon="2.170996">
+        <ele>662.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009609" lon="2.171344">
+        <ele>646.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009481" lon="2.171116">
+        <ele>649.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.009330" lon="2.171450">
+        <ele>643.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008740" lon="2.171451">
+        <ele>643.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007672" lon="2.171913">
+        <ele>638.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007328" lon="2.172249">
+        <ele>637.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007268" lon="2.172846">
+        <ele>638.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007609" lon="2.173816">
+        <ele>640.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007826" lon="2.175099">
+        <ele>645.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006974" lon="2.175612">
+        <ele>644.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006869" lon="2.176036">
+        <ele>638.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006489" lon="2.176499">
+        <ele>637.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006449" lon="2.177146">
+        <ele>639.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005956" lon="2.177418">
+        <ele>637.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005605" lon="2.178153">
+        <ele>636.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005555" lon="2.178704">
+        <ele>638.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005830" lon="2.179419">
+        <ele>641.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007406" lon="2.180588">
+        <ele>644.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007869" lon="2.181132">
+        <ele>637.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007949" lon="2.181638">
+        <ele>631.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007539" lon="2.182283">
+        <ele>627.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008059" lon="2.181896">
+        <ele>608.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008204" lon="2.181997">
+        <ele>595.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.008059" lon="2.181896">
+        <ele>608.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007593" lon="2.182295">
+        <ele>625.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007026" lon="2.182326">
+        <ele>625.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.007049" lon="2.183576">
+        <ele>636.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006733" lon="2.184087">
+        <ele>627.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006764" lon="2.185397">
+        <ele>613.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006485" lon="2.186035">
+        <ele>610.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006647" lon="2.186673">
+        <ele>604.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006956" lon="2.187043">
+        <ele>594.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006729" lon="2.187378">
+        <ele>588.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005832" lon="2.187918">
+        <ele>571.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004757" lon="2.190698">
+        <ele>549.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004746" lon="2.191151">
+        <ele>549.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005093" lon="2.191720">
+        <ele>549.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005333" lon="2.192586">
+        <ele>548.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005312" lon="2.194084">
+        <ele>551.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004013" lon="2.195749">
+        <ele>540.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003908" lon="2.196246">
+        <ele>537.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003306" lon="2.196410">
+        <ele>543.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002314" lon="2.197600">
+        <ele>541.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002276" lon="2.198018">
+        <ele>539.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002588" lon="2.198853">
+        <ele>537.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002585" lon="2.200339">
+        <ele>534.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002321" lon="2.201261">
+        <ele>540.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002437" lon="2.201700">
+        <ele>541.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.001620" lon="2.202797">
+        <ele>534.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.001440" lon="2.204714">
+        <ele>535.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.000816" lon="2.205694">
+        <ele>530.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.999564" lon="2.206946">
+        <ele>527.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.998955" lon="2.208119">
+        <ele>524.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.998944" lon="2.208487">
+        <ele>522.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.998741" lon="2.208520">
+        <ele>522.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.997281" lon="2.209703">
+        <ele>520.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.996794" lon="2.210905">
+        <ele>526.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.995963" lon="2.211683">
+        <ele>522.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.993964" lon="2.214127">
+        <ele>514.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.993748" lon="2.214848">
+        <ele>512.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.994165" lon="2.216479">
+        <ele>509.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.993712" lon="2.217499">
+        <ele>509.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.992387" lon="2.218638">
+        <ele>504.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991686" lon="2.218997">
+        <ele>501.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991298" lon="2.219485">
+        <ele>502.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991145" lon="2.220247">
+        <ele>501.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991276" lon="2.222256">
+        <ele>499.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991024" lon="2.223629">
+        <ele>497.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991150" lon="2.224274">
+        <ele>501.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991515" lon="2.223026">
+        <ele>505.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.992621" lon="2.222644">
+        <ele>513.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.992856" lon="2.222056">
+        <ele>518.7</ele>
+        <time>2013-12-31T02:51:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

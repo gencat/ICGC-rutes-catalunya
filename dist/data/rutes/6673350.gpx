@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.922453" lon="2.325494">
+    <ele>596.5</ele>
+    <time>2014-04-25T19:10:57Z</time>
+    <name>Sant Julià de Vilatorta</name>
+    <desc>Sant Julià de Vilatorta</desc>
+  </wpt>
+  <wpt lat="41.921369" lon="2.320344">
+    <ele>595.0</ele>
+    <time>2014-04-25T19:10:59Z</time>
+    <name>GR 2</name>
+    <desc>GR 2</desc>
+  </wpt>
+  <wpt lat="41.915036" lon="2.320609">
+    <ele>627.9</ele>
+    <time>2014-04-25T19:11:00Z</time>
+    <name>GR 2</name>
+    <desc>GR 2</desc>
+  </wpt>
+  <wpt lat="41.885218" lon="2.326933">
+    <ele>744.0</ele>
+    <time>2014-04-25T19:11:02Z</time>
+    <name>Puig l'Agulla</name>
+    <desc>Puig l'Agulla</desc>
+  </wpt>
+  <wpt lat="41.863516" lon="2.368860">
+    <ele>772.4</ele>
+    <time>2014-04-25T19:11:03Z</time>
+    <name>Coll de Cirers</name>
+    <desc>Coll de Cirers</desc>
+  </wpt>
+  <wpt lat="41.847688" lon="2.390159">
+    <ele>822.0</ele>
+    <time>2014-04-25T19:11:05Z</time>
+    <name>Viladrau</name>
+    <desc>Viladrau</desc>
+  </wpt>
+  <wpt lat="41.858441" lon="2.369044">
+    <ele>873.6</ele>
+    <time>2014-04-25T19:11:06Z</time>
+    <name>Can Batllic</name>
+    <desc>Can Batllic</desc>
+  </wpt>
+  <wpt lat="41.920402" lon="2.321936">
+    <ele>625.1</ele>
+    <time>2014-04-25T19:11:08Z</time>
+    <name>El Castell</name>
+    <desc>El Castell</desc>
+  </wpt>
+  <wpt lat="41.849480" lon="2.383790">
+    <ele>835.5</ele>
+    <time>2014-04-25T19:11:09Z</time>
+    <name>Centre Cultural de la Natura</name>
+    <desc>Centre Cultural de la Natura</desc>
+  </wpt>
+  <wpt lat="41.877197" lon="2.359750">
+    <ele>604.1</ele>
+    <time>2014-04-25T19:11:11Z</time>
+    <name>Puig de Fàbregues</name>
+    <desc>Puig de Fàbregues</desc>
+  </wpt>
+  <trk>
+    <name>El Meridià Verd. 7 Sant Julià de Vilatorta-Viladrau</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;El Meridià Verd. 7 Sant Julià de Vilatorta-Viladrau&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;Setena etapa del Meridià Verd, ruta de llarg recorregut preparada arran de la celebració del 200 aniversari del Sistema Mètric Decimal, la unitat base del qual, el metre, es va obtenir a partir de l'amidament de la distància entre Dunkerque i Barcelona. El recorregut es distribueix en 11 etapes que sumen prop de 180 km de longitud i un desnivell acumulat en pujada d'uns 4.450 m. 
+ 
+El recorregut d'aquesta etapa s'endinsa per l'extrem occidental de les Guilleries i s'apropa al vessant septentrional del Montseny, on destaca l'enorme mola arrodonida del Matagalls (1.697 m) i els seus boscos de castanyers, roures i faigs. El paisatge, sempre boscós, reflecteix el canvi de sòl, d'altitud i de clima: els relleus granítics, amb terra de sauló (sorra) substitueixen els gresos i margues característics de la plana de Vic. Viladrau ha estat des de finals del segle XIX una vila d'estiueig. La bellesa dels seus entorns ha estat tradicionalment font d'inspiració literària i pictòrica. 
+L'horari calculat per fer aquesta etapa en BTT és de 2 h. 
+ 
+&lt;b&gt;Nota important:&lt;/b&gt; 
+El recorregut d'aquesta etapa pot ser seguit íntegrament en BTT. No obstant, l'etapa següent entre Viladrau i Collformic no és gens adequada per a la bicicleta. Per aquest motiu s'ha ressenyat un recorregut específic de BTT entre Sant Julià de Vilatorta i Collformic que té el punt de divergència amb l'itinerari a peu al nord de Puig-l'agulla. És l'etapa 7a i equival a les etapes a peu 7 i 8. En cas que es vulgui arribar a Viladrau en BTT, caldrà recular 6,6 km per la carretera GI-520 en direcció a Seva i, allà, enllaçar amb la pista de Sobrevia utilitzada per la variant en BTT.&lt;/i&gt; 
+Ruta senyalitzada. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se surt de Sant Julià de Vilatorta, població d'Osona situada a l'E de Vic i de l'Eix Transversal (C-25), amb els quals es comunica per la carretera BV-5201. 
+ 
+0,00 km (597 m). Plaça del Marquès de la Quadra de Sant Julià de Vilatorta. Se surt en direcció O deixant l'Ajuntament a mà dreta (N). Es va a parar al carrer del Pont, que s'agafa a l'esquerra (S), es passa la plaça Major i, sempre cap al S, se surt al carrer de Jesús. Es gira a la dreta (O) fins al carrer Montseny, on es torça de nou a l'esquerra (S) fins a la plaça Montseny. Des d'allà, cap a la dreta (O), s'agafa la carretera de Vilalleons (BV-5202) creuant la carretera BV-5201 o de Sant Hilari. Es voreja el parc de les Set Fonts, que queda a la dreta (N), mentre que a l'esquerra (S) s'eleva el turó on hi ha les restes del castell o Casal de Bellpuig. 
+ 
+0,58 km (588 m). Es torça a l'esquerra pel camí que s'enfila al puig tot deixant la carretera i seguint els senyals blancs i vermells del sender GR 2, que s'acompanyarà fins passat Puig-l'agulla. Es remunta cap al castell en direcció SE (s'hauran de pujar graons i dur la bicicleta al costat durant uns 100 m; si no es vol baixar de la bicicleta, es pot continuar carretera enllà durant 1,30 km i agafar una pista a l'esquerra que remunta cap a l'E/NE, passa pel costat del mas de la Boscana i va a sortir a la pista de la carena en el punt km 1,20). 
+ 
+0,80 km (628 m). El castell o Casal de Bellpuig. En resten dos murs. Bona panoràmica sobre Sant Julià de Vilatorta. S'agafa la pista que es dirigeix al S seguint la carena, que no es deixarà fins passat Puig-l'agulla. 
+ 
+1,20 km (620 m). Per la dreta desemboca la pista per on es podia pujar en bicicleta des de la carretera de Vilalleons. Es continua recte, cap al S, i es passa pel costat del mas de la Carena. 
+ 
+2,19 km (648 m). Es deixa una desviació a la dreta i es continua recte cap al S. Es passa el mas de la Riera, que queda a l'esquerra (E), i es travessa l'eix transversal, carretera C-25, per sobre d'un túnel (km 2,41, 645 m). Es continua carenejant cap al S. Al km 2,91 es deixa a la dreta un trencall que duu al mas del Mesquí. La pista es va estrenyent i esdevé un camí. Es va seguint la carena, sempre cap al S. 
+ 
+4,40 km (703 m). Es creua la pista de can Costa i la Sala, masies que queden a la dreta del recorregut (O). El camí, en alguns llocs en mal estat degut a l'erosió, torça cap al SE decantant-se pel flanc E de la carena. Hi ha algunes rampes fortes. Al km 5,37 el camí gira a la dreta (O, després NO) i, planejant i després en baixada, arriba al santuari de Puig-l'agulla. 
+ 
+5,85 km (742 m). Santuari de la Mare de Déu de Puig-l'agulla. Restaurant, font. Es volta el temple pel davant, es deixa la pista d'accés a la dreta i es continua pel camí que s'endinsa al bosc. Es desemboca a una pista que es comunica amb l'accés al santuari més avall, a la dreta (NO). Es gira a l'esquerra (SE) i es remunta suaument la pista fins a la carena, on es gira al S. Es deixa un trencall a l'esquerra en mal estat que baixa en direcció NE. 
+ 
+6,50 km (762 m). D'aquest punt surt una pista a mà esquerra (SE) tancada per un cadenat. S'ha d'agafar. És el lloc on se separa la variant en bicicleta a Collformic descrita en l'etapa 7a Sant Julià de Vilatorta-Collformic. La pista baixa, fa una ziga-zaga, es dirigeix al S i després a l'E. Més avall es desemboca a una cruïlla de pistes (km 7,71, 673 m). Es gira a l'esquerra (N), es desemboca a una altra pista, que se segueix en baixada cap a la dreta (SE) i s'entra a la urbanització les Guilleries. 
+ 
+8,57 km (628 m). Urbanització les Guilleries. Es gira a l'esquerra (NE) i es va baixant en direcció E cap al fons de la vall fent servir la carretera d'accés a la urbanització. 
+ 
+10,04 km (594 m). Carretera BV-5251 entre la Fullaca i Viladrau. Es gira a la dreta i es baixa en direcció S per la carretera. Es passa la riera Major pel pont de Fàbregues. 
+ 
+10,80 km (594 m). Sota la masia de Puigdefàbregues, actualment casa de colònies, es deixa la carretera i es gira a l'esquerra (E) pujant per la pista d'accés al mas, l'edifici principal del qual queda a l'esquerra. Es desemboca a una pista transversal, que s'agafa cap a la dreta (S) fins al km 11,76 (664 m), on es gira 180º al N deixant, en el revolt, un trencall a la dreta (S). Es fa una ziga-zaga i es continua pujant cap al N. 
+ 
+12,50 km (703 m). Cal parar compte: s'ha de deixar la pista i pujar per la dreta (E) per un camí no gaire ample que, en 120 m, duu a la pista superior, ja a la carena (km 12,62, 727 m). Es gira a la dreta (S) i se surt a una bifurcació (km 12,83), on s'agafa el trencall de la dreta (SO) que desemboca a una pista més ampla (km 13,18, 782 m). Es continua recte cap al S. 
+ 
+13,40 km (768 m). Collet i cruïlla de pistes. Es continua recte, cap al S, seguint la pista principal que, més endavant, té trams amb el sòl erosionat. Es deixen trencalls estrets a banda i banda, es descriuen esses i es prossegueix amb contínues pujades i baixades fins que s'arriba a l'ampli coll de Cireres. 
+ 
+14,32 km (772 m). Coll de Cireres. Al sud del coll hi ha una bifurcació (km 14,45, 775 m). Se segueix recte (S) deixant un trencall a la dreta. Es continua avançant cap al S fent ziga-zagues, pujant i baixant i deixant trencalls a dreta (km 14,84, 814 m i 14,98, 828 m, accés a can Batllic) i esquerra (km 15,02, 826 m). Més endavant es travessa una pista (km 15,66, 852 m), es continua cap al S, es deixa un nou trencall a la dreta (km 15,80, 851 m), un altre a la dreta (km 15,87, 847 m) i la pista gira a l'E per, més endavant, fer-ho de nou al S/SE (km 16,80, 839 m). Seguint la pista principal en aquesta direcció, finalment, s'entra a la perifèria de Viladrau. 
+ 
+17,38 km (819 m). Passeig de les Farigoles-plaça Marià Manent. Es pot seguir recte, o si es desitja, baixar pel carrer Jaume Bofill a la dreta i, girant de nou a la dreta, fer cap al Centre Cultural Europeu de la Natura, punt d'informació de Viladrau. Pel camí que es vulgui, cal anar a raure a la plaça Major de Viladrau, al costat de l'església i de l'Ajuntament. 
+ 
+18,10 km (822 m). Plaça Major de Viladrau, fi de l'etapa. A Viladrau hi ha tota mena de serveis, comerços i allotjaments: hotels, fondes, casa de colònies i residències de cases de pagès. &lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+ 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;El Meridiano Verde. 7. Sant Julià de Vilatorta-Viladrau&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;Séptima etapa del Meridiano Verde, ruta de largo recorrido creada con motivo de la celebración del bicentenario del sistema métrico decimal, cuya unidad base, el metro, se obtuvo a partir de la medición de la distancia entre Dunkerque y Barcelona. El recorrido se distribuye en once etapas que suman cerca de 180 km de longitud y un desnivel acumulado en ascensión de unos 4.450 m. 
+ 
+El recorrido de esta etapa se adentra por el extremo occidental de Les Guilleries y se acerca a la vertiente septentrional del Montseny, donde destaca la enorme montaña redondeada del Matagalls (1.697 m) y sus bosques de castaños, robles y hayas. El paisaje, siempre boscoso, refleja el cambio de suelo, de altitud y de clima: los relieves graníticos, con suelo de sablón (arena) sustituyen las areniscas y margas características de la plana de Vic. Desde finales del siglo XIX Viladrau ha sido una villa de veraneo. La belleza de su entorno tradicionalmente ha sido fuente de inspiración literaria y pictórica. 
+El tiempo calculado para esta etapa en BTT es de 2 h. 
+ 
+&lt;b&gt;Nota importante:&lt;/b&gt; 
+El recorrido de esta etapa puede seguirse íntegramente en BTT. Sin embargo, la etapa siguiente entre Viladrau y Collformic no es nada adecuada para la bicicleta. Por este motivo se ha reseñado un recorrido específico de BTT entre Sant Julià de Vilatorta y Collformic que tiene el punto de divergencia con el itinerario a pie al norte de Puig-l'agulla. Es la etapa 7a y equivale a las etapas a pie 7 y 8. En caso de que se quiera llegar a Viladrau en BTT, será necesario retroceder 6,6 km por la carretera GI-520 en dirección a Seva y enlazar allí con la pista de Sobrevia utilizada por la variante en BTT.&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+ 
+&lt;p&gt; Se sale de Sant Julià de Vilatorta, población de Osona situada al E de Vic y del Eje Transversal (C-25), con los que se comunica por la carretera BV-5201. 
+ 
+0,00 km (597 m). Plaza del Marquès de la Quadra de Sant Juliá de Vilatorta. Se sale en dirección O dejando el Ayuntamiento a mano derecha (N). Se va a parar a la calle del Pont, que se toma a la izquierda (S), se pasa la plaza Major y, siempre hacia el S, se sale a la calle de Jesús. Se gira a la derecha (O) hasta la calle Montseny, donde se tuerce de nuevo a la izquierda (S) hasta la plaza Montseny. Desde allí, hacia la derecha (O), se coge la carretera de Vilalleons (BV-5202) cruzando la carretera BV-5201 o de Sant Hilari. Se bordea el parque de las Set Fonts, que queda a la derecha (N), mientras que a la izquierda (S) se eleva el cerro donde están los restos del castillo o Casal de Bellpuig. 
+ 
+0,58 km (588 m). Se tuerce a la izquierda por el camino que sube al monte dejando la carretera y siguiendo las señales blancas y rojas del sendero GR 2, que se acompañará hasta pasado Puig-agulla. Se remonta hacia el castillo en dirección SE (se deberá subir escalones y llevar la bicicleta al lado durante unos 100 metros; si no se quiere bajar de la bicicleta, se puede continuar por la carretera durante 1,30 km y tomar una pista a la izquierda que remonta hacia el E / NE, pasa junto al Mas de la Boscana y va a salir a la pista de la cresta en el punto km 1,20). 
+ 
+0,80 km (628 m). El Castell, o Casal de Bellpuig. Quedan dos muros. Buena panorámica sobre Sant Julià de Vilatorta. Se coge la pista que se dirige al S siguiendo la cresta, que no se dejará hasta pasado Puig-l'agulla. 
+ 
+1,20 km (620 m). Por la derecha desemboca la pista por donde se podía subir en bicicleta desde la carretera de Vilalleons. Se sigue recto, hacia el S, y se pasa junto al Mas de la Carena. 
+ 
+2,19 km (648 m). Se deja un desvío a la derecha y se sigue recto hacia el S. Se pasa el Mas de la Riera, que queda a la izquierda (E), y se atraviesa el Eje transversal, carretera C-25, por encima de un túnel (km 2,41, 645 m). Se continúa la cresta hacia el S. En el km 2,91 se deja a la derecha un desvío que lleva al Mas del Mesquí. La pista se va estrechando y se convierte en un camino. Se va siguiendo la cresta, siempre hacia el S. 
+ 
+4,40 km (703 m). Se cruza la pista de Can Costa y la Sala, masías que quedan a la derecha del recorrido (O). El camino, en algunos lugares en mal estado debido a la erosión, tuerce hacia el SE decantándose por el flanco E de la cresta. Hay algunas rampas fuertes. En el km 5,37 el camino gira a la derecha (O, después NO) y, llaneando y luego en bajada, llega al santuario de Puig-l'agulla. 
+ 
+5,85 km (742 m). Santuario de la Virgen de Puig-l'agulla. Restaurante, fuente. Se da la vuelta al templo por delante, se deja la pista de acceso a la derecha y se continúa por el camino que se adentra en el bosque. Se desemboca en una pista que se comunica con el acceso al santuario más abajo, a la derecha (NO). Se gira a la izquierda (SE) y se remonta suavemente la pista hasta la cresta, donde se gira el S. Se deja un desvío a la izquierda en mal estado que baja en dirección NE. 
+ 
+6,50 km (762 m). De este punto sale una pista a mano izquierda (SE) cerrada por un candado. Hay que tomarla. Es el lugar donde se separa la variante en bicicleta directa a Collformic, descrita en la etapa 7a Sant Julià de Vilatorta-Collformic. La pista baja, hace un zigzag, se dirige al S y después al E. Más abajo se desemboca en un cruce de pistas (km 7,71, 673 m). Se gira a la izquierda (N), se desemboca en otra pista, que se sigue en bajada hacia la derecha (SE) y se entra en la urbanización Les Guilleries. 
+ 
+8,57 km (628 m). Urbanización Les Guilleries. Se gira a la izquierda (NE) y se va bajando en dirección E hacia el fondo del valle utilizando la carretera de acceso a la urbanización. 
+ 
+10,04 km (594 m). Carretera BV-5251 entre la Fullaca y Viladrau. Se gira a la derecha y se baja en dirección S por la carretera. Se pasa el torrente Major por el puente de Fàbregues. 
+ 
+10,80 km (594 m). Bajo la masía de Puigdefàbregues, actualmente casa de colonias, se deja la carretera y se gira a la izquierda (E) subiendo por la pista de acceso a la masía; el edificio principal queda a la izquierda. Se desemboca en una pista transversal, que se toma hacia la derecha (S) hasta el km 11,76 (664 m), donde se gira 180º el N dejando, en la curva, un desvío a la derecha (S). Se hace un zigzag y se continúa subiendo hacia el N. 
+ 
+12,50 km (703 m). Hay que tener cuidado: es necesario dejar la pista y subir por la derecha (E) por un camino no muy ancho que, en 120 m, lleva a la pista superior, ya a la cresta (km 12,62, 727 m) . Se gira a la derecha (S) y se sale a una bifurcación (km 12,83), donde se toma el desvío de la derecha (SO) que desemboca en una pista más ancha (km 13,18, 782 m). Se sigue recto hacia el S. 
+ 
+13,40 km (768 m). Collado y cruce de pistas. Se sigue recto, hacia el S, siguiendo la pista principal que, más adelante, tiene tramos con el suelo erosionado. Se dejan desvíos estrechos a ambos lados, se describen eses y se prosigue con continuas subidas y bajadas hasta que se llega al amplio cuello de Cireres. 
+ 
+14,32 km (772 m). Collado de Cireres. Al sur del cuello hay una bifurcación (km 14,45, 775 m). Se sigue recto (S) dejando un desvío a la derecha. Se continúa avanzando hacia el S en zigzag, subiendo y bajando y dejando desvíos a derecha (km 14,84, 814 m, y 14,98, 828 m, acceso a Can Batllic) e izquierda (km 15,02, 826 m) . Más adelante se cruza una pista (km 15,66, 852 m), se continúa hacia el S, se deja un nuevo desvío a la derecha (km 15,80, 851 m), otro a la derecha (km 15,87, 847 m) y la pista gira al E para, más adelante, hacerlo de nuevo al S / SE (km 16,80, 839 m). Siguiendo la pista principal en esta dirección, por último, se entra en la periferia de Viladrau. 
+ 
+17,38 km (819 m). Paseo de Les Farigoles-plaza Marià Manent. Se puede seguir recto, o si se desea, bajar por la calle Jaume Bofill hacia la derecha y, girando de nuevo a la derecha, llegarse al Centro Cultural Europeo de la Naturaleza, punto de información de Viladrau. Por el camino que se quiera, hay que ir a parar a la plaza Major de Viladrau, junto a la iglesia y del Ayuntamiento. 
+ 
+18,10 km (822 m). Plaza Major de Viladrau, fin de la etapa. En Viladrau hay todo tipo de servicios, comercios y alojamientos: hoteles, fondas, casa de colonias y residencias de casas de campo. &lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;Green Meridian. 7 Sant Julià de Vilatorta-Viladrau&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;This is stage 7 of the Green Meridian, a long route designed for the European commemoration of the 200th anniversary of the decimal metric system, the base unit of which -he metre- has obtained by measuring the distance between Dunkirk, Paris and Barcelona. Completed in 2003, the Catalan project is divided into 11 stages totalling 179.41 km in length. The cumulative difference in altitude in ascent is 4,410 m (on foot, without taking any mountain bike variants into account). The route has its own signposting and tries to keep as close as possible to the line of that meridian (it currently corresponds to longitude 2°20'14'' E). While the starting point for the original route is in La Preste (Vallespir, France), this version of it starts at Fonda pass, to the south of Costabona mountain. It therefore links the Pyrenees to the beaches of Maresme county via a very well conserved corridor, with a succession of landscapes of great natural interest. These include Alpine meadows and forests, humid and Mediterranean mountain landscapes, and pre-coastal and coastal plain landscapes. It is an extraordinary route through natural, rural and built-up environments of unique beauty. It is dotted with villages, hamlets, farmhouses, churches, hermitages, castles and towers, and culminates in the legendary capital of the Western Mediterranean: Barcelona. 
+The route is described from north to south for both options: on foot and by mountain bike. When the mountain bike route differs from the walking route, specific mention will be made of that and additional information will be given at the bottom of the description. Accommodation, reception and restaurant services are available along each stage. Although they are minimal, they will allow you to do the route comfortably, in accordance with your needs. 
+The route of this stage goes into the far westerly end of Les Guilleries mountain system and approaches the northern side of the Montseny mountain range, where the huge rounded summit (1,697 m) of Matagalls mountain and its chestnut, oak and beech forests stand out. The landscape, always wooded, reflects the changes in soil, altitude and climate: the granite reliefs, with sand, replace the characteristic sandstone and marl of Vic plain. Since the 19th century, the village of Viladrau has been a summer resort. The beauty of its surroundings has traditionally been a source of literary and pictorial inspiration. 
+The estimated time that this stage takes by mountain bike is two hours. 
+ 
+&lt;b&gt;Important note&lt;/b&gt; 
+This stage can be done completely by mountain bike. However, the following stage from Viladrau to Collformic is not very suitable for mountain bikes. For this reason, a specific mountain bike route from Sant Julià de Vilatorta to Collformic has been detailed, whose point of divergence from the walking route is to the north of Puig-l'agulla mountain. It is stage 7a and equates to stages 7 and 8 on foot. If you want to get to Viladrau by mountain bike, you will need to go back 6.6 km along the GI-520 highway towards Seva and, once there, link up with the Sobrevia trail, which is used for the mountain bike variant.&lt;/i&gt; 
+Marked trail. This itinerary is also ideal for mountain bike.&lt;/p&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.922443" lon="2.325445">
+        <ele>594.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.922490" lon="2.325088">
+        <ele>594.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.922095" lon="2.325147">
+        <ele>596.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921777" lon="2.324947">
+        <ele>596.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921827" lon="2.324295">
+        <ele>594.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921142" lon="2.324206">
+        <ele>593.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921006" lon="2.323966">
+        <ele>591.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920985" lon="2.322737">
+        <ele>586.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921524" lon="2.320301">
+        <ele>589.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921412" lon="2.320260">
+        <ele>593.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921201" lon="2.320509">
+        <ele>599.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920646" lon="2.321685">
+        <ele>614.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920541" lon="2.321523">
+        <ele>622.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920353" lon="2.321700">
+        <ele>627.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920262" lon="2.321502">
+        <ele>628.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.919712" lon="2.321363">
+        <ele>625.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.919503" lon="2.321148">
+        <ele>625.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.918774" lon="2.321192">
+        <ele>622.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.917692" lon="2.320402">
+        <ele>621.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.916726" lon="2.319930">
+        <ele>618.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.915113" lon="2.320628">
+        <ele>627.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.914183" lon="2.321627">
+        <ele>635.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.913607" lon="2.321814">
+        <ele>637.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.912833" lon="2.321834">
+        <ele>640.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.912526" lon="2.321680">
+        <ele>639.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.911338" lon="2.321880">
+        <ele>641.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.908632" lon="2.320998">
+        <ele>648.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.907568" lon="2.321522">
+        <ele>644.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.906479" lon="2.321708">
+        <ele>647.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.906082" lon="2.321501">
+        <ele>648.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.905520" lon="2.321664">
+        <ele>651.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.905222" lon="2.321505">
+        <ele>656.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.903697" lon="2.322521">
+        <ele>669.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.903148" lon="2.322696">
+        <ele>676.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.900551" lon="2.322097">
+        <ele>682.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.898939" lon="2.322856">
+        <ele>688.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.898106" lon="2.322889">
+        <ele>686.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.897011" lon="2.323497">
+        <ele>686.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.896287" lon="2.323625">
+        <ele>691.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.896113" lon="2.323946">
+        <ele>691.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.895028" lon="2.324699">
+        <ele>699.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.894659" lon="2.324721">
+        <ele>702.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.894475" lon="2.325543">
+        <ele>707.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.893865" lon="2.326073">
+        <ele>710.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.892539" lon="2.326473">
+        <ele>709.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.890850" lon="2.326358">
+        <ele>703.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.889767" lon="2.327412">
+        <ele>702.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.889532" lon="2.328096">
+        <ele>705.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.888831" lon="2.329188">
+        <ele>716.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.887019" lon="2.330340">
+        <ele>741.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.886416" lon="2.330472">
+        <ele>742.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885887" lon="2.330840">
+        <ele>746.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885415" lon="2.330850">
+        <ele>751.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885205" lon="2.330455">
+        <ele>758.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884943" lon="2.330319">
+        <ele>763.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883771" lon="2.330807">
+        <ele>769.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883534" lon="2.330388">
+        <ele>766.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883190" lon="2.330138">
+        <ele>767.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883950" lon="2.328299">
+        <ele>762.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885410" lon="2.327072">
+        <ele>742.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885387" lon="2.326825">
+        <ele>741.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885138" lon="2.326683">
+        <ele>741.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884665" lon="2.326580">
+        <ele>742.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884134" lon="2.326676">
+        <ele>750.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883794" lon="2.325589">
+        <ele>760.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883206" lon="2.325806">
+        <ele>760.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.882742" lon="2.326648">
+        <ele>764.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.881967" lon="2.327325">
+        <ele>763.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.881409" lon="2.327319">
+        <ele>765.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880894" lon="2.327071">
+        <ele>760.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880638" lon="2.327176">
+        <ele>759.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880030" lon="2.327116">
+        <ele>756.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879999" lon="2.327243">
+        <ele>752.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880595" lon="2.327550">
+        <ele>748.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880655" lon="2.327731">
+        <ele>744.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880317" lon="2.327626">
+        <ele>743.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879813" lon="2.327763">
+        <ele>734.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879276" lon="2.327474">
+        <ele>730.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878834" lon="2.328159">
+        <ele>722.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878370" lon="2.328176">
+        <ele>717.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878269" lon="2.327755">
+        <ele>717.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878052" lon="2.327679">
+        <ele>713.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877604" lon="2.328811">
+        <ele>704.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877193" lon="2.328683">
+        <ele>704.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876743" lon="2.329495">
+        <ele>705.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876853" lon="2.330572">
+        <ele>696.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876413" lon="2.331595">
+        <ele>689.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876361" lon="2.333536">
+        <ele>677.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876077" lon="2.334153">
+        <ele>672.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876253" lon="2.334194">
+        <ele>669.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876575" lon="2.333871">
+        <ele>669.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876674" lon="2.333918">
+        <ele>667.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876792" lon="2.334736">
+        <ele>670.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876640" lon="2.335726">
+        <ele>674.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875961" lon="2.336637">
+        <ele>666.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874953" lon="2.337575">
+        <ele>652.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874883" lon="2.337901">
+        <ele>650.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875201" lon="2.338380">
+        <ele>647.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875640" lon="2.338074">
+        <ele>645.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875879" lon="2.338174">
+        <ele>642.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875645" lon="2.339683">
+        <ele>628.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876264" lon="2.341665">
+        <ele>633.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876160" lon="2.342268">
+        <ele>637.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876798" lon="2.343684">
+        <ele>641.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877163" lon="2.343710">
+        <ele>640.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877209" lon="2.343830">
+        <ele>640.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876636" lon="2.346861">
+        <ele>628.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876672" lon="2.347692">
+        <ele>623.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876890" lon="2.347991">
+        <ele>620.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878153" lon="2.348436">
+        <ele>610.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878877" lon="2.349845">
+        <ele>608.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878893" lon="2.350984">
+        <ele>604.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879428" lon="2.351677">
+        <ele>602.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879527" lon="2.352556">
+        <ele>596.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879869" lon="2.352504">
+        <ele>592.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880246" lon="2.352169">
+        <ele>588.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880431" lon="2.352209">
+        <ele>588.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880544" lon="2.352425">
+        <ele>588.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880573" lon="2.352744">
+        <ele>589.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880373" lon="2.353198">
+        <ele>593.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879984" lon="2.353600">
+        <ele>589.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879861" lon="2.354143">
+        <ele>587.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880431" lon="2.355434">
+        <ele>578.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.880437" lon="2.355838">
+        <ele>577.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878957" lon="2.356033">
+        <ele>583.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878589" lon="2.356242">
+        <ele>584.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877683" lon="2.358498">
+        <ele>590.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877473" lon="2.358742">
+        <ele>592.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.877068" lon="2.358836">
+        <ele>594.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876852" lon="2.359646">
+        <ele>604.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876908" lon="2.360079">
+        <ele>609.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876404" lon="2.360060">
+        <ele>615.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875210" lon="2.359041">
+        <ele>631.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874879" lon="2.359466">
+        <ele>635.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874757" lon="2.360161">
+        <ele>641.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874385" lon="2.359682">
+        <ele>640.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873977" lon="2.360060">
+        <ele>645.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873437" lon="2.360186">
+        <ele>643.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873169" lon="2.360472">
+        <ele>648.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872270" lon="2.360047">
+        <ele>648.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.871538" lon="2.360385">
+        <ele>659.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.871392" lon="2.359929">
+        <ele>658.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870927" lon="2.359759">
+        <ele>664.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.871253" lon="2.360171">
+        <ele>671.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.871218" lon="2.361057">
+        <ele>684.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872135" lon="2.360861">
+        <ele>682.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872421" lon="2.361280">
+        <ele>690.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872918" lon="2.361450">
+        <ele>690.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872956" lon="2.361914">
+        <ele>698.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873535" lon="2.362450">
+        <ele>699.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873992" lon="2.361958">
+        <ele>695.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874230" lon="2.362606">
+        <ele>699.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874839" lon="2.362805">
+        <ele>702.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875173" lon="2.362109">
+        <ele>703.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875178" lon="2.363073">
+        <ele>718.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875386" lon="2.363287">
+        <ele>725.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875055" lon="2.363706">
+        <ele>734.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874538" lon="2.363790">
+        <ele>738.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873596" lon="2.363679">
+        <ele>737.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872895" lon="2.363143">
+        <ele>749.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872553" lon="2.363171">
+        <ele>751.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872011" lon="2.362748">
+        <ele>761.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870965" lon="2.363446">
+        <ele>780.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870650" lon="2.363352">
+        <ele>778.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870160" lon="2.363538">
+        <ele>778.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.869732" lon="2.363422">
+        <ele>771.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.869316" lon="2.364070">
+        <ele>767.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868577" lon="2.364680">
+        <ele>781.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868653" lon="2.365493">
+        <ele>787.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868040" lon="2.365342">
+        <ele>793.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.867780" lon="2.365519">
+        <ele>794.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.867369" lon="2.366198">
+        <ele>794.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.866774" lon="2.365933">
+        <ele>797.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.866468" lon="2.366948">
+        <ele>798.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.866005" lon="2.366989">
+        <ele>795.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.865733" lon="2.367461">
+        <ele>791.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.865481" lon="2.367464">
+        <ele>791.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.865036" lon="2.367757">
+        <ele>786.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.864681" lon="2.368550">
+        <ele>786.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.864286" lon="2.368915">
+        <ele>783.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.863994" lon="2.368894">
+        <ele>780.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.863672" lon="2.368536">
+        <ele>773.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.863456" lon="2.368574">
+        <ele>770.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.862980" lon="2.369627">
+        <ele>772.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.862670" lon="2.369684">
+        <ele>777.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.862326" lon="2.369501">
+        <ele>784.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.862144" lon="2.369093">
+        <ele>787.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.861737" lon="2.369681">
+        <ele>798.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.860920" lon="2.369250">
+        <ele>797.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.860623" lon="2.370024">
+        <ele>809.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.860346" lon="2.369593">
+        <ele>816.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859935" lon="2.369518">
+        <ele>820.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859582" lon="2.369166">
+        <ele>829.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859414" lon="2.369626">
+        <ele>828.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859602" lon="2.370329">
+        <ele>828.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859348" lon="2.370849">
+        <ele>830.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859029" lon="2.370822">
+        <ele>832.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858665" lon="2.370224">
+        <ele>837.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858457" lon="2.370123">
+        <ele>837.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858278" lon="2.371107">
+        <ele>836.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858157" lon="2.371210">
+        <ele>835.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.857783" lon="2.371076">
+        <ele>834.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.857522" lon="2.371958">
+        <ele>836.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856951" lon="2.371313">
+        <ele>849.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856492" lon="2.371347">
+        <ele>854.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856430" lon="2.372378">
+        <ele>850.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856183" lon="2.372489">
+        <ele>851.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855903" lon="2.372443">
+        <ele>850.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855753" lon="2.372047">
+        <ele>850.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855507" lon="2.372417">
+        <ele>846.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855102" lon="2.372409">
+        <ele>847.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.854565" lon="2.371426">
+        <ele>842.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.854082" lon="2.371717">
+        <ele>840.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853957" lon="2.372706">
+        <ele>846.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.854291" lon="2.373606">
+        <ele>844.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853913" lon="2.374609">
+        <ele>836.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853948" lon="2.375175">
+        <ele>836.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853724" lon="2.376213">
+        <ele>833.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853833" lon="2.377248">
+        <ele>834.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853353" lon="2.378397">
+        <ele>840.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853269" lon="2.379530">
+        <ele>841.6</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852362" lon="2.380159">
+        <ele>840.4</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852059" lon="2.380778">
+        <ele>830.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.851434" lon="2.381019">
+        <ele>829.0</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.850850" lon="2.382150">
+        <ele>833.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.850487" lon="2.383298">
+        <ele>831.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.849870" lon="2.384165">
+        <ele>823.1</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.849882" lon="2.387261">
+        <ele>817.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.849547" lon="2.388601">
+        <ele>814.2</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.849265" lon="2.388989">
+        <ele>811.9</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.848277" lon="2.389649">
+        <ele>812.8</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.847607" lon="2.388921">
+        <ele>816.3</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.847372" lon="2.388887">
+        <ele>817.7</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.847502" lon="2.390136">
+        <ele>822.5</ele>
+        <time>2007-07-05T11:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

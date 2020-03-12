@@ -1,0 +1,2629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.806970" lon="2.486357">
+    <ele>535.5</ele>
+    <time>2014-04-25T14:53:22Z</time>
+    <name>CAMÍ A CAN PUIG</name>
+    <desc>22-ENE-06 12:21</desc>
+  </wpt>
+  <wpt lat="41.813310" lon="2.490777">
+    <ele>467.0</ele>
+    <time>2014-04-25T14:53:22Z</time>
+    <name>CAMÍ A CAN PERE CROUS</name>
+    <desc>22-ENE-06 12:26</desc>
+  </wpt>
+  <wpt lat="41.812500" lon="2.494287">
+    <ele>446.5</ele>
+    <time>2014-04-25T14:53:23Z</time>
+    <name>ATENCIÓ ES DEIXA LA PISTA PER UN CAMINET POC VISIBLE</name>
+    <desc>22-ENE-06 12:30</desc>
+  </wpt>
+  <wpt lat="41.808420" lon="2.497187">
+    <ele>480.1</ele>
+    <time>2014-04-25T14:53:23Z</time>
+    <name>RECTA PUJANT</name>
+    <desc>22-ENE-06 12:40</desc>
+  </wpt>
+  <wpt lat="41.804430" lon="2.501628">
+    <ele>522.1</ele>
+    <time>2014-04-25T14:53:24Z</time>
+    <name>A L'ESQUERRA BAIXANT PER LA PISTA</name>
+    <desc>22-ENE-06 12:49</desc>
+  </wpt>
+  <wpt lat="41.806842" lon="2.508134">
+    <ele>464.2</ele>
+    <time>2014-04-25T14:53:25Z</time>
+    <name>ATENCIÓ ES DEIXA PISTA SEGUINT RECTE</name>
+    <desc>22-ENE-06 12:54</desc>
+  </wpt>
+  <wpt lat="41.806765" lon="2.511385">
+    <ele>411.8</ele>
+    <time>2014-04-25T14:53:25Z</time>
+    <name>CORRIOL CURT A PISTA DE SOTA</name>
+    <desc>22-ENE-06 12:58</desc>
+  </wpt>
+  <wpt lat="41.800280" lon="2.508828">
+    <ele>448.7</ele>
+    <time>2014-04-25T14:53:26Z</time>
+    <name>ES DEIXA ENTRADA A CAN TORRENT</name>
+    <desc>22-ENE-06 13:05</desc>
+  </wpt>
+  <wpt lat="41.792540" lon="2.505198">
+    <ele>642.2</ele>
+    <time>2014-04-25T14:53:26Z</time>
+    <name>RECTA</name>
+    <desc>22-ENE-06 13:28</desc>
+  </wpt>
+  <wpt lat="41.792890" lon="2.498508">
+    <ele>724.8</ele>
+    <time>2014-04-25T14:53:27Z</time>
+    <name>CAMÍ D'ACCÉS A LA CASA FONTDELLOPS</name>
+    <desc>22-ENE-06 13:41</desc>
+  </wpt>
+  <wpt lat="41.793920" lon="2.498308">
+    <ele>730.6</ele>
+    <time>2014-04-25T14:53:27Z</time>
+    <name>GIR MOLT PRONUNCIAT A L'ESQUERRA PUJANT</name>
+    <desc>22-ENE-06 13:43</desc>
+  </wpt>
+  <wpt lat="41.786709" lon="2.482708">
+    <ele>895.2</ele>
+    <time>2014-04-25T14:53:28Z</time>
+    <name>ES DEIXA CAMÍ A L'ESQUERRA</name>
+    <desc>22-ENE-06 10:18</desc>
+  </wpt>
+  <wpt lat="41.788589" lon="2.481778">
+    <ele>937.9</ele>
+    <time>2014-04-25T14:53:28Z</time>
+    <name>ATENCIÓ ES DEIXA PISTA PRENENT CAMÍ A LA DRETA</name>
+    <desc>22-ENE-06 10:28</desc>
+  </wpt>
+  <wpt lat="41.805720" lon="2.498818">
+    <ele>517.6</ele>
+    <time>2014-04-25T14:53:29Z</time>
+    <name>CAN PLA</name>
+    <desc>22-ENE-06 12:46</desc>
+  </wpt>
+  <wpt lat="41.792769" lon="2.473747">
+    <ele>1007.4</ele>
+    <time>2014-04-25T14:53:29Z</time>
+    <name>COLL DE TE</name>
+    <desc>22-ENE-06 10:40</desc>
+  </wpt>
+  <wpt lat="41.790750" lon="2.494448">
+    <ele>830.3</ele>
+    <time>2014-04-25T14:53:30Z</time>
+    <name>C0LLADA DE LA COMA</name>
+    <desc>22-ENE-06 14:09</desc>
+  </wpt>
+  <wpt lat="41.785881" lon="2.496254">
+    <ele>752.2</ele>
+    <time>2014-04-25T14:53:30Z</time>
+    <name>CORRALS D'EN PERE ARNAU</name>
+    <desc>22-ENE-06 14:24</desc>
+  </wpt>
+  <wpt lat="41.787432" lon="2.491759">
+    <ele>753.5</ele>
+    <time>2014-04-25T14:53:31Z</time>
+    <name>CAMÍ A CAN BERNAT</name>
+    <desc>22-ENE-06 09:57</desc>
+  </wpt>
+  <wpt lat="41.785000" lon="2.496408">
+    <ele>734.6</ele>
+    <time>2014-04-25T14:53:31Z</time>
+    <name>CAMINOI QUE BAIXA DE CORRALS</name>
+    <desc>22-ENE-06 14:28</desc>
+  </wpt>
+  <wpt lat="41.783979" lon="2.455037">
+    <ele>1231.7</ele>
+    <time>2014-04-25T14:53:32Z</time>
+    <name>PLA DE L'ESPINAL I CARRETERA BV-5114</name>
+    <desc>22-ENE-06 11:10</desc>
+  </wpt>
+  <wpt lat="41.787709" lon="2.456967">
+    <ele>1184.5</ele>
+    <time>2014-04-25T14:53:32Z</time>
+    <name>FONT DEL CONILL</name>
+    <desc>22-ENE-06 11:01</desc>
+  </wpt>
+  <wpt lat="41.793203" lon="2.497887">
+    <ele>742.2</ele>
+    <time>2014-04-25T14:53:33Z</time>
+    <name>PISCINA</name>
+    <desc>22-ENE-06 13:45</desc>
+  </wpt>
+  <wpt lat="41.776590" lon="2.512528">
+    <ele>485.5</ele>
+    <time>2014-04-25T14:53:33Z</time>
+    <name>SANT MARTÍ DE RIELLS</name>
+    <desc>22-ENE-06 09:16</desc>
+  </wpt>
+  <wpt lat="41.773479" lon="2.464597">
+    <ele>1129.3</ele>
+    <time>2014-04-25T14:53:34Z</time>
+    <name>SANTA FE</name>
+    <desc>22-ENE-06 11:17</desc>
+  </wpt>
+  <wpt lat="41.809070" lon="2.481097">
+    <ele>556.0</ele>
+    <time>2014-04-25T14:53:34Z</time>
+    <name>EL VILAR</name>
+    <desc>22-ENE-06 12:17</desc>
+  </wpt>
+  <wpt lat="41.785029" lon="2.456607">
+    <ele>1210.4</ele>
+    <time>2014-04-25T14:53:35Z</time>
+    <name>FONT DE LES GATELLEDES</name>
+    <desc>FONT DE LES GATELLEDES</desc>
+  </wpt>
+  <wpt lat="41.793560" lon="2.499108">
+    <ele>709.9</ele>
+    <time>2014-04-25T14:53:35Z</time>
+    <name>CASA RURAL FONTDELLOPS</name>
+    <desc>CASA RURAL FONTDELLOPS</desc>
+  </wpt>
+  <wpt lat="41.800230" lon="2.509568">
+    <ele>449.3</ele>
+    <time>2014-04-25T14:53:36Z</time>
+    <name>CAN TORRENT</name>
+    <desc>CAN TORRENT</desc>
+  </wpt>
+  <wpt lat="41.781540" lon="2.505408">
+    <ele>537.4</ele>
+    <time>2014-04-25T14:53:36Z</time>
+    <name>CAN PERE ARNAU</name>
+    <desc>CAN PERE ARNAU</desc>
+  </wpt>
+  <wpt lat="41.787363" lon="2.467971">
+    <ele>1203.0</ele>
+    <time>2014-04-25T14:53:37Z</time>
+    <name>TURÓ DE MAÇANERS</name>
+    <desc>TURÓ DE MAÇANERS</desc>
+  </wpt>
+  <wpt lat="41.789684" lon="2.475307">
+    <ele>1097.3</ele>
+    <time>2014-04-25T14:53:37Z</time>
+    <name>PUIG ARBOÇ</name>
+    <desc>PUIG ARBOÇ</desc>
+  </wpt>
+  <wpt lat="41.783280" lon="2.497805">
+    <ele>764.4</ele>
+    <time>2014-04-25T14:53:38Z</time>
+    <name>ESQUEIS DE LA BURRA</name>
+    <desc>ESQUEIS DE LA BURRA</desc>
+  </wpt>
+  <wpt lat="41.796408" lon="2.475825">
+    <ele>1109.5</ele>
+    <time>2014-04-25T14:53:38Z</time>
+    <name>TURÓ DE L'ARENY</name>
+    <desc>TURÓ DE L'ARENY</desc>
+  </wpt>
+  <wpt lat="41.772194" lon="2.480702">
+    <ele>1307.0</ele>
+    <time>2014-04-25T14:53:39Z</time>
+    <name>TURÓ DE MOROU</name>
+    <desc>TURÓ DE MOROU</desc>
+  </wpt>
+  <wpt lat="41.793270" lon="2.510050">
+    <ele>738.8</ele>
+    <time>2014-04-25T14:53:39Z</time>
+    <name>TURÓ DE MONTFORT</name>
+    <desc>TURÓ DE MONTFORT</desc>
+  </wpt>
+  <wpt lat="41.801944" lon="2.467182">
+    <ele>1081.1</ele>
+    <time>2014-04-25T14:53:40Z</time>
+    <name>TURÓ DE ROCAFIGUERA</name>
+    <desc>TURÓ DE ROCAFIGUERA</desc>
+  </wpt>
+  <wpt lat="41.772192" lon="2.464659">
+    <ele>1138.4</ele>
+    <time>2014-04-25T14:53:41Z</time>
+    <name>BV-5114</name>
+    <desc>BV-5114</desc>
+  </wpt>
+  <wpt lat="41.777058" lon="2.513803">
+    <ele>455.7</ele>
+    <time>2014-04-25T14:53:41Z</time>
+    <name>CARRETERA A BREDA</name>
+    <desc>CARRETERA A BREDA</desc>
+  </wpt>
+  <wpt lat="41.789393" lon="2.443692">
+    <ele>1706.0</ele>
+    <time>2014-04-25T14:53:42Z</time>
+    <name>LES AGUDES</name>
+    <desc>LES AGUDES</desc>
+  </wpt>
+  <wpt lat="41.776553" lon="2.434825">
+    <ele>1706.0</ele>
+    <time>2014-04-25T14:53:42Z</time>
+    <name>TURÓ DE L'HOME</name>
+    <desc>TURÓ DE L'HOME</desc>
+  </wpt>
+  <trk>
+    <name>De Riells a Santa Fe de Montseny i can Torrent pel Parc Natural del Montseny</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Riells a Santa Fe de Montseny i can Torrent pel Parc Natural del Montseny&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Aquest itinerari recorre una zona d'extraordinària bellesa del Parc Natural del Montseny, un espai declarat Reserva Natural de la Biosfera per la UNESCO. Val la pena passejar una mica pels voltants de Santa Fe de Montseny i, si es té temps, visitar el Centre d'Informació del Parc a can Casades. És un recorregut llarg i de fort desnivell, amb pistes en bon estat i trams de sender fàcil. A l'hivern, pot haver-hi neu.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta comença a l'esplanada del davant de l'església abacial de Sant Martí de Riells. A Riells, s'arriba des de Breda prenent la carretera GIV-5521 en direcció NO, i Breda es troba al peu de la GI-552 entre la Batllòria i Arbúcies. 
+ 
+0,00 km (484 m). Sant Martí de Riells. Cal prendre la pista ampla que neix al costat de la carretera GIV-5521 i es dirigeix cap al NE. L'itinerari va pujant de forma molt regular deixant a dreta i esquerra desviacions secundàries tenint sempre al sud els frondosos boscos del turó de Morou. 
+ 
+0,92 km (527 m). Can Pere Arnau. Més amunt, es passa pel costat del puig dels Esqueis de la Burra (km 3,57, 728 m), que queda a migdia, i es continua remuntant cap al NO. 
+ 
+4,05 km (747 m). Bifurcació. Es deixa a la dreta un trencall per on es tornarà més tard i se segueix en direcció NO vorejant can Bernat (km 4,32, 741 m). Es creua el torrent de Bernat i se segueix pujant descrivint àmplies llaçades tot deixant desviacions a l'esquerra i a la dreta. 
+ 
+5,87 km (889 m). Bifurcació en un revolt molt pronunciat. Es continua a la dreta (NO i després NE) canviant totalment el sentit de la marxa. 
+ 
+6,67 km (931 m). Bifurcació. Es desemboca a la pista que ve del pla de la Llet i d'Arbúcies. Cal prendre-la a l'esquerra (N i després NO) parant compte perquè 150 m més enllà, després d'una pujada forta, cal trencar a la dreta (NO) ascendint i fent un gir molt pronunciat. La pista es converteix primer en un camí més estret i, posteriorment, en un sender que s'endinsa planerament per una bonica fageda. 
+ 
+7,62 km (1.002 m). Bifurcació al coll de Te. Es desemboca a l'ampla pista del coll de Te, on es gira a l'esquerra (SO; més tard, es tornarà per la dreta). La pista discorre pel mig d'una avetosa, passa la font del Conill (km 10,63, 1.174 m), la de les Gatelledes (km 11,04, 1.195 m) i, després d'un revolt a la dreta (SO), surt a la carretera de Santa Fe a Sant Marçal (la BV-5114). 
+ 
+11,84 km (1.223 m). Carretera BV-5114. Cal seguir-la a l'esquerra (S) fins a Santa Fe de Montseny (km 13,82, 1.122 m). Un cop visitat aquest indret i els seus entorns, es desfà el camí fins al coll de Te. Entre l'arbreda, es pot veure una immensa panoràmica que s'estén fins als Pirineus. 
+ 
+20,02 km (1.002 m). Coll de Te. Es deixa enrere el camí d'anada i, en la bifurcació de davant de la casa, es pren a l'esquerra (O) l'ampla pista que baixa a Arbúcies. Més endavant, es franqueja el cadenat del Vilar i se segueix descendint deixant aquest mas a l'esquerra (E; km 26,97, 582 m). Es deixen trencalls secundaris. 
+ 
+29,34 km (462 m). Bifurcació important. En un revolt encaixonat i molt pronunciat a l'esquerra, s'abandona la pista principal i es trenca a la dreta (S) per un camí poc marcat que planeja i després remunta deixant desviacions secundàries a l'esquerra que porten al torrent del Sot de Roters. Després d'una rampa forta, es passa pel costat d'una font i es desemboca a una pista més ampla. 
+ 
+30,72 km (524 m). Pista ampla. Cal prendre-la a la dreta (O i tot seguit S) passant pel costat de can Pla (km 30,88, 527 m). 
+ 
+31,26 km (528 m). Cruïlla. Es pren la pista que davalla a l'esquerra (NE). A mesura que s'avança, es deixen trencalls secundaris. 
+ 
+32,07 km (470 m). Bifurcació. S'abandona la pista i s'agafa una desviació que surt enmig del revolt. Es continua planerament cap a llevant. 
+ 
+32,69 km (418 m). Bifurcació. Es canvia de pista baixant a la dreta per un curt corriol. Aquest és el punt més baix del recorregut. L'itinerari es dirigeix cap al SO en direcció a can Torrent. 
+ 
+34,05 km (449 m). Es deixa a mà esquerra l'accés a la masia de can Torrent i es continua per la dreta (O) iniciant una llarga i regular pujada per la pista de Fontdellops, on s'arriba al km 37,32 (723 m) després de deixar 4 desviacions a mà esquerra. 
+ 
+37,41 km (726 m). Un cop passat l'accés a la casa, se surt a una bifurcació. Cal continuar a l'esquerra (S), en pujada i pel costat d'una piscina. Al km 37,81 km (771 m), es deixa una desviació secundària a l'esquerra. Una mica més enllà, es deixa un camí a la dreta. 
+ 
+38,26 km (828 m). Coll de la Coma. Just abans d'arribar a la carena, cal deixar un camí a la dreta. Es creua una pista que segueix per la carena i es continua pel camí que baixa recte en direcció S just per l'altre vessant entre l'espès alzinar. 
+ 
+39,44 km (756 m). Corrals de Pere Arnau. Se segueix cap a ponent i de seguida es retroba el camí de l'anada (km 39,64, 746 m), que es desfà fins a tornar a Riells. 
+ 
+43,68 km (484 m). Sant Martí de Riells, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Riells a Santa Fe de Montseny y Can Torrent por el Parque Natural del Montseny&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Este itinerario recorre una zona de extraordinaria belleza del Parque Natural del Montseny, un espacio declarado Reserva Natural de la Biosfera por la UNESCO. Vale la pena pasear un poco por los alrededores de Santa Fe de Montseny y, si se tiene tiempo, visitar el Centro de Información del Parque en Can Casades. Es un recorrido largo y de fuerte desnivel, con pistas en buen estado y tramos de sendero fácil. En invierno, puede haber nieve.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta comienza en la explanada de delante de la iglesia abacial de Sant Martí de Riells. A Riells, se llega desde Breda tomando la carretera GIV-5521 en dirección NO, y Breda se encuentra al pie de la GI-552 entre la Batllòria y Arbúcies. 
+ 
+0,00 km (484 m). Sant Martí de Riells. Hay que tomar la pista ancha que nace junto a la carretera GIV-5521 y se dirige hacia el NE. El itinerario va subiendo de forma muy regular dejando a derecha e izquierda desviaciones secundarias teniendo siempre al sur los frondosos bosques del cerro de Morou. 
+ 
+0,92 km (527 m). Can Pere Arnau. Más arriba, se pasa junto al monte de Els Esqueis de la Burra (km 3,57, 728 m), que queda a mediodía, y se sigue remontando hacia el NO. 
+ 
+4,05 km (747 m). Bifurcación. Se deja a la derecha un desvío por donde se volverá más tarde y se sigue en dirección NO bordeando Can Bernat (km 4,32, 741 m). Se cruza el torrente de Bernat y se sigue subiendo describiendo amplias curvas dejando desviaciones a izquierda y derecha. 
+ 
+5,87 km (889 m). Bifurcación en una curva muy pronunciada. Se continúa a la derecha (NO y después NE) cambiando totalmente el sentido de la marcha. 
+ 
+6,67 km (931 m). Bifurcación. Se desemboca en la pista que viene del llano de la Llet y de Arbúcies. Hay que tomarla a la izquierda (N y después NO) con cuidado porque 150 m más allá, después de una subida fuerte, hay que girar a la derecha (NO) ascendiendo y haciendo un giro muy pronunciado. La pista se convierte primero en un camino más estrecho y, posteriormente, en un sendero que se adentra llanamente por un bonito hayedo. 
+ 
+7,62 km (1.002 m). Bifurcación en el collado de Te. Se desemboca en la ancha pista del collado de Te, donde se gira a la izquierda (SO; más tarde, se volverá por la derecha). La pista discurre por un abetal, pasa la fuente del Conill (km 10,63, 1.174 m), la de Les Gatelledes (km 11,04, 1.195 m) y, después de una curva a la derecha (SO), sale a la carretera de Santa Fe a Sant Marçal (la BV-5114). 
+ 
+11,84 km (1.223 m). Carretera BV-5114. Hay que seguirla a la izquierda (S) hasta Santa Fe de Montseny (km 13,82, 1.122 m). Una vez visitado este lugar y sus entornos, se deshace el camino hasta el collado de Te. Entre la arboleda, se puede ver una inmensa panorámica que se extiende hasta los Pirineos. 
+ 
+20,02 km (1.002 m). Collado de Te. Se deja atrás el camino de ida y, en la bifurcación de delante de la casa, se toma a la izquierda (O) la ancha pista que baja a Arbúcies. Más adelante, se franquea el candado del Vilar y se sigue descendiendo dejando esta masía a la izquierda (E; km 26,97, 582 m). Se dejan desvíos secundarios. 
+ 
+29,34 km (462 m). Bifurcación importante. En una curva encajonada y muy pronunciada a la izquierda, se abandona la pista principal y se gira a la derecha (S) por un camino poco marcado que llanea y luego remonta dejando desvíos secundarios a la izquierda que llevan al torrente del Sot de Roters. Después de una rampa fuerte, se pasa junto a una fuente y se desemboca en una pista más ancha. 
+ 
+30,72 km (524 m). Pista ancha. Hay que tomarla a la derecha (O y seguidamente S) pasando junto a Can Pla (km 30,88, 527 m). 
+ 
+31,26 km (528 m). Cruce. Se toma la pista que desciende a la izquierda (NE). A medida que se avanza, se dejan desvíos secundarios. 
+ 
+32,07 km (470 m). Bifurcación. Se abandona la pista y se toma un desvío que sale en medio de la curva. Se continúa llanamente hacia levante. 
+ 
+32,69 km (418 m). Bifurcación. Se cambia de pista bajando a la derecha por un corto sendero. Este es el punto más bajo del recorrido. El itinerario se dirige hacia el SO en dirección a Can Torrent. 
+ 
+34,05 km (449 m). Se deja a mano izquierda el acceso a la masía de Can Torrent y se continúa por la derecha (O) iniciando una larga y regular subida por la pista de Fontdellops, adonde se llega en el km 37,32 (723 m) después de dejar 4 desviaciones a mano izquierda. 
+ 
+37,41 km (726 m). Una vez pasado el acceso a la casa, se sale a una bifurcación. Hay que seguir a la izquierda (S), en subida y por el lado de una piscina. En el km 37,81 km (771 m), se deja un desvío secundario a la izquierda. Un poco más allá, se deja un camino a la derecha. 
+ 
+38,26 km (828 m). Collado de la Coma. Justo antes de llegar al cordal, hay que dejar un camino a la derecha. Se cruza una pista que sigue por el cordal y se continúa por el camino que baja recto en dirección S justo por la otra vertiente entre el espeso encinar. 
+ 
+39,44 km (756 m). Corrales de Pere Arnau. Se sigue hacia poniente y enseguida se reencuentra el camino de la ida (km 39,64, 746 m), que se retoma hasta volver a Riells. 
+ 
+43,68 km (484 m). Sant Martí de Riells, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Riells to Santa Fe de Montseny and Can Torrent through the Montseny Natural Park&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The itinerary covers a zone of extraordinary beauty in the Montseny Natural Park, which has been declared a Natural Biosphere Reserve by UNESCO. It is worth a stroll around Santa Fe de Montseny and, if time allows, a visit to the Park Information Centre at Can Casades. It is a long, steep itinerary. The tracks are in good condition and the paths are easy. In winter, there might be some snow.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 15/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.776790" lon="2.512058">
+        <ele>484.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777270" lon="2.511058">
+        <ele>486.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777780" lon="2.510698">
+        <ele>489.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778010" lon="2.510178">
+        <ele>489.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778540" lon="2.509858">
+        <ele>490.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778780" lon="2.509518">
+        <ele>491.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.779380" lon="2.508298">
+        <ele>497.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780140" lon="2.506028">
+        <ele>513.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780460" lon="2.505828">
+        <ele>517.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780700" lon="2.505898">
+        <ele>518.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780950" lon="2.505768">
+        <ele>518.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781340" lon="2.505988">
+        <ele>519.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781390" lon="2.506668">
+        <ele>523.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781820" lon="2.505588">
+        <ele>529.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782020" lon="2.506038">
+        <ele>548.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781500" lon="2.507958">
+        <ele>553.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781800" lon="2.509138">
+        <ele>559.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782150" lon="2.509118">
+        <ele>563.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782460" lon="2.509308">
+        <ele>565.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782760" lon="2.508888">
+        <ele>569.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782980" lon="2.508898">
+        <ele>571.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783670" lon="2.508408">
+        <ele>578.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783660" lon="2.508318">
+        <ele>579.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783390" lon="2.508458">
+        <ele>582.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783120" lon="2.508408">
+        <ele>585.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782850" lon="2.507838">
+        <ele>590.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783600" lon="2.507018">
+        <ele>593.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784090" lon="2.506108">
+        <ele>599.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784370" lon="2.505868">
+        <ele>603.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784370" lon="2.505288">
+        <ele>604.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784750" lon="2.505068">
+        <ele>604.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785060" lon="2.504548">
+        <ele>607.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785530" lon="2.504848">
+        <ele>610.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785560" lon="2.504738">
+        <ele>611.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784970" lon="2.504308">
+        <ele>613.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784680" lon="2.504748">
+        <ele>619.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783920" lon="2.504988">
+        <ele>624.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783410" lon="2.504378">
+        <ele>631.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783420" lon="2.503278">
+        <ele>638.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782380" lon="2.502918">
+        <ele>649.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782220" lon="2.502598">
+        <ele>650.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782490" lon="2.502788">
+        <ele>655.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783070" lon="2.502678">
+        <ele>661.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783550" lon="2.502368">
+        <ele>667.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783930" lon="2.502348">
+        <ele>672.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784160" lon="2.501358">
+        <ele>677.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784390" lon="2.501328">
+        <ele>682.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784640" lon="2.501768">
+        <ele>686.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784920" lon="2.501578">
+        <ele>688.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785110" lon="2.501648">
+        <ele>690.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785250" lon="2.501968">
+        <ele>692.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785410" lon="2.502008">
+        <ele>694.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785260" lon="2.501158">
+        <ele>699.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785010" lon="2.500878">
+        <ele>700.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784850" lon="2.500368">
+        <ele>704.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785100" lon="2.498818">
+        <ele>713.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785020" lon="2.498338">
+        <ele>717.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784520" lon="2.498048">
+        <ele>721.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784180" lon="2.498078">
+        <ele>728.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784510" lon="2.497658">
+        <ele>729.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785210" lon="2.495848">
+        <ele>732.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785240" lon="2.495418">
+        <ele>733.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785980" lon="2.495538">
+        <ele>737.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786400" lon="2.494868">
+        <ele>743.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786390" lon="2.494408">
+        <ele>746.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786790" lon="2.492788">
+        <ele>745.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787420" lon="2.491718">
+        <ele>740.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787530" lon="2.490958">
+        <ele>742.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787330" lon="2.490288">
+        <ele>741.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787400" lon="2.489698">
+        <ele>750.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788140" lon="2.488698">
+        <ele>773.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788160" lon="2.488438">
+        <ele>773.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788300" lon="2.488408">
+        <ele>774.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788370" lon="2.488798">
+        <ele>775.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788280" lon="2.489468">
+        <ele>775.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788560" lon="2.488948">
+        <ele>778.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788450" lon="2.487388">
+        <ele>794.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788800" lon="2.487808">
+        <ele>799.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790350" lon="2.486878">
+        <ele>817.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789790" lon="2.486838">
+        <ele>822.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788970" lon="2.487008">
+        <ele>826.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789060" lon="2.486058">
+        <ele>836.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788550" lon="2.485518">
+        <ele>844.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788139" lon="2.484558">
+        <ele>856.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788019" lon="2.483758">
+        <ele>864.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787669" lon="2.483268">
+        <ele>872.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787439" lon="2.482568">
+        <ele>878.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787129" lon="2.482318">
+        <ele>884.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786699" lon="2.482678">
+        <ele>888.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787469" lon="2.481838">
+        <ele>897.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787729" lon="2.482278">
+        <ele>899.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788429" lon="2.482628">
+        <ele>903.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789170" lon="2.483868">
+        <ele>909.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789650" lon="2.483908">
+        <ele>911.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790330" lon="2.484198">
+        <ele>915.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790290" lon="2.483618">
+        <ele>918.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789930" lon="2.483008">
+        <ele>921.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788779" lon="2.482038">
+        <ele>932.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788609" lon="2.481738">
+        <ele>931.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789149" lon="2.482018">
+        <ele>937.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789399" lon="2.481708">
+        <ele>942.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789479" lon="2.480208">
+        <ele>953.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789969" lon="2.478857">
+        <ele>956.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790799" lon="2.477827">
+        <ele>976.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791359" lon="2.477677">
+        <ele>978.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791459" lon="2.477517">
+        <ele>980.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791239" lon="2.476007">
+        <ele>988.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791349" lon="2.475677">
+        <ele>995.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792009" lon="2.474937">
+        <ele>1002.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792449" lon="2.473607">
+        <ele>1001.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791899" lon="2.472607">
+        <ele>1010.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791089" lon="2.471827">
+        <ele>1020.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790989" lon="2.471507">
+        <ele>1025.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791889" lon="2.470797">
+        <ele>1030.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792429" lon="2.470107">
+        <ele>1031.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792819" lon="2.468217">
+        <ele>1039.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793169" lon="2.467957">
+        <ele>1043.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793369" lon="2.468017">
+        <ele>1044.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794229" lon="2.469307">
+        <ele>1051.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794609" lon="2.469407">
+        <ele>1054.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794769" lon="2.468947">
+        <ele>1055.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794359" lon="2.467827">
+        <ele>1061.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793839" lon="2.467407">
+        <ele>1065.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793559" lon="2.465487">
+        <ele>1076.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792869" lon="2.464787">
+        <ele>1081.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792429" lon="2.463917">
+        <ele>1087.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793319" lon="2.463107">
+        <ele>1089.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793159" lon="2.463167">
+        <ele>1089.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793479" lon="2.463177">
+        <ele>1091.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793649" lon="2.462867">
+        <ele>1093.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793829" lon="2.462877">
+        <ele>1093.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793719" lon="2.462317">
+        <ele>1097.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793339" lon="2.462257">
+        <ele>1101.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792799" lon="2.462677">
+        <ele>1105.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791889" lon="2.462507">
+        <ele>1112.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791209" lon="2.462617">
+        <ele>1116.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789959" lon="2.461977">
+        <ele>1124.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788549" lon="2.461917">
+        <ele>1135.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788079" lon="2.461407">
+        <ele>1138.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787709" lon="2.460517">
+        <ele>1143.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786629" lon="2.459167">
+        <ele>1153.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785869" lon="2.457777">
+        <ele>1162.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786739" lon="2.457197">
+        <ele>1169.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787059" lon="2.457237">
+        <ele>1170.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787549" lon="2.457027">
+        <ele>1172.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787939" lon="2.457167">
+        <ele>1176.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787969" lon="2.456927">
+        <ele>1177.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785559" lon="2.455987">
+        <ele>1194.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785069" lon="2.456327">
+        <ele>1195.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784609" lon="2.457257">
+        <ele>1197.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784669" lon="2.458417">
+        <ele>1200.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785149" lon="2.459577">
+        <ele>1203.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785149" lon="2.459997">
+        <ele>1205.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783579" lon="2.456187">
+        <ele>1218.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783949" lon="2.454977">
+        <ele>1222.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781819" lon="2.454577">
+        <ele>1207.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781459" lon="2.454397">
+        <ele>1205.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781049" lon="2.453857">
+        <ele>1204.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780649" lon="2.452097">
+        <ele>1198.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780439" lon="2.451997">
+        <ele>1195.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780099" lon="2.452217">
+        <ele>1194.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778979" lon="2.454177">
+        <ele>1182.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777899" lon="2.455307">
+        <ele>1174.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.775889" lon="2.456847">
+        <ele>1159.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774759" lon="2.458007">
+        <ele>1149.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774359" lon="2.458917">
+        <ele>1146.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773899" lon="2.461497">
+        <ele>1133.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772919" lon="2.463507">
+        <ele>1129.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773319" lon="2.464077">
+        <ele>1121.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773439" lon="2.464537">
+        <ele>1121.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773529" lon="2.464587">
+        <ele>1122.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772919" lon="2.463507">
+        <ele>1129.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773899" lon="2.461497">
+        <ele>1133.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774359" lon="2.458917">
+        <ele>1146.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774759" lon="2.458007">
+        <ele>1149.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.775889" lon="2.456847">
+        <ele>1159.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777899" lon="2.455307">
+        <ele>1174.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778979" lon="2.454177">
+        <ele>1182.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780209" lon="2.452057">
+        <ele>1195.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780649" lon="2.452097">
+        <ele>1198.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780909" lon="2.453477">
+        <ele>1203.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781459" lon="2.454397">
+        <ele>1205.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781819" lon="2.454577">
+        <ele>1207.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783949" lon="2.454977">
+        <ele>1222.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783579" lon="2.456187">
+        <ele>1218.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785149" lon="2.459997">
+        <ele>1205.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785149" lon="2.459577">
+        <ele>1203.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784669" lon="2.458417">
+        <ele>1200.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784609" lon="2.457257">
+        <ele>1197.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785069" lon="2.456327">
+        <ele>1195.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785559" lon="2.455987">
+        <ele>1194.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787969" lon="2.456927">
+        <ele>1177.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787939" lon="2.457167">
+        <ele>1176.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787549" lon="2.457027">
+        <ele>1172.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787059" lon="2.457237">
+        <ele>1170.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786739" lon="2.457197">
+        <ele>1169.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785869" lon="2.457777">
+        <ele>1162.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786629" lon="2.459167">
+        <ele>1153.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787709" lon="2.460517">
+        <ele>1143.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788079" lon="2.461407">
+        <ele>1138.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788549" lon="2.461917">
+        <ele>1135.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789959" lon="2.461977">
+        <ele>1124.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791209" lon="2.462617">
+        <ele>1116.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791889" lon="2.462507">
+        <ele>1112.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792869" lon="2.462667">
+        <ele>1104.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793449" lon="2.462237">
+        <ele>1100.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793789" lon="2.462407">
+        <ele>1097.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793829" lon="2.462877">
+        <ele>1093.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793649" lon="2.462867">
+        <ele>1093.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793479" lon="2.463177">
+        <ele>1091.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793159" lon="2.463167">
+        <ele>1089.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793319" lon="2.463107">
+        <ele>1089.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792429" lon="2.463917">
+        <ele>1087.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792869" lon="2.464787">
+        <ele>1081.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793559" lon="2.465487">
+        <ele>1076.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793839" lon="2.467407">
+        <ele>1065.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794169" lon="2.467587">
+        <ele>1061.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794659" lon="2.468427">
+        <ele>1057.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794769" lon="2.468947">
+        <ele>1055.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794679" lon="2.469297">
+        <ele>1053.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794519" lon="2.469427">
+        <ele>1053.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794229" lon="2.469307">
+        <ele>1051.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793369" lon="2.468017">
+        <ele>1044.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792979" lon="2.468007">
+        <ele>1041.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792819" lon="2.468217">
+        <ele>1039.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792429" lon="2.470107">
+        <ele>1031.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790949" lon="2.471647">
+        <ele>1023.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791899" lon="2.472607">
+        <ele>1010.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792349" lon="2.473527">
+        <ele>1002.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792649" lon="2.473797">
+        <ele>1038.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792719" lon="2.473557">
+        <ele>1037.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792429" lon="2.473087">
+        <ele>1036.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792099" lon="2.471807">
+        <ele>1027.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792179" lon="2.471677">
+        <ele>1026.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793509" lon="2.470607">
+        <ele>1014.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794239" lon="2.471317">
+        <ele>1009.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794599" lon="2.471377">
+        <ele>1007.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795500" lon="2.471007">
+        <ele>1002.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795410" lon="2.471367">
+        <ele>999.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794489" lon="2.471857">
+        <ele>991.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794569" lon="2.472357">
+        <ele>991.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795180" lon="2.472637">
+        <ele>987.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795680" lon="2.472187">
+        <ele>981.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796290" lon="2.472277">
+        <ele>976.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797110" lon="2.473227">
+        <ele>968.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797650" lon="2.473337">
+        <ele>963.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798660" lon="2.474367">
+        <ele>954.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799320" lon="2.474507">
+        <ele>949.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799570" lon="2.475027">
+        <ele>945.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800570" lon="2.475447">
+        <ele>938.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801000" lon="2.476137">
+        <ele>934.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800930" lon="2.476467">
+        <ele>932.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800580" lon="2.476857">
+        <ele>931.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799350" lon="2.477697">
+        <ele>919.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798890" lon="2.478327">
+        <ele>917.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798680" lon="2.479057">
+        <ele>914.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798260" lon="2.479527">
+        <ele>906.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797950" lon="2.480617">
+        <ele>893.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798090" lon="2.480637">
+        <ele>893.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799040" lon="2.479647">
+        <ele>887.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799300" lon="2.479587">
+        <ele>886.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800150" lon="2.478467">
+        <ele>875.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800930" lon="2.478477">
+        <ele>869.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801540" lon="2.477937">
+        <ele>862.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802260" lon="2.477547">
+        <ele>857.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803020" lon="2.476697">
+        <ele>850.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803340" lon="2.476117">
+        <ele>845.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803290" lon="2.476547">
+        <ele>843.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802690" lon="2.477647">
+        <ele>837.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801820" lon="2.478397">
+        <ele>828.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801550" lon="2.480417">
+        <ele>817.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801120" lon="2.480557">
+        <ele>812.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800550" lon="2.480267">
+        <ele>809.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799920" lon="2.480287">
+        <ele>801.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800930" lon="2.480767">
+        <ele>796.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802080" lon="2.480907">
+        <ele>790.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802180" lon="2.479537">
+        <ele>784.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802360" lon="2.478937">
+        <ele>777.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802940" lon="2.478747">
+        <ele>773.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803210" lon="2.478507">
+        <ele>770.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803510" lon="2.477667">
+        <ele>767.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804200" lon="2.477317">
+        <ele>762.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804770" lon="2.476827">
+        <ele>758.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805650" lon="2.476497">
+        <ele>749.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805830" lon="2.475717">
+        <ele>741.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806270" lon="2.476757">
+        <ele>734.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806060" lon="2.477817">
+        <ele>727.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805890" lon="2.477877">
+        <ele>725.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805570" lon="2.477317">
+        <ele>720.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805240" lon="2.477377">
+        <ele>716.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804150" lon="2.478547">
+        <ele>705.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804060" lon="2.479437">
+        <ele>698.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803290" lon="2.480107">
+        <ele>690.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803680" lon="2.481127">
+        <ele>684.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804450" lon="2.482447">
+        <ele>674.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804760" lon="2.482857">
+        <ele>673.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805320" lon="2.483217">
+        <ele>668.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805590" lon="2.483737">
+        <ele>666.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805790" lon="2.483547">
+        <ele>664.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805740" lon="2.483147">
+        <ele>663.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805660" lon="2.482947">
+        <ele>663.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805170" lon="2.482737">
+        <ele>659.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804810" lon="2.482347">
+        <ele>656.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804830" lon="2.481497">
+        <ele>651.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804470" lon="2.480807">
+        <ele>647.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804470" lon="2.480457">
+        <ele>644.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805320" lon="2.480627">
+        <ele>638.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805600" lon="2.480907">
+        <ele>635.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805740" lon="2.480687">
+        <ele>634.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805570" lon="2.479917">
+        <ele>629.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806120" lon="2.480067">
+        <ele>625.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806580" lon="2.479987">
+        <ele>623.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807080" lon="2.480447">
+        <ele>618.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807330" lon="2.479917">
+        <ele>614.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807660" lon="2.479627">
+        <ele>612.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808220" lon="2.479787">
+        <ele>607.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808680" lon="2.480157">
+        <ele>603.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809290" lon="2.480217">
+        <ele>600.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810240" lon="2.480707">
+        <ele>591.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809970" lon="2.480807">
+        <ele>588.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809380" lon="2.480547">
+        <ele>584.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809280" lon="2.480787">
+        <ele>583.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808780" lon="2.481037">
+        <ele>577.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808070" lon="2.480617">
+        <ele>575.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808030" lon="2.481407">
+        <ele>571.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807560" lon="2.481917">
+        <ele>566.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807330" lon="2.481827">
+        <ele>564.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807160" lon="2.482117">
+        <ele>563.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807630" lon="2.484477">
+        <ele>559.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807190" lon="2.484717">
+        <ele>558.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806780" lon="2.485237">
+        <ele>557.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806090" lon="2.485287">
+        <ele>556.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805860" lon="2.485467">
+        <ele>554.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806370" lon="2.485977">
+        <ele>553.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807020" lon="2.486367">
+        <ele>553.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807620" lon="2.486377">
+        <ele>549.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808280" lon="2.486627">
+        <ele>545.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809070" lon="2.486447">
+        <ele>537.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809270" lon="2.486897">
+        <ele>536.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809040" lon="2.487437">
+        <ele>532.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809380" lon="2.487157">
+        <ele>528.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809690" lon="2.487157">
+        <ele>527.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809940" lon="2.486887">
+        <ele>523.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810000" lon="2.487017">
+        <ele>523.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809860" lon="2.487187">
+        <ele>521.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809510" lon="2.487337">
+        <ele>520.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809490" lon="2.487627">
+        <ele>519.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810680" lon="2.488557">
+        <ele>510.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811080" lon="2.488567">
+        <ele>504.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811660" lon="2.489307">
+        <ele>500.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812520" lon="2.489457">
+        <ele>496.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812840" lon="2.490717">
+        <ele>488.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.813340" lon="2.490857">
+        <ele>484.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.813380" lon="2.491007">
+        <ele>483.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.813260" lon="2.491197">
+        <ele>482.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.813030" lon="2.491177">
+        <ele>480.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812650" lon="2.491487">
+        <ele>476.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812660" lon="2.493937">
+        <ele>464.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812510" lon="2.494227">
+        <ele>462.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812080" lon="2.494147">
+        <ele>464.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811810" lon="2.494547">
+        <ele>467.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811130" lon="2.494617">
+        <ele>472.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810610" lon="2.495187">
+        <ele>476.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810350" lon="2.495257">
+        <ele>478.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808670" lon="2.492177">
+        <ele>500.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808380" lon="2.492007">
+        <ele>502.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808160" lon="2.492087">
+        <ele>502.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808050" lon="2.492367">
+        <ele>502.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808520" lon="2.493097">
+        <ele>502.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808850" lon="2.495767">
+        <ele>491.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808690" lon="2.496817">
+        <ele>492.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807820" lon="2.497608">
+        <ele>499.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807260" lon="2.497898">
+        <ele>507.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806380" lon="2.497948">
+        <ele>523.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806360" lon="2.497648">
+        <ele>525.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806190" lon="2.497558">
+        <ele>527.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805690" lon="2.498648">
+        <ele>527.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805530" lon="2.498718">
+        <ele>527.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805280" lon="2.498488">
+        <ele>528.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804560" lon="2.498758">
+        <ele>532.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804600" lon="2.499358">
+        <ele>532.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804250" lon="2.500668">
+        <ele>525.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804710" lon="2.502518">
+        <ele>522.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804410" lon="2.503208">
+        <ele>515.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805260" lon="2.503868">
+        <ele>504.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805810" lon="2.503988">
+        <ele>498.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805970" lon="2.504278">
+        <ele>495.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806230" lon="2.504158">
+        <ele>492.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806650" lon="2.504458">
+        <ele>486.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806680" lon="2.504928">
+        <ele>483.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807020" lon="2.505468">
+        <ele>482.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807070" lon="2.506538">
+        <ele>476.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807430" lon="2.506988">
+        <ele>474.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806660" lon="2.508418">
+        <ele>467.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806630" lon="2.509588">
+        <ele>462.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806920" lon="2.510348">
+        <ele>456.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807650" lon="2.511238">
+        <ele>449.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807960" lon="2.510938">
+        <ele>446.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808020" lon="2.511038">
+        <ele>438.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807930" lon="2.511438">
+        <ele>436.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808070" lon="2.511828">
+        <ele>435.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807940" lon="2.512128">
+        <ele>430.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807660" lon="2.512068">
+        <ele>427.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807420" lon="2.511768">
+        <ele>425.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806750" lon="2.511388">
+        <ele>417.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805990" lon="2.509698">
+        <ele>422.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805910" lon="2.508538">
+        <ele>424.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805390" lon="2.508568">
+        <ele>424.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804730" lon="2.508068">
+        <ele>423.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804600" lon="2.507628">
+        <ele>424.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804790" lon="2.506948">
+        <ele>424.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803830" lon="2.507068">
+        <ele>425.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803420" lon="2.505988">
+        <ele>429.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803050" lon="2.506388">
+        <ele>429.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802410" lon="2.505898">
+        <ele>431.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802150" lon="2.506938">
+        <ele>431.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801610" lon="2.506028">
+        <ele>432.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801350" lon="2.506018">
+        <ele>432.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801180" lon="2.506668">
+        <ele>434.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800700" lon="2.507428">
+        <ele>439.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800290" lon="2.508818">
+        <ele>449.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800270" lon="2.507458">
+        <ele>457.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800500" lon="2.507008">
+        <ele>461.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800470" lon="2.506758">
+        <ele>462.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800020" lon="2.507628">
+        <ele>469.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799860" lon="2.508288">
+        <ele>474.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799450" lon="2.508698">
+        <ele>478.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798850" lon="2.509738">
+        <ele>484.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798410" lon="2.510138">
+        <ele>486.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798050" lon="2.510218">
+        <ele>488.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797220" lon="2.510768">
+        <ele>497.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796710" lon="2.510418">
+        <ele>502.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796740" lon="2.511128">
+        <ele>509.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796380" lon="2.511238">
+        <ele>514.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796290" lon="2.511468">
+        <ele>515.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796680" lon="2.511798">
+        <ele>517.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796600" lon="2.511948">
+        <ele>518.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796140" lon="2.511758">
+        <ele>522.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796220" lon="2.509588">
+        <ele>541.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796570" lon="2.509298">
+        <ele>546.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796640" lon="2.509008">
+        <ele>549.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796990" lon="2.508778">
+        <ele>556.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796820" lon="2.508318">
+        <ele>560.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796610" lon="2.508098">
+        <ele>563.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796320" lon="2.508058">
+        <ele>568.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796000" lon="2.508518">
+        <ele>576.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795620" lon="2.508608">
+        <ele>578.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795330" lon="2.510118">
+        <ele>583.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795280" lon="2.509108">
+        <ele>591.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794940" lon="2.508188">
+        <ele>601.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794420" lon="2.507738">
+        <ele>607.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793730" lon="2.506338">
+        <ele>619.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793880" lon="2.505698">
+        <ele>626.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793130" lon="2.505148">
+        <ele>630.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792640" lon="2.505318">
+        <ele>637.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792380" lon="2.504638">
+        <ele>642.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791650" lon="2.504158">
+        <ele>650.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791320" lon="2.503418">
+        <ele>657.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791360" lon="2.504418">
+        <ele>665.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791020" lon="2.504538">
+        <ele>669.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790930" lon="2.504168">
+        <ele>672.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790870" lon="2.503268">
+        <ele>676.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791050" lon="2.502498">
+        <ele>682.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791690" lon="2.501678">
+        <ele>691.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791860" lon="2.500818">
+        <ele>699.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792180" lon="2.500438">
+        <ele>702.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792230" lon="2.499368">
+        <ele>713.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792760" lon="2.499148">
+        <ele>715.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792820" lon="2.498508">
+        <ele>719.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793810" lon="2.498448">
+        <ele>725.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793870" lon="2.498258">
+        <ele>725.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793660" lon="2.498348">
+        <ele>726.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793580" lon="2.498258">
+        <ele>728.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793790" lon="2.498048">
+        <ele>731.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793270" lon="2.497918">
+        <ele>740.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793220" lon="2.497738">
+        <ele>742.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793840" lon="2.497358">
+        <ele>754.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793430" lon="2.497158">
+        <ele>759.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793130" lon="2.496808">
+        <ele>764.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792740" lon="2.496058">
+        <ele>770.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792640" lon="2.495418">
+        <ele>780.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791920" lon="2.494698">
+        <ele>795.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791310" lon="2.494728">
+        <ele>799.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791210" lon="2.495788">
+        <ele>808.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790800" lon="2.494338">
+        <ele>828.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790730" lon="2.494528">
+        <ele>830.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789950" lon="2.494798">
+        <ele>828.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789700" lon="2.495498">
+        <ele>824.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789030" lon="2.496338">
+        <ele>809.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788770" lon="2.496348">
+        <ele>808.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788670" lon="2.496218">
+        <ele>807.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788750" lon="2.495158">
+        <ele>809.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788640" lon="2.493778">
+        <ele>802.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788400" lon="2.494138">
+        <ele>799.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788050" lon="2.495468">
+        <ele>791.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787830" lon="2.495838">
+        <ele>786.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787490" lon="2.497298">
+        <ele>776.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787080" lon="2.497458">
+        <ele>774.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786700" lon="2.497348">
+        <ele>773.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786730" lon="2.497878">
+        <ele>770.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786580" lon="2.497978">
+        <ele>767.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786470" lon="2.497398">
+        <ele>767.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786000" lon="2.496508">
+        <ele>756.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786080" lon="2.496128">
+        <ele>754.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786380" lon="2.495898">
+        <ele>752.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786530" lon="2.495448">
+        <ele>753.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786460" lon="2.494378">
+        <ele>752.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786400" lon="2.494868">
+        <ele>743.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785980" lon="2.495538">
+        <ele>737.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785240" lon="2.495418">
+        <ele>733.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785210" lon="2.495848">
+        <ele>732.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784510" lon="2.497658">
+        <ele>729.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784180" lon="2.498078">
+        <ele>728.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784210" lon="2.498218">
+        <ele>727.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784520" lon="2.498048">
+        <ele>721.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785020" lon="2.498338">
+        <ele>717.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785100" lon="2.498818">
+        <ele>713.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784850" lon="2.500368">
+        <ele>704.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785010" lon="2.500878">
+        <ele>700.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785260" lon="2.501158">
+        <ele>699.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785410" lon="2.502008">
+        <ele>694.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785330" lon="2.502058">
+        <ele>692.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785110" lon="2.501648">
+        <ele>690.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784920" lon="2.501578">
+        <ele>688.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784640" lon="2.501768">
+        <ele>686.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784260" lon="2.501248">
+        <ele>682.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783930" lon="2.502348">
+        <ele>672.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783550" lon="2.502368">
+        <ele>667.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783070" lon="2.502678">
+        <ele>661.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782490" lon="2.502788">
+        <ele>655.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782220" lon="2.502598">
+        <ele>650.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782380" lon="2.502918">
+        <ele>649.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783420" lon="2.503278">
+        <ele>638.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783410" lon="2.504378">
+        <ele>631.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783920" lon="2.504988">
+        <ele>624.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784680" lon="2.504748">
+        <ele>619.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784970" lon="2.504308">
+        <ele>613.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785560" lon="2.504738">
+        <ele>611.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785530" lon="2.504848">
+        <ele>610.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785060" lon="2.504548">
+        <ele>607.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784750" lon="2.505068">
+        <ele>604.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784370" lon="2.505288">
+        <ele>604.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784370" lon="2.505868">
+        <ele>603.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784090" lon="2.506108">
+        <ele>599.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783600" lon="2.507018">
+        <ele>593.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782850" lon="2.507838">
+        <ele>590.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783120" lon="2.508408">
+        <ele>585.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783390" lon="2.508458">
+        <ele>582.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783660" lon="2.508318">
+        <ele>579.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783670" lon="2.508408">
+        <ele>578.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782980" lon="2.508898">
+        <ele>571.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782760" lon="2.508888">
+        <ele>569.2</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782460" lon="2.509308">
+        <ele>565.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782150" lon="2.509118">
+        <ele>563.5</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781800" lon="2.509138">
+        <ele>559.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781490" lon="2.507678">
+        <ele>551.9</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782020" lon="2.506038">
+        <ele>548.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781820" lon="2.505588">
+        <ele>529.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781390" lon="2.506668">
+        <ele>523.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.781340" lon="2.505988">
+        <ele>519.7</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780950" lon="2.505768">
+        <ele>518.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780700" lon="2.505898">
+        <ele>518.8</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780460" lon="2.505828">
+        <ele>517.3</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780030" lon="2.506148">
+        <ele>512.0</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.779380" lon="2.508298">
+        <ele>497.1</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778780" lon="2.509518">
+        <ele>491.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778540" lon="2.509858">
+        <ele>490.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778010" lon="2.510178">
+        <ele>489.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777780" lon="2.510698">
+        <ele>489.4</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777270" lon="2.511058">
+        <ele>486.6</ele>
+        <time>2006-01-21T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776790" lon="2.512058">
+        <ele>484.2</ele>
+        <time>2006-01-22T03:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

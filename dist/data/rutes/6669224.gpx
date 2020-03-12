@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.001151" lon="1.509515">
+    <ele>662.0</ele>
+    <time>2014-04-25T14:54:30Z</time>
+    <name>FONT DE LA FULLA</name>
+    <desc>22-ENE-06 15:14:11</desc>
+  </wpt>
+  <wpt lat="42.001152" lon="1.507873">
+    <ele>663.9</ele>
+    <time>2014-04-25T14:54:30Z</time>
+    <name>PONT SOBRE EL BARRANC D'EN PALLARÈS</name>
+    <desc>22-ENE-06 15:15:50</desc>
+  </wpt>
+  <wpt lat="42.000770" lon="1.504610">
+    <ele>673.9</ele>
+    <time>2014-04-25T14:54:31Z</time>
+    <name>PONT</name>
+    <desc>22-ENE-06 15:18:39</desc>
+  </wpt>
+  <wpt lat="42.001117" lon="1.500322">
+    <ele>693.1</ele>
+    <time>2014-04-25T14:54:31Z</time>
+    <name>FONT DEL PARC</name>
+    <desc>22-ENE-06 15:26:34</desc>
+  </wpt>
+  <wpt lat="42.000400" lon="1.499904">
+    <ele>683.1</ele>
+    <time>2014-04-25T14:54:32Z</time>
+    <name>FONT DE LA MINA</name>
+    <desc>22-ENE-06 15:27:54</desc>
+  </wpt>
+  <wpt lat="42.000620" lon="1.500600">
+    <ele>680.9</ele>
+    <time>2014-04-25T14:54:32Z</time>
+    <name>FONT D'EN MANEL</name>
+    <desc>22-ENE-06 15:29:36</desc>
+  </wpt>
+  <wpt lat="42.004606" lon="1.498259">
+    <ele>691.0</ele>
+    <time>2014-04-25T14:54:33Z</time>
+    <name>FONT DELS FRARES</name>
+    <desc>22-ENE-06 15:42:19</desc>
+  </wpt>
+  <wpt lat="41.995076" lon="1.508957">
+    <ele>720.9</ele>
+    <time>2014-04-25T14:54:33Z</time>
+    <name>CARRER TRAGINERS</name>
+    <desc>CARRER TRAGINERS</desc>
+  </wpt>
+  <wpt lat="41.994694" lon="1.510059">
+    <ele>712.0</ele>
+    <time>2014-04-25T14:54:34Z</time>
+    <name>CARRER FORJA</name>
+    <desc>CARRER FORJA</desc>
+  </wpt>
+  <wpt lat="41.997628" lon="1.515086">
+    <ele>659.0</ele>
+    <time>2014-04-25T14:54:34Z</time>
+    <name>CRUÏLLA TRANSFORMADOR</name>
+    <desc>CRUÏLLA TRANSFORMADOR</desc>
+  </wpt>
+  <wpt lat="42.001773" lon="1.502407">
+    <ele>677.0</ele>
+    <time>2014-04-25T14:54:35Z</time>
+    <name>PONT DE PEDRA</name>
+    <desc>PONT DE PEDRA</desc>
+  </wpt>
+  <wpt lat="42.001890" lon="1.501994">
+    <ele>687.9</ele>
+    <time>2014-04-25T14:54:35Z</time>
+    <name>ERMITA DE SANT PERE MÀRTIR</name>
+    <desc>ERMITA DE SANT PERE MÀRTIR</desc>
+  </wpt>
+  <wpt lat="42.002527" lon="1.502140">
+    <ele>680.0</ele>
+    <time>2014-04-25T14:54:36Z</time>
+    <name>RESTAURANT DE LA FONT</name>
+    <desc>RESTAURANT DE LA FONT</desc>
+  </wpt>
+  <wpt lat="42.005025" lon="1.497265">
+    <ele>693.1</ele>
+    <time>2014-04-25T14:54:36Z</time>
+    <name>PONT</name>
+    <desc>PONT</desc>
+  </wpt>
+  <wpt lat="42.001922" lon="1.477097">
+    <ele>805.0</ele>
+    <time>2014-04-25T14:54:37Z</time>
+    <name>ROSA DEL MASNOU</name>
+    <desc>ROSA DEL MASNOU</desc>
+  </wpt>
+  <wpt lat="41.994807" lon="1.503060">
+    <ele>837.9</ele>
+    <time>2014-04-25T14:54:37Z</time>
+    <name>MARE DE DÉU DEL REMEI</name>
+    <desc>MARE DE DÉU DEL REMEI</desc>
+  </wpt>
+  <wpt lat="41.996008" lon="1.517436">
+    <ele>666.0</ele>
+    <time>2014-04-25T14:54:38Z</time>
+    <name>PLAÇA SANT ROC</name>
+    <desc>PLAÇA SANT ROC</desc>
+  </wpt>
+  <wpt lat="41.997123" lon="1.516307">
+    <ele>657.1</ele>
+    <time>2014-04-25T14:54:38Z</time>
+    <name>RIERA D'ALMONEDA</name>
+    <desc>RIERA D'ALMONEDA</desc>
+  </wpt>
+  <wpt lat="42.000576" lon="1.503733">
+    <ele>675.1</ele>
+    <time>2014-04-25T14:54:39Z</time>
+    <name>AQÜEDUCTE</name>
+    <desc>AQÜEDUCTE</desc>
+  </wpt>
+  <wpt lat="42.001298" lon="1.501821">
+    <ele>680.0</ele>
+    <time>2014-04-25T14:54:40Z</time>
+    <name>TÚNEL C-26</name>
+    <desc>TÚNEL C-26</desc>
+  </wpt>
+  <wpt lat="42.001042" lon="1.502907">
+    <ele>675.1</ele>
+    <time>2014-04-25T14:54:40Z</time>
+    <name>PONT</name>
+    <desc>PONT</desc>
+  </wpt>
+  <wpt lat="42.001711" lon="1.501732">
+    <ele>687.9</ele>
+    <time>2014-04-25T14:54:41Z</time>
+    <name>C-26</name>
+    <desc>C-26</desc>
+  </wpt>
+  <wpt lat="42.007215" lon="1.494268">
+    <ele>702.0</ele>
+    <time>2014-04-25T14:54:41Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.007295" lon="1.493862">
+    <ele>701.0</ele>
+    <time>2014-04-25T14:54:42Z</time>
+    <name>BARRANC DE PALLARÈS</name>
+    <desc>BARRANC DE PALLARÈS</desc>
+  </wpt>
+  <wpt lat="42.006588" lon="1.484697">
+    <ele>830.9</ele>
+    <time>2014-04-25T14:54:42Z</time>
+    <name>PALLARÈS DE BAIX</name>
+    <desc>PALLARÈS DE BAIX</desc>
+  </wpt>
+  <wpt lat="42.005456" lon="1.489976">
+    <ele>751.0</ele>
+    <time>2014-04-25T14:54:43Z</time>
+    <name>REVOLT</name>
+    <desc>REVOLT</desc>
+  </wpt>
+  <wpt lat="42.008734" lon="1.486448">
+    <ele>800.1</ele>
+    <time>2014-04-25T14:54:43Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.004241" lon="1.484570">
+    <ele>832.1</ele>
+    <time>2014-04-25T14:54:44Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.002134" lon="1.481498">
+    <ele>819.9</ele>
+    <time>2014-04-25T14:54:44Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.994814" lon="1.485102">
+    <ele>835.2</ele>
+    <time>2014-04-25T14:54:45Z</time>
+    <name>C-149</name>
+    <desc>C-149</desc>
+  </wpt>
+  <wpt lat="41.994434" lon="1.485552">
+    <ele>833.9</ele>
+    <time>2014-04-25T14:54:45Z</time>
+    <name>C-149</name>
+    <desc>C-149</desc>
+  </wpt>
+  <wpt lat="41.992976" lon="1.495389">
+    <ele>794.0</ele>
+    <time>2014-04-25T14:54:46Z</time>
+    <name>CAMÍ DE CASTELLVELL</name>
+    <desc>CAMÍ DE CASTELLVELL</desc>
+  </wpt>
+  <wpt lat="41.993629" lon="1.503740">
+    <ele>794.9</ele>
+    <time>2014-04-25T14:54:46Z</time>
+    <name>COTA 795</name>
+    <desc>COTA 795</desc>
+  </wpt>
+  <wpt lat="41.995540" lon="1.505583">
+    <ele>740.1</ele>
+    <time>2014-04-25T14:54:47Z</time>
+    <name>COTA 740</name>
+    <desc>COTA 740</desc>
+  </wpt>
+  <wpt lat="41.994467" lon="1.509968">
+    <ele>709.0</ele>
+    <time>2014-04-25T14:54:47Z</time>
+    <name>PUJADA DE CASTELLVELL</name>
+    <desc>PUJADA DE CASTELLVELL</desc>
+  </wpt>
+  <wpt lat="41.993079" lon="1.498319">
+    <ele>801.9</ele>
+    <time>2014-04-25T14:54:48Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.994486" lon="1.502014">
+    <ele>826.9</ele>
+    <time>2014-04-25T14:54:48Z</time>
+    <name>POBLAT IBÈRIC</name>
+    <desc>POBLAT IBÈRIC</desc>
+  </wpt>
+  <wpt lat="41.994503" lon="1.502837">
+    <ele>830.0</ele>
+    <time>2014-04-25T14:54:49Z</time>
+    <name>TORRE SUD</name>
+    <desc>TORRE SUD</desc>
+  </wpt>
+  <wpt lat="41.992867" lon="1.504534">
+    <ele>741.9</ele>
+    <time>2014-04-25T14:54:49Z</time>
+    <name>CAPUTXINS VELLS</name>
+    <desc>CAPUTXINS VELLS</desc>
+  </wpt>
+  <wpt lat="42.002173" lon="1.474296">
+    <ele>794.0</ele>
+    <time>2014-04-25T14:54:50Z</time>
+    <name>RASA DEL MASNOU</name>
+    <desc>RASA DEL MASNOU</desc>
+  </wpt>
+  <wpt lat="42.004662" lon="1.483002">
+    <ele>854.0</ele>
+    <time>2014-04-25T14:54:51Z</time>
+    <name>PALLARÈS DE DALT</name>
+    <desc>PALLARÈS DE DALT</desc>
+  </wpt>
+  <wpt lat="42.003873" lon="1.483244">
+    <ele>840.0</ele>
+    <time>2014-04-25T14:54:51Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.005354" lon="1.497584">
+    <ele>698.0</ele>
+    <time>2014-04-25T14:54:52Z</time>
+    <name>CAL FIGUERES</name>
+    <desc>CAL FIGUERES</desc>
+  </wpt>
+  <wpt lat="41.996441" lon="1.517324">
+    <ele>662.0</ele>
+    <time>2014-04-25T14:54:52Z</time>
+    <name>C-26</name>
+    <desc>C-26</desc>
+  </wpt>
+  <wpt lat="41.994710" lon="1.516029">
+    <ele>677.9</ele>
+    <time>2014-04-25T14:54:53Z</time>
+    <name>PASSEIG VALLFRED</name>
+    <desc>PASSEIG VALLFRED</desc>
+  </wpt>
+  <wpt lat="42.002346" lon="1.501397">
+    <ele>690.1</ele>
+    <time>2014-04-25T14:54:54Z</time>
+    <name>CAMÍ</name>
+    <desc>CAMÍ</desc>
+  </wpt>
+  <wpt lat="42.003932" lon="1.499702">
+    <ele>691.0</ele>
+    <time>2014-04-25T14:54:54Z</time>
+    <name>CRUÏLLA AL SERRAT DE LA TALAIA</name>
+    <desc>CRUÏLLA AL SERRAT DE LA TALAIA</desc>
+  </wpt>
+  <wpt lat="42.005403" lon="1.484234">
+    <ele>829.1</ele>
+    <time>2014-04-25T14:54:55Z</time>
+    <name>BASSA</name>
+    <desc>BASSA</desc>
+  </wpt>
+  <wpt lat="42.000722" lon="1.475248">
+    <ele>801.9</ele>
+    <time>2014-04-25T14:54:55Z</time>
+    <name>LÍNIA ELÈCTRICA</name>
+    <desc>LÍNIA ELÈCTRICA</desc>
+  </wpt>
+  <wpt lat="42.002086" lon="1.501452">
+    <ele>697.1</ele>
+    <time>2014-04-25T14:54:56Z</time>
+    <name>CAL MOSET</name>
+    <desc>CAL MOSET</desc>
+  </wpt>
+  <wpt lat="42.007410" lon="1.493380">
+    <ele>705.0</ele>
+    <time>2014-04-25T14:54:56Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.994126" lon="1.515055">
+    <ele>680.0</ele>
+    <time>2014-04-25T14:54:57Z</time>
+    <name>PLAÇA DEL CAMP</name>
+    <desc>PLAÇA DEL CAMP</desc>
+  </wpt>
+  <wpt lat="41.996427" lon="1.519429">
+    <ele>552.9</ele>
+    <time>2014-04-25T14:54:57Z</time>
+    <name>RIU NEGRE</name>
+    <desc>RIU NEGRE</desc>
+  </wpt>
+  <wpt lat="41.994917" lon="1.519867">
+    <ele>665.1</ele>
+    <time>2014-04-25T14:54:58Z</time>
+    <name>PORTAL DEL PONT</name>
+    <desc>PORTAL DEL PONT</desc>
+  </wpt>
+  <wpt lat="42.005517" lon="1.491126">
+    <ele>744.9</ele>
+    <time>2014-04-25T14:54:58Z</time>
+    <name>CRUÏLLA</name>
+    <desc>CRUÏLLA</desc>
+  </wpt>
+  <wpt lat="41.994897" lon="1.517203">
+    <ele>677.0</ele>
+    <time>2014-04-25T14:54:59Z</time>
+    <name>SOLSONA</name>
+    <desc>SOLSONA</desc>
+  </wpt>
+  <wpt lat="42.001519" lon="1.489586">
+    <ele>832.1</ele>
+    <time>2014-04-25T14:54:59Z</time>
+    <name>SERRAT DE LA TALAIA</name>
+    <desc>SERRAT DE LA TALAIA</desc>
+  </wpt>
+  <wpt lat="41.994152" lon="1.500206">
+    <ele>844.9</ele>
+    <time>2014-04-25T14:55:00Z</time>
+    <name>EL CASTELLVELL</name>
+    <desc>EL CASTELLVELL</desc>
+  </wpt>
+  <trk>
+    <name>De Solsona a Sant Pere Màrtir i Castellvell</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Solsona a Sant Pere Màrtir i Castellvell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Les rodalies de Solsona estan farcides de nombrosos indrets de gran atractiu natural i històric com les fonts de la Mina, dels Frares, de la Salamandra o el conjunt monumental de Castellvell, a Olius. Durant el trajecte, es pot gaudir a més de bones vistes panoràmiques de Sant Bernat, Sant Just, Montserrat, el Port del Comte i de la mateixa ciutat de Solsona.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (667 m). Cal partir de Solsona cap al N de la plaça de Sant Roc, travessar la carretera C-26 de Bassella i prendre una pista que surt a la dreta del garatge Catalunya en direcció NO i que baixa a la riera d'Almoneda. Es creua aquesta riera per un petit pont de ciment (km 0,20, 657 m) i es continua aïgues amunt pel camí ample de l'esquerra (NO). 
+ 
+0,31 km (657 m). A l'alçada d'un transformador, es travessa el Camí de la Creu Blanca i es prossegueix recte (NO). Es deixa a mà esquerra la font de la Fulla (km 1,02, 661 m), es creua el barranc de Pallarès per un pont (km 1,17, 670 m) i se segueix a la dreta (O) vorejant-lo fins a un altre pont (km 1,45, 676 m), per on cal travessar-lo de nou. 
+ 
+1,54 km (677 m). Es passa per sota d'un aqüeducte i, als 100 m, es deixa a l'esquerra (O) un altre pont. Es passa sota una arcada de pedra d'un altre antic pont i s'arriba al restaurant de la Font (km 1,78, 678 m). Cal girar en rodó (SE) per la carretera d'accés que ve de Solsona canviant totalment el sentit de la marxa i passar sota l'ermita de Sant Pere Màrtir. 
+ 
+1,94 km (685 m). Es deixa la carretera d'accés i es passa sota la C-26 seguint un rierol cap al SO. Uns metres més enllà, es troba la font d'en Manel (km 2,08, 686 m), la de la Mina (km 2,14, 690 m) i es remunta per les escales que hi ha a sobre seu. 
+ 
+2,25 km (693 m). Se surt a una esplanada on hi ha la font del Parc i es tomba a la dreta (NE) fins a sortir de nou a la carretera C-26 de Bassella, sota cal Moset i davant l'ermita de Sant Pere Màrtir. 
+ 
+2,39 km (689 m). Es travessa la carretera C-26 i, 70 m després, en acabar la corba, cal creuar-la de nou i seguir per un camí paral·lel a la carretera en direcció NO, de la qual ens separa el barranc de Pallarès. Per evitar creuar la carretera, a la font del Parc es pot girar a l'esquerra, fer un revolt i passar sobre cal Moset. En tots dos casos s'arriba a la cruïlla de la Talaia. 
+ 
+2,72 km (690 m). Cruïlla de la Talaia. Es travessa el barranc de Pallarès i se segueix cap al NO entre l'arbreda pel marge esquerre. A l'esquerra (O), s'observa la font dels Frares. Tot seguit, es deixa un pont a mà esquerra (O) i el mas de cal Figueres a la dreta (E). Després del mas, se surt sota mateix de la carretera C-26, que es té a la dreta (E). 
+ 
+3,37 km (700 m). Bifurcació. Se segueix uns metres cap al NO, es creua per darrera vegada el barranc de Pallarès, s'entra al bosc obac i, en un encreuament, es gira a l'esquerra (S) per la pista que duu a can Pallarès canviant de direcció. Es passa per davant d'un transformador i es continua per la pista principal tombant cap al N deixant diverses pistes secundàries a la dreta. 
+ 
+5,12 km (826 m). Pallarès de Baix. Uns metres més endavant (km 5,25, 829 m), es pren un desviament de l'esquerra (S) que passa pel costat d'una bassa. S'agafa el camí de dalt a la dreta. De seguida, es troba una nova bifurcació (km 5,41, 834 m) i es prossegueix a la dreta (SO). 
+ 
+5,53 km (839 m). Bifurcació. Es continua a l'esquerra (SO) deixant un camí a la dreta que, en 100 m, duu a Pallarès de Dalt. Es flanqueja la vall i es passa per sota del Masnou, on la pista ja està enquitranada. Després d'un revolt pronunciat, es deixa una desviació a mà dreta i, als 20 m, una altra a l'esquerra. Es discorre vora la línia elèctrica i es veu a la dreta, mig enfonsada sota uns boixos, la font de la Salamandra. 
+ 
+8,09 km (835 m). Després d'una central elèctrica, se surt a la carretera C-149a, que duu a Sant Climent. A partir d'ara, cal seguir els senyals blancs i vermells del GR 7 (sender de gran recorregut) fins a Solsona. Es pren la C-149 a la dreta (SE) en direcció a Solsona i, als 20 m, cal deixar-la i seguir per una pista de l'esquerra (SE). Es continua pel camí principal deixant tres trencalls a mà dreta, dos amb cadena, i es passa pel costat d'una torre d'alta tensió. 
+ 
+9,03 km (794 m). Després d'una bassa, apareix una esplanada i el camí de Castellvell, avui enquitranat, que ve de la C-149. Cal prendre'l uns metres a l'esquerra (E) i trencar també a l'esquerra (N; km 9,27, 802 m) per un caminet que deixa a mà dreta el turó del Calvari (845 m), des d'on es tenen àmplies vistes panoràmiques de la contrada. 
+ 
+9,81 km (823 m). Se surt de nou a la carretera de Castellvell. Aquests darrers 500 m, perdedors, es poden fer també per la carretera. Just abans d'arribar a Castellvell, hi ha, a mà esquerra i dalt d'un turonet, les restes d'un antic poblat ibèric. Es passa una bassa i es troben a la dreta les ruïnes de l'antiga església romànica de Sant Miquel de Castellvell i, dins del recinte del castell, el santuari del segle XV de la Mare de Déu del Remei. Es volta la muralla de Castellvell per un camí empedrat que porta al peu de la torre de la cara sud. Es baixa a l'esquerra, pel solei, per un antic camí romà i, als 35 m, es deixa un trencall a la dreta. 
+ 
+10,23 km (793 m). A sota a la dreta, es pot veure, al costat de la carretera, la casa dels Caputxins Vells. Alguns trams del trajecte són difícils de fer en bicicleta i caldrà seguir a peu. Una altra possibilitat és tornar per la carretera enquitranada de Castellvell a Solsona. Es deixa un desviament a l'esquerra cap a la cabana del Ton i la creu de terme i se segueix recte cap a llevant. 
+ 
+10,83 km (723 m). S'arriba al camí que porta a cal Robert i es davalla pel carrer dels Traginers entrant a Solsona. Es pren a la dreta el carrer de la Forja i, després, per l'esquerra, es baixa pel Camí de Castellvell. Es prossegueix recte deixant a la dreta la plaça del Camp seguint pel passeig Vallfred fins a la plaça de Sant Roc. 
+ 
+11,72 km (667 m). Plaça de Sant Roc de Solsona, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Solsona a Sant Pere Màrtir y Castellvell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Los alrededores de Solsona están repletos de numerosos parajes de gran atractivo natural e histórico como las fuentes de la Mina, de Els Frares, de la Salamandra o el conjunto monumental de Castellvell, en Olius. Durante el trayecto, se puede disfrutar, además, de buenas vistas panorámicas de Sant Bernat, Sant Just, Montserrat, el Port del Comte y de la propia ciudad de Solsona.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (667 m). Hay que partir de Solsona hacia el N desde la plaza de Sant Roc, cruzar la carretera C-26 de Bassella y tomar una pista que sale a la derecha del garaje Catalunya en dirección NO y que baja al arroyo de Almoneda. Se cruza este arroyo por un pequeño puente de cemento (km 0,20, 657 m) y se continúa aguas arriba por el camino ancho de la izquierda (NO). 
+ 
+0,31 km (657 m). A la altura de un transformador, se atraviesa el Camí de la Creu Blanca y se sigue recto (NO). Se deja a mano izquierda la fuente de la Fulla (km 1,02, 661 m), se cruza el barranco de Pallarès por un puente (km 1,17, 670 m) y se sigue a la derecha (O) bordeándolo hasta otro puente (km 1,45, 676 m), por donde hay que cruzarlo de nuevo. 
+ 
+1,54 km (677 m). Se pasa por debajo de un acueducto y, a los 100 m, se deja a la izquierda (O) otro puente. Se pasa bajo una arcada de piedra de otro antiguo puente y se llega al restaurante de la Font (km 1,78, 678 m). Hay que girar en redondo (SE) por la carretera de acceso que viene de Solsona cambiando totalmente el sentido de la marcha y pasar bajo la ermita de Sant Pere Mártir. 
+ 
+1,94 km (685 m). Se deja la carretera de acceso y se pasa bajo la C-26 siguiendo un arroyo hacia el SO. Unos metros más allá, se encuentra la fuente de En Manel (km 2,08, 686 m), la de la Mina (km 2,14, 690 m) y se remonta por las escaleras que hay encima suyo. 
+ 
+2,25 km (693 m). Se sale a una explanada donde está la fuente del Parc y se gira a la derecha (NE) hasta salir de nuevo a la carretera C-26 de Bassella, bajo Cal Moset y delante de la ermita de Sant Pere Màrtir. 
+ 
+2,39 km (689 m). Se cruza la carretera C-26 y, 70 m después, al terminar la curva, hay que cruzarla de nuevo y seguir por un camino paralelo a la carretera en dirección NO, de la que nos separa el barranco de Pallarès. Para evitar cruzar la carretera, en la fuente del Parc se puede girar a la izquierda, hacer una curva y pasar sobre Cal Moset. En ambos casos se llega al cruce de la Talaia. 
+ 
+2,72 km (690 m). Cruce de la Talaia. Se cruza el barranco de Pallarès y se sigue hacia el NO entre la arboleda por el margen izquierdo. A la izquierda (O), se observa la fuente de Els Frares. A continuación, se deja un puente a mano izquierda (O) y la masía de Cal Figueres a la derecha (E). Después de la masía, se sale debajo de la carretera C-26, que se tiene a la derecha (E). 
+ 
+3,37 km (700 m). Bifurcación. Se sigue unos metros hacia el NO, se cruza por última vez el barranco de Pallarès, se entra en el bosque sombrío y, en un cruce, se gira a la izquierda (S) por la pista que lleva a Can Pallarès cambiando de dirección. Se pasa por delante de un transformador y se continúa por la pista principal girando hacia el N dejando varias pistas secundarias a la derecha. 
+ 
+5,12 km (826 m). Pallarès de Baix. Unos metros más adelante (km 5,25, 829 m), se toma un desvío de la izquierda (S) que pasa junto a una balsa. Se coge el camino de arriba a la derecha. Enseguida, se encuentra una nueva bifurcación (km 5,41, 834 m) y se prosigue a la derecha (SO). 
+ 
+5,53 km (839 m). Bifurcación. Se sigue a la izquierda (SO) dejando un camino a la derecha que, en 100 m, lleva a Pallarès de Dalt. Se flanquea el valle y se pasa por debajo del Masnou, donde la pista ya está asfaltada. Después de una curva pronunciada, se deja un desvío a mano derecha y, a los 20 m, otro a la izquierda. Se discurre cerca de la línea eléctrica y se ve a la derecha, medio hundida bajo unos bojes, la fuente de la Salamandra. 
+ 
+8,09 km (835 m). Después de una central eléctrica, se sale a la carretera C-149a, que lleva a Sant Climent. A partir de ahora, hay que seguir las señales blancas y rojas del GR 7 (sendero de gran recorrido) hasta Solsona. Se toma la C-149 a la derecha (SE) en dirección a Solsona y, a los 20 m, hay que dejarla y seguir por una pista de la izquierda (SE). Se continúa por el camino principal dejando tres desvíos a mano derecha, dos con cadena, y se pasa junto a una torre de alta tensión. 
+ 
+9,03 km (794 m). Después de una balsa, aparece una explanada y el Camí de Castellvell, hoy asfaltado, que viene de la C-149. Hay que tomarlo unos metros a la izquierda (E) y desviarse también a la izquierda (N; km 9,27, 802 m) por un camino que deja a mano derecha el cerro del Calvari (845 m), desde donde se tienen amplias vistas panorámicas de la zona. 
+ 
+9,81 km (823 m). Se sale de nuevo a la carretera de Castellvell. Estos últimos 500 m, perdedores, se pueden hacer también por la carretera. Justo antes de llegar a Castellvell, hay, a mano izquierda y encima de una colina, los restos de un antiguo poblado ibérico. Se pasa una balsa y se encuentran a la derecha las ruinas de la antigua iglesia románica de Sant Miquel de Castellvell y, dentro del recinto del castillo, el santuario del siglo XV de la Mare de Déu del Remei. Se rodea la muralla de Castellvell por un camino empedrado que lleva al pie de la torre de la cara sur. Se baja a la izquierda, por la solana, por un antiguo camino romano y, a los 35 m, se deja un desvío a la derecha. 
+ 
+10,23 km (793 m). Abajo a la derecha, se puede ver, junto a la carretera, la casa de Els Caputxins Vells. Algunos tramos del trayecto son difíciles de hacer en bicicleta y habrá que seguir a pie. Otra posibilidad es volver por la carretera asfaltada de Castellvell a Solsona. Se deja un desvío a la izquierda hacia la cabaña del Ton y la cruz de término y se sigue recto hacia levante. 
+ 
+10,83 km (723 m). Se llega al camino que lleva a Cal Robert y se baja por la calle de Els Traginers entrando en Solsona. Se toma a la derecha la calle de la Forja y, después, por la izquierda, se baja por el Camí de Castellvell. Se sigue recto dejando a la derecha la plaza del Camp siguiendo por el paseo Vallfred hasta la plaza de Sant Roc. 
+ 
+11,72 km (667 m). Plaza de Sant Roc de Solsona, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Solsona to Sant Pere Màrtir and Castellvell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The surroundings of Solsona are crammed with spots of great natural and historic interest, such as the springs of La Mina, Els Frares, La Salamandra or the Castellvell monuments, in Olius. Along the way we enjoy fine panoramic views of Sant Bernat, Sant Just, Montserrat, Port del Comte and the city of Solsona.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.995940" lon="1.517625">
+        <ele>667.2</ele>
+        <time>2006-01-22T14:05:50Z</time>
+      </trkpt>
+      <trkpt lat="41.996197" lon="1.517293">
+        <ele>664.8</ele>
+        <time>2006-01-22T14:06:25Z</time>
+      </trkpt>
+      <trkpt lat="41.996442" lon="1.517378">
+        <ele>663.2</ele>
+        <time>2006-01-22T14:07:19Z</time>
+      </trkpt>
+      <trkpt lat="41.997549" lon="1.515619">
+        <ele>655.5</ele>
+        <time>2006-01-23T07:20:29Z</time>
+      </trkpt>
+      <trkpt lat="41.997764" lon="1.514461">
+        <ele>657.5</ele>
+        <time>2006-01-22T14:08:20Z</time>
+      </trkpt>
+      <trkpt lat="41.998282" lon="1.513803">
+        <ele>658.2</ele>
+        <time>2006-02-01T11:09:56Z</time>
+      </trkpt>
+      <trkpt lat="41.998087" lon="1.512666">
+        <ele>659.0</ele>
+        <time>2006-01-22T14:09:53Z</time>
+      </trkpt>
+      <trkpt lat="41.998333" lon="1.512540">
+        <ele>660.0</ele>
+        <time>2006-01-22T14:10:08Z</time>
+      </trkpt>
+      <trkpt lat="41.998980" lon="1.512736">
+        <ele>659.5</ele>
+        <time>2006-01-22T14:10:26Z</time>
+      </trkpt>
+      <trkpt lat="41.999324" lon="1.512535">
+        <ele>665.0</ele>
+        <time>2006-01-22T14:10:55Z</time>
+      </trkpt>
+      <trkpt lat="42.000383" lon="1.511188">
+        <ele>661.1</ele>
+        <time>2006-01-22T14:11:56Z</time>
+      </trkpt>
+      <trkpt lat="42.001152" lon="1.509612">
+        <ele>660.6</ele>
+        <time>2006-01-22T14:13:56Z</time>
+      </trkpt>
+      <trkpt lat="42.001249" lon="1.508046">
+        <ele>668.4</ele>
+        <time>2006-01-22T14:15:17Z</time>
+      </trkpt>
+      <trkpt lat="42.000887" lon="1.506877">
+        <ele>674.2</ele>
+        <time>2006-01-22T14:16:31Z</time>
+      </trkpt>
+      <trkpt lat="42.000988" lon="1.505661">
+        <ele>669.8</ele>
+        <time>2006-01-22T14:17:04Z</time>
+      </trkpt>
+      <trkpt lat="42.000596" lon="1.503545">
+        <ele>677.5</ele>
+        <time>2006-01-22T14:19:48Z</time>
+      </trkpt>
+      <trkpt lat="42.000781" lon="1.503221">
+        <ele>674.9</ele>
+        <time>2006-01-22T14:20:21Z</time>
+      </trkpt>
+      <trkpt lat="42.001784" lon="1.502437">
+        <ele>676.7</ele>
+        <time>2006-01-22T14:21:23Z</time>
+      </trkpt>
+      <trkpt lat="42.002312" lon="1.502207">
+        <ele>677.3</ele>
+        <time>2006-01-22T14:22:10Z</time>
+      </trkpt>
+      <trkpt lat="42.002435" lon="1.501999">
+        <ele>678.5</ele>
+        <time>2006-02-01T11:16:02Z</time>
+      </trkpt>
+      <trkpt lat="42.002338" lon="1.501934">
+        <ele>681.3</ele>
+        <time>2006-01-22T14:22:40Z</time>
+      </trkpt>
+      <trkpt lat="42.001746" lon="1.502287">
+        <ele>679.9</ele>
+        <time>2006-01-22T14:22:48Z</time>
+      </trkpt>
+      <trkpt lat="42.001556" lon="1.502231">
+        <ele>680.5</ele>
+        <time>2006-01-22T14:31:10Z</time>
+      </trkpt>
+      <trkpt lat="42.000658" lon="1.500743">
+        <ele>686.2</ele>
+        <time>2006-01-22T14:29:49Z</time>
+      </trkpt>
+      <trkpt lat="42.000391" lon="1.499940">
+        <ele>690.7</ele>
+        <time>2006-01-22T14:28:09Z</time>
+      </trkpt>
+      <trkpt lat="42.000766" lon="1.500402">
+        <ele>692.0</ele>
+        <time>2006-01-22T14:26:52Z</time>
+      </trkpt>
+      <trkpt lat="42.001071" lon="1.500298">
+        <ele>693.5</ele>
+        <time>2006-01-22T14:26:36Z</time>
+      </trkpt>
+      <trkpt lat="42.001660" lon="1.501269">
+        <ele>689.8</ele>
+        <time>2006-01-22T14:25:12Z</time>
+      </trkpt>
+      <trkpt lat="42.001775" lon="1.501767">
+        <ele>688.9</ele>
+        <time>2006-01-22T14:24:23Z</time>
+      </trkpt>
+      <trkpt lat="42.002161" lon="1.501716">
+        <ele>691.1</ele>
+        <time>2006-01-22T14:37:12Z</time>
+      </trkpt>
+      <trkpt lat="42.003385" lon="1.499918">
+        <ele>692.5</ele>
+        <time>2006-01-22T14:39:46Z</time>
+      </trkpt>
+      <trkpt lat="42.003674" lon="1.499664">
+        <ele>693.9</ele>
+        <time>2006-01-22T14:39:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003967" lon="1.499645">
+        <ele>689.9</ele>
+        <time>2006-01-22T14:40:09Z</time>
+      </trkpt>
+      <trkpt lat="42.005215" lon="1.497273">
+        <ele>694.8</ele>
+        <time>2006-01-22T14:43:23Z</time>
+      </trkpt>
+      <trkpt lat="42.005831" lon="1.497216">
+        <ele>698.1</ele>
+        <time>2006-01-22T14:44:04Z</time>
+      </trkpt>
+      <trkpt lat="42.005826" lon="1.496534">
+        <ele>694.5</ele>
+        <time>2006-02-01T11:19:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006004" lon="1.495987">
+        <ele>699.6</ele>
+        <time>2006-01-22T14:44:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006183" lon="1.495620">
+        <ele>699.7</ele>
+        <time>2006-01-22T14:45:30Z</time>
+      </trkpt>
+      <trkpt lat="42.006974" lon="1.494799">
+        <ele>701.0</ele>
+        <time>2006-01-20T18:24:35Z</time>
+      </trkpt>
+      <trkpt lat="42.007397" lon="1.493412">
+        <ele>704.7</ele>
+        <time>2006-01-20T18:25:06Z</time>
+      </trkpt>
+      <trkpt lat="42.007288" lon="1.493318">
+        <ele>706.3</ele>
+        <time>2006-01-20T18:25:12Z</time>
+      </trkpt>
+      <trkpt lat="42.006573" lon="1.494071">
+        <ele>715.6</ele>
+        <time>2006-01-20T18:25:35Z</time>
+      </trkpt>
+      <trkpt lat="42.005794" lon="1.494041">
+        <ele>722.9</ele>
+        <time>2006-02-01T11:19:27Z</time>
+      </trkpt>
+      <trkpt lat="42.005602" lon="1.493847">
+        <ele>722.3</ele>
+        <time>2006-01-20T18:25:53Z</time>
+      </trkpt>
+      <trkpt lat="42.005432" lon="1.492583">
+        <ele>728.0</ele>
+        <time>2006-01-20T18:26:22Z</time>
+      </trkpt>
+      <trkpt lat="42.005480" lon="1.491731">
+        <ele>735.4</ele>
+        <time>2006-01-20T18:26:31Z</time>
+      </trkpt>
+      <trkpt lat="42.005304" lon="1.491415">
+        <ele>733.0</ele>
+        <time>2006-02-01T11:20:01Z</time>
+      </trkpt>
+      <trkpt lat="42.005600" lon="1.490770">
+        <ele>741.4</ele>
+        <time>2006-01-20T18:27:09Z</time>
+      </trkpt>
+      <trkpt lat="42.005443" lon="1.490011">
+        <ele>748.1</ele>
+        <time>2006-01-20T18:27:21Z</time>
+      </trkpt>
+      <trkpt lat="42.005555" lon="1.489948">
+        <ele>751.5</ele>
+        <time>2006-01-20T18:27:25Z</time>
+      </trkpt>
+      <trkpt lat="42.005857" lon="1.490291">
+        <ele>752.1</ele>
+        <time>2006-01-20T18:27:32Z</time>
+      </trkpt>
+      <trkpt lat="42.006431" lon="1.491521">
+        <ele>764.0</ele>
+        <time>2006-01-20T18:27:52Z</time>
+      </trkpt>
+      <trkpt lat="42.006706" lon="1.491484">
+        <ele>769.6</ele>
+        <time>2006-01-20T18:27:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006956" lon="1.490669">
+        <ele>779.3</ele>
+        <time>2006-01-20T18:28:11Z</time>
+      </trkpt>
+      <trkpt lat="42.007647" lon="1.490128">
+        <ele>777.1</ele>
+        <time>2006-02-01T11:20:52Z</time>
+      </trkpt>
+      <trkpt lat="42.007555" lon="1.488971">
+        <ele>787.2</ele>
+        <time>2006-01-20T18:28:57Z</time>
+      </trkpt>
+      <trkpt lat="42.007737" lon="1.488459">
+        <ele>790.0</ele>
+        <time>2006-01-20T18:29:05Z</time>
+      </trkpt>
+      <trkpt lat="42.008377" lon="1.488160">
+        <ele>795.1</ele>
+        <time>2006-01-20T18:29:19Z</time>
+      </trkpt>
+      <trkpt lat="42.008748" lon="1.487584">
+        <ele>797.9</ele>
+        <time>2006-01-20T18:29:39Z</time>
+      </trkpt>
+      <trkpt lat="42.008570" lon="1.487087">
+        <ele>798.3</ele>
+        <time>2006-02-01T10:44:15Z</time>
+      </trkpt>
+      <trkpt lat="42.008740" lon="1.486570">
+        <ele>800.7</ele>
+        <time>2006-01-20T18:30:02Z</time>
+      </trkpt>
+      <trkpt lat="42.008520" lon="1.485971">
+        <ele>803.5</ele>
+        <time>2006-01-20T18:30:14Z</time>
+      </trkpt>
+      <trkpt lat="42.007860" lon="1.486150">
+        <ele>811.8</ele>
+        <time>2006-01-20T18:30:30Z</time>
+      </trkpt>
+      <trkpt lat="42.007029" lon="1.485578">
+        <ele>818.0</ele>
+        <time>2006-01-20T18:32:13Z</time>
+      </trkpt>
+      <trkpt lat="42.006960" lon="1.484801">
+        <ele>823.7</ele>
+        <time>2006-01-20T18:32:26Z</time>
+      </trkpt>
+      <trkpt lat="42.006466" lon="1.484921">
+        <ele>827.9</ele>
+        <time>2006-01-20T18:32:37Z</time>
+      </trkpt>
+      <trkpt lat="42.005638" lon="1.484277">
+        <ele>829.3</ele>
+        <time>2006-01-20T18:32:56Z</time>
+      </trkpt>
+      <trkpt lat="42.004607" lon="1.484627">
+        <ele>831.2</ele>
+        <time>2006-01-20T18:33:39Z</time>
+      </trkpt>
+      <trkpt lat="42.004262" lon="1.484551">
+        <ele>833.6</ele>
+        <time>2006-01-20T18:33:45Z</time>
+      </trkpt>
+      <trkpt lat="42.003877" lon="1.483244">
+        <ele>839.1</ele>
+        <time>2006-01-20T18:40:26Z</time>
+      </trkpt>
+      <trkpt lat="42.002834" lon="1.482985">
+        <ele>828.1</ele>
+        <time>2006-01-20T18:51:28Z</time>
+      </trkpt>
+      <trkpt lat="42.003272" lon="1.482437">
+        <ele>826.2</ele>
+        <time>2006-01-20T18:51:49Z</time>
+      </trkpt>
+      <trkpt lat="42.003278" lon="1.482147">
+        <ele>825.0</ele>
+        <time>2006-01-20T18:51:54Z</time>
+      </trkpt>
+      <trkpt lat="42.002904" lon="1.481800">
+        <ele>825.0</ele>
+        <time>2006-01-20T18:52:05Z</time>
+      </trkpt>
+      <trkpt lat="42.002222" lon="1.481659">
+        <ele>823.6</ele>
+        <time>2006-01-20T18:52:25Z</time>
+      </trkpt>
+      <trkpt lat="42.002152" lon="1.481449">
+        <ele>822.0</ele>
+        <time>2006-01-20T18:52:29Z</time>
+      </trkpt>
+      <trkpt lat="42.002962" lon="1.479734">
+        <ele>815.3</ele>
+        <time>2006-01-20T18:53:06Z</time>
+      </trkpt>
+      <trkpt lat="42.003141" lon="1.479030">
+        <ele>812.9</ele>
+        <time>2006-01-20T18:53:35Z</time>
+      </trkpt>
+      <trkpt lat="42.002674" lon="1.478105">
+        <ele>807.7</ele>
+        <time>2006-01-20T18:54:32Z</time>
+      </trkpt>
+      <trkpt lat="42.001841" lon="1.477419">
+        <ele>802.8</ele>
+        <time>2006-01-20T18:55:03Z</time>
+      </trkpt>
+      <trkpt lat="42.001748" lon="1.477174">
+        <ele>802.8</ele>
+        <time>2006-01-20T18:55:12Z</time>
+      </trkpt>
+      <trkpt lat="42.001811" lon="1.476188">
+        <ele>801.9</ele>
+        <time>2006-01-20T18:55:26Z</time>
+      </trkpt>
+      <trkpt lat="42.002428" lon="1.475159">
+        <ele>798.6</ele>
+        <time>2006-01-20T18:55:45Z</time>
+      </trkpt>
+      <trkpt lat="42.002128" lon="1.474285">
+        <ele>793.7</ele>
+        <time>2006-01-20T18:56:08Z</time>
+      </trkpt>
+      <trkpt lat="42.001500" lon="1.475157">
+        <ele>799.5</ele>
+        <time>2006-01-20T18:56:20Z</time>
+      </trkpt>
+      <trkpt lat="42.000717" lon="1.475212">
+        <ele>798.9</ele>
+        <time>2006-01-20T18:56:36Z</time>
+      </trkpt>
+      <trkpt lat="42.000680" lon="1.475473">
+        <ele>800.4</ele>
+        <time>2006-01-20T18:56:43Z</time>
+      </trkpt>
+      <trkpt lat="42.000971" lon="1.475979">
+        <ele>804.4</ele>
+        <time>2006-01-20T18:56:51Z</time>
+      </trkpt>
+      <trkpt lat="42.000711" lon="1.476456">
+        <ele>805.3</ele>
+        <time>2006-01-20T18:56:55Z</time>
+      </trkpt>
+      <trkpt lat="42.000335" lon="1.478318">
+        <ele>804.4</ele>
+        <time>2006-01-20T18:57:11Z</time>
+      </trkpt>
+      <trkpt lat="42.000073" lon="1.478885">
+        <ele>806.8</ele>
+        <time>2006-01-20T18:57:18Z</time>
+      </trkpt>
+      <trkpt lat="42.000115" lon="1.479414">
+        <ele>808.6</ele>
+        <time>2006-01-20T18:57:23Z</time>
+      </trkpt>
+      <trkpt lat="41.999745" lon="1.480008">
+        <ele>811.1</ele>
+        <time>2006-01-20T18:57:27Z</time>
+      </trkpt>
+      <trkpt lat="41.999308" lon="1.480333">
+        <ele>811.4</ele>
+        <time>2006-01-20T18:57:34Z</time>
+      </trkpt>
+      <trkpt lat="41.998460" lon="1.479900">
+        <ele>812.9</ele>
+        <time>2006-01-20T18:57:41Z</time>
+      </trkpt>
+      <trkpt lat="41.998245" lon="1.479954">
+        <ele>813.5</ele>
+        <time>2006-01-20T18:57:45Z</time>
+      </trkpt>
+      <trkpt lat="41.997860" lon="1.481496">
+        <ele>817.8</ele>
+        <time>2006-01-20T18:57:57Z</time>
+      </trkpt>
+      <trkpt lat="41.996717" lon="1.482592">
+        <ele>828.8</ele>
+        <time>2006-01-20T18:58:15Z</time>
+      </trkpt>
+      <trkpt lat="41.996558" lon="1.483543">
+        <ele>831.2</ele>
+        <time>2006-01-20T18:58:30Z</time>
+      </trkpt>
+      <trkpt lat="41.996106" lon="1.484417">
+        <ele>834.5</ele>
+        <time>2006-01-20T18:58:35Z</time>
+      </trkpt>
+      <trkpt lat="41.995808" lon="1.484714">
+        <ele>835.5</ele>
+        <time>2006-01-20T18:58:40Z</time>
+      </trkpt>
+      <trkpt lat="41.994805" lon="1.485148">
+        <ele>835.5</ele>
+        <time>2006-01-20T18:58:54Z</time>
+      </trkpt>
+      <trkpt lat="41.994530" lon="1.485499">
+        <ele>835.2</ele>
+        <time>2006-01-22T13:29:33Z</time>
+      </trkpt>
+      <trkpt lat="41.994083" lon="1.487079">
+        <ele>834.8</ele>
+        <time>2006-01-22T13:30:17Z</time>
+      </trkpt>
+      <trkpt lat="41.994086" lon="1.488655">
+        <ele>827.0</ele>
+        <time>2006-01-22T13:30:45Z</time>
+      </trkpt>
+      <trkpt lat="41.993630" lon="1.489890">
+        <ele>822.9</ele>
+        <time>2006-01-22T13:31:53Z</time>
+      </trkpt>
+      <trkpt lat="41.993676" lon="1.490349">
+        <ele>821.3</ele>
+        <time>2006-01-22T13:32:02Z</time>
+      </trkpt>
+      <trkpt lat="41.994006" lon="1.490818">
+        <ele>823.2</ele>
+        <time>2006-01-22T13:32:20Z</time>
+      </trkpt>
+      <trkpt lat="41.994147" lon="1.491949">
+        <ele>819.1</ele>
+        <time>2006-01-22T13:32:56Z</time>
+      </trkpt>
+      <trkpt lat="41.993772" lon="1.492550">
+        <ele>815.4</ele>
+        <time>2006-01-22T13:33:37Z</time>
+      </trkpt>
+      <trkpt lat="41.993447" lon="1.494193">
+        <ele>803.0</ele>
+        <time>2006-01-22T13:35:22Z</time>
+      </trkpt>
+      <trkpt lat="41.993016" lon="1.495338">
+        <ele>793.5</ele>
+        <time>2006-01-22T13:35:59Z</time>
+      </trkpt>
+      <trkpt lat="41.992906" lon="1.496560">
+        <ele>793.9</ele>
+        <time>2006-01-22T13:37:18Z</time>
+      </trkpt>
+      <trkpt lat="41.993071" lon="1.498168">
+        <ele>800.1</ele>
+        <time>2006-01-22T13:37:48Z</time>
+      </trkpt>
+      <trkpt lat="41.993123" lon="1.498342">
+        <ele>802.0</ele>
+        <time>2006-01-22T13:37:53Z</time>
+      </trkpt>
+      <trkpt lat="41.993903" lon="1.498070">
+        <ele>799.9</ele>
+        <time>2006-01-22T13:43:08Z</time>
+      </trkpt>
+      <trkpt lat="41.994292" lon="1.498212">
+        <ele>801.5</ele>
+        <time>2006-01-22T13:43:30Z</time>
+      </trkpt>
+      <trkpt lat="41.994971" lon="1.498854">
+        <ele>805.3</ele>
+        <time>2006-01-22T13:45:07Z</time>
+      </trkpt>
+      <trkpt lat="41.995187" lon="1.499827">
+        <ele>803.6</ele>
+        <time>2006-02-01T11:08:25Z</time>
+      </trkpt>
+      <trkpt lat="41.994974" lon="1.500110">
+        <ele>815.2</ele>
+        <time>2006-01-22T13:45:58Z</time>
+      </trkpt>
+      <trkpt lat="41.994696" lon="1.501535">
+        <ele>825.8</ele>
+        <time>2006-01-22T13:50:51Z</time>
+      </trkpt>
+      <trkpt lat="41.994329" lon="1.502044">
+        <ele>822.6</ele>
+        <time>2006-01-22T13:51:22Z</time>
+      </trkpt>
+      <trkpt lat="41.994543" lon="1.502227">
+        <ele>827.6</ele>
+        <time>2006-01-22T13:51:33Z</time>
+      </trkpt>
+      <trkpt lat="41.994622" lon="1.502756">
+        <ele>832.9</ele>
+        <time>2006-01-22T13:52:08Z</time>
+      </trkpt>
+      <trkpt lat="41.994925" lon="1.502876">
+        <ele>836.7</ele>
+        <time>2006-01-22T13:52:24Z</time>
+      </trkpt>
+      <trkpt lat="41.995028" lon="1.503193">
+        <ele>838.5</ele>
+        <time>2006-01-22T13:52:44Z</time>
+      </trkpt>
+      <trkpt lat="41.994738" lon="1.503357">
+        <ele>831.1</ele>
+        <time>2006-01-22T13:53:05Z</time>
+      </trkpt>
+      <trkpt lat="41.994379" lon="1.502466">
+        <ele>819.5</ele>
+        <time>2006-01-22T13:54:00Z</time>
+      </trkpt>
+      <trkpt lat="41.994290" lon="1.502920">
+        <ele>812.2</ele>
+        <time>2006-01-22T13:54:16Z</time>
+      </trkpt>
+      <trkpt lat="41.994022" lon="1.503042">
+        <ele>806.6</ele>
+        <time>2006-01-22T13:54:31Z</time>
+      </trkpt>
+      <trkpt lat="41.993639" lon="1.503751">
+        <ele>792.7</ele>
+        <time>2006-01-22T13:55:03Z</time>
+      </trkpt>
+      <trkpt lat="41.993941" lon="1.504088">
+        <ele>786.4</ele>
+        <time>2006-01-22T13:55:21Z</time>
+      </trkpt>
+      <trkpt lat="41.994085" lon="1.504779">
+        <ele>776.2</ele>
+        <time>2006-01-22T13:55:44Z</time>
+      </trkpt>
+      <trkpt lat="41.994240" lon="1.504932">
+        <ele>774.3</ele>
+        <time>2006-01-22T13:55:52Z</time>
+      </trkpt>
+      <trkpt lat="41.995240" lon="1.505130">
+        <ele>756.1</ele>
+        <time>2006-01-22T13:56:39Z</time>
+      </trkpt>
+      <trkpt lat="41.995606" lon="1.505359">
+        <ele>744.9</ele>
+        <time>2006-01-22T13:57:00Z</time>
+      </trkpt>
+      <trkpt lat="41.995544" lon="1.505801">
+        <ele>739.1</ele>
+        <time>2006-01-22T13:57:17Z</time>
+      </trkpt>
+      <trkpt lat="41.995679" lon="1.506178">
+        <ele>734.6</ele>
+        <time>2006-01-22T13:57:31Z</time>
+      </trkpt>
+      <trkpt lat="41.995351" lon="1.506874">
+        <ele>729.2</ele>
+        <time>2006-01-22T13:58:07Z</time>
+      </trkpt>
+      <trkpt lat="41.995238" lon="1.508567">
+        <ele>724.9</ele>
+        <time>2006-01-22T13:58:52Z</time>
+      </trkpt>
+      <trkpt lat="41.994884" lon="1.509777">
+        <ele>713.0</ele>
+        <time>2006-01-22T13:59:32Z</time>
+      </trkpt>
+      <trkpt lat="41.994700" lon="1.510010">
+        <ele>711.1</ele>
+        <time>2006-01-22T13:59:39Z</time>
+      </trkpt>
+      <trkpt lat="41.994432" lon="1.509962">
+        <ele>707.0</ele>
+        <time>2006-01-22T13:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.994112" lon="1.512433">
+        <ele>687.6</ele>
+        <time>2006-01-22T14:02:52Z</time>
+      </trkpt>
+      <trkpt lat="41.994244" lon="1.513202">
+        <ele>685.1</ele>
+        <time>2006-01-22T14:03:01Z</time>
+      </trkpt>
+      <trkpt lat="41.994119" lon="1.513664">
+        <ele>683.3</ele>
+        <time>2006-01-22T14:04:40Z</time>
+      </trkpt>
+      <trkpt lat="41.994292" lon="1.515152">
+        <ele>680.3</ele>
+        <time>2006-01-22T14:04:56Z</time>
+      </trkpt>
+      <trkpt lat="41.994740" lon="1.516077">
+        <ele>679.1</ele>
+        <time>2006-01-22T14:05:11Z</time>
+      </trkpt>
+      <trkpt lat="41.996009" lon="1.517050">
+        <ele>667.0</ele>
+        <time>2006-01-22T14:05:24Z</time>
+      </trkpt>
+      <trkpt lat="41.995917" lon="1.517595">
+        <ele>667.4</ele>
+        <time>2006-01-22T14:05:41Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

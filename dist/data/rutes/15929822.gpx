@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.176501" lon="1.326468">
+    <ele>49.7</ele>
+    <time>2014-04-28T13:09:23Z</time>
+    <name>Inici i final</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.195303" lon="1.328262">
+    <ele>131.1</ele>
+    <time>2014-04-28T13:09:24Z</time>
+    <name>Presa de l'embassament de Gaià</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.175333" lon="1.324162">
+    <ele>75.9</ele>
+    <time>2014-04-28T13:09:26Z</time>
+    <name>Castell del Catllar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.176793" lon="1.327044">
+    <ele>44.8</ele>
+    <time>2016-11-08T08:04:33Z</time>
+    <name>Plafó informatiu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.191269" lon="1.308723">
+    <ele>108.8</ele>
+    <time>2016-11-08T09:29:20Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.187707" lon="1.304531">
+    <ele>101.2</ele>
+    <time>2016-11-08T09:32:48Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.186074" lon="1.304546">
+    <ele>97.5</ele>
+    <time>2016-11-08T09:35:31Z</time>
+    <name>Caseta d'aigua</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.186044" lon="1.308321">
+    <ele>87.8</ele>
+    <time>2016-11-08T09:55:37Z</time>
+    <name>Bassa temporània de la Plana del Catllar</name>
+    <desc>Espai en custòdia del Gaià</desc>
+  </wpt>
+  <wpt lat="41.179651" lon="1.328624">
+    <ele>65.2</ele>
+    <time>2016-11-08T10:32:52Z</time>
+    <name>Sant Ramon</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.183970" lon="1.328318">
+    <ele>72.2</ele>
+    <time>2016-12-07T17:50:15Z</time>
+    <name>Cabana de pedra seca</name>
+    <desc>ensorrada</desc>
+  </wpt>
+  <wpt lat="41.184944" lon="1.328043">
+    <ele>74.4</ele>
+    <time>2016-12-07T17:50:32Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.185363" lon="1.328408">
+    <ele>77.4</ele>
+    <time>2016-12-07T17:50:49Z</time>
+    <name>Parets de pedra seca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.188856" lon="1.325032">
+    <ele>103.9</ele>
+    <time>2016-12-07T17:51:09Z</time>
+    <name>Petita balma</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.188642" lon="1.323466">
+    <ele>112.5</ele>
+    <time>2016-12-07T17:51:20Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.193176" lon="1.321057">
+    <ele>128.9</ele>
+    <time>2016-12-07T17:51:38Z</time>
+    <name>GR 172 i Camí de Sant Jaume</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.190821" lon="1.313057">
+    <ele>127.4</ele>
+    <time>2016-12-07T17:52:40Z</time>
+    <name>Barraca de pedra seca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.190852" lon="1.313730">
+    <ele>128.3</ele>
+    <time>2016-12-07T18:14:09Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.188306" lon="1.306215">
+    <ele>110.9</ele>
+    <time>2016-12-07T18:24:35Z</time>
+    <name>Mas de Teret. Restaurant Natura</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.187262" lon="1.303866">
+    <ele>97.8</ele>
+    <time>2016-12-07T18:29:02Z</time>
+    <name>FFCC Reus-Barà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.187627" lon="1.303326">
+    <ele>97.8</ele>
+    <time>2016-12-07T18:30:40Z</time>
+    <name>TAV</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.182493" lon="1.328009">
+    <ele>70.4</ele>
+    <time>2016-12-07T18:41:22Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.183764" lon="1.328406">
+    <ele>72.8</ele>
+    <time>2016-12-07T18:42:47Z</time>
+    <name>Pal curt</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Del Catllar a l'embassament de Gaia, la Plana i el fondo de Mas Pasqual</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; Del Catllar a l'embassament de Gaia, la Plana i el fondo de Mas Pasqual&lt;/b&gt;&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El terme del Catllar, accidentat pels darrers contraforts de la serralada Litoral, està travessat pel riu Gaià. La construcció d’un pantà per a l’abastament de la indústria petroquímica del Tarragonès ha deixat el curs fluvial pràcticament sec. Amb tot, el recorregut permet conèixer un entorn on encara és fàcil discernir un paisatge rural de forta personalitat. L’itinerari que aquí es proposa puja fins a l'embassament, es dirigeix cap a ponent, fins als environs de la Plana -on en determinades èpoques es forma la bassa de la Plana, un minúscul ecosistema aquàtic temporal- i torna a casa pel fondo de Mas Pasqual, entre camins atermenats amb marges de pedra seca i conreus de secà.&lt;/i&gt; 
+Ruta senyalitzada parcialment. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta comença a la població del Catllar. Per arribar-hi des de Tarragona, cal prendre la carretera N-340 en direcció a Altafulla i trencar a l'esquerra per la via local TP-2039. Un cop al Catllar cal situar-se al veïnat de la Font, ubicat al nord del poble, entre la carretera i la llera del Gaià, baixant-hi pel carrer de la Font. Si s’hi arriba per mitjans propis, un ampli espai d’aparcament a tocar del riu -que disposa d’un servei higiènic per a autocaravanes turístiques- permet l’estacionament còmode del vehicle. 
+ 
+0,00 km (48 m). El Catllar. Estacionament de la Font, al costat de la llera del riu Gaià. Plafons informatius sobre itineraris i entorn. Se surt de l’estacionament en direcció nord pel camí asfaltat, mantenint el curs del riu a mà dreta. Fins a l’accés a la presa de Gaià s’aniran seguint les indicacions i els senyals blancs i vermells del sender GR 172 i les del Camí de Sant Jaume. Es travessa el nucli fabril de la Farga. 
+ 
+0,50 km (67 m), 8 min. Accés a l’ermita de Sant Ramon; s’hi fa cap perquè és un bon mirador del Catllar. Es continua camí amunt, ara tombant cap al NO. 
+ 
+0,88 km (70m), min. Bifurcació. Es continua recte, pel camí asfaltat. Després es tornarà pel trencall de l’esquerra. Es passa per sota el pont de l’antiga línia de FFCC de Reus a Roda de Berà, actualment en desús, i s’arriba a una bifurcació enfront del talús del tren d’alta velocitat. Es tomba a l’esquerra deixant a mà dreta (E) les runes d’una vella barraca de pedra seca i es passa la línia de tren per un pas soterrat. 
+ 
+1,18 km (74 m), 15 min. A l’altra banda del pas soterrat es desemboca en una pista. Es gira a la dreta i, al cap de 50 metres es pren la pista que surt a mà esquerra en direcció NO, seguint els senyals del GR. Es discorre per un camí fitat amb marges de pedra seca que va perdent amplada fins a esdevenir un camí de bast. Més enllà, al costat d’una petita balma de roca (1,80 km, 105 m), el camí gira a ponent durant un tram de 100 m i es torna a encarar al NO. Es creua un camí i es continua recte (senyalització). 
+ 
+2,52 km (129 m), 36 min. Camí d’accés a la presa del Gaià. Es gira a la dreta (NE) deixant els senyals del GR 172 i del Camí de Sant Jaume, que continuen recte, cap al nord, dirigint-se a Renau i Nulles. 
+ 
+3,34 km (131 m), 48 min. Centre de la presa de l’embassament de Gaià, amb àmplies vistes a banda i banda de la vall. La seva construcció va finalitzar l’any 1975; l’obra té una alçada de 79 m i una longitud de coronació de 384 m. Podria embassar fins a 60,4 hm3 d’aigua en una superfície de 326,2 ha. Amb tot, normalment n’empantana molta menys perquè el seu disseny va ser clarament sobredimensionat. Es retorna al punt on s’ha deixat el GR i es continua recte, seguint la pista cap al SO, deixant trencalls secundaris a dreta i esquerra. 
+ 
+5,30 km (108 m), 1 h 15 min. Cal parar atenció a aquesta desviació (un pal curt n’indica el lloc) per deixar la pista que se seguia i tombar a l’esquerra, cap al S. El recorregut descriu una àmplia ziga-zaga i se situa al costat del mas de Teret, actualment un restaurant amb un ampli espai enjardinat al seu entorn (5,90 km, 111 m). Es deixa l’entrada al mas a l’esquerra i es torna a dibuixar una essa. 
+ 
+6,03 km (102 m), 1 h 25 min. Es desemboca de nou a la pista que ressegueix la línia de tren d’alta velocitat; es gira a la dreta (O) i, cent metres enllà, es creua la línia per sota, girant a l’esquerra (S). A l’altra banda es gira a l’esquerra (E) i, immediatament després, a la dreta (S). Es creua la línia de FFCC en desús Reus-Barà i es continua recte al S. 
+ 
+6,41 km (99 m), 1 h 30 min. Desviació al costat d’una caseta d’una bomba d’aigua de rec. Es torça totalment a l’esquerra (N) seguint el camí que voreja un bosquet de pins i alzines. El camí gira de nou al SE i entra a la Plana, on en determinades èpoques de l’any s’origina una bassa temporània que constitueix un petit ecosistema aquàtic de notable interès, integrat dins de la Xarxa d’Espais Naturals en règim de Custòdia del Gaià. Tombant a llevant es travessa aquest entorn; se segueix el camí més marcat, deixant el bosc sempre a la dreta (S). S’entra al fondo del Mas Pasqual, una suau clotada de configuració molt plana, clapejada de bosquines i camps de conreu amb ametllers, oliveres i vinya on el camí s’eixampla i adquireix una configuració molt ben definida pels marges de pedra seca. Sempre cap a llevant s’arriba al camí d’anada. 
+ 
+8,70 km (70 m), 2 h 3 min. Es desemboca al camí asfaltat utilitzat a l’anada; ara es pren cap a la dreta (S) per desfer el recorregut fins al punt de sortida. 
+ 
+9,47 km (48 m), 2 h 15 min. El Catllar. Espai d’estacionament de la Font; fi de l'itinerari. 
+ 
+Abans o després de l'excursió cal visitar la vila, el seu nucli antic presidit per l’esvelta església de Sant Joan Baptista i el seu magnífic castell medieval, erigit entre els segles XIII i XIV damunt d’un assentament iber. Del conjunt fortificat, se’n conserva part de les muralles i dues torres rectangulars amb espitlleres, finestres i elements defensius. El pont de pedra sobre el fossat és del segle XVI. Està declarat Bé Cultural d’Interès Nacional.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De El Catllar al embalse de Gaià, la Plana y el fondo de Mas Pascual&lt;/b&gt;&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El término de El Catllar, accidentado por los últimos contrafuertes de la cordillera Litoral, está atravesado por el río Gaià. La construcción de un pantano para el abastecimiento de la industria petroquímica del Tarragonès ha dejado el curso fluvial prácticamente seco. Con todo, el recorrido permite conocer un entorno donde aún es fácil discernir un paisaje rural de fuerte personalidad. El itinerario que aquí se propone sube hasta el embalse, se dirige hacia el oeste, hasta los alrededores de la Plana -donde en determinadas épocas se forma la balsa de la Plana, un minúsculo ecosistema acuático temporario- y vuelve a casa por fondo de Mas Pascual, entre caminos delimitados por márgenes de piedra seca y cultivos de secano.&lt;/i&gt; 
+Ruta señalizada parcialmente. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta empieza en la población de El Catllar. Para llegar a esta población desde Tarragona hay que tomar la carretera N-340 en dirección a Altafulla y girar a la izquierda por la vía local TP-2039. Una vez en El Catllar hay que situarse en el vecindario de la Font, ubicado al norte del pueblo, entre la carretera y el cauce del Gaià, bajando por la calle de la Font. Si se llega con medios propios, un amplio espacio de aparcamiento junto al río -que dispone de un servicio higiénico para autocaravanas turísticas- permite el estacionamiento cómodo del vehículo. 
+ 
+0,00 km (48 m). El Catllar. Estacionamiento de la Font, junto al cauce del río Gaià. Paneles informativos sobre itinerarios y entorno. Se sale del estacionamiento en dirección norte por el camino asfaltado, manteniendo el curso del río a mano derecha. Hasta el acceso a la presa de Gaià se irán siguiendo las indicaciones y las señales blancas y rojas del sendero GR 172 y las del Camino de Santiago. Se atraviesa el núcleo fabril de la Farga. 
+ 
+0,50 km (67 m), 8 min. Acceso a la ermita de San Ramón; se llega hasta la entrada porque es un buen mirador de El Catllar. Se continúa camino arriba, ahora girando hacia el NO. 
+ 
+0,88 km (70m), min. Bifurcación. Se sigue recto, por el camino asfaltado. Después se volverá por el desvío de la izquierda. Se pasa por debajo del puente de la antigua línea de FFCC de Reus a Roda de Barà, actualmente en desuso, y se llega a una bifurcación frente del talud del tren de alta velocidad. Se gira a la izquierda dejando a mano derecha (E) los escombros de una vieja barraca de piedra seca y se pasa la línea de tren por un paso subterráneo. 
+ 
+1,18 km (74 m), 15 min. Al otro lado del paso subterráneo se desemboca en una pista. Se gira a la derecha y, al cabo de 50 metros se toma la pista que sale a mano izquierda en dirección NO, siguiendo las señales del GR. Se discurre por un camino acotado con márgenes de piedra seca que va perdiendo anchura hasta convertirse en un camino de herradura. Más allá, junto a una pequeña gruta de roca (1,80 km, 105 m), el camino gira a poniente durante un tramo de 100 metros y se vuelve a encarar al NO. Se cruza un camino y se sigue recto (señalización). 
+ 
+2,52 km (129 m), 36 min. Camino de acceso a la presa del Gaià. Se gira a la derecha (NE) dejando las señales del GR 172 y del Camino de Santiago, que continúan recto, hacia el norte, dirigiéndose a Renau y Nulles. 
+ 
+3,34 km (131 m), 48 min. Centro de la presa del embalse de Gaià, con amplias vistas a ambos lados del valle. Su construcción finalizó en 1975; la obra tiene una altura de 79 m y una longitud de coronación de 384 m. Podría embalsar hasta 60,4 hm3 de agua en una superficie de 326,2 ha. Con todo, normalmente recoge mucha menos porque su diseño fue claramente sobredimensionado. Se vuelve al punto donde se ha dejado el GR y se sigue recto, siguiendo la pista hacia el SO, dejando desvíos secundarios a derecha e izquierda. 
+ 
+5,30 km (108 m), 1 h 15 min. Hay que prestar atención a esta desviación (un palo corto indica el lugar) para dejar la pista que se seguía y girar a la izquierda, hacia el S. El recorrido describe un amplio zigzag y se sitúa al lado del Mas de Teret, actualmente un restaurante con un amplio espacio ajardinado en su entorno (5,90 km, 111 m). Se deja la entrada a la masía a la izquierda y se vuelve a trazar una ese. 
+ 
+6,03 km (102 m), 1 h 25 min. Se desemboca de nuevo en la pista que sigue la línea de tren de alta velocidad; se gira a la derecha (O) y, cien metros más allá, se cruza el ferrocarril por debajo, girando a la izquierda (S). Al otro lado se gira a la izquierda (E) e, inmediatamente después, a la derecha (S). Se cruza la línea de FFCC en desuso Reus-Barà y se sigue recto al S. 
+ 
+6,41 km (99 m), 1 h 30 min. Desviación junto a una caseta de una bomba de agua de riego. Se tuerce totalmente a la izquierda (N) siguiendo el camino que bordea un bosque de pinos y carrascas. El camino gira de nuevo el SE y entra en la Plana, donde en determinadas épocas del año se origina una balsa temporaria que constituye un pequeño ecosistema acuático de notable interés, integrado dentro de la Red de Espacios Naturales en régimen de Custodia del Gaià. Girando a levante se atraviesa este entorno; se sigue el camino más marcado, dejando el bosque siempre a la derecha (S). Se entra en el fondo del Mas Pascual, una suave hondonada de configuración muy plana, moteada de arbredos y campos de cultivo con almendros, olivos y viñedos, donde el camino se ensancha y adquiere una configuración muy bien definida por los márgenes de piedra seca. Siempre hacia levante se llega al camino de ida. 
+ 
+8,70 km (70 m), 2 h 3 min. Se desemboca en el camino asfaltado utilizado en la ida; ahora se toma hacia la derecha (S) para deshacer el recorrido hasta el punto de salida. 
+ 
+9,47 km (48 m), 2 h 15 min. El Catllar. Espacio de estacionamiento de la Fuente; fin del itinerario. 
+ 
+Antes o después de la excursión hay que visitar la villa, su casco antiguo presidido por la esbelta iglesia de Sant Joan Baptista y su magnífico castillo medieval, erigido entre los siglos XIII y XIV sobre un asentamiento íbero. Del conjunto fortificado se conserva parte de las murallas y dos torres rectangulares con aspilleras, ventanas y elementos defensivos. El puente de piedra sobre el foso es del siglo XVI. Está declarado Bien Cultural de Interés Nacional.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.176505" lon="1.326548">
+        <ele>48.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.176696" lon="1.326959">
+        <ele>45.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178060" lon="1.327592">
+        <ele>50.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178603" lon="1.328079">
+        <ele>48.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178947" lon="1.328207">
+        <ele>52.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179260" lon="1.328020">
+        <ele>57.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179463" lon="1.328683">
+        <ele>62.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179882" lon="1.328970">
+        <ele>64.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.180090" lon="1.328774">
+        <ele>67.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179681" lon="1.328492">
+        <ele>65.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.180090" lon="1.328774">
+        <ele>67.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.182027" lon="1.327860">
+        <ele>70.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.183311" lon="1.328197">
+        <ele>73.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.183734" lon="1.328449">
+        <ele>72.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184342" lon="1.327843">
+        <ele>71.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184885" lon="1.328026">
+        <ele>73.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184762" lon="1.328590">
+        <ele>75.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184890" lon="1.328724">
+        <ele>76.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.188897" lon="1.325036">
+        <ele>104.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.188781" lon="1.324186">
+        <ele>107.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.188534" lon="1.323608">
+        <ele>111.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.189389" lon="1.322907">
+        <ele>115.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.189705" lon="1.322380">
+        <ele>115.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190798" lon="1.322233">
+        <ele>120.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.191631" lon="1.322289">
+        <ele>124.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193206" lon="1.321077">
+        <ele>128.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193761" lon="1.322217">
+        <ele>134.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193579" lon="1.323366">
+        <ele>140.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194016" lon="1.324011">
+        <ele>138.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193992" lon="1.325458">
+        <ele>135.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194324" lon="1.325673">
+        <ele>135.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.195018" lon="1.325345">
+        <ele>133.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194459" lon="1.325962">
+        <ele>130.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.195265" lon="1.328135">
+        <ele>131.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194459" lon="1.325962">
+        <ele>130.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.195018" lon="1.325345">
+        <ele>133.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194324" lon="1.325673">
+        <ele>135.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193992" lon="1.325458">
+        <ele>135.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.194016" lon="1.324011">
+        <ele>138.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193579" lon="1.323366">
+        <ele>140.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.193732" lon="1.322080">
+        <ele>133.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190831" lon="1.317122">
+        <ele>127.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190624" lon="1.316501">
+        <ele>130.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.191335" lon="1.308856">
+        <ele>107.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.191176" lon="1.308734">
+        <ele>108.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190203" lon="1.308748">
+        <ele>107.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190009" lon="1.308377">
+        <ele>108.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.190080" lon="1.307129">
+        <ele>105.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.189899" lon="1.306758">
+        <ele>101.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.189426" lon="1.306401">
+        <ele>102.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.188341" lon="1.306184">
+        <ele>111.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.188850" lon="1.305235">
+        <ele>113.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187737" lon="1.304590">
+        <ele>101.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187747" lon="1.303421">
+        <ele>98.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187485" lon="1.303407">
+        <ele>97.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187384" lon="1.303887">
+        <ele>96.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187163" lon="1.303904">
+        <ele>97.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.187070" lon="1.304282">
+        <ele>94.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.186558" lon="1.304081">
+        <ele>96.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.186137" lon="1.304277">
+        <ele>96.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185970" lon="1.304579">
+        <ele>99.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.186391" lon="1.304705">
+        <ele>96.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.186319" lon="1.304999">
+        <ele>96.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185618" lon="1.305434">
+        <ele>100.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185215" lon="1.305868">
+        <ele>101.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185353" lon="1.306109">
+        <ele>100.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185688" lon="1.306196">
+        <ele>97.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185861" lon="1.306656">
+        <ele>93.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185979" lon="1.309461">
+        <ele>87.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185620" lon="1.311407">
+        <ele>84.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185695" lon="1.312198">
+        <ele>82.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184610" lon="1.315387">
+        <ele>81.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185114" lon="1.317198">
+        <ele>78.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.185045" lon="1.318637">
+        <ele>77.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184632" lon="1.319965">
+        <ele>72.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184630" lon="1.320741">
+        <ele>72.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184818" lon="1.321296">
+        <ele>71.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.184731" lon="1.322706">
+        <ele>69.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.183083" lon="1.327392">
+        <ele>65.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.182722" lon="1.327938">
+        <ele>69.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.181946" lon="1.327880">
+        <ele>70.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.180408" lon="1.328535">
+        <ele>68.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179882" lon="1.328970">
+        <ele>64.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179463" lon="1.328683">
+        <ele>62.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.179260" lon="1.328020">
+        <ele>57.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178947" lon="1.328207">
+        <ele>52.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178603" lon="1.328079">
+        <ele>48.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.178060" lon="1.327592">
+        <ele>50.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.176696" lon="1.326959">
+        <ele>45.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.176505" lon="1.326548">
+        <ele>48.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

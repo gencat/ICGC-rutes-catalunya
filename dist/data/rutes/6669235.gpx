@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.359736" lon="1.093518">
+    <ele>956.8</ele>
+    <time>2014-04-25T14:55:55Z</time>
+    <name>MIRADOR DE LA PENA</name>
+    <desc>MIRADOR DE LA PENA</desc>
+  </wpt>
+  <wpt lat="41.376169" lon="1.088341">
+    <ele>528.5</ele>
+    <time>2014-04-25T14:55:56Z</time>
+    <name>CASETA D'INFORMACIÓ</name>
+    <desc>CASETA D'INFORMACIÓ</desc>
+  </wpt>
+  <wpt lat="41.379258" lon="1.091019">
+    <ele>517.6</ele>
+    <time>2014-04-25T14:55:56Z</time>
+    <name>ALBERG JAUME I</name>
+    <desc>ALBERG JAUME I</desc>
+  </wpt>
+  <wpt lat="41.360854" lon="1.089803">
+    <ele>836.1</ele>
+    <time>2014-04-25T14:55:57Z</time>
+    <name>POU DE GEL</name>
+    <desc>POU DE GEL</desc>
+  </wpt>
+  <wpt lat="41.361324" lon="1.091792">
+    <ele>882.1</ele>
+    <time>2014-04-25T14:55:57Z</time>
+    <name>LA PENA</name>
+    <desc>LA PENA</desc>
+  </wpt>
+  <wpt lat="41.368059" lon="1.086584">
+    <ele>633.4</ele>
+    <time>2014-04-25T14:55:58Z</time>
+    <name>PEDRERA DEL PI</name>
+    <desc>PEDRERA DEL PI</desc>
+  </wpt>
+  <wpt lat="41.368004" lon="1.088684">
+    <ele>616.3</ele>
+    <time>2014-04-25T14:55:58Z</time>
+    <name>PEDRERA DELS AUBINS</name>
+    <desc>PEDRERA DELS AUBINS</desc>
+  </wpt>
+  <wpt lat="41.364477" lon="1.089170">
+    <ele>754.1</ele>
+    <time>2014-04-25T14:55:59Z</time>
+    <name>TARTERA DE MATA-RUCS</name>
+    <desc>TARTERA DE MATA-RUCS</desc>
+  </wpt>
+  <wpt lat="41.360650" lon="1.094147">
+    <ele>904.3</ele>
+    <time>2014-04-25T14:55:59Z</time>
+    <name>FONT DEL DEPORT</name>
+    <desc>FONT DEL DEPORT</desc>
+  </wpt>
+  <wpt lat="41.368153" lon="1.085435">
+    <ele>604.1</ele>
+    <time>2014-04-25T14:56:00Z</time>
+    <name>PEDRERA DE L'ESCOLTA</name>
+    <desc>PEDRERA DE L'ESCOLTA</desc>
+  </wpt>
+  <wpt lat="41.360460" lon="1.090185">
+    <ele>847.3</ele>
+    <time>2014-04-25T14:56:00Z</time>
+    <name>LA CASCADA</name>
+    <desc>LA CASCADA</desc>
+  </wpt>
+  <wpt lat="41.361582" lon="1.089787">
+    <ele>811.4</ele>
+    <time>2014-04-25T14:56:01Z</time>
+    <name>LA TRONA</name>
+    <desc>LA TRONA</desc>
+  </wpt>
+  <wpt lat="41.362988" lon="1.085777">
+    <ele>697.4</ele>
+    <time>2014-04-25T14:56:01Z</time>
+    <name>TORRENT DELS BOIXETS</name>
+    <desc>TORRENT DELS BOIXETS</desc>
+  </wpt>
+  <wpt lat="41.362180" lon="1.087791">
+    <ele>750.4</ele>
+    <time>2014-04-25T14:56:02Z</time>
+    <name>CARBONERA</name>
+    <desc>CARBONERA</desc>
+  </wpt>
+  <trk>
+    <name>Itinerari de natura per l'alzinar de la Pena. De l'alberg Jaume I al mirador de la Pena</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Itinerari de natura per l'alzinar de la Pena. De l'alberg Jaume I al mirador de la Pena&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari que s'endinsa pel barranc de la Pena o de Sant Bernat, al Paratge Natural de Poblet, per una frondosa i variada vegetació entre la qual destaca l'abundant presència de l'alzinar, però on també es distingeixen pinedes, boscos de ribera, al llarg del barranc, i caducifolis a les zones de major altitud. Es troben antigues pedreres, carboneres, pous de gel i cases forestals que testimonien l'ús secular d'aquest entorn muntanyenc. Des del mirador de la Pena, es gaudeix a més d'una extensa panoràmica dels boscos de Poblet, la Conca de Barberà i les serres veïnes. Itinerari senyalitzat pel Departament de Medi Ambient i Habitatge de la Generalitat de Catalunya.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per accedir al punt de sortida de l'itinerari des de Montblanc, cal prendre la carretera N-240 cap a ponent fins a l'Espluga de Francolí i seguir per la TV-7001 en direcció sud-oest fins al monestir de Poblet, les Masies i l'alberg Jaume I, o per la TV-7007, directament des de l'Espluga de Francolí fins a les Masies. Si s'hi vol anar en transport públic, es pot arribar en tren fins a l'Espluga de Francolí i a peu fins a l'alberg. 
+ 
+0,00 km (508 m). L'itinerari s'inicia a l'alberg Jaume I, situat entre l'Espluga de Francolí i les Masies, des d'on se segueix per la carretera TV-7007 en direcció S cap a Poblet. 
+ 
+0,59 km (529 m), 0 h 07 min. Caseta d'informació del Paratge Natural de Poblet, situada a l'esquerra de la carretera, des d'on s'agafa la pista forestal senyalitzada en direcció S cap a la Pena. 
+ 
+0,83 km (555 m), 0 h 12 min. En un revolt pronunciat de 180 graus cap al N es deixa la pista principal i se n'agafa una altra que continua recte (S) començant l'ascensió del barranc de Sant Bernat per l'antic camí de la Pedrera. 
+ 
+1,42 km (584 m), 0 h 22 min. Cruïlla de tres camins. Es deixa la pista per un camí que surt a mà dreta (SO). A l'esquerra, hi ha el camí per on es tornarà després. Una mica més amunt, es troba l'antiga pedrera de l'Escolta. Es continua pujant i es travessa el barranc en diferents punts. 
+ 
+2,24 km (685 m), 0 h 40 min. Bifurcació. Es gira a l'esquerra (SE) deixant un trencall a la dreta que es dirigeix a la pista que puja per l'altra banda del barranc. Més amunt, s'arriba a un paratge anomenat la Plaça de la Llibertat (km 2,34, 696 m). El camí continua en direcció SE, uns metres més enllà creua el torrent dels Boixets i més amunt es pot observar l'indret d'una antiga carbonera utilitzada per a l'obtenció de carbó d'alzina. 
+ 
+3,11 km (818 m), 1 h 02 min. La Trona. Se surt a la pista que remunta des de la carretera i que s'ha utilitzat per començar l'excursió. Cal seguir-la a l'esquerra (S) i deixar-la immediatament per dirigir-se cap al pou de gel que es troba a l'esquerra, 10 m per sobre de la pista. Després de visitar la construcció, es continua cap a llevant fins a tornar a la pista estalviant-se el revolt amb què aquesta rodeja el pou. S'observa, en aquest punt, un camí que se'n va a l'esquerra (NE) i que després es farà servir per tornar. Se segueix a la dreta (S) per la pista, es passa pel bonic indret de la Cascada, es fa un gir de 180 graus i s'arriba a una bifurcació (km 3,68, 874 m). Es deixa a mà dreta la continuació de la pista i se segueix fins a la casa forestal de la Pena (N). 
+ 
+3,82 km (883 m), 1 h 22 min. Casa forestal de la Pena, edificada sobre una antiga granja medieval construïda pels monjos cistercencs aprofitant un antic assentament romà. Es passa pel davant de la casa i, en direcció S, es pren, en acabar-se la pista, el camí que passa pel costat d'una bassa i gira immediatament a l'est fins a trobar la continuació de la pista anterior. 
+ 
+4,10 km (903 m), 1 h 27 min. Pista forestal i font del Deport. Cal seguir-la a la dreta (SE) segons es venia i deixar-la immediatament per tal d'agafar el camí que s'enfila a l'esquerra fins al mirador de la Pena -situat al S, sobre el tallat de roca-, camí que es bifurca en dos trencalls, qualsevol dels quals duu al mirador. 
+ 
+4,65 km (971 m), 1 h 40 min. Mirador de la Pena, punt més alt del recorregut des d'on s'obté una excel·lent panoràmica del Paratge Natural de Poblet. Ara cal baixar fins a la bifurcació deixada abans vora el pou de gel. 
+ 
+5,95 km (841 m), 2 h. Bifurcació de camins al costat est del pou de gel. Es pren el que se'n va a la dreta (NE) i que davalla per la bella senda de Mata-rucs. 
+ 
+7,50 km (636 m), 2 h 25 min. Després de diverses ziga-zagues, el camí desemboca a l'altura de l'antiga pedrera del Pi, que es troba a mà esquerra (O). Es continua pel camí. 200 m més enllà, s'és en una altra pedrera, la dels Aubins. Es continua fent un gir de 180 graus a l'oest i es torna a descendir fins a retrobar la pista de pujada, que ara se segueix cap al N fins a tornar al punt de partida. 
+ 
+9,47 km (508 m), 2 h 52 min. Alberg Jaume I. Fi del recorregut. Es pot aprofitar la resta del dia per visitar alguns dels extraordinaris punts d'interès dels entorns: Poblet, l'Espluga de Francolí o Montblanc.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Itinerario de naturaleza por el encinar de la Pena. Del albergue Jaume I al mirador de la Pena&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario que se adentra por el barranco de la Pena o de Sant Bernat, en el Paraje Natural de Poblet, por una frondosa y variada vegetación entre la que destaca la abundante presencia del encinar, pero donde también se distinguen pinares, bosques de ribera, a lo largo del barranco, y caducifolios en las zonas de mayor altitud. Se encuentran antiguas canteras, carboneras, pozos de hielo y casas forestales que atestiguan el uso secular de este entorno montañoso. Desde el mirador de la Pena, se disfruta además de una extensa panorámica de los bosques de Poblet, la Conca de Barberà y las cordilleras vecinas. Itinerario señalizado por el Departament de Medi Ambient i Habitatge de la Generalitat de Catalunya.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Para acceder al punto de salida del itinerario desde Montblanc, hay que tomar la carretera N-240 hacia poniente hasta L'Espluga de Francolí y seguir por la TV-7001 en dirección SO hasta el monasterio de Poblet, Les Masies y el albergue Jaume I, o la TV-7007, directamente desde L'Espluga de Francolí hasta Les Masies. Si se quiere ir en transporte público, se puede llegar en tren hasta L'Espluga de Francolí y andar hasta el albergue. 
+ 
+0,00 km (508 m). El itinerario se inicia en el albergue Jaume I, situado entre L'Espluga de Francolí y Les Masies, desde donde se sigue por la carretera TV-7007 en dirección S hacia Poblet. 
+ 
+0,59 km (529 m), 0 h 07 min. Caseta de información del Paraje Natural de Poblet, situada a la izquierda de la carretera, desde donde se toma la pista forestal señalizada en dirección S hacia la Pena. 
+ 
+0,83 km (555 m), 0 h 12 min. En una curva pronunciada de 180 grados hacia el N, se deja la pista principal y se toma otra que sigue recto (S) iniciando la ascensión del barranco de Sant Bernat por el antiguo camino de la Pedrera. 
+ 
+1,42 km (584 m), 0 h 22 min. Cruce de tres caminos. Se deja la pista por un camino que sale a mano derecha (SO). A la izquierda, está el camino por el que se volverá después. Un poco más arriba, se halla la antigua cantera de L'Escolta. Se sigue subiendo y se cruza el barranco en diferentes puntos. 
+ 
+2,24 km (685 m), 0 h 40 min. Bifurcación. Se gira a la izquierda (SE) dejando un desvío a la derecha que se dirige a la pista que sube por el otro lado del barranco. Más arriba, se llega al paraje llamado Plaça de la Llibertat (km 2,34, 696 m). El camino sigue en dirección SE, unos metros más allá cruza el torrente de Els Boixets y más arriba se puede observar el lugar de una antigua carbonera utilizada para la obtención de carbón de encina. 
+ 
+3,11 km (818 m), 1 h 02 min. La Trona. Se sale a la pista que sube desde la carretera y que se ha utilizado para iniciar la excursión. Hay que seguirla a la izquierda (S) y dejarla inmediatamente para dirigirse al pozo de hielo que se encuentra a la izquierda, 10 m por encima de la pista. Tras visitar la construcción, se sigue hacia levante hasta hallarnos de nuevo en la pista ahorrándonos la curva con que ésta rodea el pozo. Se observa, en este punto, un camino que se va a la izquierda (NE) y que después se utilizará para regresar. Se sigue a la derecha (S) por la pista, se pasa por el bello lugar de la Cascada, se hace un giro de 180 grados y se llega a una bifurcación (km 3,68, 874 m). Se deja a mano derecha la continuación de la pista y se sigue hasta la casa forestal de la Pena (N) 
+ 
+3,82 km (883 m), 1 h 22 min. Casa forestal de la Pena, edificada sobre una antigua granja medieval construida por los monjes cistercienses aprovechando un antiguo asentamiento romano. Se pasa por delante de la casa y, en dirección S, se toma, al terminar la pista, el camino que pasa junto a una balsa y gira inmediatamente al este hasta encontrar la continuación de la pista anterior. 
+ 
+4,10 km (903 m), 1 h 27 min. Pista forestal y fuente del Deport. Hay que seguirla a la derecha (SE) según se venía y dejarla inmediatamente para coger el camino que sube a la izquierda hasta el mirador de la Pena -situado al S, sobre el corte de roca-, camino que se bifurca en dos desvíos, cualquiera de los cuales lleva al mirador. 
+ 
+4,65 km (971 m), 1 h 40 min. Mirador de la Pena, punto más alto del recorrido desde el que se obtiene una excelente panorámica del Paraje Natural de Poblet. Ahora hay que bajar hasta la bifurcación dejada antes junto al pozo de hielo. 
+ 
+5,95 km (841 m), 2 h. Bifurcación de caminos en el lado este del pozo de hielo. Se toma el que va a la derecha (NE) y que baja por la bella senda de Mata-rucs. 
+ 
+7,50 km (636 m), 2 h 25 min. Tras varios zigzags, el camino desemboca a la altura de la antigua cantera del Pi, que se halla a mano izquierda (O). Se sigue por el camino. 200 m más allá, se llega a otra cantera, la de Els Aubins. Se sigue haciendo un giro de 180 grados al oeste y se vuelve a descender hasta reencontrar la pista de subida, que ahora se sigue hacia el N hasta volver al punto de partida. 
+ 
+9,47 km (508 m), 2 h 52 min. Albergue Jaume I. Fin del recorrido. Puede aprovecharse el resto del día para visitar algunos de los extraordinarios puntos de interés de los alrededores: Poblet, L'Espluga de Francolí o Montblanc.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;Nature itinerary through La Pena evergreen oak wood. From Alberg Jaume I to La Pena mirador&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerary that enters the La Pena or Sant Bernat gully, in the Poblet Nature Park, through leafy, varied vegetation dominated by the thick evergreen oak wood, but there are also pine woods, riverside woods along the gully and deciduous trees in the higher zones. There are old stone quarries, charcoal pits, ice wells and forestry houses that bear witness to the centuries of use of this mountain environment. From La Pena mirador we can also enjoy a sweeping panorama of the woodlands of Poblet, Conca de Barberà and the nearby mountain ranges. Itinerary signposted by the Catalan Government Department of the Environment and Housing.&lt;/i&gt; 
+Marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;To reach the starting point of the itinerary from Montblanc we take N-240 to the west as far as L'Espluga de Francolí and continue along TV-7001 to the south-west as far as Poblet monastery, Les Masies and the Alberg Jaume I refuge, or TV-7007, direct from L'Espluga de Francolí as far as Les Masies. If we want to use public transport there is a train to L'Espluga de Francolí and we can walk from there to the refuge. 
+ 
+0.00 km (508 m). The itinerary starts at the Alberg Jaume I, between L'Espluga de Francolí and Les Masies, from where we follow TV-7007 to the S, towards Poblet. 
+ 
+0.59 km (529 m), 0 h 07 min. Poblet Nature Park information hut on the left of the road, from where we take the forestry track signposted in the direction of La Pena. 
+ 
+0.83 km (555 m), 0 h 12 min. At a sharp bend of 180 degrees to the N we leave the main track and take another that keeps straight on to the S as we begin the ascent of Sant Bernat gorge along the old quarry road. 
+ 
+1.42 km (584 m), 0 h 22 min. Junction with three roads. We leave the track along a road that turns off to the right. On the left is the road we shall return by later. A little higher up is the old Escolta quarry. We continue to climb and cross the gully at different points. 
+ 
+2.24 km (685 m), 0 h 40 min. Fork. We turn to the left, towards the SE, passing a turning on the right which leads to the track that climbs up on the other side of the gully. Higher up, we come to a place called Plaça de la Llibertat (km 2.34). The road continues SE, a few metres further on we pass Els Boixets stream and higher up we can observe the site of an old charcoal pit used for extracting evergreen oak charcoal. 
+ 
+3.11 km (818 m), 1 h 02 min. La Trona; we come out onto the track that climbs from the road and which we used to start the excursion; we keep on to the left, heading S, and immediately leave to walk as far as the ice well on the left of the track, 10 m above. After visiting the construction, we continue E, until we are back on the track having avoided the bend it takes round the well. At this point, we observe a road which goes off on the left, to the NE, which we shall be returning by later. We keep on along the track to the S, on the right we pass the pretty spot called La Cascada, take a 180 degree turn and come to a fork (km 3.68). We leave the continuation of the track on the right and head for La Pena forestry house. 
+ 
+3.82 km (883 m), 1 h 22 min. La Pena forestry house, built on a Mediaeval barn erected by the Cistercian monks, taking advantage of an ancient Roman settlement. We pass in front of the house and, towards the S, when the track ends we take the road that passes beside a small pond and immediately turns E as far as the continuation of the previous track. 
+ 
+4.10 km (903 m), 1 h 27 min. Forestry track and the Deport spring. We turn along the track to the SE, to the right, and we immediately leave to take the road that climbs up on the left as far as La Pena mirador, to the S, on top of the rock, a road that forks into two turnoffs, either of which leads to the mirador. 
+ 
+4.65 km (971 m), 1 h 40 min. La Pena mirador, the highest point of the route from where we have a splendid view of the Poblet Nature Park. Now we have to come down to the ice well fork. 
+ 
+5.95 km (841 m), 2 h. Forking roads on the E side of the ice well. We take the road which goes off to the right, to the NE, and goes down along the pretty Mata-rucs path. 
+ 
+7.50 km (636 m), 2 h 25 min. After a number of zig-zags, the road comes out at the old El Pi quarry, which is on the left, to the W. We continue along the road; 200 m farther on is another quarry, Els Aubins. We continue, making a 180 degree turn to the W and go down again as far as the track we came up, which now continues to the N until we come back to the starting point. 
+ 
+9.47 km (508 m), 2 h 52 min. Alberg Jaume I and end of route. We can spend the rest of the day visiting some of the extraordinary places in the surroundings: Poblet, L'Espluga de Francolí or Montblanc.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 06/02/07&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.380095" lon="1.091264">
+        <ele>508.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.377993" lon="1.091349">
+        <ele>531.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.377606" lon="1.090834">
+        <ele>530.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376725" lon="1.089019">
+        <ele>527.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376313" lon="1.088875">
+        <ele>527.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376198" lon="1.088221">
+        <ele>530.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.375723" lon="1.088145">
+        <ele>532.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.374710" lon="1.087637">
+        <ele>542.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.373788" lon="1.086830">
+        <ele>554.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.372813" lon="1.086703">
+        <ele>566.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.372320" lon="1.087130">
+        <ele>562.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.371121" lon="1.087356">
+        <ele>569.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.369362" lon="1.086338">
+        <ele>583.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.369167" lon="1.085991">
+        <ele>591.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368634" lon="1.085648">
+        <ele>597.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368194" lon="1.085487">
+        <ele>602.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367917" lon="1.085615">
+        <ele>605.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367473" lon="1.085443">
+        <ele>608.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367322" lon="1.085596">
+        <ele>611.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367090" lon="1.085442">
+        <ele>614.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.366600" lon="1.085840">
+        <ele>622.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.366000" lon="1.086090">
+        <ele>637.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.365580" lon="1.085080">
+        <ele>645.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.365230" lon="1.084887">
+        <ele>652.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.364595" lon="1.084929">
+        <ele>672.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.363742" lon="1.085439">
+        <ele>680.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.363785" lon="1.084678">
+        <ele>684.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.363490" lon="1.085356">
+        <ele>689.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362993" lon="1.085789">
+        <ele>697.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.363012" lon="1.086219">
+        <ele>702.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362649" lon="1.085945">
+        <ele>708.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362080" lon="1.086076">
+        <ele>723.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362383" lon="1.086257">
+        <ele>728.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362503" lon="1.086604">
+        <ele>732.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362156" lon="1.088318">
+        <ele>754.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362966" lon="1.088216">
+        <ele>776.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362743" lon="1.088366">
+        <ele>778.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362253" lon="1.089546">
+        <ele>796.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361735" lon="1.090309">
+        <ele>812.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361110" lon="1.089701">
+        <ele>824.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360857" lon="1.090071">
+        <ele>841.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360340" lon="1.090134">
+        <ele>845.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359805" lon="1.089934">
+        <ele>850.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359252" lon="1.089191">
+        <ele>856.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359666" lon="1.090123">
+        <ele>864.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360140" lon="1.090450">
+        <ele>864.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360601" lon="1.090475">
+        <ele>867.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360866" lon="1.090904">
+        <ele>871.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360946" lon="1.091395">
+        <ele>878.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361549" lon="1.091605">
+        <ele>877.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360603" lon="1.091859">
+        <ele>887.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360420" lon="1.092919">
+        <ele>894.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360575" lon="1.094011">
+        <ele>902.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360391" lon="1.093730">
+        <ele>904.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360418" lon="1.094004">
+        <ele>910.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360286" lon="1.093891">
+        <ele>914.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359966" lon="1.093085">
+        <ele>918.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359905" lon="1.093342">
+        <ele>929.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359680" lon="1.092741">
+        <ele>929.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359726" lon="1.092219">
+        <ele>931.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359603" lon="1.091975">
+        <ele>933.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359566" lon="1.092344">
+        <ele>939.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.358878" lon="1.093097">
+        <ele>960.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359127" lon="1.093412">
+        <ele>965.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359685" lon="1.093553">
+        <ele>964.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359378" lon="1.093452">
+        <ele>968.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359182" lon="1.093090">
+        <ele>952.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359498" lon="1.092883">
+        <ele>938.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359698" lon="1.092930">
+        <ele>929.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359943" lon="1.093372">
+        <ele>926.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359979" lon="1.093097">
+        <ele>918.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360322" lon="1.093941">
+        <ele>914.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360431" lon="1.093980">
+        <ele>908.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360391" lon="1.093730">
+        <ele>904.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360575" lon="1.094011">
+        <ele>902.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360420" lon="1.092919">
+        <ele>894.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360603" lon="1.091859">
+        <ele>887.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361549" lon="1.091634">
+        <ele>877.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360946" lon="1.091395">
+        <ele>878.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360866" lon="1.090904">
+        <ele>871.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360601" lon="1.090475">
+        <ele>867.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360140" lon="1.090450">
+        <ele>864.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359666" lon="1.090123">
+        <ele>864.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359270" lon="1.089161">
+        <ele>854.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.359805" lon="1.089934">
+        <ele>850.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360426" lon="1.090131">
+        <ele>844.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360920" lon="1.090057">
+        <ele>839.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.360935" lon="1.089886">
+        <ele>835.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361332" lon="1.090975">
+        <ele>849.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361935" lon="1.091241">
+        <ele>852.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362034" lon="1.092350">
+        <ele>839.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361847" lon="1.092731">
+        <ele>835.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361875" lon="1.093161">
+        <ele>827.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.361928" lon="1.092856">
+        <ele>826.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362393" lon="1.092463">
+        <ele>812.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362412" lon="1.091864">
+        <ele>808.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362811" lon="1.091359">
+        <ele>799.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.362911" lon="1.090474">
+        <ele>790.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.363166" lon="1.089944">
+        <ele>786.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.364445" lon="1.089171">
+        <ele>756.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.365420" lon="1.088830">
+        <ele>731.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.365950" lon="1.088200">
+        <ele>719.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.366690" lon="1.087900">
+        <ele>706.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367176" lon="1.087274">
+        <ele>693.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367419" lon="1.087248">
+        <ele>686.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367401" lon="1.086819">
+        <ele>671.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367571" lon="1.086931">
+        <ele>671.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367549" lon="1.086791">
+        <ele>665.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367821" lon="1.086897">
+        <ele>656.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367811" lon="1.086784">
+        <ele>653.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367979" lon="1.086985">
+        <ele>651.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.367970" lon="1.086833">
+        <ele>647.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368109" lon="1.087029">
+        <ele>647.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368105" lon="1.086882">
+        <ele>643.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368296" lon="1.086996">
+        <ele>639.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368222" lon="1.086873">
+        <ele>639.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368330" lon="1.086864">
+        <ele>635.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368065" lon="1.086621">
+        <ele>634.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368436" lon="1.086905">
+        <ele>632.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368534" lon="1.087206">
+        <ele>630.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368026" lon="1.088648">
+        <ele>615.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368217" lon="1.087937">
+        <ele>623.1</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.368990" lon="1.087490">
+        <ele>603.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.369591" lon="1.086881">
+        <ele>587.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.369068" lon="1.086275">
+        <ele>587.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.369198" lon="1.086247">
+        <ele>584.7</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.371121" lon="1.087356">
+        <ele>569.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.372320" lon="1.087130">
+        <ele>562.4</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.372813" lon="1.086703">
+        <ele>566.0</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.373865" lon="1.086863">
+        <ele>554.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.374710" lon="1.087637">
+        <ele>542.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.375710" lon="1.088140">
+        <ele>532.3</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376198" lon="1.088221">
+        <ele>530.5</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376313" lon="1.088875">
+        <ele>527.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.376725" lon="1.089019">
+        <ele>527.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.377606" lon="1.090834">
+        <ele>530.2</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.377993" lon="1.091349">
+        <ele>531.8</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.379394" lon="1.091368">
+        <ele>514.9</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+      <trkpt lat="41.380140" lon="1.091221">
+        <ele>508.6</ele>
+        <time>2007-01-07T22:59:59Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.773465" lon="2.462535">
+    <ele>1138.0</ele>
+    <time>2014-04-28T12:56:42Z</time>
+    <name>Can Casades</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.768951" lon="2.471474">
+    <ele>1084.5</ele>
+    <time>2014-04-28T12:56:43Z</time>
+    <name>Presa de l'embassament de Santa Fe</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.772967" lon="2.466824">
+    <ele>1115.3</ele>
+    <time>2014-04-28T12:56:44Z</time>
+    <name>L'estanyol Petit</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.770561" lon="2.468107">
+    <ele>1087.2</ele>
+    <time>2018-07-15T16:32:54Z</time>
+    <name>La Fabriqueta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.765874" lon="2.476837">
+    <ele>1068.9</ele>
+    <time>2018-07-15T16:33:43Z</time>
+    <name>Font de Baladrell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.765211" lon="2.481357">
+    <ele>1110.4</ele>
+    <time>2018-07-15T16:34:07Z</time>
+    <name>PR C-204 a Riells</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.769382" lon="2.481019">
+    <ele>1230.0</ele>
+    <time>2018-07-15T16:34:39Z</time>
+    <name>Empedrat de Morou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.775037" lon="2.473111">
+    <ele>1193.6</ele>
+    <time>2018-07-15T16:35:24Z</time>
+    <name>Pla de Mulladius</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.775368" lon="2.465931">
+    <ele>1128.1</ele>
+    <time>2018-07-15T16:35:50Z</time>
+    <name>Can Lleonart. Escola de Natura</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.766570" lon="2.481493">
+    <ele>1145.4</ele>
+    <time>2018-07-15T16:36:33Z</time>
+    <name>La Fageda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.775455" lon="2.475015">
+    <ele>1189.6</ele>
+    <time>2018-07-15T16:37:03Z</time>
+    <name>Variant pel Pla Gran de la Cornera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.772556" lon="2.481084">
+    <ele>1310.0</ele>
+    <time>2018-07-15T16:37:37Z</time>
+    <name>Turó de Morou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.769857" lon="2.481466">
+    <ele>1239.6</ele>
+    <time>2018-07-15T16:37:54Z</time>
+    <name>Enllaç de la variant</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.773808" lon="2.469193">
+    <ele>1154.9</ele>
+    <time>2018-07-15T16:38:22Z</time>
+    <name>Castanyeda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.776005" lon="2.477086">
+    <ele>1204.6</ele>
+    <time>2018-07-15T16:38:54Z</time>
+    <name>Pou de neu</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Santa Fe de Montseny a l'Empedrat de Morou</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Santa Fe de Montseny a l'Empedrat de Morou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Aquest itinerari senyalitzat recorre un sector situat a llevant de l'indret de Santa Fe, d'especial bellesa i frondositat. El Parc Natural del Montseny protegeix una part valuosíssima del patrimoni natural mediterrani. Creat el 1977, va ser declarat Reserva Mundial de la Biosfera de la UNESCO el 1978. El recorregut travessa el pla de Mulladius, puja fins a l'Empedrat de Morou, gira cap al sud i més tard torna cap a ponent resseguint el vessant septentrional de l'embassament de Santa Fe. Acabada l'excursió, cal visitar el Centre d'Informació del Parc Natural de Can Casades, punt d'inici de la caminada.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per arribar a Santa Fe de Montseny, es pren la carretera BV-5114 en direcció N des de Sant Celoni (on s'accedeix per l'autopista AP-7, sortida 11). També hi ha un servei d'autocars des de l'estació de tren d’aquesta localitat(Rodalies). Es passa per Campins i, un cop a dalt, cal situar-se a can Casades, al peu de la carretera, just després de passar l'accés a l'ermita i l'hotel de Santa Fe de Montseny. Abans de sortir, cal admirar al NO les esveltes siluetes de les Agudes, cim del Montseny de 1.706 m d'altitud, i de la cresta dels Castellets. 
+ 
+0,00 km (1.138 m). Aparcament de Can Casades. S'ha de resseguir la carretera uns metres i girar cap al N pel camí que baixa fins a una fonda restaurant, on es troba una indicació per tombar a l'esquerra (N; l’hotel i l'ermita de Santa Fe romandran a la dreta). 
+ 
+0,27 km (1.123 m), 0 h 04 min. Es travessa la riera de Santa Fe i se segueix pel camí ample de lleu pendent que ve de can Lleonart, masia transformada en equipament pedagògic i escola de natura. 
+ 
+0,46 km (1.129 m), 0 h 08 min. Es troba la Casa Partida. En aquest punt, entre la Casa Partida i can Lleonart, la ruta es desvia a la dreta (SE) fent un angle de gairebé 90 graus i, creuant una castanyeda, es dirigeix cap al pla de Mulladius o de Ginebrons, on s'arriba al km 1,27 (1.183 m). El pla es troba cobert per una frondosa i magnífica fageda. Uns 130 m més endavant hi ha una bifurcació¸ el camí tomba a la dreta (SE) per resseguir els vessants occidentals del turó de Morou i després començar a davallar (el trencall a l’esquerra és una variant que permet pujar al turó de Morou). 
+ 
+2,51 km (1.239 m), 0 h 43 min. El camí gira cap al SO i s'arriba a l'Empedrat de Morou, des d'on s'obté una panoràmica extraordinària de les valls nord-orientals del massís. Per l’esquerra desemboca el corriol de la variant. Se segueix descendint fins que se surt a un camí més ample (km 2,79, 1.186 m), que s'agafa a l'esquerra (E) en baixada i travessant una magnífica fageda. 250 m més avall, l'itinerari tomba a ponent. 
+ 
+3,31 km (1.138 m), 0 h 56 min. Es deixa una pista a l'esquerra (E) i, passats 200 m, es desemboca a una ampla pista que es pren a la dreta (NO; cap a l’esquerra s’arribaria a Riells seguint el sender PR C-204). Es continua pel costat de can Baladrell i can Figueroles (fàcilment visibles des del camí). 
+ 
+4,58 km (1.083 m), 1 h 12 min. Presa de l’embassament de Santa Fe: se'n recorre el vessant N cap a ponent (NO), s'accedeix a l'estanyol petit (km 5,25, 1.115 m), es retroba el camí que duu a can Lleonart (km 5,55, 1.119 m) i es desfà el camí fins a can Casades. 
+ 
+5,87 km (1.138 m), 1 h 30 min. Aparcament de can Casades, punt de partida i final de la ruta.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Santa Fe de Montseny a L'Empedrat de Morou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Este itinerario señalizado recorre un sector situado a levante del lugar de Santa Fe, de especial belleza y frondosidad. El Parque Natural del Montseny protege una parte valiosísima del patrimonio natural mediterráneo. Creado en 1977, fue declarado Reserva Mundial de la Biosfera de la UNESCO en 1978. El recorrido atraviesa el Pla de Mulladius, sube hasta el Empedrat de Morou, gira hacia el sur y más tarde vuelve hacia poniente siguiendo la vertiente septentrional del embalse de Santa Fe. Terminada la excursión, hay que visitar el Centro de Información del Parque Natural de Can Casades, punto de inicio de la caminata. 
+ 
+&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Para llegar a Santa Fe de Montseny, se toma la carretera BV-5114 en dirección N desde Sant Celoni (donde se accede por la autopista AP-7, salida 11). También hay un servicio de autocares desde la estación de tren de esta localidad(Rodalies). Se pasa por Campins y, una vez arriba, hay que situarse en Can Casades, al pie de la carretera, justo después de pasar el acceso a la ermita y al hotel de Santa Fe de Montseny. Antes de salir, hay que admirar al NO las esbeltas siluetas de Les Agudes, cumbre del Montseny de 1.706 m de altitud, y de las crestas de Els Castellets. 
+ 
+0,00 km (1.138 m). Aparcamiento de Can Casades. Se debe seguir junto a la carretera unos metros y girar hacia el N por el camino que baja hasta una fonda restaurante, donde se encuentra una indicación para girar a la izquierda (N; por la derecha se iría a la ermita de Santa fe). 
+ 
+0,27 km (1.123 m), 0 h 04 min. Se cruza la riera de Santa Fe y se sigue por el camino ancho de leve pendiente que viene de Can Lleonart, masía transformada en equipamiento pedagógico y escuela de naturaleza. 
+ 
+0,46 km (1.129 m), 0 h 08 min. Se encuentra la Casa Partida. En este punto, entre la Casa Partida y Can Lleonart, la ruta se desvía a la derecha (SE) haciendo un ángulo de casi 90 grados y, cruzando un castañar, se dirige al llano de Mulladius o de Ginebrons, donde se llega en el km 1,27 (1.183 m). El llano está cubierto por un frondoso y magnífico hayedo. Unos 130 m más adelante aparece una bifurcación; el camino gira a la derecha (SE) para recorrer las laderas occidentales de la colina de Morou y luego comenzar a descender (el desvío a la izquierda es una variante que permite subir a la colina de Morou). 
+ 
+2,51 km (1.239 m), 0 h 43 min. El camino gira hacia el SO y llega a L'Empedrat de Morou, desde donde se obtiene una panorámica extraordinaria de los valles nororientales del macizo. Por la izquierda desemboca el sendero de la variante. Se sigue descendiendo hasta que se sale a un camino más ancho (km 2,79, 1.186 m), que se toma a la izquierda (E) en bajada y atravesando un magnífico hayedo. 250 m más abajo, el itinerario gira a poniente. 
+ 
+3,31 km (1.138 m), 0 h 56 min. Se deja una pista a la izquierda (E) y, pasados 200 m, se desemboca en una ancha pista que se toma a la derecha (NO; hacia la izquierda se llegaría a Riells siguiendo el sendero PR C-204). Se continúa por el lado de Can Baladrell y Can Figueroles (fácilmente visibles desde el camino). 
+ 
+4,58 km (1.083 m), 1 h 12 min. Presa del embalse de Santa Fe: se recorre la vertiente N hacia poniente (NO), se accede a la laguna pequeña (km 5,25, 1.115 m), se reencuentra el camino que lleva a Can Lleonart (km 5,55, 1.119 m) y se deshace el camino hasta Can Casades. 
+ 
+5,87 km (1.138 m), 1 h 30 min. Aparcamiento de Can Casades, punto de partida y final de la ruta.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Santa Fe de Montseny To L'Empedrat de Morou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;This itinerary allows you to discover an area of great beauty and lushness in Montseny Nature Park, declared a World Biosphere Reserve. The whole route is signposted. At the end of the excursion we recommend a visit to the Information Centre of Can Casades Nature Park, where the route begins.&lt;/i&gt; 
+Marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;To reach Santa Fe, take the BV-5114 road from Sant Celoni (at Sant Celoni this is accessed via the AP-7 motorway, exit 11). There is also a coach service from the train station. We go through Campins and, once at the top, we must locate ourselves at Can Casades, at the foot of the road, just after the access road to the hermitage and to the hotel of Santa Fe de Montseny. Before leaving, you can admire the slim silhouettes of Les Agudes and of the Turó de l'Home, the highest peak in Montseny with an altitude of 1706 m. 
+ 
+From Can Casades, follow the path that goes down to a hostel restaurant, where there is a sign saying that we have to turn left (the path to the right leads to the hermitage of Santa Fe). 
+ 
+We skirt the river course of Santa Fe and go along the wide path from Can Lleonart, a farmhouse transformed into an educational facility and a nature school. The path slopes up slightly at the start but further on becomes steeper. 10 minutes into the excursion we come across the Casa Partida. At this point, between the Casa Partida and Can Lleonart, the route does an almost 90º turn to the right and comes out at the plain of Mulladius. 
+ 
+After half an hour we reach the plain of Mulladius or Ginebrons, quite well hidden by the lush layer of trees. The path changes direction and goes southwards, following the western slopes of Morou hill. Afterwards it starts to go downhill. 
+ 
+In less than one hour, when the path turns to the south-west (km 2.52), we reach L'Empedrat de Morou, providing an extraordinary panoramic view of the whole valley. We continue downhill until we reach a wider path to the left, which we take. 250 m further down, the itinerary turns towards the west. Afterwards, we pass by Can Baladrell and Can Figueroles (easily visible from the path, km 4.10). 
+ 
+In just over an hour and a half, we reach the reservoir of Santa Fe. Go along the north side of the water to the small lake to finalise the excursion on the left-hand side of Can Lleonart, Santa Fe and Can Casades.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2018&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.773479" lon="2.462577">
+        <ele>1137.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773145" lon="2.463386">
+        <ele>1134.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773590" lon="2.464476">
+        <ele>1128.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773780" lon="2.464415">
+        <ele>1126.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774047" lon="2.464666">
+        <ele>1125.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774534" lon="2.464704">
+        <ele>1119.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.775558" lon="2.466025">
+        <ele>1129.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774930" lon="2.467511">
+        <ele>1140.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773780" lon="2.467881">
+        <ele>1150.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773610" lon="2.468261">
+        <ele>1152.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773650" lon="2.468710">
+        <ele>1152.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774060" lon="2.469630">
+        <ele>1161.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774090" lon="2.470170">
+        <ele>1162.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774471" lon="2.470722">
+        <ele>1168.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774558" lon="2.471924">
+        <ele>1170.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774908" lon="2.472650">
+        <ele>1178.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.775426" lon="2.474625">
+        <ele>1187.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.775375" lon="2.475173">
+        <ele>1191.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774920" lon="2.475409">
+        <ele>1193.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774423" lon="2.475920">
+        <ele>1204.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773830" lon="2.476040">
+        <ele>1205.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773200" lon="2.476406">
+        <ele>1210.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773223" lon="2.476598">
+        <ele>1217.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773512" lon="2.476698">
+        <ele>1219.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773430" lon="2.476930">
+        <ele>1224.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772920" lon="2.476870">
+        <ele>1226.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772180" lon="2.477010">
+        <ele>1234.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.771788" lon="2.476892">
+        <ele>1238.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.771726" lon="2.477164">
+        <ele>1238.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772034" lon="2.477534">
+        <ele>1244.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.771833" lon="2.477897">
+        <ele>1247.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.771263" lon="2.478353">
+        <ele>1243.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770632" lon="2.478382">
+        <ele>1238.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770360" lon="2.478780">
+        <ele>1233.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770300" lon="2.479200">
+        <ele>1235.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770510" lon="2.480680">
+        <ele>1238.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770370" lon="2.481110">
+        <ele>1239.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770007" lon="2.481485">
+        <ele>1241.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769872" lon="2.481505">
+        <ele>1240.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769250" lon="2.480970">
+        <ele>1229.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769039" lon="2.480591">
+        <ele>1224.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.768660" lon="2.480400">
+        <ele>1216.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.768580" lon="2.480050">
+        <ele>1207.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767994" lon="2.479547">
+        <ele>1188.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767878" lon="2.479704">
+        <ele>1182.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.768041" lon="2.480833">
+        <ele>1176.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767838" lon="2.481816">
+        <ele>1166.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767873" lon="2.482585">
+        <ele>1171.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767697" lon="2.482527">
+        <ele>1168.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767227" lon="2.481390">
+        <ele>1150.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.766735" lon="2.481088">
+        <ele>1138.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.766272" lon="2.481334">
+        <ele>1140.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.765810" lon="2.481190">
+        <ele>1120.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.765164" lon="2.481969">
+        <ele>1114.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.765480" lon="2.480750">
+        <ele>1106.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.766480" lon="2.479991">
+        <ele>1101.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.766584" lon="2.478779">
+        <ele>1098.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.766437" lon="2.477095">
+        <ele>1089.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767231" lon="2.475501">
+        <ele>1086.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767384" lon="2.475355">
+        <ele>1085.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767834" lon="2.475369">
+        <ele>1085.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767995" lon="2.475182">
+        <ele>1087.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.767883" lon="2.474274">
+        <ele>1084.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.768241" lon="2.472271">
+        <ele>1085.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.768940" lon="2.471510">
+        <ele>1084.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769414" lon="2.471344">
+        <ele>1086.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769393" lon="2.470791">
+        <ele>1085.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769528" lon="2.470573">
+        <ele>1085.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769383" lon="2.470055">
+        <ele>1085.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769645" lon="2.469724">
+        <ele>1088.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.769809" lon="2.469145">
+        <ele>1085.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770673" lon="2.468012">
+        <ele>1086.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.770950" lon="2.468068">
+        <ele>1090.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.771350" lon="2.467650">
+        <ele>1092.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772660" lon="2.466981">
+        <ele>1111.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.772909" lon="2.467020">
+        <ele>1117.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773826" lon="2.466679">
+        <ele>1118.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774564" lon="2.465449">
+        <ele>1118.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774679" lon="2.464883">
+        <ele>1119.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774326" lon="2.464609">
+        <ele>1119.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.774053" lon="2.464665">
+        <ele>1125.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773902" lon="2.464445">
+        <ele>1124.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773599" lon="2.464485">
+        <ele>1128.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773154" lon="2.463440">
+        <ele>1134.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.773479" lon="2.462577">
+        <ele>1137.3</ele>
+        <time>2018-07-30T09:30:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

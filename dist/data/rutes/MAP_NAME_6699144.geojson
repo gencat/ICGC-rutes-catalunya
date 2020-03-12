@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "MAP_NAME_6699144.geojson",
+"features": [
+{ "type": "Feature", "properties": { "Toponim": "Os de Civís", "Concepte": "e.m.d.", "Municipi": "les Valls de Valira", "X": "371845", "Y": "4707718", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.440032261446004, 42.511220176134835, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Borda de la Plana", "Concepte": "edif.", "Municipi": "les Valls de Valira", "X": "371049", "Y": "4707578", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.430378012731951, 42.509827547708909, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Sant Pere", "Concepte": "edif. hist.", "Municipi": "les Valls de Valira", "X": "371829", "Y": "4707781", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.43982346235399, 42.511784683798872, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Hotel Os de Civís", "Concepte": "equip.", "Municipi": "les Valls de Valira", "X": "371028", "Y": "4707667", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.43010243383635, 42.510625267359941, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Coll de Montaner", "Concepte": "coll", "Municipi": "les Valls de Valira", "X": "373870", "Y": "4708234", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.464559180395937, 42.51619835879827, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "la Plana", "Concepte": "orogr.", "Municipi": "les Valls de Valira", "X": "371001", "Y": "4707536", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.429803424677659, 42.509441441121666, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Costa d'Os de Civís", "Concepte": "orogr.", "Municipi": "les Valls de Valira", "X": "372240", "Y": "4708211", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.444728609975128, 42.515723764092662, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Bosc de Pedruella", "Concepte": "indr.", "Municipi": "les Valls de Valira", "X": "372510", "Y": "4708877", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.44786583278767, 42.521764008168923, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Obaga d'Os de Civís", "Concepte": "indr.", "Municipi": "les Valls de Valira", "X": "371547", "Y": "4707264", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.436508052989803, 42.507083611886927, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Solà de Montaner", "Concepte": "indr.", "Municipi": "les Valls de Valira", "X": "371461", "Y": "4707990", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.435298617276294, 42.513605142871945, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Riu d'Os de Civís", "Concepte": "curs fluv.", "Municipi": "", "X": "372073", "Y": "4707308", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.44289823274242, 42.507566876709802, 0.0 ] } },
+{ "type": "Feature", "properties": { "Toponim": "Torrent de Montaner", "Concepte": "curs fluv.", "Municipi": "", "X": "373311", "Y": "4708137", "MAP_NAME": "6699144.gpx", "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 1.457778075121782, 42.515233744334068, 0.0 ] } }
+]
+}

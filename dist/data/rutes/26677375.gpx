@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.025842" lon="0.497118">
+    <ele>227.1</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Caseta de Quico</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.016566" lon="0.512721">
+    <ele>163.1</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Celler Cooperatiu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.015693" lon="0.514464">
+    <ele>185.6</ele>
+    <time>2018-07-17T10:56:34Z</time>
+    <name>Centre d'interpretació &amp;quot;Les veus del Front&amp;quot;</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.021785" lon="0.499537">
+    <ele>181.7</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Cap a la dreta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.017672" lon="0.515552">
+    <ele>171.0</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>El Pinell de Brai</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.031055" lon="0.475157">
+    <ele>570.9</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Es deixa GR 171</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.036305" lon="0.479312">
+    <ele>449.0</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>GR 171</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.021416" lon="0.499461">
+    <ele>183.8</ele>
+    <time>2018-07-17T11:07:34Z</time>
+    <name>La Carbonera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.015302" lon="0.512836">
+    <ele>177.1</ele>
+    <time>2018-07-17T10:58:49Z</time>
+    <name>Les Cases Caigudes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.038172" lon="0.486295">
+    <ele>374.6</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Lloc de comandament del Batalló Lincoln</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.037006" lon="0.483570">
+    <ele>386.5</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Monòlit de les Brigades Internacionals</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.036836" lon="0.484533">
+    <ele>394.7</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Puntal de l'Ós</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.015501" lon="0.514503">
+    <ele>185.9</ele>
+    <time>2018-07-17T15:54:45Z</time>
+    <name>Sant Llorenç</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.029997" lon="0.498307">
+    <ele>238.7</ele>
+    <time>2018-07-17T13:29:02Z</time>
+    <name>Txabola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.037669" lon="0.487709">
+    <ele>290.8</ele>
+    <time>2018-07-17T13:30:16Z</time>
+    <name>Plafons de la Vall Closa i el Comandament Lincoln</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.037234" lon="0.484721">
+    <ele>363.9</ele>
+    <time>2018-07-17T13:31:34Z</time>
+    <name>Àrea de Descans de les brigades</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.037705" lon="0.481019">
+    <ele>454.2</ele>
+    <time>2018-07-17T13:32:01Z</time>
+    <name>Mirador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.034418" lon="0.474479">
+    <ele>538.3</ele>
+    <time>2018-07-17T13:32:20Z</time>
+    <name>Trinxera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.031034" lon="0.475126">
+    <ele>570.9</ele>
+    <time>2018-07-17T13:32:54Z</time>
+    <name>Mirador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.031492" lon="0.475803">
+    <ele>571.5</ele>
+    <time>2018-07-17T13:33:10Z</time>
+    <name>Trinxera (cota 581)</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.023888" lon="0.491208">
+    <ele>232.0</ele>
+    <time>2018-07-17T13:51:30Z</time>
+    <name>Muntanyeres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.016897" lon="0.509428">
+    <ele>162.2</ele>
+    <time>2018-07-17T13:52:51Z</time>
+    <name>N-230c</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Ruta de la Vall Closa: del Pinell de Brai a la serra de Pàndols seguint els passos de les Brigades Internacionals</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Ruta de la Vall Closa: del Pinell de Brai a la serra de Pàndols seguint els passos de les Brigades Internacionals&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El Pinell de Brai i les serres de Pàndols i Cavalls es van convertir en una zona de serveis de rereguarda per a les tropes republicanes durant la Batalla de l’Ebre, que va tenir lloc a la zona entre el 25 de juliol i el 16 de novembre de 1938, preludi de la derrota de la República a la Guerra de 1936-1939. Refugis, txaboles i trinxeres, a més d’un monòlit erigit pels brigadistes internacionals durant la batalla, solquen aquest itinerari per les vessants de la serra de Pàndols i la seva vall Closa. Dalt la serra s’ofereix, a més, dos esplèndids miradors dels entorns.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta parteix des de davant del Celler Cooperatiu del Pinell de Brai. S’accedeix a la població per la carretera C-43, ja sigui des de Gandesa (on arriba la carretera N-420) o des de Benifallet (per on passa la carretera C-12). El celler es troba a la part oest de la zona urbana. 
+ 
+0,00 km (160 m). Des de davant del Celler Cooperatiu cal sortir del casc urbà en direcció NO travessant el carrer de la Carretera (N-230c) i es va pujant per una pista que s’enfila per la serra dels Horts. Un senyal (0,61 km) indica el sender que baixa per l’esquerra apropant-se al barranc del Pinell sense arribar-hi; es continua en direcció NO. 
+ 
+1,16 km (174 m), 20 min. Barranc del Pinell. Es travessa, ara sí, el barranc i es desemboca a un sender més ample, punt on després es tornarà (hi ha un senyal). Es continua remuntant el barranc cap al NO apropant-se al pont de la Carbonera per sota del qual es travessa la carretera C-43. Quan s’ha passat el pont, seguint les indicacions cap a la dreta, cal remuntar uns metres per seguir el sender que va en paral·lel a la carretera. Més endavant es travessa el barranc de Gandesa i, encara seguint cap al N, es va pujant mica en mica. Es superen unes feixes per un pas esglaonat, s’arriba a uns prats i, seguint la indicació d’un senyal, es travessen per continuar remuntant el barranc de Gandesa seguint de lluny la carretera. 
+ 
+2,45 km (237 m), 40 min. Txabola. Un plafó al costat d’una barraca de pedra explica que durant la Batalla de l’Ebre molts soldats van fer-se refugis, ja sigui excavant les parets de la muntanya o en cabanes de pedra, també usades per pastors i caçadors. Es continua pel mateix camí (NO) i, seguint el sender, s’acabarà fent la volta a un espadat i es remuntarà per la vall Closa de Verano. 
+ 
+4,25 km (294 m), 1 h 10 min. Plafó de la vall Closa. El nom de la vall fa referència a la manca de sortides naturals per la seva vessant SO; aquesta particularitat la feia adient per al repòs de les tropes que rellevaven els soldats del front, ja que és fàcilment defensable. Per aquí hi van passar molts reclutes de les Brigades Internacionals i de la Lleva del Biberó. 
+ 
+Des d’aquest punt, un altre plafó informa també de la cova que va servir de lloc de comandament per al Batalló Lincoln. La cavitat va ser usada durant gairebé dues setmanes del mes d’agost de 1938 per a instal·lar-hi la direcció del 58è batalló de la XV Brigada Internacional, que portava el nom de l’històric president dels EUA ja que el formaven voluntaris nord-americans. Per accedir a la cova cal seguir un corriol que puja fortament per entre els arbres. Es retorna al plafó i es segueix el camí cap al SO. 
+ 
+Poc més endavant es passa una antiga placa que indica el monòlit en homenatge a la XV Brigada Internacional, cap a on es va. Arribant al final de la vall es travessen unes grans roques i es volta cap al NE per enfilar-se al puntal de l’Ós. Cal remuntar una vintena de metres i, un cop d’alt, es gira cap a l’O passant pel costat d’unes coves petites. 
+ 
+5,43 km (364 m), 1 h 30 min. Àrea de descans. En un petit terraplè, entre pins i feixes s’hi va establir una àrea de descans pels soldats que encara no estaven destinats al front. Remuntant el sender que s’hi obre pas es gira cap al N i es troba un altre plafó que indica el monòlit de les Brigades Internacionals. Es va construir durant la Baralla de l’Ebre en memòria dels companys morts de la companyia; fou restaurat l’any 2000 i acompanyat d’un petit memorial amb restes d’estris i materials de l’època trobats al lloc. Es continua pujant cap al NO per arribar al capdamunt de la part nord de la serra de Pàndols, que separa la vall Closa de la de la Teuleria. Dalt (5,83 km, 454 m, 1 h 45 min) hi ha un mirador amb una magnífica vista de la serra de Cavalls (NE), la serra del Pebrer (NO, que tapa Gandesa) i la resta de la serra de Pàndols (SO), cap a on cal dirigir-se planejant entre les valls, sempre amb el penya-segat a la dreta. El recorregut coincideix temporalment amb el GR 171. 
+ 
+6,60 km (538 m), 2 h. Trinxera. Es creua una de les trinxeres que protegien aquest possible accés a la vall i al Pinell de Brai; fou excavada a la roca i es reforçava amb sacs. Es continua cap a l’O durant 180 m i llavors, seguint el sender, es gira 90º a l’esquerra (SE) resseguint la part de dalt de la vall Closa. 
+ 
+7,30 km (571 m), 2 h 15 min. Mirador de Pàndols. Després de remuntar per dins el bosc s’arriba al capdamunt de la vessant sud de la serra de Pàndols. Davant un penya-segat hi ha un mirador: des d’aquí es pot veure la vall del Pinell de Brai i les serres de Llàfega i Valliplana (SE/S) que tapen el riu Ebre; cap al SO s’allarga la serra de Pàndols, on es pot distingir Santa Magdalena i el monument a la Pau. 
+ 
+S’agafa el sender on s’ha desembocat cap a l’esquerra (NE), resseguint de nou la vall Closa però ara per la vessant sud; es deixa el GR 171, que se’n va cap a la dreta. Es passa una altra trinxera (plafó “Cota 581”) i es segueix recte, perdent alçada. Arribant al final de la serra, deixant una clariana a l’esquerra, es fa una ziga-zaga grossa en direcció al poble i es perd molta alçada ràpidament. Ara es planeja per sobre un llom que està orientat cap al Pinell de Brai i es va seguint en direcció SE, veient la carretera i el camí de pujada a l’esquerra. Passant per unes feixes amb oliveres a la zona de les Muntaneres es desemboca a una pista de terra ampla, que es s’agafa cap a l’esquerra (senyal; 10,21 km, 226 m, 3 h). El camí de Muntaneres a Pàndols travessa camps de cirerers, oliveres i ametllers, i va perdent alçada fins que, després d’un revolt, arriba a la carretera C-43 just sobre el pont de la Carbonera per on s’ha passat al principi de la ruta. 
+ 
+11,19 km (185 m), 3 h 15 min. La Carbonera. A les parets s’hi poden observar coves excavades, antics refugis oberts pels soldats per suplir la manca de recursos. Es travessa la carretera per sota el pont i es refà el camí per on s’ha vingut fins trobar un senyal vertical. Enlloc de travessar el barranc del Pinell i pujar cap a la serra dels Horts, es segueix recte i pla resseguint el barranc. Es passa la carretera N-230c per sota, es deixa una pista a mà dreta i una altra a mà esquerra, continuant recte. Cal agafar la següent desviació a l’esquerra (carrer del Bonaire) pujant cap al celler pel costat dels safarejos. 
+ 
+12,64 km (160 m), 3 h 35 min. Celler Cooperatiu, final de l’itinerari. Al Pinell de Brai s’hi pot visitar el Celler Cooperatiu, edifici modernista dissenyat per Cèsar Martinell (1917) conegut com la catedral del vi per la seves grans dimensions, detalls decoratius com el fris ceràmic pintat per Xavier Nogués i la seva espectacularitat; el centre de memòria Les veus del Front, que contextualitza el paper de la comunicació durant la Batalla de l'Ebre entre bàndols, cap a la rereguarda i a l’estranger; i les Cases Caigudes, on es pot observar l’impacte dels bombardeigs de la guerra en el poble antic.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Ruta de la Vall Closa: desde El Pinell de Brai a la sierra de Pàndols siguiendo los pasos de las Brigadas Internacionales&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El Pinell de Brai y las sierras de Pàndols y Cavalls se convirtieron en una zona de servicios de retaguardia para las tropas republicanas durante la Batalla del Ebro, que tuvo lugar en la zona entre el 25 de julio y el 16 de noviembre de 1938, preludio de la derrota de la República en la Guerra de 1936-1939. Refugios, chabolas y trincheras, además de un monolito erigido por los brigadistas internacionales durante la batalla, surcan este itinerario por las laderas de la sierra de Pàndols y su Vall Closa. En la cima de la sierra se encuentran, además, dos espléndidos miradores de los entornos.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta parte desde delante del Celler Cooperatiu de El Pinell de Brai. Se accede a la población por la carretera C-43, ya sea desde Gandesa (donde llega la carretera N-420) o desde Benifallet (por donde pasa la carretera C-12). El Celler se encuentra en la parte oeste de la zona urbana. 
+ 
+0,00 km (160 m). Desde delante del Celler Cooperatiu hay que salir del casco urbano en dirección NO cruzando la calle de la Carretera (N-230c) y se sube por una pista a la sierra dels Horts. Una señal (0,61 km) indica el sendero que baja por la izquierda acercándose al barranco del Pinell sin llegar a él; se continúa en dirección NO. 
+ 
+1,16 km (174 m), 20 min. Barranco del Pinell. Se atraviesa, ahora sí, el barranco y se desemboca en un sendero más ancho, punto que después se volverá (hay una señal). Se continúa remontando el barranco hacia el NO acercándose al puente de la Carbonera por debajo del cual se cruza la carretera C-43. Cuando se ha pasado el puente, siguiendo las indicaciones hacia la derecha, hay que remontar unos metros para seguir el sendero que va en paralelo a la carretera. Más adelante se cruza el barranco de Gandesa y, aún siguiendo hacia el N, se va subiendo poco a poco. Se superan unos bancales por un paso escalonado, se llega a unos prados y, siguiendo la indicación de una señal, se atraviesan para continuar remontando el barranco de Gandesa siguiendo de lejos la carretera. 
+ 
+2,45 km (237 m), 40 min. Txabola. Un panel junto a una barraca de piedra explica que durante la Batalla del Ebro muchos soldados se construyeron refugios, ya sea excavando las paredes de la montaña o en cabañas de piedra, también usadas por pastores y cazadores. Se continúa por el mismo camino (NO) y, siguiendo el sendero, se acabará dando la vuelta a un acantilado y se remontará por la Vall Closa de Verano. 
+ 
+4,25 km (294 m), 1 h 10 min. Panel de la Vall Closa. El nombre del valle hace referencia a la falta de salidas naturales por su vertiente SO; esta particularidad la hacía adecuada para el reposo de las tropas que relevaban los soldados del frente, ya que es fácilmente defensable. Por aquí pasaron muchos reclutas de las Brigadas Internacionales y de la Quinta del Biberón. 
+ 
+Desde este punto, otro panel informa también de la cueva que sirvió de puesto de mando para el Batallón Lincoln. La cavidad fue usada durante casi dos semanas del mes de agosto de 1938 para instalar la dirección del 58º batallón de la XV Brigada Internacional, que llevaba el nombre del histórico presidente de EE. UU. ya que lo formaban voluntarios norteamericanos. Para acceder a la cueva hay que seguir un sendero que sube fuertemente por entre los árboles. Se retorna al panel y se sigue el camino hacia el SO. 
+ 
+Poco más adelante se pasa una antigua placa que indica el monolito en homenaje a la XV Brigada Internacional, hacia donde se va. Llegando al final del valle se atraviesan unas grandes rocas y se da la vuelta hacia el NE para subir al puntal del Oso. Hay que remontar unos veinte metros y, una vez arriba, se gira hacia el O pasando junto a unas pequeñas cuevas. 
+ 
+5,43 km (364 m), 1 h 30 min. Área de descanso. En un pequeño terraplén, entre pinos y bancales se estableció un área de descanso para los soldados que aún no estaban destinados al frente. Remontando el sendero que se abre paso se gira hacia el norte y se encuentra otro panel que indica el monolito de las Brigadas Internacionales. Se construyó durante la Batalla del Ebro en memoria de los compañeros muertos de la compañía; fue restaurado en el año 2000 y acompañado de un pequeño memorial con restos de utensilios y materiales de la época encontrados en el lugar. Se continúa subiendo hacia el NO para llegar a lo alto de la parte norte de la sierra de Pàndols, que separa la Vall Closa del valle de la Teuleria. Arriba (5,83 km, 454 m, 1 h 45 min) hay un mirador con una magnífica vista de la sierra de Cavalls (NE), la sierra del Pebrer (NO, que oculta Gandesa) y el resto de la sierra de Pàndols (SO), hacia donde hay que dirigirse planeando entre los valles, siempre con el acantilado a la derecha. El recorrido coincide temporalmente con el GR 171. 
+ 
+6,60 km (538 m), 2 h. Trinchera. Se cruza una de las trincheras que protegían este posible acceso al valle y a El Pinell de Brai; fue excavada en la roca y se reforzaba con sacos. Se continúa hacia el O durante 180 m y entonces, siguiendo el sendero, se gira 90º a la izquierda (SE) recorriendo la parte de arriba de la Vall Closa. 
+ 
+7,30 km (571 m), 2 h 15 min. Mirador de Pàndols. Tras remontar por el bosque se llega a lo alto de la vertiente sur de la sierra de Pàndols. Ante un acantilado hay un mirador: desde aquí se puede ver el valle de El Pinell de Brai y las sierras de Llàfega y Valliplana (SE/S) que ocultan el río Ebro; hacia el SO se alarga la sierra de Pàndols, donde se puede distinguir Santa Magdalena y el monumento a la Paz. 
+ 
+Se coge el sendero donde se ha desembocado hacia la izquierda (NE), siguiendo de nuevo la Vall Closa pero ahora por la vertiente sur; se deja el GR 171, que se va hacia la derecha. Se pasa otra trinchera (panel "Cota 581") y se sigue recto, perdiendo altura. Llegando al final de la sierra, dejando un claro a la izquierda, se hace un zigzag grande en dirección al pueblo y se pierde mucha altura rápidamente. Ahora se planea por encima un lomo que está orientado hacia El Pinell de Brai y se va siguiendo en dirección SE, viendo la carretera y el camino de subida a la izquierda. Pasando por unos bancales con olivos en la zona de las Muntaneres se desemboca en una pista de tierra ancha, que se toma a la izquierda (señal; 10,21 km, 226 m, 3 h). El camino de Muntaneres a Pàndols atraviesa campos de cerezos, olivos y almendros, y va perdiendo altura hasta que, después de una curva, llega a la carretera C-43 justo sobre el puente de la Carbonera por donde se ha pasado al principio de la ruta. 
+ 
+11,19 km (185 m), 3 h 15 min. La Carbonera. En las paredes se pueden observar cuevas excavadas, antiguos refugios abiertos por los soldados para suplir la falta de recursos. Se cruza la carretera por debajo del puente y se rehace el camino por donde ha venido hasta encontrar una señal vertical. En lugar de atravesar el barranco del Pinell y subir hacia la sierra dels Horts, se sigue recto siguiendo el barranco. Se pasa la carretera N-230c por debajo, se deja una pista a mano derecha y otra a la izquierda, continuando recto. Hay que tomar la siguiente desviación a la izquierda (calle del Bonaire) subiendo hacia el Celler por el lado de los lavaderos. 
+ 
+12,64 km (160 m), 3 h 35 min. Celler Cooperatiu, final del itinerario. En El Pinell de Brai se puede visitar el Celler Cooperatiu, edificio modernista diseñado por Cèsar Martinell (1917) conocido como la catedral del vino por la sus grandes dimensiones, detalles decorativos como el friso cerámico pintado por Xavier Nogués y su espectacularidad; el centro de memoria Las voces del Frente, que contextualiza el papel de la comunicación durante la Batalla del Ebro entre bandos, hacia la retaguardia y hacia el extranjero; y las Cases Caigudes, donde se puede observar el impacto de los bombardeos de la guerra en el pueblo viejo.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/07/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.016457" lon="0.512298">
+        <ele>160.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.017121" lon="0.511451">
+        <ele>163.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.017953" lon="0.509930">
+        <ele>174.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.018184" lon="0.508514">
+        <ele>193.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.018952" lon="0.505825">
+        <ele>202.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.020915" lon="0.502594">
+        <ele>188.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021466" lon="0.501064">
+        <ele>177.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021410" lon="0.500683">
+        <ele>174.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021955" lon="0.500240">
+        <ele>175.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021783" lon="0.499431">
+        <ele>178.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.022694" lon="0.498343">
+        <ele>186.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.022765" lon="0.497985">
+        <ele>185.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023106" lon="0.497906">
+        <ele>185.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.024328" lon="0.498077">
+        <ele>187.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.024994" lon="0.497943">
+        <ele>189.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025418" lon="0.497682">
+        <ele>201.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025913" lon="0.498016">
+        <ele>199.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.026095" lon="0.498350">
+        <ele>199.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.026301" lon="0.498229">
+        <ele>204.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.027369" lon="0.498641">
+        <ele>212.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.027637" lon="0.499151">
+        <ele>215.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.028007" lon="0.499080">
+        <ele>217.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.028399" lon="0.498647">
+        <ele>223.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.028776" lon="0.499306">
+        <ele>225.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.029191" lon="0.499240">
+        <ele>231.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.029824" lon="0.498672">
+        <ele>235.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.030227" lon="0.497872">
+        <ele>236.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031058" lon="0.496789">
+        <ele>235.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.030933" lon="0.495044">
+        <ele>240.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031320" lon="0.494508">
+        <ele>243.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031341" lon="0.493085">
+        <ele>263.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031778" lon="0.492160">
+        <ele>256.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032106" lon="0.492327">
+        <ele>261.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032341" lon="0.491891">
+        <ele>266.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032709" lon="0.491660">
+        <ele>267.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033013" lon="0.491688">
+        <ele>265.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033411" lon="0.491350">
+        <ele>270.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033897" lon="0.491400">
+        <ele>271.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033975" lon="0.491176">
+        <ele>275.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033681" lon="0.490671">
+        <ele>277.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033791" lon="0.490090">
+        <ele>268.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034149" lon="0.490664">
+        <ele>263.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034358" lon="0.490767">
+        <ele>260.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034748" lon="0.490224">
+        <ele>269.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.035124" lon="0.490152">
+        <ele>278.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.035338" lon="0.489759">
+        <ele>278.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036042" lon="0.489755">
+        <ele>272.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036112" lon="0.490112">
+        <ele>270.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036381" lon="0.490233">
+        <ele>282.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037046" lon="0.490206">
+        <ele>289.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037335" lon="0.489643">
+        <ele>298.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037936" lon="0.489349">
+        <ele>304.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037716" lon="0.487697">
+        <ele>292.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038051" lon="0.487721">
+        <ele>295.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038187" lon="0.487486">
+        <ele>300.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038164" lon="0.487033">
+        <ele>316.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037881" lon="0.487100">
+        <ele>327.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037848" lon="0.486961">
+        <ele>336.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038169" lon="0.486421">
+        <ele>358.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037848" lon="0.486961">
+        <ele>336.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037881" lon="0.487100">
+        <ele>327.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038164" lon="0.487033">
+        <ele>316.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038086" lon="0.487255">
+        <ele>311.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038257" lon="0.487254">
+        <ele>305.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.038051" lon="0.487721">
+        <ele>295.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037923" lon="0.487741">
+        <ele>294.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037645" lon="0.487672">
+        <ele>291.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037106" lon="0.487066">
+        <ele>306.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036996" lon="0.486490">
+        <ele>312.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036718" lon="0.486526">
+        <ele>320.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036265" lon="0.486009">
+        <ele>354.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036411" lon="0.485269">
+        <ele>352.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036993" lon="0.485738">
+        <ele>362.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037256" lon="0.485139">
+        <ele>359.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037242" lon="0.484554">
+        <ele>366.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036896" lon="0.483756">
+        <ele>385.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037059" lon="0.483792">
+        <ele>383.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037778" lon="0.482757">
+        <ele>420.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.037715" lon="0.481083">
+        <ele>454.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036920" lon="0.479438">
+        <ele>447.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036258" lon="0.479323">
+        <ele>451.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.036003" lon="0.478756">
+        <ele>468.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.035454" lon="0.478211">
+        <ele>491.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.035330" lon="0.477590">
+        <ele>503.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034614" lon="0.476038">
+        <ele>534.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034396" lon="0.474564">
+        <ele>538.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034503" lon="0.473357">
+        <ele>543.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.034234" lon="0.472377">
+        <ele>535.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033565" lon="0.472705">
+        <ele>540.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033273" lon="0.473121">
+        <ele>550.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033174" lon="0.472989">
+        <ele>555.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032880" lon="0.473091">
+        <ele>557.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032835" lon="0.473558">
+        <ele>556.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032560" lon="0.473610">
+        <ele>553.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032271" lon="0.473395">
+        <ele>548.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031950" lon="0.473524">
+        <ele>555.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031749" lon="0.474317">
+        <ele>557.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031070" lon="0.475168">
+        <ele>570.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031565" lon="0.475962">
+        <ele>572.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031519" lon="0.477141">
+        <ele>569.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031909" lon="0.477568">
+        <ele>565.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032197" lon="0.478438">
+        <ele>558.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033047" lon="0.481906">
+        <ele>540.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033055" lon="0.482587">
+        <ele>536.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033481" lon="0.483447">
+        <ele>524.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.033388" lon="0.483700">
+        <ele>523.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032907" lon="0.483891">
+        <ele>519.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032636" lon="0.483583">
+        <ele>513.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032479" lon="0.482660">
+        <ele>481.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031995" lon="0.483073">
+        <ele>466.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032161" lon="0.483998">
+        <ele>459.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031959" lon="0.484741">
+        <ele>454.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032385" lon="0.485670">
+        <ele>428.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.032139" lon="0.486060">
+        <ele>421.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031992" lon="0.487332">
+        <ele>396.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031393" lon="0.488564">
+        <ele>391.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031532" lon="0.488677">
+        <ele>389.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.031034" lon="0.488913">
+        <ele>384.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.030891" lon="0.489161">
+        <ele>382.4</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.030293" lon="0.489375">
+        <ele>381.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.030028" lon="0.489726">
+        <ele>379.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.029208" lon="0.490262">
+        <ele>362.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.028370" lon="0.490279">
+        <ele>351.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.027556" lon="0.490006">
+        <ele>332.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.027555" lon="0.490163">
+        <ele>328.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.027281" lon="0.489885">
+        <ele>325.6</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.026030" lon="0.490120">
+        <ele>299.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.026120" lon="0.490290">
+        <ele>295.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025798" lon="0.490272">
+        <ele>289.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025605" lon="0.490211">
+        <ele>285.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025401" lon="0.489881">
+        <ele>279.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.025194" lon="0.490680">
+        <ele>266.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.024835" lon="0.490777">
+        <ele>257.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.024581" lon="0.491346">
+        <ele>243.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.024237" lon="0.491304">
+        <ele>237.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023775" lon="0.491586">
+        <ele>230.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023526" lon="0.490645">
+        <ele>227.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023369" lon="0.490497">
+        <ele>225.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023339" lon="0.490944">
+        <ele>223.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023577" lon="0.491607">
+        <ele>221.1</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023074" lon="0.492310">
+        <ele>216.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.023249" lon="0.493008">
+        <ele>213.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.022772" lon="0.493212">
+        <ele>210.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.022575" lon="0.494280">
+        <ele>218.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.020945" lon="0.498376">
+        <ele>199.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021352" lon="0.499828">
+        <ele>186.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021450" lon="0.499832">
+        <ele>184.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021516" lon="0.499457">
+        <ele>180.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021775" lon="0.499543">
+        <ele>181.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.021955" lon="0.500240">
+        <ele>175.5</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.020681" lon="0.501305">
+        <ele>171.3</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.020389" lon="0.502723">
+        <ele>168.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.018151" lon="0.504581">
+        <ele>167.0</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.017761" lon="0.505204">
+        <ele>164.7</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.017585" lon="0.506112">
+        <ele>162.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.017460" lon="0.508551">
+        <ele>160.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.016890" lon="0.509569">
+        <ele>159.2</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.016133" lon="0.511657">
+        <ele>155.8</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.016283" lon="0.512508">
+        <ele>159.9</ele>
+        <time>2018-07-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.016436" lon="0.512338">
+        <ele>160.2</ele>
+        <time>2018-07-31T01:35:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

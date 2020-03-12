@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.439477" lon="1.041263">
+    <ele>646.5</ele>
+    <time>2014-04-28T11:04:06Z</time>
+    <name>Forn Gran de l'Arbós</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.431290" lon="1.029130">
+    <ele>635.6</ele>
+    <time>2014-04-28T11:04:06Z</time>
+    <name>Forn dels Assèguils del Rabadà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434301" lon="1.031526">
+    <ele>625.4</ele>
+    <time>2014-04-28T11:04:09Z</time>
+    <name>Forns bessons del Pla del Xató</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.440834" lon="1.045739">
+    <ele>663.6</ele>
+    <time>2014-04-28T11:04:12Z</time>
+    <name>Forn del Pla del Cintet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.443580" lon="1.032430">
+    <ele>600.0</ele>
+    <time>2014-04-28T11:04:14Z</time>
+    <name>Forns bessons de les Comes de Mongrat del Ros</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.433350" lon="1.037560">
+    <ele>650.2</ele>
+    <time>2014-04-28T11:04:16Z</time>
+    <name>Forn de les Esconteies del Mut</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.439515" lon="1.028316">
+    <ele>604.7</ele>
+    <time>2014-04-28T11:04:17Z</time>
+    <name>Forn del Buscarró del París</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434681" lon="1.032142">
+    <ele>629.7</ele>
+    <time>2014-04-28T11:04:21Z</time>
+    <name>Toll de la Gravera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434906" lon="1.028917">
+    <ele>616.7</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Forn dels Assèguils del Joan del Roig</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.441640" lon="1.030856">
+    <ele>621.3</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Cabana de Cal Fermí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.443690" lon="1.033020">
+    <ele>594.8</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Aixopluc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.439773" lon="1.040668">
+    <ele>645.0</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Cabana de Ca l'Estanc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.436519" lon="1.046307">
+    <ele>655.9</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Forn del Colomet al Codoç</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.432354" lon="1.047237">
+    <ele>674.4</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Punta del Vilobí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.433800" lon="1.040340">
+    <ele>658.5</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Al forn de les Costes del Mosset</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.433643" lon="1.041917">
+    <ele>663.6</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Als forns de les Costes de les Eres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.435090" lon="1.035410">
+    <ele>638.4</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Al forn de les Esconteies de l'Engràcia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434285" lon="1.033202">
+    <ele>634.3</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Inici de la ruta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.440040" lon="1.032990">
+    <ele>599.3</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Forn del Buscarró del Pubillet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.428920" lon="1.025220">
+    <ele>624.1</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Forn de la Campana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.440683" lon="1.037540">
+    <ele>636.2</ele>
+    <time>2016-02-28T13:37:54Z</time>
+    <name>Forn del Pla del Ferran</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Tarrés Ruta de la Calç</name>
+    <desc>[CA] &lt;b&gt;Tarrés: Ruta de la Calç&lt;/b&gt;&lt;br&gt; 
+ 
+&lt;i&gt;Itinerari senyalitzat que transcorre pels plans de Tarrés, a l’extrem oriental de les Garrigues. El recorregut que es proposa és una adaptació de la ruta local dels forns de calç; permet visitar una mostra representativa de les nombroses instal·lacions que van funcionar en el terme de Tarrés fins a mitjan segle XX i que van desenvolupar un paper d’indústria a petita escala, complementària de l’activitat agrícola. La producció de calç es basa en la transformació de la pedra calcària a temperatures d’entre 900 i 1.000 graus. Els que han romàs dempeus pertanyen a un model constructiu antiquíssim: fets de pedra i fang, amb un disseny més o menys rudimentari, allotgen una cambra de combustió que s’alimentava amb llenya i pedra calcària. L’abandonament de l’activitat pagesa i de la producció de calç ha desembocat en un altre aprofitament: la producció d’energia elèctrica amb mitjans eòlics. El paisatge actual és, doncs, una barreja de petites raconades conreades, de bosc –que recupera terreny– i d’enormes molins de vent disposats en fileres que sobresurten per tot l’horitzó. L’itinerari reserva, però, altres sorpreses, com la deliciosa obaga de les Comes de Montgrat, on el destí i les condicions d’humitat conserven un bosc ufanós.&lt;/i&gt; 
+Ruta senyalitzada. Aquesta ruta també es pot fer amb bicicleta tot terreny. 
+ 
+Per arribar a Tarrés cal prendre la carretera LV-2014 des del seu enllaç amb la N-240 en el tram entre Vimbodí i Vinaixa. Es proposa sortir des de l’esplanada dels Assèguils que es troba al costat oest del punt quilomètric 18,2 de la carretera LV-2014, passat Tarrés i en direcció a Fulleda. 
+ 
+0,00 km (634 m). La ruta s'inicia a l’esplanada abans esmentada. Se surt pista enllà, cap a ponent (O) deixant la carretera a l’esquena. Passats trenta metres es gira a l’esquerra (SO, senyal) per una pista que discorre paral·lelament a la carretera (després es tornarà a aquest punt.) 
+ 
+0,38 km (639 m), 6 min. Bifurcació al forn dels Assèguils del Rabadà (senyal; després es tornarà a aquest punt); es continua cap a la dreta i s’arriba al forn (0,53 km). Es torna erere i es continua en la direcció que es duia (SO), seguint el camí fins a trobar un altre senyal, des d’on es baixa al forn de la Campana. 
+ 
+1,27 km (623 m), 18 min. Forn de la Campana. Es torna a la pista principal de sortida. Un cop allà (2,24 km), es gira a l’esquerra (O) deixant el punt d’inici a l’esquena. De seguida s’arriba a una bifurcació situada al toll de la Gravera (senyal). Es gira a l’esquerra (SO; després es tornarà aquí). 
+ 
+2,37 km (627 m), 35 min. Forns bessons del Pla del Xató. Es torna a la gravera; ara, es continuarà recte (NE), deixant el toll a l’esquerre. El camí puja suaument i gira al NO. S’arriba a una bifurcació (senyal), es continua recte; pocs metres enllà es deixa la pista i es gira a l’esquerra. 
+ 
+2,82 km (618 m), 40 min. Forn dels Assèguils del Joan del Roig. Es torna a la bifurcació senyalitzada i es continua pista enllà (N), primer baixant suaument, després pronunciadament (ziga-zaga). 
+ 
+3,69 km (599 m), 53 min. Forn del Buscarró del Pubillet. Es pren el corriol que surt del costat del forn, costa amunt, cap a llevant. El camí fa una ziga-zaga i desemboca en un altre camí (senyal, 4,03 km, 635 m). Es gira a l’esquerra (N), ara en lleuger descens. Uns 250 metres després es creua la pista de servei d’un aerogenerador que queda a mà esquerra. Se surt a una altra pista de servei, que es pren cap a l’esquerra (O, senyal); la pista gira a la dreta per arribar a un nou molí; es continua recte (senyal). 
+ 
+4,66 km (619 m), 1 h 10 min. Bifurcació (senyal); cent metres a la dreta hi ha la cabana de pedra de Cal Fermí; després de la visita es torna a aquest punt i es continua cap a ponent. 
+ 
+5,05 km (612 m), 1 h 16 min. Es deixa la pista principal (senyal) i es gira a l’esquerra (S) per anar a veure el forn del Buscarró del París, situat a l’extrem sud-occidental dels plans de Tarrés. S’arriba a la construcció (5,24 km, 610 m), es visita i es continua camí enllà girant cap al N per un corriol estret. Se surt a la pista anterior (5,50 km, senyal), es creua i es continua camí enllà (N), planerament. Uns dos-cents metres després s’uneix al recorregut un camí que ve de la dreta (senyal). Es continua endavant i comença una baixada pronunciada per l’obaga de les Comes de Montgrat; es deixen a l’esquerra dos forns bessons i s’arriba al fons de la coma. A l’esquerra hi ha un aixopluc de pedra (senyal). Es continua cap a llevant enmig d’una arbrada esponerosa. 
+ 
+6,67 km (595 m), 1 h 40 min. El camí gira a la dreta (S) i comença a pujar. Es passa pel costat d’un aixopluc, i uns metres enllà es deixen a l’esquerra els forns bessons de les Comes de Montgrat del Ros. Es fa una ziga-zaga i es remunta, de nou, fins als plans de Tarrés. El camí es dirigeix al SE, desemboca en la pista de servei dels aerogeneradors i, seguint recte, va a parar a la carretera. 
+ 
+7,50 km (636 m), 1 h 54 min. S’és a tocar de la carretera de Fulleda a Tarrés (senyal). No s’ha de creuar en aquest punt sinó girar a l’esquerra (N) i seguir un camí paral·lel. Seixanta metres més enllà es passa pel forn del Pla del Ferran (senyal), que queda a l’esquerra. Es continua el camí, es gira a la dreta (E) i es creua la carretera (senyals) per prendre una pista a l’altra banda que se’n va cap al SE. 400 m després es deixa la pista ampla i es gira a l’esquerra (senyal). 
+ 
+7,92 km (645 m), 2 h 0 min. Cabana de pedra de Ca l’Estanc. Es retorna al camí i es continua endavant (SE). Poc més enllà es deixa a l’esquerra (N) el forn Gran de l’Arbós. Se surt a la pista inicial, es deixa un trencall a la dreta i es gira cap al NE. Es desemboca a la pista de servei dels aerogeneradors (8,37 km, 660 m), que es pren cap a l’esquerra (N) durant uns metres fins a trobar un senyal, deixant a mà esquerra un enorme molí de vent. 
+ 
+8,47 km (661 m), 2 h 10 min. Forn del Pla del Cintet, a tocar de la pista. Es torna enrere, ara seguint el vial de servei; just passat el tercer molí (8,77 km, 661 m, senyal) cal deixar la pista i prendre un camí que surt de l’esquerre (E). Es discorre per l’extrem oriental dels plans de Tarrés, en els estreps de migdia de la serra de Vilobí. Mantenint els molins a la dreta es deixa el forn del Colomet al Codoç a l’esquerra (E) i, força més avall, es desemboca en una pista (9,37 km, 673 m, senyal). Se segueix cap a l’esquerra (SE). 
+ 
+9,65 km (681 m), 2 h 28 min. Punta del Vilobí, terme municipal de Vimbodí, mirador de la Conca de Barberà (si el brancatge dels arbres ho permet, ja que no es poden regularment). Es torna enrere, es deixa el camí per on s’havia vingut a la dreta i es continua en direcció a ponent. Al punt 10,17 km del recorregut un corriol a mà esquerra (S) du als forns bessons de les Costes de les Eres (senyal, tram d’anada i tornada no comptat). Es continua ponent enllà, es deixa a l’esquerra l’accés al forn de les Costes de Mosset (10,30 km, senyal, tram no comptat) i s’arriba a una nova desviació. 
+ 
+10,50 km (650 m), 1 h 40 min. Trencall al forn de les Esconteies del Mur, que es pren cap a l’esquerra. El forn es troba 120 m cap endins. Un cop visitat es torna enrere i es continua la pista cap a l’esquerra (O); es descriu una ampla ziga-zaga, es deixa a l’esquerra l’accés al forn de les Esconteies de l’Engràcia (11,07 km, senyal) i se surt a la carretera LV-2014, que caldrà seguir cent metres cap a l’esquerra (S) fins a trobar l’esplanada de l’inici del recorregut. 
+ 
+ 11,28 km (634 m), 1 h 50 min. Esplanada dels Assèguils. Fi del recorregut.&lt;br&gt; 
+ 
+&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;br&gt; 
+ 
+ 
+[ES] &lt;b&gt;Tarrés: Ruta de la Calç&lt;/b&gt;&lt;br&gt; 
+ 
+&lt;i&gt; Itinerario señalizado que transcurre por los llanos de Tarrés, en el extremo oriental de Les Garrigues. El recorrido que se propone es una adaptación de la ruta local de los hornos de cal y permite visitar una muestra representativa de las numerosas instalaciones que funcionaron en el término de Tarrés hasta mediados del siglo XX y que desarrollaron un papel de industria a pequeña escala, complementaria de la actividad agraria. La producción de cal se basa en la transformación de la piedra caliza a temperaturas de entre 900 y 1.000 grados. Los que han permanecido en pie pertenecen a un modelo constructivo antiquísimo: hechos de piedra y barro, con un diseño más o menos rudimentario, alojan una cámara de combustión que se alimentaba con leña y piedra caliza. El abandono de la actividad campesina y de la producción de cal ha desembocado en otro aprovechamiento: la producción de energía eléctrica con medios eólicos. El paisaje actual es, pues, una mezcla de pequeñas rincones cultivados, de bosque -que recupera terreno- y de enormes molinos de viento dispuestos en hileras que sobresalen por todo el horizonte. El itinerario reserva, sin embargo, otras sorpresas, como la deliciosa umbría de Les Comes de Montgrat, donde el destino y las condiciones de humedad conservan un bosque lozano.&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta todo terreno. 
+ 
+Para llegar a Tarrés, hay que tomar la carretera LV-2014 desde su enlace con la N-240, en el tramo entre Vimbodí y Vinaixa. Se propone salir desde la explanada de Els Assèguils que se encuentra en el lado oeste del punto kilométrico 18,2 de la carretera LV-2014, entre Tarrés y Fulleda. 
+ 
+0,00 km (634 m). La ruta se inicia en la explanada antes mencionada. Se sale pista allá, hacia poniente (O) dejando la carretera a la espalda. Pasados 30 metros se gira a la izquierda (SO, señal) por una pista que discurre paralelamente a la carretera (después se volverá a este punto.) 
+ 
+0,38 km (639 m), 6 min. Bifurcación al horno de Els Assèguils del Rabadà (señal; después se volverá a este punto); se continúa hacia la derecha y se llega al horno (0,53 km). Se vuelve atrás y se continúa en la dirección que se llevaba (SO), siguiendo el camino hasta encontrar otra señal, desde donde se baja el horno de La Campana. 
+ 
+1,27 km (623 m), 18 min. Horno de La Campana. Se vuelve a la pista principal de salida. Una vez allí (2,24 km), se gira a la izquierda (O) dejando el punto de inicio en la espalda. Enseguida se llega a una bifurcación situada en la poza de la Gravera (señal). Se gira a la izquierda (SO; después se volverá aquí). 
+ 
+2,37 km (627 m), 35 min. Hornos gemelos del Pla del Xató. Se vuelve a la gravera; ahora, se continuará recto (NE), dejando la charca a la izquierda. El camino asciende suavemente y gira al NO. Se llega a una bifurcación (señal), se sigue recto; pocos metros más allá se deja la pista y se gira a la izquierda. 
+ 
+2,82 km (618 m), 40 min. Horno de Els Assèguils del Joan del Roig. Se vuelve a la bifurcación señalizada y se continúa pista allá (N), primero bajando suavemente, luego pronunciadamente (zigzag). 
+ 
+3,69 km (599 m), 53 min. Horno del Buscarró del Pubillet. Se toma el sendero que sale del lado del horno, cuesta arriba, hacia levante. El camino hace un zigzag y desemboca en otro camino (señal, 4,03 km, 635 m). Se gira a la izquierda (N), ahora en ligero descenso. Unos 250 metros después se cruza la pista de servicio de un aerogenerador que queda a mano izquierda. Se sale a otra pista de servicio, que se toma hacia la izquierda (O, señal); la pista gira a la derecha para llegar a un nuevo molino; se sigue recto (señal). 
+ 
+4,66 km (619 m), 1 h 10 min. Bifurcación (señal); cien metros a la derecha está la cabaña de piedra de Cal Fermí; después de la visita se vuelve a este punto y se continúa hacia poniente. 
+ 
+5,05 km (612 m), 1 h 16 min. Se deja la pista principal (señal) y se gira a la izquierda (S) para ir a ver el horno Del Buscarró del París, situado en el extremo sur-occidental de los llanos de Tarrés. Se llega a la construcción (5,24 km, 610 m), se visita y se continúa por el camino girando hacia el N por un sendero estrecho. Se sale a la pista anterior (5,50 km, señal), se cruza y se continúa por el camino (N), llanamente. Unos doscientos metros después se une al recorrido un camino que viene de la derecha (señal). Se sigue adelante y comienza una bajada pronunciada por la umbría de Les Comes de Montgrat; se dejan a la izquierda dos hornos gemelos y se llega al fondo de la hondonada. A la izquierda hay un cobijo de piedra (señal). Se continúa hacia levante en medio de una arboleda frondosa. 
+ 
+6,67 km (595 m), 1 h 40 min. El camino gira a la derecha (S) y comienza a subir. Se pasa junto a un cobijo de piedra y unos metros más allá se dejan a la izquierda los hornos gemelos de Les Comes de Montgrat del Ros. Se hace un zigzag y se remonta, de nuevo, hasta los llanos de Tarrés. El camino se dirige al SE, desemboca en la pista de servicio de los aerogeneradores y, siguiendo recto, va a parar a la carretera. 
+ 
+7,50 km (636 m), 1 h 54 min. Se está junto a la carretera de Fulleda a Tarrés (señal). No se debe cruzar en este punto sino girar a la izquierda (N) y seguir un camino paralelo. Sesenta metros más allá se pasa por el horno Del Pla del Ferran (señal), que queda a la izquierda. Se continúa el camino, se gira a la derecha (E) y se cruza la carretera (señales) para tomar una pista por la otra parte que se va hacia el SE. 400 m después se deja la pista ancha y se gira a la izquierda (señal). 
+ 
+7,92 km (645 m), 2 h 0 min. Cabaña de piedra de Ca l’Estanc. Se devuelve al camino y se sigue adelante (SE). Poco más allá se deja a la izquierda (N) el horno Gran de l’Arbós. Se sale en la pista inicial, se deja un desvío a la derecha y se gira hacia el NE. Se desemboca en la pista de servicio de los aerogeneradores (8,37 km, 660 m), que se toma hacia la izquierda (N) durante unos metros hasta encontrar una señal, dejando a mano izquierda un enorme molino de viento. 
+ 
+8,47 km (661 m), 2 h 10 min. Horno del Pla del Cintet, junto a la pista. Se vuelve atrás, ahora siguiendo el vial de servicio; justo pasado el tercer molino (8,77 km, 661 m, señal) hay que dejar la pista y tomar un camino que sale a la izquierda (E). Se discurre por el extremo oriental de los llanos de Tarrés, en los estribos de mediodía de la sierra de Vilobí. Manteniendo los molinos a la derecha se deja el horno del Colomet al Codoç a la izquierda (E) y, bastante más abajo, se desemboca en una pista (9,37 km, 673 m, señal). Se sigue hacia la izquierda (SE). 
+ 
+9,65 km (681 m), 2 h 28 min. Punta del Vilobí, término municipal de Vimbodí, mirador de la Conca de Barberà (si el ramaje de los árboles lo permite, ya que no se talan regularmente). Se vuelve atrás, se deja el camino por donde se había venido a la derecha y se continúa en dirección a poniente. En el punto 10,17 km del recorrido un sendero a mano izquierda (S) lleva a los hornos gemelos de Les Costes de les Eres (señal, tramo de ida y vuelta no contado). Se continúa poniente allá, se deja a la izquierda el acceso al horno de Les Costes del Mosset (10,30 km, señal, tramo no contado) y se llega a una nueva desviación. 
+ 
+10,50 km (650 m), 1 h 40 min. Desvío al horno de Les Esconteies del Mut, que se toma hacia la izquierda. El horno se encuentra 120 m hacia adentro. Una vez visitado se vuelve atrás y se continúa por la pista hacia la izquierda (O); se describe un amplio zigzag, se deja a la izquierda el acceso al horno de Les Esconteies de l’Engràcia (11,07 km, señal) y se sale a la carretera LV-2014, que habrá que seguir cien metros hacia la izquierda (S) hasta encontrar la explanada del inicio del recorrido. 
+ 
+11,28 km (634 m), 1 h 50 min. Explanada de Els Assèguils. Fin del recorrido.&lt;br&gt; 
+ 
+&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;br&gt; 
+ 
+ 
+[EN] &lt;b&gt;Tarrés: Ruta de la Calç&lt;/b&gt;&lt;br&gt; 
+ 
+&lt;i&gt;The Ruta de la Calç (limekiln route) is a signposted itinerary through the gently rolling hills of the area around the town of Tarrés called Plans de Tarrés. Along the route, you can visit nearly thirty former limekilns while enjoying the magnificent scenery of the natural surroundings.&lt;/i&gt; 
+Marked trail. This itinerary is also ideal for mountain bike.&lt;br&gt; 
+ 
+&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/15&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.434285" lon="1.033184">
+        <ele>634.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434269" lon="1.032778">
+        <ele>632.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433921" lon="1.032436">
+        <ele>632.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432752" lon="1.031724">
+        <ele>636.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432005" lon="1.030985">
+        <ele>639.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431601" lon="1.029765">
+        <ele>637.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431248" lon="1.029159">
+        <ele>636.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431625" lon="1.029824">
+        <ele>636.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431669" lon="1.030582">
+        <ele>639.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431222" lon="1.030483">
+        <ele>638.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430857" lon="1.029973">
+        <ele>638.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430167" lon="1.029616">
+        <ele>639.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430028" lon="1.028880">
+        <ele>636.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.428875" lon="1.027549">
+        <ele>634.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.428916" lon="1.025239">
+        <ele>624.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.428875" lon="1.027549">
+        <ele>634.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430028" lon="1.028880">
+        <ele>636.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430167" lon="1.029616">
+        <ele>639.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.430857" lon="1.029973">
+        <ele>638.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431190" lon="1.030460">
+        <ele>638.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.431656" lon="1.030625">
+        <ele>638.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432634" lon="1.031632">
+        <ele>636.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433820" lon="1.032348">
+        <ele>634.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434206" lon="1.032767">
+        <ele>632.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434566" lon="1.032224">
+        <ele>630.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434302" lon="1.031526">
+        <ele>625.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434684" lon="1.032328">
+        <ele>630.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434907" lon="1.032417">
+        <ele>633.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435636" lon="1.030845">
+        <ele>629.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435669" lon="1.030366">
+        <ele>628.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435311" lon="1.030012">
+        <ele>627.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434960" lon="1.028933">
+        <ele>617.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435311" lon="1.030012">
+        <ele>627.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435669" lon="1.030366">
+        <ele>628.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435679" lon="1.030701">
+        <ele>628.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435986" lon="1.030487">
+        <ele>627.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.436279" lon="1.030000">
+        <ele>625.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.436899" lon="1.029928">
+        <ele>618.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437389" lon="1.030882">
+        <ele>615.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437658" lon="1.031096">
+        <ele>612.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437591" lon="1.030846">
+        <ele>609.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438124" lon="1.031231">
+        <ele>603.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439098" lon="1.032946">
+        <ele>599.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440018" lon="1.032969">
+        <ele>598.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439952" lon="1.033626">
+        <ele>613.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439693" lon="1.034002">
+        <ele>617.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439297" lon="1.034263">
+        <ele>619.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438694" lon="1.034323">
+        <ele>627.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438389" lon="1.034643">
+        <ele>631.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438343" lon="1.035105">
+        <ele>633.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438661" lon="1.035547">
+        <ele>634.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440954" lon="1.035344">
+        <ele>628.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441111" lon="1.035076">
+        <ele>627.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441104" lon="1.032514">
+        <ele>620.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440904" lon="1.031865">
+        <ele>620.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440898" lon="1.031225">
+        <ele>619.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441594" lon="1.030886">
+        <ele>621.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440900" lon="1.031099">
+        <ele>618.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440764" lon="1.029514">
+        <ele>614.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441091" lon="1.028598">
+        <ele>612.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440863" lon="1.028470">
+        <ele>611.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439822" lon="1.028675">
+        <ele>611.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439662" lon="1.028249">
+        <ele>609.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439514" lon="1.028313">
+        <ele>604.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439849" lon="1.027896">
+        <ele>610.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440358" lon="1.027585">
+        <ele>609.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440497" lon="1.027263">
+        <ele>610.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441734" lon="1.028318">
+        <ele>608.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.442762" lon="1.028658">
+        <ele>605.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.442922" lon="1.028276">
+        <ele>601.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.442641" lon="1.027632">
+        <ele>594.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.442668" lon="1.027368">
+        <ele>594.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443020" lon="1.027142">
+        <ele>589.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443212" lon="1.027585">
+        <ele>583.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443242" lon="1.026991">
+        <ele>584.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443670" lon="1.026218">
+        <ele>579.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443899" lon="1.026469">
+        <ele>570.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443812" lon="1.027312">
+        <ele>565.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.444117" lon="1.031468">
+        <ele>582.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443964" lon="1.032602">
+        <ele>589.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443720" lon="1.033046">
+        <ele>594.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443574" lon="1.032158">
+        <ele>600.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443279" lon="1.031521">
+        <ele>608.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443406" lon="1.032068">
+        <ele>606.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.443138" lon="1.031717">
+        <ele>614.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.442894" lon="1.033454">
+        <ele>619.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441983" lon="1.035435">
+        <ele>627.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440663" lon="1.036743">
+        <ele>634.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440233" lon="1.037503">
+        <ele>636.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441003" lon="1.038101">
+        <ele>635.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.441059" lon="1.038540">
+        <ele>636.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440583" lon="1.039721">
+        <ele>639.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439567" lon="1.040618">
+        <ele>644.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439560" lon="1.040727">
+        <ele>644.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439730" lon="1.040661">
+        <ele>644.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439102" lon="1.042139">
+        <ele>649.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439102" lon="1.042644">
+        <ele>650.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439735" lon="1.043846">
+        <ele>655.7</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440118" lon="1.045454">
+        <ele>660.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.440790" lon="1.045811">
+        <ele>662.6</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.439417" lon="1.045283">
+        <ele>661.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.438364" lon="1.045291">
+        <ele>661.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437753" lon="1.045914">
+        <ele>664.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437307" lon="1.045917">
+        <ele>665.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.437085" lon="1.046102">
+        <ele>666.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.436718" lon="1.045975">
+        <ele>666.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435800" lon="1.044956">
+        <ele>667.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435343" lon="1.045059">
+        <ele>667.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434901" lon="1.044791">
+        <ele>670.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433901" lon="1.044994">
+        <ele>671.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433599" lon="1.044740">
+        <ele>673.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432577" lon="1.045824">
+        <ele>677.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432349" lon="1.047207">
+        <ele>675.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.432577" lon="1.045824">
+        <ele>677.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433705" lon="1.044599">
+        <ele>671.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434139" lon="1.043103">
+        <ele>667.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433897" lon="1.042111">
+        <ele>665.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433668" lon="1.041896">
+        <ele>663.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433600" lon="1.041599">
+        <ele>663.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434245" lon="1.037990">
+        <ele>649.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433720" lon="1.037563">
+        <ele>649.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433359" lon="1.037538">
+        <ele>650.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.433720" lon="1.037563">
+        <ele>649.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434177" lon="1.037968">
+        <ele>649.5</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434594" lon="1.037597">
+        <ele>648.0</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435107" lon="1.037826">
+        <ele>645.9</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435454" lon="1.037284">
+        <ele>643.8</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435140" lon="1.036084">
+        <ele>641.1</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.435158" lon="1.034217">
+        <ele>639.2</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434272" lon="1.033495">
+        <ele>633.3</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+      <trkpt lat="41.434285" lon="1.033214">
+        <ele>634.4</ele>
+        <time>2015-10-29T22:00:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

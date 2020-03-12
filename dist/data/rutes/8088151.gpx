@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.605349" lon="0.877420">
+    <ele>2214.1</ele>
+    <time>2014-04-25T15:13:18Z</time>
+    <name>REFUGI VENTOSA I CALVELL</name>
+    <desc>20-JUL-05 7:02:09PM</desc>
+  </wpt>
+  <wpt lat="42.600020" lon="0.890411">
+    <ele>2186.0</ele>
+    <time>2014-04-25T15:13:18Z</time>
+    <name>BIFURCACIÓ DE COLIETO</name>
+    <desc>21-JUL-05 7:32:19AM</desc>
+  </wpt>
+  <wpt lat="42.585240" lon="0.906910">
+    <ele>2956.9</ele>
+    <time>2014-04-25T15:13:19Z</time>
+    <name>PIC DE CONTRAIX</name>
+    <desc>21-JUL-05 2:15:23PM</desc>
+  </wpt>
+  <wpt lat="42.603318" lon="0.883374">
+    <ele>2154.9</ele>
+    <time>2014-04-25T15:13:19Z</time>
+    <name>COTA 2155</name>
+    <desc>COTA 2155</desc>
+  </wpt>
+  <wpt lat="42.588809" lon="0.910976">
+    <ele>2724.9</ele>
+    <time>2014-04-25T15:13:20Z</time>
+    <name>COTA 2725</name>
+    <desc>COTA 2725</desc>
+  </wpt>
+  <wpt lat="42.589248" lon="0.910620">
+    <ele>2749.0</ele>
+    <time>2014-04-25T15:13:20Z</time>
+    <name>COLL DE CONTRAIX</name>
+    <desc>COLL DE CONTRAIX</desc>
+  </wpt>
+  <wpt lat="42.596101" lon="0.897837">
+    <ele>2350.0</ele>
+    <time>2014-04-25T15:13:21Z</time>
+    <name>PLA A 2330 M</name>
+    <desc>PLA A 2330 M</desc>
+  </wpt>
+  <wpt lat="42.588669" lon="0.911557">
+    <ele>0.0</ele>
+    <time>2014-04-25T15:13:21Z</time>
+    <name>COTA 2685</name>
+    <desc>COTA 2685</desc>
+  </wpt>
+  <wpt lat="42.603872" lon="0.874428">
+    <ele>2126.9</ele>
+    <time>2014-04-25T15:13:22Z</time>
+    <name>ESTANY NEGRE</name>
+    <desc>ESTANY NEGRE</desc>
+  </wpt>
+  <wpt lat="42.607431" lon="0.876819">
+    <ele>2229.9</ele>
+    <time>2014-04-25T15:13:22Z</time>
+    <name>ESTANYS DE TRAVESSANI</name>
+    <desc>ESTANYS DE TRAVESSANI</desc>
+  </wpt>
+  <wpt lat="42.608489" lon="0.887283">
+    <ele>2557.9</ele>
+    <time>2014-04-25T15:13:23Z</time>
+    <name>AGULLES DE TRAVESSANI</name>
+    <desc>AGULLES DE TRAVESSANI</desc>
+  </wpt>
+  <wpt lat="42.603238" lon="0.881335">
+    <ele>2151.9</ele>
+    <time>2014-04-25T15:13:23Z</time>
+    <name>ESTANY DE COLIETO</name>
+    <desc>ESTANY DE COLIETO</desc>
+  </wpt>
+  <wpt lat="42.601156" lon="0.888538">
+    <ele>2185.1</ele>
+    <time>2014-04-25T15:13:24Z</time>
+    <name>ESTANY GRAN DE COLIETO</name>
+    <desc>ESTANY GRAN DE COLIETO</desc>
+  </wpt>
+  <wpt lat="42.587799" lon="0.916629">
+    <ele>2570.1</ele>
+    <time>2014-04-25T15:13:24Z</time>
+    <name>ESTANY DE CONTRAIX</name>
+    <desc>ESTANY DE CONTRAIX</desc>
+  </wpt>
+  <trk>
+    <name>Del refugi Joan Ventosa i Calvell al pic de Contraix</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Del refugi Joan Ventosa i Calvell al pic de Contraix&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El pic de Contraix és un important nus orogràfic de la llarga carena que del pic de Colomèrs mena a la Punta Alta de Comalesbienes. Del Contraix avança cap al sud la carena del Serrader, que separa les valls de Contraix, a l'est, de la de Serrader, a l'oest, ambdues tributàries del riu Sant Nicolau. Per la seva situació, aquest cim és un gran mirador de la contrada. Ambient sever d'alta muntanya amb terreny aspre format per grans blocs de granit que demana experiència i agilitat.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per arribar a l'aparcament situat sota la presa de Cavallers, inici de l'excursió, cal sortir del Pont de Suert per la carretera N-230 en direcció a Vielha i, poc després, girar a la dreta per la L-500 de la Vall de Boí al balneari de Caldes de Boí. Aquí s'ha de seguir una estreta pista asfaltada que porta a l'esmentat aparcament, ja dins del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, des d'on per un itinerari senyalitzat s'arriba al refugi en 2 h (cal veure la ruta &lt;i&gt;De la presa de Cavallers al refugi Joan Ventosa i Calvell&lt;/i&gt;). 
+ 
+0,00 km (2.220 m). Refugi Joan Ventosa i Calvell. Cal seguir el camí que surt de darrere del refugi cap a l'est i baixa fortament fins a la vall de Colieto deixant enrere i a baix l'estany Negre. 
+ 
+0,49 km (2.186 m), 0 h 10 min. Estany de Colieto. S'és davant d'una bonica prada a la sortida d'aigües de l'estany de Colieto. El riu voreja el prat i baixa cap a l'estany Negre (O). Tanmateix, cal seguir el camí en direcció contrària, cap a l'est, vorejant l'estany i remuntant la vall. 
+ 
+1,14 km (2.219 m), 0 h 40 min. Estany Gran de Colieto. És format per dos grans llacs quasi units. Passat tot l'estany, 200 m més amunt, es deixa el camí de la dreta (S) que puja a la Punta Alta de Comalesbienes. S'ha d'ascendir cap a l'est per unes graonades rocoses superant un fort desnivell. 
+ 
+2,28 km (2.358 m), 1 h 10 min. S'arriba a un replà. És un petit i bell paratge situat al començament de la llarga i darrera pujada que duu al coll de Contraix. Al final de la primavera, una congesta evita la fatigosa tartera que apareix progressivament a l'estiu: cal remuntar-la a llevant en una forta i dura ascensió. 
+ 
+3,80 km (2.755 m), 2 h 20 min. Coll de Contraix. Coll ubicat entre el pic de Colieto, al nord-est, i el de Contraix, al sud-oest. La panoràmica s'obre a l'estany de Contraix (E). Cal baixar entre 30 i 80 m per aquest vessant, segons l'estat de les congestes i l'experiència, per tal de poder flanquejar i entrar a la coma que hi ha a sota i a llevant del cim de Contraix. Després s'ha de remuntar per una gran tartera fins a assolir la carena situada a l'esquerra del cim. 
+ 
+4,63 km (2.957 m), 3 h 20 min. Pic de Contraix. Des d'aquí, es gaudeix d'una vista panoràmica excepcional sobre els cims pirinencs del Pallars, la Ribagorça i la Val d'Aran. Es tenen també bones vistes del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. 
+ 
+Per posar algun exemple, cal dir que es veuen els pics de la Pica d'Estats, Mont-roig, Mont Valièr, Mauberme, Pessons, Subenuix, Peguera, Montseny de Pallars, Ratèra, Gran Tuc i Creu de Colomèrs, Pala Alta de Sarradé, Punta Alta de Comalesbienes, Montardo, Tumeneia, Besiberri, Maladeta, Aneto, Perdiguero i Malpàs. També es contempla el pla de Beret i els estanys de Tumeneia, Travessani, Monges, Negre, Colieto, Menut (o de la Roca), Tort, Glaçat de Colieto, Contraix, d'Amunt del Sarradé, Dellui i el refugi Joan Ventosa i Calvell. És a dir, es pot gaudir del panorama durant molta estona. El retorn es fa pel mateix camí en 2 h 15 min. 
+ 
+9,26 km (2.220 m), 5 h 35 min. Refugi Joan Ventosa i Calvell. Fi de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Del refugio Joan Ventosa i Calvell al pico de Contraix&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El pico de Contraix es un importante nudo orográfico del largo cordal que del pico de Colomèrs llega a la Punta Alta de Comalesbienes. Del Contraix avanza hacia el sur el cordal del Serrader, que separa los valles de Contraix, al este, del de Serrader, al oeste, ambos tributarios del río Sant Nicolau. Por su situación, esta cima es un gran mirador de la zona. Ambiente severo de alta montaña con terreno áspero, formado por grandes bloques de granito que pide experiencia y agilidad.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Para llegar al aparcamiento situado bajo la presa de Cavallers, inicio de la excursión, hay que salir del Pont de Suert por la carretera N-230 en dirección a Vielha y, poco después, girar a la derecha por la L-500 del valle de Boí al balneario de Caldes de Boí. Aquí se debe seguir una estrecha pista asfaltada que lleva a dicho aparcamiento, ya dentro del Parque Nacional de Aigüestortes i Estany de Sant Maurici, desde donde por un itinerario señalizado se llega al refugio en 2 h (hay que ver la ruta &lt;i&gt;De la presa de Cavallers al refugio Joan Ventosa i Calvell&lt;/i&gt;). 
+ 
+0,00 km (2.220 m). Refugio Joan Ventosa i Calvell. Hay que seguir el camino que sale de detrás del refugio hacia el este y baja fuertemente hasta el valle de Colieto dejando atrás y abajo el lago Negre. 
+ 
+0,49 km (2.186 m), 0 h 10 min. Lago de Colieto. Se llega delante de una bella pradera en la salida de aguas del lago de Colieto. El río bordea el prado y baja hacia el lago Negre (O). Sin embargo, hay que seguir el camino en dirección contraria, hacia el este, bordeando el lago y remontando el valle. 
+ 
+1,14 km (2.219 m), 0 h 40 min. Lago Gran de Colieto. Está formado por dos grandes lagos casi unidos. Pasado todo el lago, 200 m más arriba, se deja el camino de la derecha (S) que sube a la Punta Alta de Comalesbienes. Tenemos que ascender en dirección este por unas pendientes escalonadas y rocosas superando un fuerte desnivel. 
+ 
+2,28 km (2.358 m), 1 h 10 min. Se llega a un rellano. Es un pequeño y bello paraje situado al comienzo de la larga y última subida que lleva al collado de Contraix. Al final de la primavera, un ventisquero evita el fatigoso canchal que aparece progresivamente en verano: hay que remontar a levante en una fuerte y dura ascensión. 
+ 
+3,80 km (2.755 m), 2 h 20 min. Collado de Contraix. Collado ubicado entre el pico de Colieto, al noreste, y el de Contraix, al suroeste. La panorámica se abre al lago de Contraix (E). Hay que bajar entre 30 y 80 m por esta vertiente, según el estado de los ventisqueros y la experiencia, para poder flanquear y entrar en el valle que hay debajo y a levante de la cima de Contraix. Después se debe remontar por un gran canchal hasta alcanzar el cordal situado a la izquierda de la cima. 
+ 
+4,63 km (2.957 m), 3 h 20 min. Pico de Contraix. Desde aquí, se disfruta de una vista panorámica excepcional sobre las cimas pirenaicas del Pallars, la Ribagorça y la Val d'Aran. Se tienen también buenas vistas del Parque Nacional de Aigüestortes i Estany de Sant Maurici. 
+ 
+Por poner algún ejemplo, hay que decir que se ven los picos de la Pica d'Estats, Mont-roig, Mont Valièr, Mauberme, Pessons, Subenuix, Peguera, Montseny de Pallars, Ratèra, Gran Tuc y Creu de Colomèrs, Pala Alta de Sarradé, Punta Alta de Comalesbienes, Montardo, Tumeneia, Besiberri, Maladeta, Aneto, Perdiguero y Malpàs. También se contempla el llano de Beret y los lagos de Tumeneia, Travessani, Monges, Negre, Colieto, Menut (o de la Roca), Tort, Glaçat de Colieto, Contraix, de Amunt del Sarradé, Dellui y el refugio Joan Ventosa i Calvell. Es decir, se puede disfrutar del panorama durante mucho rato. El retorno se hace por el mismo camino en 2 h 15 min. 
+ 
+9,26 km (2.220 m), 5 h 35 min. Refugio Joan Ventosa i Calvell. Fin del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Joan Ventosa i Calvell shelter to Pic de Contraix&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Pic de Contraix is an important link in the long mountain chain which runs from Pic de Colomèrs to Punta Alta. The Serrader crest extends southwards from Contraix, separating the Contraix (on the east) and Serrader (on the west) valleys, both of which head into the Sant Nicolau river. Thanks to its location, Pic de Contraix is a marvellous vantage point.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;To reach the car park by the Cavallers dam, you drive from Pont de Suert along the N-230 road towards Vielha and soon turn right along la Vall de Boí L-500 road to the spa town of Caldes de Boí. From here you take a narrow asphalt track to the car park, which is inside the boundaries of the Aigüestortes and Sant Maurici Lake National Park. From here a signposted walk takes you to the shelter within two hours. (Please see the route &lt;i&gt;From the Cavallers dam to the shelter of Joan Ventosa i Cavell&lt;/i&gt;). 
+ 
+0.00 h. Refugi Joan Ventosa i Calvell (2,200 m). You follow a path from behind the shelter which heads eastwards, dropping down steeply to the Colieto valley, leaving behind and beneath you the lake Estany Negre. 
+ 
+0.10 h. Estany de Colieto (2,186 m). You are in a pretty meadow at the outlet of Colieto lake. The river skirts the meadow and then drops down to Negre lake. You have to follow the track in the opposite direction, towards the east, whilst still skirting the lake and ascending the valley. 
+ 
+0.40 h. Estany Gran de Colieto (2,219 m). This lake is formed by two large lakes which are almost one. You head east, climbing large boulders. Passing the entire lake, and at a point two hundred metres higher up, you leave the track on the right that goes up to la Punta Alta. You head east over rocky slopes and have to deal with a pronounced change in level. 
+ 
+1.10 h. You reach a plateau at 2,358 metres. This small, pretty spot marks the start of the long, final climb to Coll de Contraix. At the end of spring, a snowdrift means that you avoid the tiring scree that appears progressively throughout the summer. You must cross it in a difficult and tiring climb. 
+ 
+2.20 h. Coll de Contraix (2,755 m). The col is between Pic de Colieto, to the north-east, and Pic de Contraix, to the south-west. You can see down the other side to de Contraix. You drop down between 30 and 80 metres on this side, depending on the state of the snowdrifts and your experience, in order to skirt round and enter the large coomb beneath and to the east of the summit of Contraix. You then climb across a large scree field to reach the crest to the left of the summit. 
+ 
+3.20 h. Pic de Contraix (2,957 m). You now have a splendid view over the Pyrenean peaks of Pallars, Ribagorça and Val d'Aran and of the Aigüestortes and Sant Maurici Lake National Park. 
+ 
+From this vantage point, You can see the following peaks: Pica d'Estats, Mont-roig, Mont Valièr, Mauberme, Pessons, Subenuix, Peguera, Montseny de Pallars, Ratera, Gran Tuc de Colomèrs, Creu de Colomèrs, Pala Alta de Sarradé, Punta Alta, Montardo, Tumeneia, Besiberri, Maladeta, Aneto, Perdiguero and Malpàs. You can also see Pla de Beret, Refugi Ventosa i Calvell and the following lakes and tarns: Tumeneia, Travessani, Monges, Negre, Colieto, Menut (or de la Roca), Tort, Glaçat, Contraix, Amunt del Sarradé, and Dellui. It is a view to be savoured. 
+ 
+The return trip is made by the same route in 2 hours 15 minutes.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.605297" lon="0.877280">
+        <ele>2231.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.605129" lon="0.878165">
+        <ele>2235.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604660" lon="0.879412">
+        <ele>2229.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604340" lon="0.879772">
+        <ele>2221.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604100" lon="0.879652">
+        <ele>2219.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603970" lon="0.879932">
+        <ele>2210.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604059" lon="0.880401">
+        <ele>2206.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603960" lon="0.881142">
+        <ele>2200.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603690" lon="0.881412">
+        <ele>2188.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603407" lon="0.882147">
+        <ele>2185.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603303" lon="0.883358">
+        <ele>2184.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603398" lon="0.884573">
+        <ele>2188.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603030" lon="0.885171">
+        <ele>2201.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603107" lon="0.885662">
+        <ele>2210.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602850" lon="0.886396">
+        <ele>2222.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602860" lon="0.887532">
+        <ele>2220.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602020" lon="0.888933">
+        <ele>2219.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601211" lon="0.889518">
+        <ele>2223.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600859" lon="0.890462">
+        <ele>2220.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600021" lon="0.890435">
+        <ele>2224.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599685" lon="0.891245">
+        <ele>2233.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599010" lon="0.892040">
+        <ele>2235.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598114" lon="0.893492">
+        <ele>2259.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598118" lon="0.893729">
+        <ele>2263.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597470" lon="0.894760">
+        <ele>2283.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597549" lon="0.895577">
+        <ele>2312.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597200" lon="0.895930">
+        <ele>2318.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596920" lon="0.896600">
+        <ele>2337.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596670" lon="0.896760">
+        <ele>2343.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595850" lon="0.898580">
+        <ele>2365.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595176" lon="0.899653">
+        <ele>2394.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594927" lon="0.899820">
+        <ele>2401.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594876" lon="0.900236">
+        <ele>2409.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594253" lon="0.901165">
+        <ele>2451.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594248" lon="0.901379">
+        <ele>2459.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593855" lon="0.901770">
+        <ele>2476.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593920" lon="0.902370">
+        <ele>2488.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593363" lon="0.902475">
+        <ele>2498.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592961" lon="0.904128">
+        <ele>2539.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592780" lon="0.904240">
+        <ele>2540.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592720" lon="0.904610">
+        <ele>2547.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592234" lon="0.905255">
+        <ele>2556.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591890" lon="0.906440">
+        <ele>2567.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591494" lon="0.907096">
+        <ele>2575.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590810" lon="0.907390">
+        <ele>2593.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590560" lon="0.907670">
+        <ele>2599.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590580" lon="0.907990">
+        <ele>2608.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589808" lon="0.909254">
+        <ele>2668.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589600" lon="0.910100">
+        <ele>2710.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589140" lon="0.910720">
+        <ele>2745.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589124" lon="0.910959">
+        <ele>2731.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.588822" lon="0.910963">
+        <ele>2728.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587870" lon="0.910540">
+        <ele>2750.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587420" lon="0.910620">
+        <ele>2752.9</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587180" lon="0.910400">
+        <ele>2763.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587040" lon="0.909810">
+        <ele>2785.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586660" lon="0.909570">
+        <ele>2794.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586360" lon="0.908800">
+        <ele>2819.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586110" lon="0.908660">
+        <ele>2828.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586180" lon="0.908270">
+        <ele>2836.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585790" lon="0.907660">
+        <ele>2879.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585596" lon="0.907652">
+        <ele>2886.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585620" lon="0.907270">
+        <ele>2906.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585120" lon="0.907660">
+        <ele>2927.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.584970" lon="0.907530">
+        <ele>2932.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585170" lon="0.907400">
+        <ele>2939.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585230" lon="0.906930">
+        <ele>2950.9</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585170" lon="0.907400">
+        <ele>2939.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.584970" lon="0.907530">
+        <ele>2932.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585120" lon="0.907660">
+        <ele>2927.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585620" lon="0.907270">
+        <ele>2906.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585596" lon="0.907652">
+        <ele>2886.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585790" lon="0.907660">
+        <ele>2879.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586160" lon="0.908220">
+        <ele>2838.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586110" lon="0.908660">
+        <ele>2828.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586360" lon="0.908800">
+        <ele>2819.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586660" lon="0.909570">
+        <ele>2794.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587040" lon="0.909810">
+        <ele>2785.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587270" lon="0.910520">
+        <ele>2757.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587420" lon="0.910620">
+        <ele>2752.9</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587870" lon="0.910540">
+        <ele>2750.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.588822" lon="0.910963">
+        <ele>2728.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589124" lon="0.910959">
+        <ele>2731.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589140" lon="0.910720">
+        <ele>2745.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589600" lon="0.910100">
+        <ele>2710.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589808" lon="0.909254">
+        <ele>2668.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590580" lon="0.907990">
+        <ele>2608.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590560" lon="0.907670">
+        <ele>2599.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590810" lon="0.907390">
+        <ele>2593.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591494" lon="0.907096">
+        <ele>2575.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591890" lon="0.906440">
+        <ele>2567.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592234" lon="0.905255">
+        <ele>2556.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592720" lon="0.904610">
+        <ele>2547.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592780" lon="0.904240">
+        <ele>2540.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592961" lon="0.904128">
+        <ele>2539.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593363" lon="0.902475">
+        <ele>2498.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593920" lon="0.902370">
+        <ele>2488.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593855" lon="0.901770">
+        <ele>2476.5</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594248" lon="0.901379">
+        <ele>2459.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594253" lon="0.901165">
+        <ele>2451.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594876" lon="0.900236">
+        <ele>2409.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594927" lon="0.899820">
+        <ele>2401.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595176" lon="0.899653">
+        <ele>2394.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595850" lon="0.898580">
+        <ele>2365.0</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596670" lon="0.896760">
+        <ele>2343.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596920" lon="0.896600">
+        <ele>2337.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597200" lon="0.895930">
+        <ele>2318.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597549" lon="0.895577">
+        <ele>2312.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597470" lon="0.894760">
+        <ele>2283.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598118" lon="0.893729">
+        <ele>2263.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598114" lon="0.893492">
+        <ele>2259.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599010" lon="0.892040">
+        <ele>2235.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599685" lon="0.891245">
+        <ele>2233.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600021" lon="0.890435">
+        <ele>2224.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600859" lon="0.890462">
+        <ele>2220.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601211" lon="0.889518">
+        <ele>2223.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602020" lon="0.888933">
+        <ele>2219.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602860" lon="0.887532">
+        <ele>2220.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602850" lon="0.886396">
+        <ele>2222.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603107" lon="0.885662">
+        <ele>2210.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603030" lon="0.885171">
+        <ele>2201.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603398" lon="0.884573">
+        <ele>2188.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603303" lon="0.883358">
+        <ele>2184.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603407" lon="0.882147">
+        <ele>2185.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603690" lon="0.881412">
+        <ele>2188.6</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603960" lon="0.881142">
+        <ele>2200.1</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604059" lon="0.880401">
+        <ele>2206.8</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603970" lon="0.879932">
+        <ele>2210.2</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604100" lon="0.879652">
+        <ele>2219.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604340" lon="0.879772">
+        <ele>2221.3</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604660" lon="0.879412">
+        <ele>2229.4</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.605129" lon="0.878165">
+        <ele>2235.7</ele>
+        <time>2005-07-20T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.605297" lon="0.877280">
+        <ele>2231.8</ele>
+        <time>2005-07-21T01:35:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

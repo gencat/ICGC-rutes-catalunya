@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.458640" lon="1.693780">
+    <ele>274.9</ele>
+    <time>2014-04-25T15:12:45Z</time>
+    <name>C-15 CARRETERA NOVA A IGUALADA</name>
+    <desc>18-ENE-06 10:56:21</desc>
+  </wpt>
+  <wpt lat="41.425599" lon="1.689101">
+    <ele>256.9</ele>
+    <time>2014-04-25T15:12:46Z</time>
+    <name>TRENCALL AL BOSC</name>
+    <desc>TRENCALL AL BOSC</desc>
+  </wpt>
+  <wpt lat="41.422693" lon="1.686274">
+    <ele>266.1</ele>
+    <time>2014-04-25T15:12:46Z</time>
+    <name>LATERAL C-15</name>
+    <desc>LATERAL C-15</desc>
+  </wpt>
+  <wpt lat="41.430763" lon="1.679744">
+    <ele>289.9</ele>
+    <time>2014-04-25T15:12:47Z</time>
+    <name>PAS SUPERIOR C-15</name>
+    <desc>PAS SUPERIOR C-15</desc>
+  </wpt>
+  <wpt lat="41.459971" lon="1.673122">
+    <ele>301.1</ele>
+    <time>2014-04-25T15:12:47Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.453396" lon="1.695662">
+    <ele>249.9</ele>
+    <time>2014-04-25T15:12:48Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.454523" lon="1.704657">
+    <ele>234.1</ele>
+    <time>2014-04-25T15:12:48Z</time>
+    <name>PONT DE L'ALTRA BANDA</name>
+    <desc>PONT DE L'ALTRA BANDA</desc>
+  </wpt>
+  <wpt lat="41.453184" lon="1.703461">
+    <ele>246.0</ele>
+    <time>2014-04-25T15:12:49Z</time>
+    <name>CARRER MONTSERRAT</name>
+    <desc>CARRER MONTSERRAT</desc>
+  </wpt>
+  <wpt lat="41.450405" lon="1.704276">
+    <ele>248.1</ele>
+    <time>2014-04-25T15:12:49Z</time>
+    <name>B-2151</name>
+    <desc>B-2151</desc>
+  </wpt>
+  <wpt lat="41.440694" lon="1.703839">
+    <ele>303.9</ele>
+    <time>2014-04-25T15:12:50Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.439924" lon="1.705346">
+    <ele>306.0</ele>
+    <time>2014-04-25T15:12:50Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.424585" lon="1.714552">
+    <ele>238.0</ele>
+    <time>2014-04-25T15:12:51Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.459606" lon="1.687396">
+    <ele>295.0</ele>
+    <time>2014-04-25T15:12:51Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.440300" lon="1.669410">
+    <ele>351.1</ele>
+    <time>2014-04-25T15:12:52Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.436754" lon="1.672421">
+    <ele>314.9</ele>
+    <time>2014-04-25T15:12:52Z</time>
+    <name>CAN FIGUERES</name>
+    <desc>CAN FIGUERES</desc>
+  </wpt>
+  <wpt lat="41.449384" lon="1.657526">
+    <ele>412.1</ele>
+    <time>2014-04-25T15:12:53Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.462160" lon="1.662764">
+    <ele>321.9</ele>
+    <time>2014-04-25T15:12:53Z</time>
+    <name>SANT QUINTÍ DE MEDIONA</name>
+    <desc>SANT QUINTÍ DE MEDIONA</desc>
+  </wpt>
+  <wpt lat="41.435723" lon="1.705553">
+    <ele>288.0</ele>
+    <time>2014-04-25T15:12:54Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.420995" lon="1.714471">
+    <ele>217.0</ele>
+    <time>2014-04-25T15:12:54Z</time>
+    <name>BV-2153</name>
+    <desc>BV-2153</desc>
+  </wpt>
+  <wpt lat="41.423807" lon="1.700669">
+    <ele>241.1</ele>
+    <time>2014-04-25T15:12:55Z</time>
+    <name>CAN NADAL</name>
+    <desc>CAN NADAL</desc>
+  </wpt>
+  <wpt lat="41.426202" lon="1.687483">
+    <ele>260.9</ele>
+    <time>2014-04-25T15:12:55Z</time>
+    <name>CAN RASPALL</name>
+    <desc>CAN RASPALL</desc>
+  </wpt>
+  <wpt lat="41.430006" lon="1.677442">
+    <ele>299.9</ele>
+    <time>2014-04-25T15:12:56Z</time>
+    <name>LES CASETES D'EN RASPALL</name>
+    <desc>LES CASETES D'EN RASPALL</desc>
+  </wpt>
+  <wpt lat="41.438184" lon="1.670802">
+    <ele>335.9</ele>
+    <time>2014-04-25T15:12:56Z</time>
+    <name>MARE DE DÉU DEL ROSER</name>
+    <desc>MARE DE DÉU DEL ROSER</desc>
+  </wpt>
+  <wpt lat="41.441578" lon="1.669944">
+    <ele>367.9</ele>
+    <time>2014-04-25T15:12:57Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.442177" lon="1.669201">
+    <ele>374.0</ele>
+    <time>2014-04-25T15:12:57Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.442861" lon="1.664046">
+    <ele>398.1</ele>
+    <time>2014-04-25T15:12:58Z</time>
+    <name>AL TURÓ DELS CASALOTS</name>
+    <desc>AL TURÓ DELS CASALOTS</desc>
+  </wpt>
+  <wpt lat="41.445490" lon="1.661379">
+    <ele>405.1</ele>
+    <time>2014-04-25T15:12:58Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.449631" lon="1.657854">
+    <ele>412.1</ele>
+    <time>2014-04-25T15:12:59Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.455524" lon="1.662988">
+    <ele>314.9</ele>
+    <time>2014-04-25T15:13:00Z</time>
+    <name>PONT DEL TORRENT DE LES MAIOLES</name>
+    <desc>PONT DEL TORRENT DE LES MAIOLES</desc>
+  </wpt>
+  <wpt lat="41.458384" lon="1.664195">
+    <ele>305.1</ele>
+    <time>2014-04-25T15:13:00Z</time>
+    <name>DRECERA</name>
+    <desc>DRECERA</desc>
+  </wpt>
+  <wpt lat="41.460141" lon="1.663689">
+    <ele>310.0</ele>
+    <time>2014-04-25T15:13:01Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.461299" lon="1.664318">
+    <ele>316.1</ele>
+    <time>2014-04-25T15:13:01Z</time>
+    <name>AVINGUDA DE CATALUNYA</name>
+    <desc>AVINGUDA DE CATALUNYA</desc>
+  </wpt>
+  <wpt lat="41.422039" lon="1.699261">
+    <ele>239.9</ele>
+    <time>2014-04-25T15:13:02Z</time>
+    <name>CRUÏLLA A CAN NADAL</name>
+    <desc>CRUÏLLA A CAN NADAL</desc>
+  </wpt>
+  <wpt lat="41.418205" lon="1.710517">
+    <ele>223.1</ele>
+    <time>2014-04-25T15:13:02Z</time>
+    <name>EL PLA DEL PENEDÈS</name>
+    <desc>EL PLA DEL PENEDÈS</desc>
+  </wpt>
+  <wpt lat="41.459660" lon="1.664735">
+    <ele>310.0</ele>
+    <time>2014-04-25T15:13:03Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.460203" lon="1.683363">
+    <ele>285.9</ele>
+    <time>2014-04-25T15:13:03Z</time>
+    <name>LA NOGUERA</name>
+    <desc>LA NOGUERA</desc>
+  </wpt>
+  <wpt lat="41.455118" lon="1.698506">
+    <ele>242.9</ele>
+    <time>2014-04-25T15:13:04Z</time>
+    <name>TRENCALL AL POLÍGON INDUSTRIAL</name>
+    <desc>TRENCALL AL POLÍGON INDUSTRIAL</desc>
+  </wpt>
+  <wpt lat="41.455947" lon="1.701606">
+    <ele>245.1</ele>
+    <time>2014-04-25T15:13:04Z</time>
+    <name>CARRER DEL SOL</name>
+    <desc>CARRER DEL SOL</desc>
+  </wpt>
+  <wpt lat="41.455719" lon="1.701668">
+    <ele>242.0</ele>
+    <time>2014-04-25T15:13:05Z</time>
+    <name>CARRER LLARG JOAN ALTET</name>
+    <desc>CARRER LLARG JOAN ALTET</desc>
+  </wpt>
+  <wpt lat="41.454215" lon="1.703998">
+    <ele>289.0</ele>
+    <time>2014-04-25T15:13:05Z</time>
+    <name>CAMÍ DE BAIX</name>
+    <desc>CAMÍ DE BAIX</desc>
+  </wpt>
+  <wpt lat="41.448225" lon="1.704753">
+    <ele>256.0</ele>
+    <time>2014-04-25T15:13:06Z</time>
+    <name>ANTIC CAMÍ A VILAFRANCA</name>
+    <desc>ANTIC CAMÍ A VILAFRANCA</desc>
+  </wpt>
+  <wpt lat="41.434164" lon="1.706791">
+    <ele>278.0</ele>
+    <time>2014-04-25T15:13:06Z</time>
+    <name>CELLER MAS ROVIRA</name>
+    <desc>CELLER MAS ROVIRA</desc>
+  </wpt>
+  <wpt lat="41.419573" lon="1.708552">
+    <ele>224.0</ele>
+    <time>2014-04-25T15:13:07Z</time>
+    <name>CRUÏLLA</name>
+    <desc>CRUÏLLA</desc>
+  </wpt>
+  <wpt lat="41.420559" lon="1.702406">
+    <ele>235.9</ele>
+    <time>2014-04-25T15:13:07Z</time>
+    <name>CAL CAQUERO</name>
+    <desc>CAL CAQUERO</desc>
+  </wpt>
+  <wpt lat="41.425373" lon="1.688108">
+    <ele>253.9</ele>
+    <time>2014-04-25T15:13:08Z</time>
+    <name>TRENCALL A CAN RASPALL</name>
+    <desc>TRENCALL A CAN RASPALL</desc>
+  </wpt>
+  <wpt lat="41.444781" lon="1.661926">
+    <ele>402.9</ele>
+    <time>2014-04-25T15:13:08Z</time>
+    <name>LINIA ELÈCTRICA</name>
+    <desc>LINIA ELÈCTRICA</desc>
+  </wpt>
+  <wpt lat="41.449332" lon="1.658601">
+    <ele>416.1</ele>
+    <time>2014-04-25T15:13:09Z</time>
+    <name>LES TOESES NOVES</name>
+    <desc>LES TOESES NOVES</desc>
+  </wpt>
+  <wpt lat="41.450958" lon="1.659518">
+    <ele>378.0</ele>
+    <time>2014-04-25T15:13:09Z</time>
+    <name>BARRANC</name>
+    <desc>BARRANC</desc>
+  </wpt>
+  <wpt lat="41.454452" lon="1.661822">
+    <ele>331.0</ele>
+    <time>2014-04-25T15:13:10Z</time>
+    <name>OBAGA D'EN GILI</name>
+    <desc>OBAGA D'EN GILI</desc>
+  </wpt>
+  <wpt lat="41.458731" lon="1.664161">
+    <ele>303.0</ele>
+    <time>2014-04-25T15:13:10Z</time>
+    <name>PONT DE LA RIERA DE MEDIONA</name>
+    <desc>PONT DE LA RIERA DE MEDIONA</desc>
+  </wpt>
+  <trk>
+    <name>De Sant Quintí de Mediona a Sant Pere de Riudebitlles i el Pla del Penedès</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Sant Quintí de Mediona a Sant Pere de Riudebitlles i el Pla del Penedès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Bonic recorregut en bicicleta tot terreny per l'extrem muntanyós occidental del Penedès. Havent acabat la ruta, es pot visitar el magnífic paratge de les coves i fonts de les Deus de Sant Quintí, a ponent del nucli urbà, on es pot descansar i menjar en un entorn molt agradable.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Es parteix de Sant Quintí de Mediona. S'hi arriba per la C-15 des de Vilafranca del Penedès o per la C-244a d'Igualada a Vilanova i la Geltrú. L'inici de l'itinerari és la cruïlla de l'avinguda de Catalunya amb la C-244, a l'entrada mateix del poble venint de Vilafranca. 
+ 
+0,00 km (317 m). Sant Quintí de Mediona. Se surt baixant en direcció SE per la carretera C-244a. 
+ 
+0,58 km (299 m). Bifurcació. Es deixa la carretera i es gira a l'esquerra pel camí asfaltat de les Nogueres, que s'endinsa camps enllà cap a llevant deixant trencalls secundaris a banda i banda. 
+ 
+2,44 km (275 m). Es passa per sota de la carretera C-15, que es dirigeix a Igualada, i es tomba a la dreta (S). 
+ 
+3,11 km (250 m). Bifurcació. La pista arriba al camí de la Masia -als afores de Sant Pere de Riudebitlles, sobre el riu de Bitlles-, que s'agafa a l'esquerra (NE). Es volta Sant Pere de Riudebitlles cap a llevant i la seva riera pel nord ignorant les entrades al poble i travessant la riera de la Masia fins a arribar al carrer del Sol, al barri vell de l'Altra Banda. Des d'aquí, cal dirigir-se al centre del poble pel carrer Llarg de Joan Altet, girar a la dreta i creuar el riu de Bitlles pel pont de l'Altra Banda. Es puja a la dreta i, pel camí de Baix i el carrer Montserrat, cal anar a buscar la carretera que porta a Sant Sadurní d'Anoia. 
+ 
+4,72 km (247 m). Es travessa la carretera BP-2151 i se segueix recte (S) pujant per l'antic camí de Vilafranca tot creuant el barri de Can Bassó. 
+ 
+5,99 km (306 m). Bifurcació en un turó, ja sobre el Pla del Penedès. Cal trencar a la dreta (S) fins al mas Rovira (km 6,66, 281 m) i continuar baixant a migdia passant a l'oest de ca n'Aguilera fins a la carretera BV-2153. 
+ 
+8,44 km (216 m). Un cop a la carretera BV-2153, davant del Pla del Penedès, es gira a la dreta (O/SO), es travessen els torrents de la Rovira i de les Casetes (205 m, punt més baix de la ruta) i es volta el Pla del Penedès pel nord. 
+ 
+8,98 km (225 m). Cruïlla. En una pujada, s'abandona la carretera i es pren a la dreta el camí de cal Cacauero (NE). Més endavant, es passa per la dreta d'aquest mas (km 9,52, 236 m). 
+ 
+9,85 km (241 m). Es travessa la pista que, per la dreta (N), mena a les caves Nadal i se segueix recte (NO). En arribar prop del torrent de Can Raspall dels Horts, es fa una llaçada, cap al nord i després a l'oest, es deixa l'accés a can Raspall (km 11,00, 257 m), es gira a l'esquerra (SO) i es remunta per la pista fins a desembocar a la carretera C-15. 
+ 
+11,36 km (266 m). Carretera C-15. Cal seguir-la a la dreta durant més d'1 km per la via lateral en direcció NO. 
+ 
+12,43 km (287 m). A l'alçada de les Caves i Cellers J. Lluch i les Casetes d'en Raspall, cal deixar la carretera travessant-la cap a ponent pel pas superior. De seguida, es pren a mà dreta (NO) una pista que surt en direcció a can Figueres dels Barrancs. Es deixen alguns trencalls secundaris, es creua el torrent del Salt per un pont (km 13,43, 299 m), es rodeja can Figueres dels Barrancs (km 13,58, 303 m) i, amb una forta pujada (NO), s'arriba a l'ermita de la Mare de Déu del Roser. 
+ 
+13,88 km (333 m). Ermita de la Mare de Déu del Roser. L'ascensió se suavitza. Més enllà, es deixa una desviació a l'esquerra (km 14,17, 352 m) que porta a Salt. 
+ 
+14,33 km (366 m). Es deixen dos trencalls a la dreta i es gira a l'esquerra en direcció NO cap al pla de les Estoses o plana d'Estosa, vorejant el turó dels Casalots (411 m), que queda al N. De seguida es deixa a la dreta un desviament que hi puja. Al km 15,10 (404 m), en una altra bifurcació, es gira de nou a l'esquerra (NO). 
+ 
+15,28 km (401 m). Es travessa una línia elèctrica i es volta el mas de les Estoses Noves (km 15,94, 414 m). 
+ 
+16,01 km (413 m). Se surt a una pista, que es pren a la dreta (NE) per, tot seguit, girar a l'esquerra (NO) deixant un trencall a la dreta. Es travessa el torrent de la Font del Xop i l'obaga d'en Gili. 
+ 
+17,36 km (312 m). Es creua el torrent de les Maioles per un pont i se segueix cap al N/NE per la pista ampla que travessa la riera de Sant Quintí per un altre pont (km 18,01, 303 m) i torna a Sant Quintí de Mediona. 
+ 
+18,64 km (317 m). Sant Quintí de Mediona, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Sant Quintí de Mediona a Sant Pere de Riudebitlles y el Pla del Penedès 
+&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;i&gt;Bonito recorrido en bicicleta de montaña por el extremo montañoso occidental del Penedès. Habiendo terminado la ruta, se puede visitar el magnífico paraje de las cuevas y fuentes de Les Deus de Sant Quintí, a poniente del casco urbano, donde se puede descansar y comer en un entorno muy agradable.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Se parte de Sant Quintí de Mediona. A esta población se llega por la C-15 desde Vilafranca del Penedès o por la C-244a de Igualada a Vilanova i la Geltrú. El inicio del itinerario es el cruce de la avenida de Catalunya con la C-244, en la entrada del pueblo viniendo de Vilafranca. 
+ 
+0,00 km (317 m). Sant Quintí de Mediona. Se sale bajando en dirección SE por la carretera C-244a. 
+ 
+0,58 km (299 m). Bifurcación. Se deja la carretera y se gira a la izquierda por el camino asfaltado de Les Nogueres, que se adentra entre campos hacia levante dejando desvíos secundarios a ambos lados. 
+ 
+2,44 km (275 m). Se pasa por debajo de la carretera C-15, que se dirige a Igualada, y se gira a la derecha (S). 
+ 
+3,11 km (250 m). Bifurcación. La pista llega al camino de la Masia -en las afueras de Sant Pere de Riudebitlles, sobre el río de Bitlles-, que se toma a la izquierda (NE). Se rodea Sant Pere de Riudebitlles hacia levante y su arroyo por el norte ignorando las entradas al pueblo y atravesando el arroyo de la Masia hasta llegar a la calle del Sol, en el barrio viejo de L'Altra Banda. Desde aquí, hay que dirigirse al centro del pueblo por la calle Llarg de Joan Altet, girar a la derecha y cruzar el río de Bitlles por el puente de L'Altra Banda. Se sube a la derecha y, por el camino de Baix y la calle Montserrat, hay que ir a buscar la carretera que lleva a Sant Sadurní d'Anoia. 
+ 
+4,72 km (247 m). Se cruza la carretera BP-2151 y se sigue recto (S) subiendo por el antiguo camino de Vilafranca cruzando el barrio de Can Bassó. 
+ 
+5,99 km (306 m). Bifurcación en una colina, ya sobre el Pla del Penedès. Hay que girar a la derecha (S) hasta la masía Rovira (km 6,66, 281 m) y continuar bajando a mediodía pasando al oeste de Ca n'Aguilera hasta la carretera BV-2153. 
+ 
+8,44 km (216 m). Una vez en la carretera BV-2153, delante del Pla del Penedès, se gira a la derecha (O/SO), se atraviesan los torrentes de la Rovira y de Les Casetes (205 m, punto más bajo de la ruta) y se rodea el Pla del Penedès por el norte. 
+ 
+8,98 km (225 m). Cruce. En una subida, se abandona la carretera y se toma a la derecha el camino de Cal Cacauero (NE). Más adelante, se pasa por la derecha de este caserío (km 9,52, 236 m). 
+ 
+9,85 km (241 m). Se cruza la pista que, por la derecha (N), lleva a las cavas Nadal y se sigue recto (NO). Al llegar cerca del torrente de Can Raspall dels Horts, se hace una lazada, hacia el norte y luego al oeste, se deja el acceso a Can Raspall (km 11,00, 257 m), se gira a la izquierda (SO) y se remonta por la pista hasta desembocar en la carretera C-15. 
+ 
+11,36 km (266 m). Carretera C-15. Hay que seguirla a la derecha durante más de 1 km por la vía lateral en dirección NO. 
+ 
+12,43 km (287 m). A la altura de Les Caves i Cellers J. Lluch y Les Casetes d'en Raspall, hay que dejar la carretera atravesándola hacia poniente por el paso superior. Enseguida, se toma a mano derecha (NO) una pista que sale en dirección a Can Figueres dels Barrancs. Se dejan algunos desvíos secundarios, se cruza el torrente del Salt por un puente (km 13,43, 299 m), se rodea Can Figueres dels Barrancs (km 13,58, 303 m) y, con una fuerte subida (NO), se llega a la ermita de la Mare de Déu del Roser. 
+ 
+13,88 km (333 m). Ermita de la Mare de Déu del Roser. La ascensión se suaviza. Más allá, se deja un desvío a la izquierda (km 14,17, 352 m) que lleva a Salt. 
+ 
+14,33 km (366 m). Se dejan dos desvíos a la derecha y se gira a la izquierda en dirección NO hacia el llano de Les Estoses o llanura de Estosa, bordeando el cerro de Els Casalots (411 m), que queda al N. Enseguida se deja a la derecha un desvío que sube al cerro. En el km 15,10 (404 m), en otra bifurcación, se gira de nuevo a la izquierda (NO). 
+ 
+15,28 km (401 m). Se cruza una línea eléctrica y se rodea la masía de Les Estoses Noves (km 15,94, 414 m). 
+ 
+16,01 km (413 m). Se sale a una pista, que se toma a la derecha (NE) para, a continuación, girar a la izquierda (NO) dejando un desvío a la derecha. Se cruza el torrente de la Font del Xop y la umbría de En Gili. 
+ 
+17,36 km (312 m). Se cruza el torrente de Les Maioles por un puente y se sigue hacia el N/NE por la pista ancha que atraviesa el arroyo de Sant Quintí por otro puente (km 18,01, 303 m) y vuelve a Sant Quintí de Mediona. 
+ 
+18,64 km (317 m). Sant Quintí de Mediona, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.461676" lon="1.667524">
+        <ele>317.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461006" lon="1.670493">
+        <ele>310.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460996" lon="1.672001">
+        <ele>304.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460299" lon="1.672830">
+        <ele>300.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459518" lon="1.673427">
+        <ele>298.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459243" lon="1.673815">
+        <ele>299.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459158" lon="1.674278">
+        <ele>298.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459223" lon="1.674774">
+        <ele>298.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459907" lon="1.675969">
+        <ele>297.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459813" lon="1.677946">
+        <ele>300.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460139" lon="1.678514">
+        <ele>297.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460218" lon="1.679914">
+        <ele>294.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460670" lon="1.682395">
+        <ele>288.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460607" lon="1.683540">
+        <ele>287.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460831" lon="1.684655">
+        <ele>278.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459771" lon="1.686472">
+        <ele>293.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459549" lon="1.687171">
+        <ele>293.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460024" lon="1.688113">
+        <ele>289.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459559" lon="1.690086">
+        <ele>287.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459077" lon="1.691299">
+        <ele>282.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458755" lon="1.691456">
+        <ele>279.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458641" lon="1.693727">
+        <ele>273.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458427" lon="1.693959">
+        <ele>272.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455842" lon="1.694504">
+        <ele>258.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455465" lon="1.694985">
+        <ele>254.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454397" lon="1.695336">
+        <ele>252.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454012" lon="1.695129">
+        <ele>251.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453418" lon="1.695619">
+        <ele>250.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453762" lon="1.696139">
+        <ele>248.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453867" lon="1.696712">
+        <ele>244.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454540" lon="1.697615">
+        <ele>245.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454621" lon="1.698062">
+        <ele>243.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455076" lon="1.698460">
+        <ele>243.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455588" lon="1.698342">
+        <ele>243.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455887" lon="1.698468">
+        <ele>245.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456207" lon="1.698874">
+        <ele>253.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456338" lon="1.699309">
+        <ele>249.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456273" lon="1.700334">
+        <ele>248.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455962" lon="1.701526">
+        <ele>244.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455717" lon="1.701716">
+        <ele>237.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455683" lon="1.702297">
+        <ele>236.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454979" lon="1.704988">
+        <ele>236.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454751" lon="1.704723">
+        <ele>234.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454362" lon="1.704593">
+        <ele>235.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454297" lon="1.704025">
+        <ele>238.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453531" lon="1.703993">
+        <ele>244.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453092" lon="1.703451">
+        <ele>247.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449865" lon="1.704419">
+        <ele>246.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449208" lon="1.704839">
+        <ele>250.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448547" lon="1.704924">
+        <ele>253.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447829" lon="1.704387">
+        <ele>258.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445900" lon="1.703845">
+        <ele>272.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444319" lon="1.703901">
+        <ele>280.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443261" lon="1.703449">
+        <ele>288.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442541" lon="1.703571">
+        <ele>292.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441253" lon="1.703525">
+        <ele>303.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440796" lon="1.703755">
+        <ele>305.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440418" lon="1.704218">
+        <ele>304.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439913" lon="1.705341">
+        <ele>305.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439252" lon="1.705408">
+        <ele>298.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437705" lon="1.706462">
+        <ele>294.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435645" lon="1.705606">
+        <ele>288.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434181" lon="1.706784">
+        <ele>278.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433630" lon="1.707837">
+        <ele>274.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433170" lon="1.709468">
+        <ele>268.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430672" lon="1.710810">
+        <ele>257.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429206" lon="1.711784">
+        <ele>252.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427894" lon="1.713246">
+        <ele>247.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426677" lon="1.713958">
+        <ele>243.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424917" lon="1.714831">
+        <ele>239.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424544" lon="1.714551">
+        <ele>239.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422774" lon="1.714532">
+        <ele>230.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421788" lon="1.714097">
+        <ele>220.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421410" lon="1.714559">
+        <ele>217.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421121" lon="1.714511">
+        <ele>218.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421143" lon="1.713260">
+        <ele>209.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420016" lon="1.710703">
+        <ele>211.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419858" lon="1.709103">
+        <ele>221.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419586" lon="1.708522">
+        <ele>225.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420107" lon="1.706465">
+        <ele>228.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420362" lon="1.703941">
+        <ele>232.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420210" lon="1.703645">
+        <ele>232.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420806" lon="1.702197">
+        <ele>236.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420953" lon="1.702015">
+        <ele>236.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421313" lon="1.702020">
+        <ele>236.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421761" lon="1.700575">
+        <ele>237.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422209" lon="1.697598">
+        <ele>242.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422980" lon="1.695315">
+        <ele>247.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423273" lon="1.693292">
+        <ele>251.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424154" lon="1.690349">
+        <ele>258.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424269" lon="1.690173">
+        <ele>258.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424704" lon="1.690063">
+        <ele>258.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425359" lon="1.690211">
+        <ele>256.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425592" lon="1.690105">
+        <ele>256.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425472" lon="1.689832">
+        <ele>257.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425594" lon="1.689117">
+        <ele>259.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425336" lon="1.688602">
+        <ele>260.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425367" lon="1.688146">
+        <ele>256.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425026" lon="1.687108">
+        <ele>261.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423693" lon="1.686755">
+        <ele>265.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422720" lon="1.686232">
+        <ele>266.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430255" lon="1.679832">
+        <ele>288.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430707" lon="1.679930">
+        <ele>286.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430758" lon="1.679253">
+        <ele>290.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431328" lon="1.678667">
+        <ele>294.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.432246" lon="1.677081">
+        <ele>299.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433535" lon="1.675905">
+        <ele>303.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434397" lon="1.673696">
+        <ele>310.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435514" lon="1.672919">
+        <ele>310.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436210" lon="1.671553">
+        <ele>305.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436317" lon="1.671072">
+        <ele>302.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436456" lon="1.671033">
+        <ele>296.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436640" lon="1.671245">
+        <ele>300.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436405" lon="1.672446">
+        <ele>303.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437022" lon="1.672841">
+        <ele>312.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437186" lon="1.671802">
+        <ele>321.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438619" lon="1.670561">
+        <ele>333.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439988" lon="1.670132">
+        <ele>343.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440393" lon="1.669327">
+        <ele>353.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440740" lon="1.669350">
+        <ele>356.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441522" lon="1.669969">
+        <ele>365.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441773" lon="1.669922">
+        <ele>370.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442166" lon="1.669213">
+        <ele>372.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442180" lon="1.668112">
+        <ele>378.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442319" lon="1.667606">
+        <ele>375.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442731" lon="1.667089">
+        <ele>379.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442768" lon="1.665987">
+        <ele>381.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442593" lon="1.664495">
+        <ele>389.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442728" lon="1.664073">
+        <ele>393.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442886" lon="1.664076">
+        <ele>397.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443361" lon="1.664653">
+        <ele>400.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443657" lon="1.664587">
+        <ele>400.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444189" lon="1.663804">
+        <ele>404.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444227" lon="1.663240">
+        <ele>402.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444461" lon="1.662852">
+        <ele>399.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444562" lon="1.662264">
+        <ele>398.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444965" lon="1.661663">
+        <ele>402.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445350" lon="1.661404">
+        <ele>403.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445984" lon="1.661762">
+        <ele>405.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448101" lon="1.661790">
+        <ele>407.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448593" lon="1.660655">
+        <ele>409.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449018" lon="1.658946">
+        <ele>413.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449481" lon="1.658793">
+        <ele>415.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449358" lon="1.657587">
+        <ele>413.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449650" lon="1.657844">
+        <ele>413.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449816" lon="1.657793">
+        <ele>411.6</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450397" lon="1.657398">
+        <ele>406.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451077" lon="1.656653">
+        <ele>399.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451320" lon="1.656600">
+        <ele>397.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451474" lon="1.656717">
+        <ele>396.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451508" lon="1.657728">
+        <ele>390.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451150" lon="1.658292">
+        <ele>387.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450926" lon="1.659512">
+        <ele>381.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452355" lon="1.659249">
+        <ele>364.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453039" lon="1.659618">
+        <ele>359.5</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453396" lon="1.660520">
+        <ele>351.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453997" lon="1.660268">
+        <ele>342.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454218" lon="1.660318">
+        <ele>341.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454513" lon="1.662042">
+        <ele>330.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455104" lon="1.662927">
+        <ele>323.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455727" lon="1.663004">
+        <ele>310.2</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456148" lon="1.662864">
+        <ele>317.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456468" lon="1.663270">
+        <ele>319.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457641" lon="1.664162">
+        <ele>322.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457869" lon="1.664810">
+        <ele>321.0</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457925" lon="1.666138">
+        <ele>318.9</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458505" lon="1.664115">
+        <ele>305.3</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459606" lon="1.664678">
+        <ele>305.8</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460180" lon="1.663715">
+        <ele>309.4</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461236" lon="1.664304">
+        <ele>316.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461275" lon="1.666123">
+        <ele>317.7</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461495" lon="1.667244">
+        <ele>317.1</ele>
+        <time>2006-01-17T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461676" lon="1.667524">
+        <ele>317.7</ele>
+        <time>2006-01-17T23:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

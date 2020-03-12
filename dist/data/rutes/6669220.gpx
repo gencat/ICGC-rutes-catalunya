@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.180070" lon="2.736791">
+    <ele>192.0</ele>
+    <time>2014-04-25T14:53:52Z</time>
+    <name>A LA DRETA</name>
+    <desc>15-ENE-06 14:41</desc>
+  </wpt>
+  <wpt lat="42.172430" lon="2.740066">
+    <ele>180.1</ele>
+    <time>2014-04-25T14:53:53Z</time>
+    <name>A L'ESQUERRA</name>
+    <desc>15-ENE-06 14:30</desc>
+  </wpt>
+  <wpt lat="42.182620" lon="2.782636">
+    <ele>121.9</ele>
+    <time>2014-04-25T14:53:53Z</time>
+    <name>AMUNT PER LA RUTA BTT NUM 6</name>
+    <desc>15-ENE-06 15:10</desc>
+  </wpt>
+  <wpt lat="42.169841" lon="2.744525">
+    <ele>189.9</ele>
+    <time>2014-04-25T14:53:54Z</time>
+    <name>APARCAMENT AL PAVELLÓ ESPORTIU</name>
+    <desc>15-ENE-06 14:23</desc>
+  </wpt>
+  <wpt lat="42.178980" lon="2.740656">
+    <ele>188.1</ele>
+    <time>2014-04-25T14:53:54Z</time>
+    <name>CAN COFÍ</name>
+    <desc>15-ENE-06 14:44</desc>
+  </wpt>
+  <wpt lat="42.173490" lon="2.781096">
+    <ele>214.0</ele>
+    <time>2014-04-25T14:53:55Z</time>
+    <name>CAMÍ A SALT DE MARTÍS</name>
+    <desc>15-ENE-06 15:29</desc>
+  </wpt>
+  <wpt lat="42.184100" lon="2.752136">
+    <ele>164.9</ele>
+    <time>2014-04-25T14:53:55Z</time>
+    <name>A LA DRETA AVALL PER SOTA LA CASA</name>
+    <desc>15-ENE-06 14:49</desc>
+  </wpt>
+  <wpt lat="42.170513" lon="2.754559">
+    <ele>203.0</ele>
+    <time>2014-04-25T14:53:56Z</time>
+    <name>A L'ESQUERRA DAVANT LA CASA PER LA RUTA BTT NUM 6</name>
+    <desc>15-ENE-06 15:38</desc>
+  </wpt>
+  <wpt lat="42.185110" lon="2.776476">
+    <ele>175.9</ele>
+    <time>2014-04-25T14:53:56Z</time>
+    <name>ESQUERRA AMUNT</name>
+    <desc>15-ENE-06 15:18</desc>
+  </wpt>
+  <wpt lat="42.182350" lon="2.783966">
+    <ele>118.0</ele>
+    <time>2014-04-25T14:53:57Z</time>
+    <name>FONT SENSE GARANTIES DE POTABILITAT</name>
+    <desc>15-ENE-06 15:12</desc>
+  </wpt>
+  <wpt lat="42.171840" lon="2.738566">
+    <ele>167.9</ele>
+    <time>2014-04-25T14:53:57Z</time>
+    <name>CAN GATIELLES</name>
+    <desc>15-ENE-06 14:32</desc>
+  </wpt>
+  <wpt lat="42.173870" lon="2.771636">
+    <ele>214.9</ele>
+    <time>2014-04-25T14:53:58Z</time>
+    <name>GIR A L'ESQUERRA ENTRE CAMPS</name>
+    <desc>15-ENE-06 15:33</desc>
+  </wpt>
+  <wpt lat="42.177620" lon="2.737246">
+    <ele>150.0</ele>
+    <time>2014-04-25T14:53:58Z</time>
+    <name>PONT SOBRE RIU SER</name>
+    <desc>15-ENE-06 14:35</desc>
+  </wpt>
+  <wpt lat="42.186570" lon="2.765766">
+    <ele>125.0</ele>
+    <time>2014-04-25T14:53:59Z</time>
+    <name>PRESA DE DALT</name>
+    <desc>15-ENE-06 14:57</desc>
+  </wpt>
+  <wpt lat="42.183627" lon="2.781050">
+    <ele>118.0</ele>
+    <time>2014-04-25T14:54:00Z</time>
+    <name>PRESA DEL MIG</name>
+    <desc>15-ENE-06 15:07</desc>
+  </wpt>
+  <wpt lat="42.188050" lon="2.771326">
+    <ele>130.1</ele>
+    <time>2014-04-25T14:54:00Z</time>
+    <name>ES SEGUEIX RECTE</name>
+    <desc>15-ENE-06 15:01</desc>
+  </wpt>
+  <wpt lat="42.183981" lon="2.778725">
+    <ele>187.1</ele>
+    <time>2014-04-25T14:54:01Z</time>
+    <name>RESTAURANT LES HEURES</name>
+    <desc>15-ENE-06 15:22</desc>
+  </wpt>
+  <wpt lat="42.184720" lon="2.759586">
+    <ele>125.0</ele>
+    <time>2014-04-25T14:54:01Z</time>
+    <name>DESEMBOCADURA DEL SER AL FLUVIÀ</name>
+    <desc>15-ENE-06 14:52</desc>
+  </wpt>
+  <wpt lat="42.172011" lon="2.780426">
+    <ele>214.9</ele>
+    <time>2014-04-25T14:54:02Z</time>
+    <name>CREU DE TERME I PONTET SOBRE EL REC D'ESPOLLA</name>
+    <desc>CREU DE TERME I PONTET SOBRE EL REC D'ESPOLLA</desc>
+  </wpt>
+  <wpt lat="42.186671" lon="2.759915">
+    <ele>125.0</ele>
+    <time>2014-04-25T14:54:02Z</time>
+    <name>FLUVIÀ</name>
+    <desc>FLUVIÀ</desc>
+  </wpt>
+  <wpt lat="42.175151" lon="2.769495">
+    <ele>210.0</ele>
+    <time>2014-04-25T14:54:03Z</time>
+    <name>CAMP D'AEROMODELISME</name>
+    <desc>CAMP D'AEROMODELISME</desc>
+  </wpt>
+  <wpt lat="42.183561" lon="2.779275">
+    <ele>189.9</ele>
+    <time>2014-04-25T14:54:03Z</time>
+    <name>CASA DELS ENGINYERS</name>
+    <desc>CASA DELS ENGINYERS</desc>
+  </wpt>
+  <wpt lat="42.169731" lon="2.745305">
+    <ele>189.9</ele>
+    <time>2014-04-25T14:54:04Z</time>
+    <name>SERINYÀ</name>
+    <desc>SERINYÀ</desc>
+  </wpt>
+  <wpt lat="42.181381" lon="2.742835">
+    <ele>173.1</ele>
+    <time>2014-04-25T14:54:04Z</time>
+    <name>PAS PERILLÓS C-150</name>
+    <desc>PAS PERILLÓS C-150</desc>
+  </wpt>
+  <wpt lat="42.171774" lon="2.738811">
+    <ele>163.1</ele>
+    <time>2014-04-25T14:54:05Z</time>
+    <name>C-150</name>
+    <desc>C-150</desc>
+  </wpt>
+  <wpt lat="42.185317" lon="2.780848">
+    <ele>106.1</ele>
+    <time>2014-04-25T14:54:05Z</time>
+    <name>EL FLUVIÀ</name>
+    <desc>EL FLUVIÀ</desc>
+  </wpt>
+  <wpt lat="42.171668" lon="2.783332">
+    <ele>217.9</ele>
+    <time>2014-04-25T14:54:06Z</time>
+    <name>GI-5121</name>
+    <desc>GI-5121</desc>
+  </wpt>
+  <trk>
+    <name>De Serinyà a Martís per les valls del Ser i del Fluvià</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Serinyà a Martís per les valls del Ser i del Fluvià&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Aquest itinerari combina l'interès paisatgístic de la zona del baix Ser amb un important patrimoni cultural i artístic, ja que es pot visitar un jaciment arqueològic, a la cova Mariver, i, a Serinyà, el reconegut Parc de les Coves Prehistòriques de Serinyà, on es poden veure diferents abrics i coves que des de fa més de 200.000 anys van ser ocupats successivament per diversos grups humans.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per arribar a Serinyà des de Banyoles, cal agafar la carretera C-66 cap al nord. Quan s'arriba al poble, es pot aparcar el vehicle davant de l'Ajuntament. 
+ 
+0,00 km (185 m). Ajuntament de Serinyà. Es parteix prenent el carrer Joan Carreres en direcció N cap al cementiri. Es gira a l'esquerra (O) i, abans d'arribar-hi, cal baixar a la dreta (NO) per un camí que travessa un bosc. Una mica més enllà, cal agafar un trencall a l'esquerra (NO) que duu a una pista, que es pren a l'esquerra (SO). Es creua la carretera antiga. 
+ 
+0,65 km (161 m), 0 h 10 min. Es passa per sota de la carretera C-66. Tot seguit, quan s'és davant de can Gatielles, es gira a mà dreta (NO). Després se segueix tota l'estona cap al N per la carretera antiga. Poc després, es deixa la desviació que duu a la font de Gatielles. 
+ 
+1,39 km (139 m), 0 h 22 min. Es creua el riu Ser per un pont i s'agafa un caminet que hi ha a l'esquerra (N) i que puja seguint el GR 1 (senyals vermells i blancs) fins a una pista ampla, que se segueix a la dreta (SE; km 1,79, 180 m). Una vegada s'ha deixat enrere can Cofí, es continua baixant per la pista cap al NE. 
+ 
+2,51 km (167 m), 0 h 40 min. Atenció! Es travessa la carretera C-66 i es continua en direcció NE per la pista que porta a Esponellà (indicacions). Se segueix per la pista principal deixant enrere alguns trencalls i dues masies fins que es travessa el Ser per un pont (km 4,06, 115 m). Es continua cap a llevant pel camí que voreja el riu Fluvià. 
+ 
+4,71 km (117 m), 1 h 05 min. Presa de dalt o resclosa de Serinyà. Es passa pel pati i es prossegueix cap al NE deixant alguns trencalls secundaris a dreta i esquerra fins que s'arriba a la presa del mig. 
+ 
+6,34 km (112 m), 1 h 28 min. Presa del mig o de Martís. Si es mira amunt a l'altra banda del Fluvià (E), es veuen les restes de la curiosa ermita de Sant Miquel de la Roca, construïda dins les roques. Se segueix recte (SE) pel camí. 
+ 
+6,53 km (123 m), 1 h 31 min. De seguida, es gira a la dreta (NO) canviant el sentit de la marxa per un camí que puja prop de la font i que coincideix amb la ruta número 6 del Centre BTT del Pla de l'Estany. La pista que es deixa porta a Esponellà seguint el curs del riu. La font, que es troba 50 m més enllà, fora del trajecte, no té garantia de potabilitat. Més endavant, es gira a l'esquerra canviant novament de direcció (O i després SO). 
+ 
+7,55 km (187 m), 1 h 43 min. Es creua un nucli de cases i es continua recte (SE/S) per la carretera asfaltada. Mentre, es pot aprofitar per visitar les entrades de la cova Mariver. S'ha de baixar tot dret pel caminet que voreja un restaurant, que queda a mà esquerra. Al cap de pocs metres, es veu, també a l'esquerra, la curiosa casa dels Enginyers, que data de la construcció de les diferents preses al Fluvià, on hi ha un mirador a sobre del riu. 
+ 
+8,67 km (208 m), 1 h 55 min. Bifurcació. Es deixa la pista asfaltada i es gira a mà dreta en direcció SO cap a Serinyà. Des d'aquí, es pot anar a donar un cop d'ull al saltant d'Espolla, digne de contemplar durant l'època de pluges. Per arribar-hi, s'ha de girar a mà esquerra per un sender i, no gaire lluny, baixar a la dreta per un pontet. Al km 8,81 (209 m), i en girar lleugerament a la dreta (O), es veu a l'esquerra (S) una bella creu de terme i un curiós pont sobre el rec d'Espolla que testimonia que en altres èpoques portava aigua molt sovint. Es continua per la pista principal. 
+ 
+9,56 km (209 m), 2 h 06 min. Bifurcació. S'ha de girar a mà esquerra (S) i deixar un trencall que apareix recte al davant (O). 
+ 
+11,20 km (198 m), 2 h 26 min. Bifurcació. Es deixa la pista i es pren a l'esquerra (SO) un trencall davant d'una casa. Tot seguit, s'entra a Serinyà baixant pel carrer Figueres. 
+ 
+12,25 km (185 m), 2 h 39 min. Serinyà, punt de partida i final de l'itinerari. Ara es pot aprofitar per visitar el Parc de les Coves Prehistòriques de Serinyà.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Serinyà a Martís por los valles del Ser y del Fluvià&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Este itinerario combina el interés paisajístico de la zona del bajo Ser con un importante patrimonio cultural y artístico, ya que se puede visitar un yacimiento arqueológico, en la cueva Mariver, y, en Serinyà, el reconocido Parc de les Coves Prehistòriques de Serinyà, donde se pueden ver diferentes abrigos y cuevas que desde hace más de 200.000 años fueron ocupados sucesivamente por diversos grupos humanos.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Para llegar a Serinyà desde Banyoles, hay que tomar la carretera C-66 hacia el norte. Cuando se llega al pueblo, se puede aparcar el vehículo delante del Ayuntamiento. 
+ 
+0,00 km (185 m). Ayuntamiento de Serinyà. Se parte tomando la calle Joan Carreres en dirección N hacia el cementerio. Se gira a la izquierda (O) y, antes de llegar, hay que bajar a la derecha (NO) por un camino que atraviesa un bosque. Un poco más allá, hay que coger un desvío a la izquierda (NO) que lleva a una pista, que se toma a la izquierda (SO). Se cruza la carretera antigua. 
+ 
+0,65 km (161 m), 0 h 10 min. Se pasa por debajo de la carretera C-66. A continuación, delante de Can Gatielles, se gira a mano derecha (NO). Después se sigue todo el tiempo hacia el N por la carretera antigua. Poco después, se deja la desviación que lleva a la fuente de Gatielles. 
+ 
+1,39 km (139 m), 0 h 22 min. Se cruza el río Ser por un puente y se toma un camino que hay a la izquierda (N) y que sube siguiendo el GR 1 (señales rojas y blancas) hasta una pista ancha, que se sigue a la derecha (SE; km 1,79, 180 m). Una vez se ha dejado atrás Can Cofí, se sigue bajando por la pista hacia el NE. 
+ 
+2,51 km (167 m), 0 h 40 min. Atención! Se cruza la carretera C-66 y se continúa en dirección NE por la pista que lleva a Esponellà (indicaciones). Se sigue por la pista principal dejando atrás algunos desvíos y dos masías hasta que se atraviesa el Ser por un puente (km 4,06, 115 m). Se continúa hacia levante por el camino que bordea el río Fluvià. 
+ 
+4,71 km (117 m), 1 h 05 min. Presa de arriba o esclusa de Serinyà. Se pasa por el patio y se prosigue hacia el NE dejando algunos desvíos secundarios a derecha e izquierda hasta que se llega a la presa del medio. 
+ 
+6,34 km (112 m), 1 h 28 min. Presa del medio o de Martís. Si se mira hacia arriba al otro lado del Fluvià (E), se ven los restos de la curiosa ermita de Sant Miquel de la Roca, construida dentro de las rocas. Se sigue recto (SE) por el camino. 
+ 
+6,53 km (123 m), 1 h 31 min. Enseguida, se gira a la derecha (NO) cambiando el sentido de la marcha por un camino que sube cerca de la fuente y que coincide con la ruta número 6 del Centro BTT del Pla de l'Estany. La pista que se deja lleva a Esponellá siguiendo el curso del río. La fuente, que se encuentra 50 m más allá, fuera del trayecto, no tiene garantía de potabilidad. Más adelante, se gira a la izquierda cambiando nuevamente de dirección (O y después SO). 
+ 
+7,55 km (187 m), 1 h 43 min. Se cruza un núcleo de casas y se sigue recto (SE/S) por la carretera asfaltada. Mientras, se puede aprovechar para visitar las entradas de la cueva Mariver. Hay que bajar todo recto por el sendero que bordea un restaurante, que queda a mano izquierda. A los pocos metros, se ve, también a la izquierda, la curiosa casa de Els Enginyers, que data de la construcción de las diferentes presas del Fluvià, donde hay un mirador sobre el río. 
+ 
+8,67 km (208 m), 1 h 55 min. Bifurcación. Se deja la pista asfaltada y se gira a mano derecha en dirección SO hacia Serinyà. Desde aquí, se puede ir a contemplar el salto de agua de Espolla, digno de contemplar durante la época de lluvias. Para llegar a este lugar, hay que girar a mano izquierda por un sendero y, no muy lejos, bajar a la derecha por un puente. En el km 8,81 (209 m), y al girar ligeramente a la derecha (O), se ve a la izquierda (S) una bella cruz de término y un curioso puente sobre el canal de Espolla que testimonia que en otras épocas llevaba agua muy a menudo. Se continúa por la pista principal. 
+ 
+9,56 km (209 m), 2 h 06 min. Bifurcación. Se debe girar a la izquierda (S) y dejar un desvío que aparece delante (O). 
+ 
+11,20 km (198 m), 2 h 26 min. Bifurcación. Se deja la pista y se toma a la izquierda (SO) un desvío frente a una casa. A continuación, se entra en Serinyà bajando por la calle Figueres. 
+ 
+12,25 km (185 m), 2 h 39 min. Serinyà, punto de partida y final del itinerario. Ahora se puede aprovechar para visitar el Parc de les Coves Prehistòriques de Serinyà.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Serinyà to Martís through Ser and Fluvià valleys&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;This itinerary combines the beautiful landscape of the lower Ser area and the cultural and artistic interest of an archaeological site at the Mariver cave. The Serinyà Prehistoric Cave Park, where you are able to see the huts and caves successively inhabited by groups of human beings more then 200,000 years ago, can also be visited.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.169860" lon="2.744529">
+        <ele>185.4</ele>
+        <time>2006-01-15T13:20:35Z</time>
+      </trkpt>
+      <trkpt lat="42.169949" lon="2.744135">
+        <ele>186.6</ele>
+        <time>2006-01-15T13:26:40Z</time>
+      </trkpt>
+      <trkpt lat="42.170364" lon="2.744230">
+        <ele>186.1</ele>
+        <time>2006-01-15T13:26:59Z</time>
+      </trkpt>
+      <trkpt lat="42.170485" lon="2.744115">
+        <ele>186.4</ele>
+        <time>2006-01-15T13:27:08Z</time>
+      </trkpt>
+      <trkpt lat="42.170643" lon="2.742195">
+        <ele>191.8</ele>
+        <time>2006-01-15T13:27:54Z</time>
+      </trkpt>
+      <trkpt lat="42.171710" lon="2.741380">
+        <ele>180.1</ele>
+        <time>2006-01-15T13:29:31Z</time>
+      </trkpt>
+      <trkpt lat="42.172390" lon="2.740336">
+        <ele>168.2</ele>
+        <time>2006-01-15T13:30:13Z</time>
+      </trkpt>
+      <trkpt lat="42.172412" lon="2.739985">
+        <ele>163.0</ele>
+        <time>2006-01-15T13:31:30Z</time>
+      </trkpt>
+      <trkpt lat="42.171983" lon="2.739314">
+        <ele>157.8</ele>
+        <time>2006-01-15T13:31:52Z</time>
+      </trkpt>
+      <trkpt lat="42.171841" lon="2.738486">
+        <ele>153.2</ele>
+        <time>2006-01-15T13:33:18Z</time>
+      </trkpt>
+      <trkpt lat="42.172849" lon="2.738015">
+        <ele>152.7</ele>
+        <time>2006-01-15T13:33:38Z</time>
+      </trkpt>
+      <trkpt lat="42.173320" lon="2.737323">
+        <ele>149.5</ele>
+        <time>2006-01-22T15:18:05Z</time>
+      </trkpt>
+      <trkpt lat="42.173617" lon="2.737231">
+        <ele>150.7</ele>
+        <time>2006-01-15T13:33:56Z</time>
+      </trkpt>
+      <trkpt lat="42.175283" lon="2.737358">
+        <ele>140.1</ele>
+        <time>2006-01-15T13:34:15Z</time>
+      </trkpt>
+      <trkpt lat="42.177131" lon="2.736472">
+        <ele>135.4</ele>
+        <time>2006-01-15T13:34:40Z</time>
+      </trkpt>
+      <trkpt lat="42.177362" lon="2.736683">
+        <ele>136.7</ele>
+        <time>2006-01-15T13:34:47Z</time>
+      </trkpt>
+      <trkpt lat="42.177923" lon="2.737861">
+        <ele>136.2</ele>
+        <time>2006-01-15T13:36:41Z</time>
+      </trkpt>
+      <trkpt lat="42.178237" lon="2.737666">
+        <ele>138.1</ele>
+        <time>2006-01-15T13:37:10Z</time>
+      </trkpt>
+      <trkpt lat="42.178496" lon="2.736806">
+        <ele>139.4</ele>
+        <time>2006-01-15T13:38:04Z</time>
+      </trkpt>
+      <trkpt lat="42.179470" lon="2.737201">
+        <ele>172.6</ele>
+        <time>2006-01-15T13:40:23Z</time>
+      </trkpt>
+      <trkpt lat="42.180059" lon="2.736745">
+        <ele>180.1</ele>
+        <time>2006-01-15T13:41:19Z</time>
+      </trkpt>
+      <trkpt lat="42.180005" lon="2.737060">
+        <ele>179.8</ele>
+        <time>2006-02-01T23:59:04Z</time>
+      </trkpt>
+      <trkpt lat="42.179188" lon="2.737898">
+        <ele>175.7</ele>
+        <time>2006-01-15T13:43:24Z</time>
+      </trkpt>
+      <trkpt lat="42.178934" lon="2.739110">
+        <ele>175.5</ele>
+        <time>2006-01-15T13:43:47Z</time>
+      </trkpt>
+      <trkpt lat="42.179000" lon="2.741020">
+        <ele>176.4</ele>
+        <time>2006-01-15T13:45:23Z</time>
+      </trkpt>
+      <trkpt lat="42.179290" lon="2.741470">
+        <ele>171.2</ele>
+        <time>2006-01-15T13:45:31Z</time>
+      </trkpt>
+      <trkpt lat="42.180061" lon="2.741721">
+        <ele>170.5</ele>
+        <time>2006-01-15T13:45:46Z</time>
+      </trkpt>
+      <trkpt lat="42.180580" lon="2.742337">
+        <ele>168.6</ele>
+        <time>2006-01-22T15:23:52Z</time>
+      </trkpt>
+      <trkpt lat="42.181355" lon="2.742781">
+        <ele>166.9</ele>
+        <time>2006-01-15T13:46:21Z</time>
+      </trkpt>
+      <trkpt lat="42.181665" lon="2.744251">
+        <ele>165.3</ele>
+        <time>2006-01-15T13:46:44Z</time>
+      </trkpt>
+      <trkpt lat="42.181703" lon="2.745172">
+        <ele>166.9</ele>
+        <time>2006-01-15T13:47:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182189" lon="2.747101">
+        <ele>168.2</ele>
+        <time>2006-01-15T13:47:43Z</time>
+      </trkpt>
+      <trkpt lat="42.182994" lon="2.748708">
+        <ele>166.7</ele>
+        <time>2006-01-15T13:48:05Z</time>
+      </trkpt>
+      <trkpt lat="42.183366" lon="2.750239">
+        <ele>162.7</ele>
+        <time>2006-01-15T13:48:24Z</time>
+      </trkpt>
+      <trkpt lat="42.184090" lon="2.751919">
+        <ele>157.3</ele>
+        <time>2006-01-15T13:48:52Z</time>
+      </trkpt>
+      <trkpt lat="42.184089" lon="2.753148">
+        <ele>148.8</ele>
+        <time>2006-01-15T13:50:40Z</time>
+      </trkpt>
+      <trkpt lat="42.184924" lon="2.756445">
+        <ele>137.9</ele>
+        <time>2006-01-15T13:51:18Z</time>
+      </trkpt>
+      <trkpt lat="42.184827" lon="2.757383">
+        <ele>138.5</ele>
+        <time>2006-01-15T13:51:33Z</time>
+      </trkpt>
+      <trkpt lat="42.184544" lon="2.757705">
+        <ele>135.0</ele>
+        <time>2006-01-22T15:28:45Z</time>
+      </trkpt>
+      <trkpt lat="42.184271" lon="2.758481">
+        <ele>129.0</ele>
+        <time>2006-01-15T13:51:50Z</time>
+      </trkpt>
+      <trkpt lat="42.184555" lon="2.758874">
+        <ele>124.5</ele>
+        <time>2006-01-15T13:51:57Z</time>
+      </trkpt>
+      <trkpt lat="42.185056" lon="2.759054">
+        <ele>118.1</ele>
+        <time>2006-01-15T13:52:04Z</time>
+      </trkpt>
+      <trkpt lat="42.184750" lon="2.759261">
+        <ele>114.8</ele>
+        <time>2006-02-02T00:05:12Z</time>
+      </trkpt>
+      <trkpt lat="42.184841" lon="2.759872">
+        <ele>117.4</ele>
+        <time>2006-01-15T13:54:31Z</time>
+      </trkpt>
+      <trkpt lat="42.185422" lon="2.759979">
+        <ele>116.2</ele>
+        <time>2006-01-15T13:54:43Z</time>
+      </trkpt>
+      <trkpt lat="42.185576" lon="2.760232">
+        <ele>119.1</ele>
+        <time>2006-01-15T13:54:53Z</time>
+      </trkpt>
+      <trkpt lat="42.185741" lon="2.761527">
+        <ele>129.4</ele>
+        <time>2006-01-15T13:55:17Z</time>
+      </trkpt>
+      <trkpt lat="42.185657" lon="2.762242">
+        <ele>120.3</ele>
+        <time>2006-01-15T13:55:40Z</time>
+      </trkpt>
+      <trkpt lat="42.185769" lon="2.764543">
+        <ele>121.8</ele>
+        <time>2006-01-23T10:11:37Z</time>
+      </trkpt>
+      <trkpt lat="42.186122" lon="2.765322">
+        <ele>118.9</ele>
+        <time>2006-01-15T13:56:38Z</time>
+      </trkpt>
+      <trkpt lat="42.187200" lon="2.766251">
+        <ele>115.9</ele>
+        <time>2006-01-15T13:58:38Z</time>
+      </trkpt>
+      <trkpt lat="42.187500" lon="2.766700">
+        <ele>121.1</ele>
+        <time>2006-01-15T13:58:57Z</time>
+      </trkpt>
+      <trkpt lat="42.188060" lon="2.769000">
+        <ele>125.1</ele>
+        <time>2006-01-15T14:00:03Z</time>
+      </trkpt>
+      <trkpt lat="42.188566" lon="2.770387">
+        <ele>122.6</ele>
+        <time>2006-01-15T14:00:36Z</time>
+      </trkpt>
+      <trkpt lat="42.188418" lon="2.770993">
+        <ele>122.6</ele>
+        <time>2006-01-15T14:00:48Z</time>
+      </trkpt>
+      <trkpt lat="42.187928" lon="2.771443">
+        <ele>123.9</ele>
+        <time>2006-01-15T14:02:05Z</time>
+      </trkpt>
+      <trkpt lat="42.187117" lon="2.772773">
+        <ele>125.4</ele>
+        <time>2006-01-15T14:02:32Z</time>
+      </trkpt>
+      <trkpt lat="42.187207" lon="2.774347">
+        <ele>120.9</ele>
+        <time>2006-01-15T14:02:49Z</time>
+      </trkpt>
+      <trkpt lat="42.186956" lon="2.775087">
+        <ele>118.3</ele>
+        <time>2006-01-15T14:03:04Z</time>
+      </trkpt>
+      <trkpt lat="42.186440" lon="2.775749">
+        <ele>119.8</ele>
+        <time>2006-01-15T14:03:22Z</time>
+      </trkpt>
+      <trkpt lat="42.186305" lon="2.776149">
+        <ele>118.1</ele>
+        <time>2006-01-15T14:03:43Z</time>
+      </trkpt>
+      <trkpt lat="42.186450" lon="2.778213">
+        <ele>119.1</ele>
+        <time>2006-01-15T14:03:58Z</time>
+      </trkpt>
+      <trkpt lat="42.186218" lon="2.779188">
+        <ele>115.8</ele>
+        <time>2006-01-15T14:04:17Z</time>
+      </trkpt>
+      <trkpt lat="42.185679" lon="2.779832">
+        <ele>113.1</ele>
+        <time>2006-01-15T14:04:35Z</time>
+      </trkpt>
+      <trkpt lat="42.184608" lon="2.780677">
+        <ele>117.5</ele>
+        <time>2006-01-15T14:05:27Z</time>
+      </trkpt>
+      <trkpt lat="42.183843" lon="2.780886">
+        <ele>114.1</ele>
+        <time>2006-01-15T14:07:07Z</time>
+      </trkpt>
+      <trkpt lat="42.183164" lon="2.781294">
+        <ele>118.1</ele>
+        <time>2006-01-15T14:09:10Z</time>
+      </trkpt>
+      <trkpt lat="42.182608" lon="2.782639">
+        <ele>122.8</ele>
+        <time>2006-01-15T14:11:29Z</time>
+      </trkpt>
+      <trkpt lat="42.183019" lon="2.780985">
+        <ele>130.8</ele>
+        <time>2006-01-15T14:15:09Z</time>
+      </trkpt>
+      <trkpt lat="42.183941" lon="2.780237">
+        <ele>140.5</ele>
+        <time>2006-01-15T14:15:54Z</time>
+      </trkpt>
+      <trkpt lat="42.184840" lon="2.779871">
+        <ele>145.8</ele>
+        <time>2006-01-15T14:16:26Z</time>
+      </trkpt>
+      <trkpt lat="42.185042" lon="2.779610">
+        <ele>150.8</ele>
+        <time>2006-01-15T14:16:42Z</time>
+      </trkpt>
+      <trkpt lat="42.185203" lon="2.778635">
+        <ele>155.9</ele>
+        <time>2006-01-15T14:17:15Z</time>
+      </trkpt>
+      <trkpt lat="42.185459" lon="2.778271">
+        <ele>157.9</ele>
+        <time>2006-01-15T14:17:44Z</time>
+      </trkpt>
+      <trkpt lat="42.185257" lon="2.776722">
+        <ele>169.2</ele>
+        <time>2006-01-15T14:18:30Z</time>
+      </trkpt>
+      <trkpt lat="42.185032" lon="2.776492">
+        <ele>173.4</ele>
+        <time>2006-01-15T14:20:22Z</time>
+      </trkpt>
+      <trkpt lat="42.184812" lon="2.776880">
+        <ele>175.7</ele>
+        <time>2006-01-15T14:20:42Z</time>
+      </trkpt>
+      <trkpt lat="42.184562" lon="2.778038">
+        <ele>178.2</ele>
+        <time>2006-01-15T14:21:19Z</time>
+      </trkpt>
+      <trkpt lat="42.182750" lon="2.779340">
+        <ele>188.5</ele>
+        <time>2006-01-15T14:25:06Z</time>
+      </trkpt>
+      <trkpt lat="42.174392" lon="2.780180">
+        <ele>206.9</ele>
+        <time>2006-01-15T14:28:23Z</time>
+      </trkpt>
+      <trkpt lat="42.173888" lon="2.780387">
+        <ele>206.7</ele>
+        <time>2006-01-15T14:28:39Z</time>
+      </trkpt>
+      <trkpt lat="42.173313" lon="2.781007">
+        <ele>207.9</ele>
+        <time>2006-01-15T14:30:16Z</time>
+      </trkpt>
+      <trkpt lat="42.172799" lon="2.780790">
+        <ele>208.5</ele>
+        <time>2006-01-15T14:30:30Z</time>
+      </trkpt>
+      <trkpt lat="42.172240" lon="2.780272">
+        <ele>209.0</ele>
+        <time>2006-01-15T14:30:43Z</time>
+      </trkpt>
+      <trkpt lat="42.172390" lon="2.777530">
+        <ele>210.4</ele>
+        <time>2006-01-15T14:31:24Z</time>
+      </trkpt>
+      <trkpt lat="42.173072" lon="2.775045">
+        <ele>211.0</ele>
+        <time>2006-01-15T14:32:00Z</time>
+      </trkpt>
+      <trkpt lat="42.173851" lon="2.773142">
+        <ele>211.6</ele>
+        <time>2006-01-15T14:32:22Z</time>
+      </trkpt>
+      <trkpt lat="42.173916" lon="2.771792">
+        <ele>209.1</ele>
+        <time>2006-01-15T14:32:39Z</time>
+      </trkpt>
+      <trkpt lat="42.173758" lon="2.771562">
+        <ele>209.5</ele>
+        <time>2006-01-15T14:33:56Z</time>
+      </trkpt>
+      <trkpt lat="42.171907" lon="2.771091">
+        <ele>210.7</ele>
+        <time>2006-01-15T14:34:44Z</time>
+      </trkpt>
+      <trkpt lat="42.171808" lon="2.769134">
+        <ele>209.6</ele>
+        <time>2006-01-15T14:35:08Z</time>
+      </trkpt>
+      <trkpt lat="42.171183" lon="2.767611">
+        <ele>208.2</ele>
+        <time>2006-01-15T14:35:38Z</time>
+      </trkpt>
+      <trkpt lat="42.171285" lon="2.764523">
+        <ele>207.0</ele>
+        <time>2006-01-15T14:36:15Z</time>
+      </trkpt>
+      <trkpt lat="42.171721" lon="2.761816">
+        <ele>206.8</ele>
+        <time>2006-01-15T14:36:52Z</time>
+      </trkpt>
+      <trkpt lat="42.171447" lon="2.760225">
+        <ele>205.5</ele>
+        <time>2006-01-15T14:37:17Z</time>
+      </trkpt>
+      <trkpt lat="42.170822" lon="2.758381">
+        <ele>204.0</ele>
+        <time>2006-01-15T14:37:42Z</time>
+      </trkpt>
+      <trkpt lat="42.170873" lon="2.756789">
+        <ele>200.1</ele>
+        <time>2006-01-15T14:38:02Z</time>
+      </trkpt>
+      <trkpt lat="42.170541" lon="2.755404">
+        <ele>199.9</ele>
+        <time>2006-01-15T14:38:25Z</time>
+      </trkpt>
+      <trkpt lat="42.170539" lon="2.754599">
+        <ele>198.5</ele>
+        <time>2006-01-15T14:38:33Z</time>
+      </trkpt>
+      <trkpt lat="42.169804" lon="2.754033">
+        <ele>200.6</ele>
+        <time>2006-01-15T14:40:03Z</time>
+      </trkpt>
+      <trkpt lat="42.169658" lon="2.753252">
+        <ele>199.4</ele>
+        <time>2006-01-15T14:40:13Z</time>
+      </trkpt>
+      <trkpt lat="42.169220" lon="2.752600">
+        <ele>200.5</ele>
+        <time>2006-01-15T14:40:24Z</time>
+      </trkpt>
+      <trkpt lat="42.169245" lon="2.751377">
+        <ele>200.6</ele>
+        <time>2006-01-15T14:40:44Z</time>
+      </trkpt>
+      <trkpt lat="42.168940" lon="2.750101">
+        <ele>199.4</ele>
+        <time>2006-01-23T10:45:57Z</time>
+      </trkpt>
+      <trkpt lat="42.170014" lon="2.746943">
+        <ele>179.9</ele>
+        <time>2006-01-15T14:41:53Z</time>
+      </trkpt>
+      <trkpt lat="42.169986" lon="2.746484">
+        <ele>178.9</ele>
+        <time>2006-01-23T10:47:51Z</time>
+      </trkpt>
+      <trkpt lat="42.170422" lon="2.744309">
+        <ele>185.9</ele>
+        <time>2006-01-15T14:42:36Z</time>
+      </trkpt>
+      <trkpt lat="42.169999" lon="2.744111">
+        <ele>186.6</ele>
+        <time>2006-01-15T14:42:58Z</time>
+      </trkpt>
+      <trkpt lat="42.169860" lon="2.744529">
+        <ele>185.4</ele>
+        <time>2006-01-15T14:43:45Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

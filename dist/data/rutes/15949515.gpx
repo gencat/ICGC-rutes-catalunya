@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.448335" lon="1.516488">
+    <ele>943.8</ele>
+    <time>2014-04-25T18:49:08Z</time>
+    <name>Puig Castellar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.450929" lon="1.497177">
+    <ele>716.6</ele>
+    <time>2014-04-25T18:49:09Z</time>
+    <name>Convent d'Ancosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.417521" lon="1.519114">
+    <ele>632.1</ele>
+    <time>2014-04-25T18:49:11Z</time>
+    <name>Santa Magdalena</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.414886" lon="1.516310">
+    <ele>592.9</ele>
+    <time>2014-04-25T18:49:12Z</time>
+    <name>Pontons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.435294" lon="1.536537">
+    <ele>630.1</ele>
+    <time>2016-03-13T12:16:15Z</time>
+    <name>Mas de Pontons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.429309" lon="1.514296">
+    <ele>697.9</ele>
+    <time>2016-12-30T17:09:57Z</time>
+    <name>Reguerots</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.429427" lon="1.514036">
+    <ele>696.8</ele>
+    <time>2016-12-30T17:09:57Z</time>
+    <name>Desviació alternativa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.426859" lon="1.516297">
+    <ele>643.0</ele>
+    <time>2016-12-30T17:09:58Z</time>
+    <name>Riera de Carbons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.435663" lon="1.490828">
+    <ele>881.0</ele>
+    <time>2016-12-30T17:09:58Z</time>
+    <name>Desviació sense senyals</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.435840" lon="1.505290">
+    <ele>768.4</ele>
+    <time>2016-12-30T17:09:58Z</time>
+    <name>Tanca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.451671" lon="1.496830">
+    <ele>718.3</ele>
+    <time>2016-11-25T11:07:54Z</time>
+    <name>Ruïnes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.451671" lon="1.496830">
+    <ele>718.3</ele>
+    <time>2016-11-25T11:07:54Z</time>
+    <name>Ruïnes de la Granja d'Ancosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.450144" lon="1.496542">
+    <ele>719.0</ele>
+    <time>2016-11-25T12:14:08Z</time>
+    <name>Pou d'Ancosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.447790" lon="1.491920">
+    <ele>734.0</ele>
+    <time>2016-12-30T17:09:58Z</time>
+    <name>Roure d'Ancosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434973" lon="1.508885">
+    <ele>755.1</ele>
+    <time>2016-12-30T16:09:04Z</time>
+    <name>Cal Manquet</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Pontons al puig Castellar i la plana d’Ancosa</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Pontons al puig Castellar i la plana d’Ancosa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;L'itinerari permet conèixer la serra i la plana d'Ancosa, relleus que formen part de la Serralada Prelitoral Catalana, situats entre les comarques de l’Alt Penedès i l’Anoia i a cavall dels termes de Pontons i de la Llacuna. Tot i la predominança clara del clima mediterrani, la morfologia accidentada de la serralada propicia canvis suggestius en un paisatge dominat pels conreus, la vinya, les garrigues i el bosc, on les masies i els petits nuclis rurals aporten notes coloristes. A més de gaudir del paisatge, el recorregut permet visitar indrets interessants, com la magnífica masia fortificada del Mas de Pontons, el cim culminant de l’Alt Penedès, el Puig Castellar, de 943 m, les ruïnes del primigeni convent d’Ancosa, que va precedir l’assentament de l’orde del Cister a Catalunya al segle XII, o el magnífic roure d’Ancosa, relíquia d’una vegetació antany esponerosa. Part del recorregut s’endinsa en l’espai protegit d’Ancosa-Montagut, constituït per l’esmentada alineació de muntanyes que separa les comarques de l'Anoia i de l'Alt Penedès, amb un conjunt de cims i una extensa plana situada a l'extrem nord de la serra. Ancosa presenta l'interès de reunir elements mediterranis amb altres propis de terres més humides, com són, per exemple, les joncedes amb plantatge.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L'itinerari comença a Pontons. A aquesta població s’hi arriba per la carretera que uneix Vilafranca del Penedès amb Santes Creus (BP-2121 i BV-2122). Des de l'AP-7 pot accedir-s'hi per les sortides 30 i 28. A Pontons es deixa el cotxe a l'ampli aparcament municipal que hi ha a tocar de la carretera, fora del poble, a 250 m de la primera entrada a la població venint de Torrelles de Foix. 
+ 
+0,00 km (584 m). Aparcament a tocar de la carretera BV-2122. Cal retrocedir per la carretera en direcció a Torrelles de Foix, entrar al poble passant el pont del Torrent del Bou i, pel carrer Major, dirigir-se als afores, creuar la riera de Pontons per un pont i, girant a la dreta, pujar per pista asfaltada fins a Santa Magdalena. 
+ 
+1,15 km (632 m). Santa Magdalena, església parroquial de Pontons, d'origen romànic. Va ser reconstruïda durant el segle XIII, i modificada posteriorment. Abans de ser parròquia havia estat sufragània de Sant Joan de la Muntanya, ermita visible a l’altra banda de la vall. Se segueix la pista asfaltada, que gira al NE, després a l’est i, finalment, al nord, en direcció al Mas de Pontons (marques blanques i grogues del sender PR C-150), deixant trencalls secundaris, al punt km 2,40 (639 m) es travessa una cruïlla que, per l’esquerra (O) duu a can Ponç i als Sovals i, per la la dreta (E) a la urbanització la Plana i a Torrelles de Foix. 
+ 
+4,24 km (630 m) Mas de Pontons, magnífica construcció fortificada amb matacà i garites als quatre cantons. El mas té el seu origen en el desaparegut castell medieval de Pontons; la casa senyorial data dels segles XVII-XVIII. Aquí s'acaba la pista asfaltada: se segueix el camí deixant el mas a la dreta. Tot just sobrepassada la casa, es gira a l’esquerra (O) prenent una altra pista que puja fortament fins al coll de Carbons, deixant diversos trencalls secundaris a banda i banda. 
+ 
+6,29 km (789 m). Coll de Carbons, situat al nord del puig de les Agulles. Cruïlla de camins i carretera rural asfaltada on es troben les marques vermelles i blanques del sender GR 92.5. Es pren, ara planerament, la carretera cap a la dreta (N); es deixa a la dreta Cal Corralet, can Meix Petit i la Pollina. Més enllà, el GR se’n va a l’esquerra seguint un costerut corriol. Es continua recte, ara pujant; la carretera gira a llevant; cal parar atenció a la pròxima desviació. 
+ 
+7,34 km (819 m). Bifurcació on es troba el GR 172. Cal abandonar la carretera i girar bruscament a l'esquerra (NO i, després O) seguint els senyals del GR 172. El sender se’n va cap a la dreta al cap de poc; la ruta gira al S, passa pel costat de cal Manyo, torna a travessar el recorregut del GR 92.5 i deixa can Salvet a l’esquerra. 
+ 
+8,73 km (854 m). Es desemboca en una pista on es retroba el GR 172. Cal torçar totalment a la dreta; s'inicia una pujada, a trams molt forta i cimentada, en direcció al puig Castellar. Es travessa una cruïlla (km 9,31, 899 m, senyals i sender GR 92.5). Abans del cim, en un petit collet, es deixa el GR 172 (després es tornarà a aquest punt) i se segueix recte, per un tram cimentat, fins al cim. 
+ 
+9,82 km (943 m). Puig Castellar; antenes i caseta d’observació forestal. Àmplia panoràmica sobre l’entorn més proper de la Catalunya central i de les serralades més llunyanes; davant mateix, al NE, s’alça imponent Montserrat; és el sostre de l’Alt Penedès. Es desfà la pista fins a la desviació anterior i es trenca a l'esquerra (E/NE) seguint el GR 172 per un camí al començament poc marcat que baixa fortament en direcció E fins a desembocar en una pista. 
+ 
+10,33 km (872 m). Se surt en una pista. Cal girar a l'esquerra (NO, després O) deixant el GR. El camí planeja i després baixa decididament. Més endavant (km 11,80, 817 m) es passa sota una línia d'alta tensió i s’arriba al coll del Corral. 
+ 
+12,40 km (762 m). Coll del Corral; cruïlla de pistes. Cal girar a l'esquerra, baixant cap al sud-oest, per endinsar-se a la plana d'Ancosa (per la dreta es baixaria a Torrebusqueta i a la Llacuna). Se segueix la pista principal; al punt km 14,13, ja a tocar del Convent d’Ancosa, hi ha una bifurcació. Cal seguir cap a l’esquerra; si se segueix una seixantena de metres la pista de la dreta es pot arribar a les ruïnes de la Granja d’Ancosa. 
+ 
+14,20 km (716 m). Convent d’Ancosa i ruïnes properes de la Granja d'Ancosa. L’any 1155, els comtes de Barcelona van cedir el lloc d'Ancosa als monjos cistercencs de Valldaura perquè hi establissin un monestir. La manca d'aigua i l’aridesa van provocar el canvi de lloc per instal·lar-se a Santes Creus; l’indret va esdevenir una granja propietat d’aquest gran monestir. Després de passar pel costat del magnífic pou medieval d’Ancosa es travessa una cruïlla (GR 92.5); seguint cap al SO, deixant trencalls a dreta i esquerra, es voreja el monumental Roure d'Ancosa (14,83 km, 733 m) en una raconada de bosc d’especial solemnitat. 
+ 
+Tot planejant, es deixa a la dreta una desviació que segueix el torrent de Llançana; es va seguint la pista principal que, més endavant, gira al sud i s’encara a la serra d’Ancosa, cap on cal pujar. 
+ 
+16,22 km (716 m). Bifurcació; cal girar a la dreta (si se seguís recte amunt s’arribaria directament al coll de la Rimbalda, però amb un pendent més pronunciat). El camí va girant de nou al sud; posteriorment es deixen tres trencalls a la dreta. 
+ 
+18,56 km (819 m). Bifurcació una mica abans del suau coll de la Rimbalda. Cruïlla de camins i d’antigues carrerades ramaderes Es gira a l’esquerra (E) en pujada, s’arriba a la carena, on es retroba el sender GR 172. Se segueix la pista que es dirigeix a llevant, cap al Puig Castellar. Cal estar atents a la propera desviació. 
+ 
+19,88 km (881 m). Desviació sense senyalització vertical (fites de pedres laterals). Es deixa la pista i es pren un corriol a la dreta que, primer planerament i després en baixada, es dirigeix a la carretera asfaltada de Carbons. Cal seguir el camí fressat, sempre cap a llevant (marques i senyals escadussers). S’arriba a can Solanes, mas que es deixa a l’esquerra (N). 
+ 
+21,35 km (768 m). Carretera de Carbons, sota can Solanes. Es passa una tanca lateralment i se segueix la carretera cap a l’esquerra (E). Es passen les masies de can Manquet i can Maginet i s’arriba a una bifurcació. 
+ 
+21,92 km (754 m). Bifurcació. Es deixa la pista asfaltada i es pren el trencall de la dreta (S) en direcció a cal Diable (indicadors). A la bifurcació del trencall d’accés a la masia (restaurant i casa de colònies) es gira a l'esquerra, es deixa a la dreta el segon trencall d’accés a la masia i s’és en una bifurcació (22,76 km, 701 m). Es pren el corriol de la dreta, que baixa cap al fons de la vall de la Riera de Carbons. Més avall, es travessa la riera (km 23,18) i es conflueix amb una pista ampla que, en suau baixada, du a Santa Magdalena de Pontons. Aquest corriol té el primer tram erosionat, amb reguerots profunds. Si es vol evitar es pot prendre el camí de l’esquerra, que passa a l’altra banda de la riera on desemboca a la pista de Santa Magdalena. 
+ 
+24,36 km (632 m). Santa Magdalena, ara per la banda contrària que a la pujada. Es gira a la dreta per un corriol que es dirigeix a ponent. Després de passar per la font Voltada s’entra a Pontons i, seguint el carrer Major, s'arriba al pont, a la carretera i a l’aparcament inicial. 
+ 
+24,92 km (584 m). Pontons. Fi del recorregut.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Pontons al Puig Castellar y la Plana d’Ancosa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El itinerario permite conocer la sierra y la Plana d’Ancosa, relieves que forman parte de la Cordillera Prelitoral Catalana, situados entre las comarcas del Alt Penedès y Anoia y entre los términos de Pontons y de La Llacuna. A pesar de la predominancia clara del clima mediterráneo, la morfología accidentada de la cordillera propicia cambios sugestivos en un paisaje dominado por los cultivos, la viña, los matorrales y el bosque, donde las casas y los pequeños núcleos rurales aportan notas coloristas. Además de disfrutar del paisaje, el recorrido permite visitar lugares interesantes, como la magnífica masía fortificada del Mas de Pontons, la cima culminante del Alt Penedès, el Puig Castellar, de 943 m, las ruinas del primigenio convento de Ancosa, que precedió el asentamiento de la orden del Cister en Cataluña en el siglo XII, o el magnífico roble de Ancosa, reliquia de una vegetación antaño lozana. Parte del recorrido se adentra en el espacio protegido de Ancosa-Montagut, constituido por dicha alineación de montañas que separa las comarcas del Anoia y del Alt Penedès, con un conjunto de cimas y una extensa llanura situada en el extremo norte de la sierra. Ancosa presenta el interés de reunir elementos mediterráneos con otros propios de tierras más húmedas, como son, por ejemplo, los prados con llantén.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El itinerario comienza en Pontons. A esta población se llega por la carretera que une Vilafranca del Penedès con Santes Creus (BP-2121 y BV-2122). Desde la AP-7 puede accederse por las salidas 30 y 28. En Pontons se deja el coche en el amplio aparcamiento municipal que hay junto a la carretera, fuera del pueblo, a 250 metros de la primera entrada a la población viniendo de Torrelles de Foix. 
+ 
+0,00 km (584 m). Aparcamiento junto a la carretera BV-2122. Hay que retroceder por la carretera en dirección a Torrelles de Foix, entrar en el pueblo pasando el puente del Torrent del Bou y, por la calle Major, dirigirse a las afueras, cruzar la riera de Pontons por un puente y, girando a la derecha, subir por pista asfaltada hasta Santa Magdalena. 
+ 
+1,15 km (632 m). Santa Magdalena, iglesia parroquial de Pontons, de origen románico. Fue reconstruida en el siglo XIII, y modificada posteriormente. Antes de ser parroquia había sido sufragánea de Sant Joan de la Muntanya, ermita visible al otro lado del valle. Se sigue la pista asfaltada, que gira al NE, luego al este y, finalmente, al norte, en dirección al Mas de Pontons (marcas blancas y amarillas del sendero PR C-150), dejando desvíos secundarios, al punto km 2,40 (639 m) se atraviesa un cruce que, por la izquierda (O) lleva a las masías Ponç y Els Soval y, por la derecha (E) a la urbanización la Plana y a Torrelles de Foix. 
+ 
+4,24 km (630 m) Mas de Pontons, magnífica construcción fortificada con matacán y garitas en las cuatro esquinas. La masía tiene su origen en el desaparecido castillo medieval de Pontons; la casa señorial data de los siglos XVII-XVIII. Aquí se acaba la pista asfaltada: se sigue el camino dejando la casa a la derecha. Apenas sobrepasada la casa, se gira a la izquierda (O) tomando otra pista que sube fuertemente hasta el collado de Carbons, dejando varios desvíos secundarios a ambos lados. 
+ 
+6,29 km (789 m). Collado de Carbons, situado al norte del Puig de les Agulles. Cruce de caminos y carretera rural asfaltada donde se encuentran las marcas rojas y blancas del sendero GR 92.5. Se toma, ahora llanamente, la carretera hacia la derecha (N); se deja a la derecha Cal Corralet, Can Meix Petit y la Pollina. Más allá, el GR se va a la izquierda siguiendo un empinado sendero. Se sigue recto, ahora subiendo; la carretera gira a levante; hay que prestar atención a la próxima desviación. 
+ 
+7,34 km (819 m). Bifurcación donde se encuentra el GR 172. Hay que abandonar la carretera y girar bruscamente a la izquierda (NO y, después O) siguiendo las señales del GR 172. El sendero se va hacia la derecha un poco más adelante; la ruta gira al S, pasa junto a Cal Manyo, vuelve a atravesar el recorrido del GR 92.5 y deja Can Salvet a la izquierda. 
+ 
+8,73 km (854 m). Se desemboca en una pista donde se reencuentra el GR 172. Hay que torcer totalmente a la derecha; se inicia una subida, a tramos muy fuerte y cimentada, en dirección al Puig Castellar. Se cruza un cruce (km 9,31, 899 m, señales y sendero GR 92.5). Antes de la cumbre, en un pequeño collado, se deja el GR 172 (después se volverá a este punto) y se sigue recto, por un tramo cementado, hasta la cima. 
+ 
+9,82 km (943 m). Puig Castellar; antenas y caseta de observación forestal. Amplia panorámica sobre el entorno más cercano de la Cataluña central y de las cordilleras más lejanas; delante mismo, al NE, se alza imponente Montserrat; es el techo del Alt Penedès. Se deshace la pista hasta la desviación anterior y se gira a la izquierda (E/NE) siguiendo el GR 172 por un camino al principio poco marcado que baja fuertemente en dirección E hasta desembocar en una pista. 
+ 
+10,33 km (872 m). Se sale a una pista. Hay que girar a la izquierda (NO, luego O) dejando el GR. El camino planea y después baja decididamente. Más adelante (km 11,80, 817 m) se pasa bajo una línea de alta tensión y se llega al collado del Corral. 
+ 
+12,40 km (762 m). collado del Corral; cruce de pistas. Hay que girar a la izquierda, bajando hacia el sur-oeste, para adentrarse en la Plana d’Ancosa (por la derecha se bajaría a Torrebusqueta y a la Llacuna). Se sigue la pista principal; el punto km 14,13, ya junto al Convento de Ancosa, hay una bifurcación. Hay que seguir hacia la izquierda; si se sigue unos sesenta metros la pista de la derecha se puede llegar a las ruinas de la Granja de Ancosa. 
+ 
+14,20 km (716 m). Convento de Ancosa y ruinas cercanas de la Granja de Ancosa. En 1155, los condes de Barcelona cedieron el lugar de Ancosa a los monjes cistercienses de Valldaura para que establecieran un monasterio. La falta de agua y la aridez provocaron el cambio de lugar para instalarse en Santes Creus; el lugar se convirtió en una granja propiedad de este gran monasterio. Después de pasar por el lado del magnífico pozo medieval de Ancosa se atraviesa un cruce (GR 92.5); siguiendo hacia el SO, dejando desvíos a derecha e izquierda, se bordea el monumental Roble de Ancosa (14,83 km, 733 m) en un rincón de bosque de especial solemnidad. 
+ 
+Planeando, se deja a la derecha un desvío que sigue el torrente de Llançana; se va siguiendo la pista principal que, más adelante, gira al sur y se encara a la sierra de Ancosa, hacia donde hay que subir. 
+ 
+16,22 km (716 m). Bifurcación; hay que girar a la derecha (si se siguiera recto hacia arriba llegaría directamente al collado de la Rimbalda, pero con una pendiente más pronunciada). El camino va girando de nuevo al sur; posteriormente se dejan tres desvíos a la derecha. 
+ 
+18,56 km (819 m). Bifurcación un poco antes del suave collado de la Rimbalda. Cruce de caminos y de antiguas cañadas ganaderas Se gira a la izquierda (E) en subida, se llega a la cresta, donde se reencuentra el sendero GR 172. Se sigue la pista que se dirige al este, hacia el Puig Castellar. Hay que estar atentos a la próxima desviación. 
+ 
+19,88 km (881 m). Desviación sin señalización vertical (hitos de piedras laterales). Se deja la pista y se toma un sendero a la derecha que, primero llanamente y después en bajada, se dirige a la carretera asfaltada de Carbons. Hay que seguir el camino trillado, siempre hacia levante (marcas y señales esporádicos). Se llega a Can Solanes, que se deja a la izquierda (N). 
+ 
+21,35 km (768 m). Carretera de Carbons, bajo Can Solanas. Se pasa una valla lateralmente y se sigue la carretera hacia la izquierda (E). Se pasan las masías de Can Manquet y Can Maginet y se llega a una bifurcación. 
+ 
+21,92 km (754 m). Bifurcación. Se deja la pista asfaltada y se toma el desvío de la derecha (S) en dirección a Cal Diable (indicadores). En la bifurcación del desvío de acceso a la masía (restaurante y casa de colonias) se gira a la izquierda, se deja a la derecha el segundo desvío de acceso a la masía y se llega a una bifurcación (22,76 km, 701 m). Se toma el sendero de la derecha, que baja hacia el fondo del valle de la Riera de Carbons. Más abajo, se cruza el torrente (km 23,18) y se confluye con una pista ancha que, en suave descenso, lleva a Santa Magdalena de Pontons. Este sendero tiene el primer tramo erosionado, con regueros profundos. Si se quiere evitar se puede tomar el camino de la izquierda, que pasa al otro lado del arroyo donde desemboca en la pista de Santa Magdalena. 
+ 
+24,36 km (632 m). Santa Magdalena, ahora por el lado contrario que en la subida. Se gira a la derecha por un sendero que se dirige a poniente. Después de pasar por la fuente Voltada se entra en Pontons y, siguiendo la calle Major, se llega al puente, en la carretera y en el aparcamiento inicial. 
+ 
+24,92 km (584 m). Pontons. Fin del recorrido.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.414907" lon="1.516319">
+        <ele>592.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415082" lon="1.516578">
+        <ele>588.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415392" lon="1.516200">
+        <ele>588.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415684" lon="1.516499">
+        <ele>587.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416253" lon="1.516258">
+        <ele>581.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416662" lon="1.516542">
+        <ele>578.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416180" lon="1.517594">
+        <ele>585.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415735" lon="1.519423">
+        <ele>594.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415991" lon="1.520428">
+        <ele>596.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415747" lon="1.521270">
+        <ele>602.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415863" lon="1.521877">
+        <ele>604.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415769" lon="1.522621">
+        <ele>611.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415985" lon="1.522632">
+        <ele>613.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416547" lon="1.521800">
+        <ele>621.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417000" lon="1.520338">
+        <ele>630.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417774" lon="1.519238">
+        <ele>629.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418410" lon="1.519654">
+        <ele>626.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418787" lon="1.520657">
+        <ele>631.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419197" lon="1.520953">
+        <ele>629.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419380" lon="1.522633">
+        <ele>630.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419722" lon="1.524025">
+        <ele>640.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419767" lon="1.527548">
+        <ele>630.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420231" lon="1.529673">
+        <ele>631.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420456" lon="1.530021">
+        <ele>629.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420866" lon="1.530216">
+        <ele>628.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420981" lon="1.531481">
+        <ele>634.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421786" lon="1.532074">
+        <ele>639.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422722" lon="1.533094">
+        <ele>631.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423530" lon="1.532884">
+        <ele>622.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425222" lon="1.533480">
+        <ele>608.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426548" lon="1.535933">
+        <ele>598.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427328" lon="1.536424">
+        <ele>599.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428135" lon="1.537495">
+        <ele>603.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429204" lon="1.537059">
+        <ele>612.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430509" lon="1.535599">
+        <ele>624.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431079" lon="1.535407">
+        <ele>624.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431990" lon="1.535859">
+        <ele>624.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.432717" lon="1.535675">
+        <ele>622.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433865" lon="1.536003">
+        <ele>625.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434714" lon="1.535876">
+        <ele>628.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435008" lon="1.535630">
+        <ele>627.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435248" lon="1.536079">
+        <ele>628.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435789" lon="1.536456">
+        <ele>634.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435892" lon="1.536723">
+        <ele>631.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436293" lon="1.536403">
+        <ele>635.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436019" lon="1.536110">
+        <ele>639.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435573" lon="1.535019">
+        <ele>649.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435722" lon="1.534740">
+        <ele>651.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436203" lon="1.534681">
+        <ele>658.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436337" lon="1.534535">
+        <ele>661.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436025" lon="1.533764">
+        <ele>667.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436784" lon="1.531856">
+        <ele>685.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436877" lon="1.529244">
+        <ele>705.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437210" lon="1.528495">
+        <ele>714.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437494" lon="1.528195">
+        <ele>717.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437454" lon="1.527897">
+        <ele>721.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437242" lon="1.527842">
+        <ele>723.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436579" lon="1.528479">
+        <ele>726.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435040" lon="1.529262">
+        <ele>748.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435516" lon="1.528431">
+        <ele>754.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435739" lon="1.528276">
+        <ele>756.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436197" lon="1.526740">
+        <ele>766.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437154" lon="1.525527">
+        <ele>782.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437339" lon="1.524506">
+        <ele>793.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438080" lon="1.523392">
+        <ele>791.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438307" lon="1.522427">
+        <ele>788.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439139" lon="1.522422">
+        <ele>785.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439884" lon="1.522926">
+        <ele>784.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440854" lon="1.523084">
+        <ele>783.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441280" lon="1.523308">
+        <ele>786.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442313" lon="1.523105">
+        <ele>784.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442935" lon="1.523497">
+        <ele>785.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443475" lon="1.524144">
+        <ele>795.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444363" lon="1.523919">
+        <ele>798.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444641" lon="1.524487">
+        <ele>801.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445170" lon="1.524344">
+        <ele>803.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445847" lon="1.524460">
+        <ele>808.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446501" lon="1.524170">
+        <ele>813.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446637" lon="1.524281">
+        <ele>814.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446795" lon="1.525013">
+        <ele>819.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446950" lon="1.524794">
+        <ele>820.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446849" lon="1.524252">
+        <ele>821.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447062" lon="1.523666">
+        <ele>824.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446817" lon="1.523540">
+        <ele>826.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446119" lon="1.523556">
+        <ele>829.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445896" lon="1.523382">
+        <ele>833.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445745" lon="1.522822">
+        <ele>836.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445456" lon="1.522398">
+        <ele>841.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445379" lon="1.521328">
+        <ele>848.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444921" lon="1.520545">
+        <ele>851.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444673" lon="1.519261">
+        <ele>850.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442782" lon="1.517568">
+        <ele>852.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442693" lon="1.516960">
+        <ele>850.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443075" lon="1.516044">
+        <ele>849.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443029" lon="1.515561">
+        <ele>850.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442096" lon="1.514810">
+        <ele>851.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441170" lon="1.513239">
+        <ele>853.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441639" lon="1.513653">
+        <ele>854.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442416" lon="1.513815">
+        <ele>861.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443009" lon="1.514418">
+        <ele>863.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443398" lon="1.515241">
+        <ele>871.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443670" lon="1.515378">
+        <ele>875.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444043" lon="1.515286">
+        <ele>882.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443985" lon="1.514483">
+        <ele>891.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444259" lon="1.514252">
+        <ele>895.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445417" lon="1.515674">
+        <ele>908.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446259" lon="1.516002">
+        <ele>922.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447065" lon="1.517073">
+        <ele>928.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447411" lon="1.517005">
+        <ele>927.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447941" lon="1.516209">
+        <ele>940.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448253" lon="1.516280">
+        <ele>942.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448336" lon="1.516490">
+        <ele>943.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448212" lon="1.516245">
+        <ele>941.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447906" lon="1.516234">
+        <ele>939.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447491" lon="1.517036">
+        <ele>927.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447830" lon="1.518136">
+        <ele>897.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447847" lon="1.519075">
+        <ele>894.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448242" lon="1.520724">
+        <ele>878.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448241" lon="1.521266">
+        <ele>871.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448559" lon="1.520866">
+        <ele>872.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448396" lon="1.520065">
+        <ele>872.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448380" lon="1.518518">
+        <ele>875.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449361" lon="1.517400">
+        <ele>880.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449795" lon="1.516427">
+        <ele>871.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450515" lon="1.515674">
+        <ele>857.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452350" lon="1.515495">
+        <ele>830.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452904" lon="1.514105">
+        <ele>822.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454321" lon="1.512852">
+        <ele>813.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455743" lon="1.512110">
+        <ele>811.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456653" lon="1.511120">
+        <ele>815.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457970" lon="1.510904">
+        <ele>802.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458922" lon="1.510308">
+        <ele>787.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460531" lon="1.509851">
+        <ele>777.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461636" lon="1.509898">
+        <ele>765.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462200" lon="1.509681">
+        <ele>761.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461385" lon="1.507970">
+        <ele>750.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460744" lon="1.507122">
+        <ele>745.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460238" lon="1.507008">
+        <ele>741.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459309" lon="1.507317">
+        <ele>733.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458750" lon="1.506905">
+        <ele>727.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458712" lon="1.505762">
+        <ele>725.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458550" lon="1.505401">
+        <ele>725.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457298" lon="1.504903">
+        <ele>720.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456248" lon="1.503862">
+        <ele>709.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455787" lon="1.502663">
+        <ele>707.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454720" lon="1.501020">
+        <ele>704.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453842" lon="1.500248">
+        <ele>707.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453304" lon="1.498734">
+        <ele>704.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452187" lon="1.498394">
+        <ele>705.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451721" lon="1.497866">
+        <ele>709.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451575" lon="1.497391">
+        <ele>713.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450813" lon="1.497354">
+        <ele>718.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450783" lon="1.497068">
+        <ele>716.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450328" lon="1.496707">
+        <ele>717.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450377" lon="1.495976">
+        <ele>719.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449115" lon="1.494580">
+        <ele>725.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448802" lon="1.494037">
+        <ele>729.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448099" lon="1.491982">
+        <ele>732.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448426" lon="1.490802">
+        <ele>729.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448170" lon="1.490149">
+        <ele>730.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448049" lon="1.489146">
+        <ele>730.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448250" lon="1.488687">
+        <ele>731.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448162" lon="1.488144">
+        <ele>730.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448257" lon="1.487867">
+        <ele>729.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449377" lon="1.487404">
+        <ele>725.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449623" lon="1.486913">
+        <ele>723.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449324" lon="1.485436">
+        <ele>723.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449414" lon="1.484416">
+        <ele>714.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449617" lon="1.484082">
+        <ele>710.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450186" lon="1.483829">
+        <ele>708.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450361" lon="1.483454">
+        <ele>707.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450427" lon="1.483028">
+        <ele>705.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450201" lon="1.482620">
+        <ele>705.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450233" lon="1.481279">
+        <ele>708.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450004" lon="1.480967">
+        <ele>708.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449574" lon="1.481186">
+        <ele>711.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449385" lon="1.481143">
+        <ele>711.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449137" lon="1.480119">
+        <ele>713.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448790" lon="1.479827">
+        <ele>715.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448474" lon="1.479828">
+        <ele>715.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448780" lon="1.478862">
+        <ele>722.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448642" lon="1.477925">
+        <ele>725.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447530" lon="1.475976">
+        <ele>735.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446503" lon="1.474976">
+        <ele>739.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446231" lon="1.474126">
+        <ele>741.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445714" lon="1.473588">
+        <ele>744.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445614" lon="1.473195">
+        <ele>745.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444743" lon="1.472018">
+        <ele>746.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444222" lon="1.471809">
+        <ele>746.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443736" lon="1.470863">
+        <ele>748.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443270" lon="1.471047">
+        <ele>749.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441931" lon="1.470636">
+        <ele>757.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441571" lon="1.470956">
+        <ele>756.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441259" lon="1.470885">
+        <ele>754.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440879" lon="1.471109">
+        <ele>758.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439546" lon="1.472553">
+        <ele>768.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438625" lon="1.474071">
+        <ele>773.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437900" lon="1.474729">
+        <ele>779.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436763" lon="1.475282">
+        <ele>788.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436507" lon="1.475988">
+        <ele>792.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436682" lon="1.476959">
+        <ele>794.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436260" lon="1.477083">
+        <ele>801.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435689" lon="1.476755">
+        <ele>809.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435264" lon="1.476280">
+        <ele>814.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434687" lon="1.476623">
+        <ele>819.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434644" lon="1.477079">
+        <ele>821.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433320" lon="1.479458">
+        <ele>831.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433370" lon="1.480815">
+        <ele>835.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434093" lon="1.481678">
+        <ele>835.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434072" lon="1.484527">
+        <ele>847.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434287" lon="1.485863">
+        <ele>855.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435660" lon="1.490768">
+        <ele>880.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435704" lon="1.491899">
+        <ele>881.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434827" lon="1.493696">
+        <ele>871.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434290" lon="1.495648">
+        <ele>864.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434451" lon="1.496267">
+        <ele>857.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434423" lon="1.497213">
+        <ele>849.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435279" lon="1.498623">
+        <ele>837.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435586" lon="1.499394">
+        <ele>832.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435798" lon="1.501179">
+        <ele>824.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435932" lon="1.501427">
+        <ele>820.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435878" lon="1.501758">
+        <ele>814.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436233" lon="1.502085">
+        <ele>812.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436190" lon="1.502929">
+        <ele>805.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436404" lon="1.503092">
+        <ele>803.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436212" lon="1.503234">
+        <ele>799.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435636" lon="1.503253">
+        <ele>791.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435570" lon="1.503393">
+        <ele>789.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435861" lon="1.503895">
+        <ele>784.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435748" lon="1.504550">
+        <ele>775.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436003" lon="1.506097">
+        <ele>766.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435935" lon="1.506440">
+        <ele>767.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435510" lon="1.507042">
+        <ele>766.1</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435298" lon="1.508705">
+        <ele>762.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435472" lon="1.509616">
+        <ele>753.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435320" lon="1.510452">
+        <ele>757.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435594" lon="1.511789">
+        <ele>754.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435178" lon="1.511993">
+        <ele>751.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434353" lon="1.512999">
+        <ele>743.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433184" lon="1.513439">
+        <ele>738.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.432350" lon="1.514081">
+        <ele>726.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431432" lon="1.513815">
+        <ele>720.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431130" lon="1.513450">
+        <ele>715.6</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430263" lon="1.513638">
+        <ele>712.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429813" lon="1.513307">
+        <ele>706.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429376" lon="1.513263">
+        <ele>703.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429206" lon="1.513734">
+        <ele>701.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429413" lon="1.514746">
+        <ele>690.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428974" lon="1.515666">
+        <ele>679.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427634" lon="1.515798">
+        <ele>663.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426937" lon="1.516197">
+        <ele>645.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426029" lon="1.517085">
+        <ele>644.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425272" lon="1.517007">
+        <ele>644.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424901" lon="1.516572">
+        <ele>641.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424689" lon="1.516511">
+        <ele>638.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424259" lon="1.516671">
+        <ele>638.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423492" lon="1.516581">
+        <ele>632.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423121" lon="1.516840">
+        <ele>634.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421897" lon="1.517233">
+        <ele>633.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420238" lon="1.517109">
+        <ele>643.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419763" lon="1.517300">
+        <ele>643.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419532" lon="1.517191">
+        <ele>641.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419382" lon="1.517757">
+        <ele>636.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418803" lon="1.517633">
+        <ele>628.8</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417378" lon="1.518838">
+        <ele>631.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417552" lon="1.518379">
+        <ele>625.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417044" lon="1.517721">
+        <ele>606.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417498" lon="1.517004">
+        <ele>596.7</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417387" lon="1.516755">
+        <ele>590.0</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417179" lon="1.516664">
+        <ele>589.3</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416685" lon="1.516771">
+        <ele>582.4</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416652" lon="1.516501">
+        <ele>578.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416253" lon="1.516258">
+        <ele>581.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415716" lon="1.516504">
+        <ele>587.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415392" lon="1.516200">
+        <ele>588.9</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415102" lon="1.516578">
+        <ele>588.2</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414907" lon="1.516319">
+        <ele>592.5</ele>
+        <time>2016-05-01T09:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

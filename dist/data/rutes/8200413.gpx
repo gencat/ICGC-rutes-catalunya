@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.525763" lon="2.340323">
+    <ele>360.0</ele>
+    <time>2014-04-25T15:06:06Z</time>
+    <name>COLL CREU D'EN BOQUET</name>
+    <desc>09-ENE-06 19:13:51</desc>
+  </wpt>
+  <wpt lat="41.527187" lon="2.342700">
+    <ele>369.1</ele>
+    <time>2014-04-25T15:06:06Z</time>
+    <name>SANT SALVADOR I CAN BOQUET</name>
+    <desc>09-ENE-06 19:20:41</desc>
+  </wpt>
+  <wpt lat="41.532227" lon="2.342002">
+    <ele>417.9</ele>
+    <time>2014-04-25T15:06:07Z</time>
+    <name>DÓLMEN</name>
+    <desc>09-ENE-06 19:26:44</desc>
+  </wpt>
+  <wpt lat="41.531730" lon="2.341659">
+    <ele>423.1</ele>
+    <time>2014-04-25T15:06:08Z</time>
+    <name>TOMBES</name>
+    <desc>09-ENE-06 19:29:55</desc>
+  </wpt>
+  <wpt lat="41.532110" lon="2.338390">
+    <ele>399.0</ele>
+    <time>2014-04-25T15:06:08Z</time>
+    <name>CAL SENYOR</name>
+    <desc>09-ENE-06 19:37:56</desc>
+  </wpt>
+  <wpt lat="41.536317" lon="2.339434">
+    <ele>313.9</ele>
+    <time>2014-04-25T15:06:09Z</time>
+    <name>FONT FREDA</name>
+    <desc>09-ENE-06 19:49:14</desc>
+  </wpt>
+  <wpt lat="41.536770" lon="2.339520">
+    <ele>321.0</ele>
+    <time>2014-04-25T15:06:09Z</time>
+    <name>A LA FONT FREDA</name>
+    <desc>09-ENE-06 19:51:46</desc>
+  </wpt>
+  <wpt lat="41.517760" lon="2.357970">
+    <ele>141.1</ele>
+    <time>2014-04-25T15:06:10Z</time>
+    <name>070</name>
+    <desc>09-ENE-06 20:16:04</desc>
+  </wpt>
+  <wpt lat="41.517239" lon="2.358455">
+    <ele>135.9</ele>
+    <time>2014-04-25T15:06:10Z</time>
+    <name>VILASSAR DE DALT</name>
+    <desc>09-ENE-06 20:19:07</desc>
+  </wpt>
+  <wpt lat="41.534565" lon="2.336482">
+    <ele>353.0</ele>
+    <time>2014-04-25T15:06:11Z</time>
+    <name>EL MAL PAS</name>
+    <desc>EL MAL PAS</desc>
+  </wpt>
+  <wpt lat="41.533895" lon="2.342085">
+    <ele>431.0</ele>
+    <time>2014-04-25T15:06:11Z</time>
+    <name>ROCA D'EN TONI</name>
+    <desc>ROCA D'EN TONI</desc>
+  </wpt>
+  <wpt lat="41.520968" lon="2.347763">
+    <ele>221.0</ele>
+    <time>2014-04-25T15:06:12Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.523972" lon="2.346791">
+    <ele>292.9</ele>
+    <time>2014-04-25T15:06:12Z</time>
+    <name>REVOLT DEL VENT</name>
+    <desc>REVOLT DEL VENT</desc>
+  </wpt>
+  <wpt lat="41.525982" lon="2.341609">
+    <ele>356.9</ele>
+    <time>2014-04-25T15:06:13Z</time>
+    <name>BIFURCACIÓ</name>
+    <desc>BIFURCACIÓ</desc>
+  </wpt>
+  <wpt lat="41.526655" lon="2.339741">
+    <ele>365.2</ele>
+    <time>2014-04-25T15:06:13Z</time>
+    <name>TRENCALL A CAN BOQUET</name>
+    <desc>TRENCALL A CAN BOQUET</desc>
+  </wpt>
+  <wpt lat="41.500602" lon="2.389925">
+    <ele>4.9</ele>
+    <time>2014-04-25T15:06:14Z</time>
+    <name>ESTACIÓ DE RENFE DE VILASSAR DE MAR</name>
+    <desc>ESTACIÓ DE RENFE DE VILASSAR DE MAR</desc>
+  </wpt>
+  <wpt lat="41.531343" lon="2.340817">
+    <ele>435.9</ele>
+    <time>2014-04-25T15:06:15Z</time>
+    <name>TURÓ D'EN ROMPONS</name>
+    <desc>TURÓ D'EN ROMPONS</desc>
+  </wpt>
+  <wpt lat="41.537885" lon="2.342454">
+    <ele>413.0</ele>
+    <time>2014-04-25T15:06:15Z</time>
+    <name>TURÓ DELS RUSCS</name>
+    <desc>TURÓ DELS RUSCS</desc>
+  </wpt>
+  <wpt lat="41.530026" lon="2.339346">
+    <ele>449.0</ele>
+    <time>2014-04-25T15:06:16Z</time>
+    <name>TURÓ D'EN ROURE</name>
+    <desc>TURÓ D'EN ROURE</desc>
+  </wpt>
+  <wpt lat="41.521622" lon="2.338168">
+    <ele>426.1</ele>
+    <time>2014-04-25T15:06:16Z</time>
+    <name>TURÓ DE PEDRELLS</name>
+    <desc>TURÓ DE PEDRELLS</desc>
+  </wpt>
+  <trk>
+    <name>De Vilassar de Dalt a Sant Salvador, la Roca d'en Toni i la font Freda</name>
+    <desc>&lt;p&gt;[CA]&amp;nbsp;&lt;b&gt;De Vilassar de Dalt a Sant Salvador, la Roca d'en Toni i la font Freda&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;
+&lt;p&gt;&lt;i&gt;Aquest itinerari dóna a conèixer un dels racons més emblemàtics del Parc de la Serralada Litoral. Es tracta del paratge del dolmen de Can Boquet, més conegut com a la Roca d'en Toni, notable monument megalític instal·lat al bell mig de la serra: història entre natura. També es visita l'ermita d'origen preromànic de Sant Salvador, al costat de can Boquet, i el frondós entorn natural que envolta la font Freda.&lt;/i&gt;
+Ruta senyalitzada parcialment.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;L'accés a aquesta zona es fa des de Vilassar de Dalt (on s'arriba per l'autopista C-31, sortida 9). També es pot fer des de Cabrils per l'ermita de Sant Sebastià i una altra pista que també puja al coll de la Creu d'en Boquet.
+
+0,00 km (137 m). Vilassar de Dalt. Situats a la plaça de la Vila, enfilem poble amunt (NO) deixant darrere l'església parroquial de Sant Genís i pujant pel carrer d'Àngel Guimerà. Se segueix per una pista sense asfaltar. Paisatge mediterrani, de muntanya, amb pins pinyoners i també alguns de blancs, alzines que guanyen terreny a una secular explotació, daurats ginestars, estepes de flor blanca i fúcsia i herbes aromàtiques que ajunten les seves penetrants essències a les dels pins i conformen una de les sensacions més plaents del nostre bosc mediterrani.
+
+1,03 km (219 m), 0 h 16 min. Bifurcació. Es deixa un trencall a l'esquerra (O) i es continua cap al NE i després NO.
+
+2,17 km (355 m), 0 h 34 min. Bifurcació. Es continua a ponent i, en uns metres, s'accedeix al coll de la Creu d'en Boquet (km 2,28, 359 m). Es continua en direcció N.
+
+2,38 km (363 m), 0 h 36 min. Bifurcació. Es pren momentàniament un trencall a la dreta fins a can Boquet. Es tracta d'una masia amb planta, pis i golfes avui deshabitada. És una de les masies més grans de Vilassar, amb teulada de dues aigües i carener perpendicular a la façana, en la qual destaquen el portal i els carreus de pedra que emmarquen les finestres de planta i pis. Adossada a l'edifici, l'ermita de Sant Salvador, amb referències escrites des de mitjan s. XI, té un absis rectangular d'època preromànica, únic a la península Ibèrica, amb àmfores encastades cap per avall al canó de la volta. Un esplèndid lledoner en custodia l'entrada.
+
+A l'entorn de la masia, s'albira una bella vista panoràmica que contrasta d'una banda la plana litoral i la muntanya amb els dos Vilassar, el de Dalt i el de Mar. De l'altra, el paisatge de la serra. Al panorama de vegetació abans descrit, cal afegir ara el conformat pels camps de conreu, vinyes i cereals, primaverals catifes verdes esquitxades pel vermell de la rosella i els grocs i blancs delicats de les ravenisses. Aquest mosaic de vegetació i camps és la imatge encara viva de la serra, l'essència de la seva història. Es torna enrere fins a l'encreuament anterior (km 2,90, 363 m) i se segueix a la dreta en direcció NE. 
+
+3,56 km (418 m), 0 h 55 min. Cruïlla. Ens aturarà la presència insòlita del dolmen de Can Boquet, més conegut com a la Roca d'en Toni, punt culminant de l'itinerari i possiblement el monument megalític més prestigiós del Maresme. Els dòlmens són un tipus de sepultura feta amb grans lloses de pedra recolzades sobre pedres verticals. La paraula prové de la llengua bretona, on &lt;i&gt;tol men&lt;/i&gt; vol dir taula de pedra. A la cambra interior, s'inhumaven els cadàvers envoltats de les seves pertinences, armes, joies i algunes ofrenes. Els historiadors situen aquesta construcció en el període neolític, al voltant del segon mil·lenni abans de Crist. La zona és rica en jaciments arqueològics, ja que a les rodalies hi ha també les cambres sepulcrals de les coves d'en Pau i de la Granota.
+
+3,64 km (423 m), 0 h 56 min. A pocs metres de la Roca d'en Toni, pujant per un corriol cap al SO, es contempla una altra mostra d'antigues cultures, aquest cop de l'alta edat mitjana. Es tracta de set tombes medievals bastides amb lloses de granit. Es van descobrir l'any 1974 soterrades en un camp de conreu. Alguns historiadors argumenten que les tombes demostren l'abandonament del pla o Marina en l'època postromana, desplaçament que amb el temps donà lloc al naixement dels pobles de Vilassar de Dalt i de Munt. Es prossegueix cap al nord i després a l'oest endinsant-nos en algunes zones més humides de la serra. 
+
+4,05 km (397 m), 1 h 03 min. Cal Senyor. A partir d'aquí, el perfil davalla amb certa intensitat.
+
+4,59 km (355 m), 1 h 11 min. El Malpàs, cruïlla. Es pren la pista de la dreta (NE), força estreta, en direcció a la font Freda. L'ambient és més humit i les pinedes són substituïdes per alzinars força densos on abunden l'arboç, el bruc boal, el marfull, el roldor i, ocasionalment, algun roure. També hi són presents algunes lianes i plantes enfiladisses com l'heura o la vidalba. Aquest entorn és molt més ombrívol i fresc que no pas el del vessant marítim.
+
+5,08 km (314 m), 1 h 20 min. Bifurcació. En sortir d'un revolt pronunciat, es trenca a mà esquerra (S) per un petit corriol esglaonat i amb passamà de fusta que ens condueix directament a la font Freda en uns altres 50 m i ens fa evocar un món romàntic de temps passats, dels romiatges als santuaris i a les fonts, on es berenava i es ballaven sardanes. Per tornar, es desfà el camí.
+
+9,64 km (137 m), 2 h 30 min. Plaça de la Vila de Vilassar de Dalt, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br/&gt;
+
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;
+
+
+&lt;p&gt;[ES]&amp;nbsp;&lt;b&gt;De Vilassar de Dalt a Sant Salvador, la Roca d'en Toni y la fuente Freda&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;
+&lt;p&gt;&lt;i&gt;Este itinerario da a conocer uno de los rincones más emblemáticos del Parque de la Serralada Litoral. Se trata del paraje del dolmen de Can Boquet, más conocido como la Roca d'en Toni, notable monumento megalítico instalado en medio de la sierra: historia entre naturaleza. También se visita la ermita de origen prerrománico de Sant Salvador, junto a Can Boquet, y el frondoso entorno natural que rodea la fuente Freda.&lt;/i&gt;
+Ruta señalizada parcialmente.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;El acceso a esta zona se hace desde Vilassar de Dalt (adonde se llega por la autopista C-31, salida 9). También se puede llegar a este lugar desde Cabrils por la ermita de Sant Sebastià y otra pista que también sube al collado de la Creu d'en Boquet.
+
+0,00 km (137 m). Vilassar de Dalt. Situados en la plaza de la Vila, subimos pueblo arriba (NO) dejando detrás la iglesia parroquial de Sant Genís y subiendo por la calle de Àngel Guimerà. Se sigue por una pista sin asfaltar. Paisaje mediterráneo, de montaña, con pinos piñoneros y también algunos carrascos, encinas que ganan terreno a una secular explotación, doradas retamas, estepas de flor blanca y fucsia y hierbas aromáticas que juntan sus penetrantes esencias a las de los pinos y conforman una de las sensaciones más placenteras de nuestro bosque mediterráneo.
+
+1,03 km (219 m), 0 h 16 min. Bifurcación. Se deja un desvío a la izquierda (O) y se continúa hacia el NE y luego NO.
+
+2,17 km (355 m), 0 h 34 min. Bifurcación. Se continúa a poniente y, en unos metros, se accede al collado de la Creu d'en Boquet (km 2,28, 359 m). Se continúa en dirección N.
+
+2,38 km (363 m), 0 h 36 min. Bifurcación. Se toma momentáneamente un desvío a la derecha hasta Can Boquet. Se trata de una masía con planta, piso y buhardilla hoy deshabitada. Es una de las mayores masías de Vilassar, con tejado de dos aguas y cumbrera perpendicular a la fachada, en la que destacan el portal y los sillares de piedra que enmarcan las ventanas de planta y piso. Adosada al edificio, la ermita de Sant Salvador, con referencias escritas desde mediados del s. XI, tiene un ábside rectangular de época prerrománica, único en la Península Ibérica, con ánforas empotradas boca abajo en el cañón de la bóveda. Un espléndido almez custodia la entrada.
+
+En el entorno de la masía, se divisa una bella vista panorámica que contrasta por un lado la llanura litoral y la montaña con los dos Vilassar, el de Dalt y el de Mar. Por otro, el paisaje de la sierra. En el panorama de vegetación antes descrito, hay que añadir ahora el conformado por los campos de cultivo, viñas y cereales, primaverales alfombras verdes salpicadas por el rojo de la amapola y los amarillos y blancos delicados de las rabanizas. Este mosaico de vegetación y campos es la imagen todavía viva de la sierra, la esencia de su historia. Se vuelve atrás hasta el cruce anterior (km 2,90, 363 m) y se sigue a la derecha en dirección NE.
+
+3,56 km (418 m), 0 h 55 min. Cruce. Nos detendrá la presencia insólita del dolmen de Can Boquet, más conocido como la Roca d'en Toni, punto culminante del itinerario y posiblemente el monumento megalítico más prestigioso del Maresme. Los dólmenes son un tipo de sepultura hecha con grandes losas de piedra apoyadas sobre piedras verticales. La palabra proviene de la lengua bretona, donde &lt;i&gt;tol men&lt;/i&gt; quiere decir mesa de piedra. En la cámara interior, inhumaban los cadáveres rodeados de sus pertenencias, armas, joyas y algunas ofrendas. Los historiadores sitúan esta construcción en el período neolítico, alrededor del segundo milenio antes de Cristo. La zona es rica en yacimientos arqueológicos, ya que en los alrededores hay también las cámaras sepulcrales de las cuevas de En Pau y de la Granota.
+
+3,64 km (423 m), 0 h 56 min. A pocos metros de la Roca d'en Toni, subiendo por un sendero hacia el SO, se contempla otra muestra de antiguas culturas, esta vez de la alta edad media. Se trata de siete tumbas medievales construidas con losas de granito. Se descubrieron en 1974 enterradas en un campo de cultivo. Algunos historiadores argumentan que las tumbas demuestran el abandono del llano o Marina en la época postromana, desplazamiento que con el tiempo dio lugar al nacimiento de los pueblos de Vilassar de Dalt y de Munt. Se prosigue hacia el norte y luego al oeste adentrándonos en algunas zonas más húmedas de la sierra.
+
+4,05 km (397 m), 1 h 03 min. Cal Senyor. A partir de aquí, el perfil desciende con cierta intensidad.
+
+4,59 km (355 m), 1 h 11 min. El Malpàs, cruce. Se toma la pista de la derecha (NE), bastante estrecha, en dirección a la fuente Freda. El ambiente es más húmedo y los pinares son sustituidos por encinares densos donde abundan el madroño, el brezo blanco, el durillo, el emborrachacabras y, ocasionalmente, algún roble. También están presentes algunas lianas y plantas trepadoras como la hiedra o la clemátide. Este entorno es mucho más sombrío y fresco que el de la vertiente marítima.
+
+5,08 km (314 m), 1 h 20 min. Bifurcación. Al salir de una curva pronunciada, hay que desviarse a mano izquierda (S) por un pequeño sendero escalonado y con pasamanos de madera que nos conduce directamente a la fuente Freda en otros 50 m y nos hace evocar un mundo romántico de tiempos pasados, las romerías a los santuarios y a las fuentes, donde se merendaba y se bailaban sardanas. Para volver, se desanda el camino.
+
+9,64 km (137 m), 2 h 30 min. Plaza de la Vila de Vilassar de Dalt, punto de partida y final del itinerario.&lt;/p&gt;&lt;br/&gt;
+
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;
+
+
+&lt;p&gt;[EN]&amp;nbsp;&lt;b&gt;From Vilassar de Dalt to Sant Salvador, La Roca d'en Toni and the Font Freda&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;
+&lt;p&gt;&lt;i&gt;This itinerary will enable you to visit one of the most emblematic locations in the Serralada Litoral Park: the site of the dolmen of Can Boquet, better-known as La Roca d'en Toni, an exceptional megalithic monument standing right in the heart of the hill range: history in the midst of nature. Also visit the pre-Romanesque chapel of Sant Salvador, next to Can Boquet, and lush natural environment that surrounds the Font Freda.&lt;/i&gt;
+Partially marked trail.&lt;/p&gt;&lt;br/&gt;
+
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;
+
+
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.517203" lon="2.358404">
+        <ele>136.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517862" lon="2.357882">
+        <ele>143.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518088" lon="2.356460">
+        <ele>153.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519048" lon="2.355001">
+        <ele>162.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519255" lon="2.354075">
+        <ele>166.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520032" lon="2.352845">
+        <ele>172.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520409" lon="2.351924">
+        <ele>182.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520923" lon="2.347846">
+        <ele>215.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521059" lon="2.347922">
+        <ele>223.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521268" lon="2.349053">
+        <ele>229.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521525" lon="2.349122">
+        <ele>235.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521829" lon="2.348633">
+        <ele>243.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522206" lon="2.346874">
+        <ele>261.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522562" lon="2.346085">
+        <ele>270.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522945" lon="2.346052">
+        <ele>273.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523540" lon="2.346910">
+        <ele>285.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523971" lon="2.346766">
+        <ele>293.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.524162" lon="2.345560">
+        <ele>305.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.524769" lon="2.343690">
+        <ele>325.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525394" lon="2.343468">
+        <ele>333.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525973" lon="2.342382">
+        <ele>347.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525791" lon="2.340491">
+        <ele>359.8</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525920" lon="2.340160">
+        <ele>359.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526310" lon="2.339830">
+        <ele>361.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526616" lon="2.339775">
+        <ele>363.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526584" lon="2.340482">
+        <ele>365.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527223" lon="2.342016">
+        <ele>365.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527163" lon="2.342574">
+        <ele>367.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527223" lon="2.342016">
+        <ele>365.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526551" lon="2.340303">
+        <ele>366.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526759" lon="2.339684">
+        <ele>363.5</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527666" lon="2.339968">
+        <ele>377.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.530846" lon="2.342285">
+        <ele>413.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532075" lon="2.342243">
+        <ele>418.5</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531992" lon="2.341788">
+        <ele>421.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531725" lon="2.341689">
+        <ele>423.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531933" lon="2.341735">
+        <ele>421.8</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532223" lon="2.342133">
+        <ele>418.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532550" lon="2.341693">
+        <ele>416.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532713" lon="2.341122">
+        <ele>414.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532632" lon="2.340289">
+        <ele>409.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532086" lon="2.338569">
+        <ele>397.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532314" lon="2.338243">
+        <ele>397.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532163" lon="2.337855">
+        <ele>395.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532530" lon="2.336694">
+        <ele>381.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532823" lon="2.336667">
+        <ele>380.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533220" lon="2.337556">
+        <ele>372.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533380" lon="2.337261">
+        <ele>362.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533596" lon="2.337199">
+        <ele>363.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534282" lon="2.337384">
+        <ele>357.8</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534238" lon="2.336761">
+        <ele>354.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534533" lon="2.336518">
+        <ele>354.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535229" lon="2.337560">
+        <ele>351.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535169" lon="2.338867">
+        <ele>347.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535874" lon="2.338614">
+        <ele>340.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536032" lon="2.339440">
+        <ele>333.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536255" lon="2.339827">
+        <ele>327.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536731" lon="2.339528">
+        <ele>314.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536380" lon="2.339610">
+        <ele>317.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536302" lon="2.339437">
+        <ele>318.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536380" lon="2.339610">
+        <ele>317.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536731" lon="2.339528">
+        <ele>314.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536255" lon="2.339827">
+        <ele>327.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536032" lon="2.339440">
+        <ele>333.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535874" lon="2.338614">
+        <ele>340.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535169" lon="2.338867">
+        <ele>347.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535229" lon="2.337560">
+        <ele>351.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534533" lon="2.336518">
+        <ele>354.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534238" lon="2.336761">
+        <ele>354.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534282" lon="2.337384">
+        <ele>357.8</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533596" lon="2.337199">
+        <ele>363.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533380" lon="2.337261">
+        <ele>362.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533220" lon="2.337556">
+        <ele>372.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532823" lon="2.336667">
+        <ele>380.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532584" lon="2.336634">
+        <ele>380.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532163" lon="2.337855">
+        <ele>395.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532314" lon="2.338243">
+        <ele>397.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532086" lon="2.338569">
+        <ele>397.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532632" lon="2.340289">
+        <ele>409.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532713" lon="2.341122">
+        <ele>414.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532550" lon="2.341693">
+        <ele>416.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532152" lon="2.342212">
+        <ele>418.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531261" lon="2.342353">
+        <ele>415.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.530846" lon="2.342285">
+        <ele>413.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527820" lon="2.340070">
+        <ele>379.5</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527084" lon="2.339692">
+        <ele>367.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526310" lon="2.339830">
+        <ele>361.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525920" lon="2.340160">
+        <ele>359.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525791" lon="2.340491">
+        <ele>359.8</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525973" lon="2.342382">
+        <ele>347.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525394" lon="2.343468">
+        <ele>333.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.524769" lon="2.343690">
+        <ele>325.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.524162" lon="2.345560">
+        <ele>305.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523971" lon="2.346766">
+        <ele>293.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523540" lon="2.346910">
+        <ele>285.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522945" lon="2.346052">
+        <ele>273.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522562" lon="2.346085">
+        <ele>270.1</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522206" lon="2.346874">
+        <ele>261.4</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521829" lon="2.348633">
+        <ele>243.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521525" lon="2.349122">
+        <ele>235.7</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521268" lon="2.349053">
+        <ele>229.6</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.521059" lon="2.347922">
+        <ele>223.9</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520923" lon="2.347846">
+        <ele>215.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520409" lon="2.351924">
+        <ele>182.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.520032" lon="2.352845">
+        <ele>172.3</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519255" lon="2.354075">
+        <ele>166.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519048" lon="2.355001">
+        <ele>162.2</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518088" lon="2.356460">
+        <ele>153.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517862" lon="2.357882">
+        <ele>143.0</ele>
+        <time>2006-01-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517203" lon="2.358404">
+        <ele>136.6</ele>
+        <time>2006-01-09T00:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

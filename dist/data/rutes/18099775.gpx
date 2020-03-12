@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="40.898625" lon="0.329616">
+    <ele>845.3</ele>
+    <time>2016-04-03T09:04:43Z</time>
+    <name>Grimpada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.900720" lon="0.326584">
+    <ele>1017.3</ele>
+    <time>2014-10-01T05:12:07Z</time>
+    <name>El Castell de les Roques de Benet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.899871" lon="0.327630">
+    <ele>981.0</ele>
+    <time>2013-04-10T23:25:00Z</time>
+    <name>Coll de les Roques</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.896418" lon="0.327467">
+    <ele>864.7</ele>
+    <time>2013-04-10T23:25:00Z</time>
+    <name>Cova de la Gerra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.901128" lon="0.315481">
+    <ele>553.0</ele>
+    <time>2013-04-10T23:25:00Z</time>
+    <name>Cruïlla de les Eres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.898603" lon="0.326714">
+    <ele>903.2</ele>
+    <time>2013-04-10T23:25:00Z</time>
+    <name>Inici canal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.899450" lon="0.327143">
+    <ele>950.1</ele>
+    <time>2016-04-03T10:56:47Z</time>
+    <name>Canal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.892635" lon="0.330296">
+    <ele>912.9</ele>
+    <time>2016-04-03T11:37:04Z</time>
+    <name>Coll de Membrado</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.901627" lon="0.330338">
+    <ele>891.9</ele>
+    <time>2016-04-03T09:31:16Z</time>
+    <name>Coll Faralló</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.898470" lon="0.329907">
+    <ele>832.3</ele>
+    <time>2016-04-03T08:50:54Z</time>
+    <name>La Foradada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.900709" lon="0.322996">
+    <ele>678.9</ele>
+    <time>2016-04-03T07:47:04Z</time>
+    <name>Drecera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.891645" lon="0.320044">
+    <ele>825.9</ele>
+    <time>2016-04-03T13:08:59Z</time>
+    <name>Clariana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.892458" lon="0.318622">
+    <ele>791.5</ele>
+    <time>2016-04-28T20:17:28Z</time>
+    <name>A l'esquerra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.898764" lon="0.331557">
+    <ele>731.7</ele>
+    <time>2016-04-03T08:39:00Z</time>
+    <name>Tarteram de l'Avellanar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.898886" lon="0.329427">
+    <ele>868.3</ele>
+    <time>2016-04-03T09:15:27Z</time>
+    <name>Trencall</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.897363" lon="0.327648">
+    <ele>864.1</ele>
+    <time>2016-04-03T11:16:08Z</time>
+    <name>Bifurcació I remuntada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.901722" lon="0.325864">
+    <ele>822.6</ele>
+    <time>2017-06-05T19:25:18Z</time>
+    <name>Paret Occidental de les Roques de Benet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.894958" lon="0.328511">
+    <ele>973.7</ele>
+    <time>2017-06-05T19:29:32Z</time>
+    <name>Moleta del Salvatge</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Horta de Sant Joan. Les Roques de Benet</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; Horta de Sant Joan. Les Roques de Benet&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Les magnífiques Roques de Benet estan situades al terme d’Horta de Sant Joan, en els confins nord orientals del Parc Natural dels Ports; el seu nom prové, molt probablement, de l’àrab &lt;/i&gt;Bene&lt;i&gt; segons es recull a les cartes de poblament del segle XII. La seva imponent massa pètria de conglomerats montserratins s’aixeca 300 m damunt d’un sòcol de caràcter calcari dibuixant una silueta cúbica d’arquitectura inconfusible, una de les imatges més característiques dels Ports, gens aliena a la inspiració picassiana que va desembocar en la creació del corrent pictòric cubista. 
+ 
+Recorregut imponent que tot i no presentar dificultats tècniques remarcables requereix d’experiència en terrenys abruptes; l’itinerari sorteja les vertiginoses parets del sector nord occidental de les Roques, puja al seu cim més elevat i torna al punt d’inici descrivint una àmplia marrada per la Moleta del Salvatge i el coll de Membrado. Aquesta volta proporciona perspectives superbes sobre el massís.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per fer aquesta ruta cal situar-se a Horta de Sant Joan, a 20,5 km de Gandesa, la capital de la Terra Alta, per la carretera T-334 (C-111). També s’hi pot arribar des de la C-12 (entre Tortosa i Móra d’Ebre) prenent la carretera C-112. L’itinerari neix a la cruïlla de les Eres. Es tracta d’una desviació que surt de la pista asfaltada que uneix Horta de Sant Joan amb el Mas de la Franqueta situada a 4,8 km del seu inici a la carretera T-330. 
+ 
+0,00 km (552 m). Cruïlla de les Eres. Trencall de la pista d’accés al Mas de la Franqueta amb la pista forestal de les Roques de Benet. Senyalització de l’indret i, també, del recorregut anomenat “Estels del Sud”. S’aparca el vehicle a l’esplanada del trencall i se surt a peu en direcció a llevant, cap a les imponents parets que s’aixequen verticals dominant l’indret. Al cap de 150 m es deixa a mà dreta (S) el camí per on es tornarà en havent fet la volta. Més amunt, la pista gira al S. 
+ 
+0,94 km (646 m), 20 min. Bifurcació. Es continua recte deixant a l’esquerra un trencall per on se’n va l’itinerari dels Estels del Sud. Se segueix cap al sud parant atenció a la propera desviació. 
+ 
+1,30 km (678 m), 26 min. Es deixa la pista i es fa drecera prenent un corriol inclinat que surt de mà esquerra en direcció a les parets. Tram fatigós que desemboca de nou a la pista (1,46 km, 720 m, 35 min); es continua a l’esquerra, cap al N passant a frec dels impressionants murs occidentals de les Roques de Benet. La pista va resseguint la base de les roques, primer girant a llevant, després, fent una lleugera baixada, al sud-sud oest, fins que el pendent s’estabilitza. Es discorre planerament per la pista durant uns 400 m, fins que s’abandona en la propera desviació, a la qual cal estar alerta. 
+ 
+3,52 km (728 m), 1 h 3 min. Torrent de l’Avellanar. Cal parar atenció a la canal atarterada que baixa del sector oriental de la muntanya (fites de pedra). Es deixa la pista i s’emprèn una àrdua i incòmoda pujada per la tartera que s’enfila a la dreta de la pista. Al capdamunt, a la banda esquerra, es va aixecant una cresta esmolada on s’endevina una gran obertura: és la Foradada. Cal passar-hi a frec i, fent una ziga-zaga, superar fàcilment un grau vertical. Aquest moviment de grimpada permet situar-se sobre l’esperó de la cresta, aquí aplanat i formant un llom ample (punt 3,75 km del recorregut, 844 m. Hi ha fites; el pas és clar perquè com més a la dreta es mira, cap al nord, més vertical és la paret). Un cop s’és a dalt, es gira al nord seguint els indicis de camí. 
+ 
+3,80 km (868 m), 1 h 30 min. Es conflueix amb un corriol que prové de l’itinerari normal d’accés al cim de les Roques de Benet, situat a ponent. Cal seguir recte deixant aquest enllaç a l’esquerra (O). El recorregut es dirigeix al coll de Faralló en direcció N, utilitzant una feixa situada entre dues cingleres, primer baixant una mica, després planejant i, finalment, en pujada. 
+ 
+4,20 km (883 m), 1 h 37 min. Coll de Faralló, penjat sobre les parets septentrionals, tancat entre el cim principal de les Roques de Benet (a ponent) i la peculiar formació del Cap de Gos (a llevant), característica per la gran balma rogenca formada sota l’esperó meridional. Es gira pronunciadament cap al sud per anar a cercar el pas del coll de les Roques vorejant la paret occidental de la collada. Al punt 4,64 km (981 m) s’és en aquest coll, on es conflueix amb el camí normal d’accés al cim. Es continua cap amunt (NO); al cap de tres-cents metres es fa una ziga-zaga i s’arriba a la cúspide. 
+ 
+4,87 km (1.017 m), 2 h 0 min. El Castell, vèrtex de les Roques de Benet. Àmplia vista sobre els Ports nord occidentals i els seus innumerables racons, parets i cims, la Terra Alta i la Franja de Ponent, ja a l’Aragó. A l’oest es pot veure la població d’Arnes, al nord destaca Horta de Sant Joan, aturonada. És fàcil divisar grups de cabres salvatges prudentment arrecerades. Es pot ampliar el panorama desplaçant-se cent metres cap al nord. 
+ 
+Es torna enrere fins al coll de les Roques (981 m). Ara cal deixar el camí per on s’ha pujat a mà esquerra i baixar per la dreta cap a la inclinada canal per on discorre l’itinerari normal d’accés al cim. Es davalla treballosament però sense dificultats especials fins a la seva base (902 m); el camí, ara molt menys inclinat, gira al SO: cal parar atenció a la desviació que hi ha a uns 150 m d’aquest punt. 
+ 
+5,62 km (864 m), 2 h 20 min. Desviació a l’esquerra cap al collet de la Moleta del Salvatge, que es prendrà després d’haver visitat la cova de la Gerra, situada en el camí principal, una mica més avall. Es continua baixant, doncs, durant uns 110 m de recorregut, fins a la cota 840 m. A mà esquerra, sota una paret balmada i a uns cinc metres damunt del camí s’endevina una entrada. Cal pujar-hi per accedir a la cova de la Gerra, utilitzada com a recer i habitacle pels antics pastors de la zona. Si s’hi profunditza prou es veurà la formació estalagmítica que dóna nom a l’indret. 
+ 
+Es torna enrere i es desfà el camí fins al trencall anterior, on ara es gira a la dreta, en pujada, fins que s’és al collet de la Moleta del Salvatge, penjat entre els dos vessants (6,01 km, 899 m). Es gira a la dreta (S) pujant i flanquejant la carena primer pel seu coster oest i, de seguida, pel faldar de llevant. El camí es dirigeix cap al SE en suau baixada i després planerament, pel mig d’un esponerós bosc de pinassa -alguns arbres són de dimensions notables- utilitzant una feixa penjada espectacularment sobre la cinglera, però sense dificultat. Més avall el camí gira al SO i surt a la banda solana. 
+ 
+6,70 km (913 m), 2 h 40 min. Coll de Membrado, on es conflueix amb un camí forestal que du a la pista que s’ha utilitzat a la sortida de la ruta (la desviació, situada sota la paret oest de les Roques de Benet, no s’ha vist perquè s’ha utilitzat una drecera). Se segueix la pista cap a la dreta (NO), en baixada, es descriu un pronunciat revolt que encara el camí cap al SE, s’entra de nou al bosc i es gira a ponent. 
+ 
+7,55 km (830 m), 2 h 52 min. Desviació en un pronunciat revolt. Es deixa la pista principal a la dreta (N i NE) i se segueix recte, cap al SO, pel camí que travessa l’espessa pineda fins a una clariana (8,05 km, 825 m), on s’acaba el camí ample. Per l’esquerra desemboca un caminoi que prové del coll de Botana i de la cova Benaixa. Cal seguir recte (NO) pel corriol senyalitzat amb fites. A uns 170 m de la clariana es deixa un trencall a mà dreta i es continua per l’esquerra (a ponent, fites). Tot descrivint ziga-zagues, el recorregut va girant al nord. Es desemboca al coll de la Pena del Gall (8,73 km, 714 m), la punta de la qual s’alça al nord del lloc. Es gira a la dreta (E) i s’entra a la coma del barranc de la Pineda, amb pronunciada baixada i descrivint esses per perdre altura. Un cop al fons, el pendent s’atenua. Se surt a l’entorn dels conreus del mas de Curassana, es salta un mur de contenció d’un canal d’aigua, es deixa a l’esquerra el mas i es desemboca a la pista de pujada, a tocar del punt d’inici de l’excursió. 
+ 
+9,92 km (552 m), 3 h 25 min. Cruïlla de les Eres. Trencall de la pista d’accés al Mas de la Franqueta amb la pista forestal de les Roques de Benet. Fi de l’itinerari. 
+ 
+&lt;i&gt;El recorregut ha permès conèixer una zona espectacular del Parc Natural dels Ports. Aquest parc va ser creat el 2001 per la Generalitat de Catalunya amb la finalitat de gestionar l’àmbit propi del Principat d’aquest extens massís muntanyós situat entre Catalunya, el País Valencià i la Franja de Ponent. Massís calcari, de relleu escarpat i abrupte, ha estat humanitzat des de temps prehistòrics però perdura com un espai feréstec i ple de vida salvatge. S’estén sobre 35.050 hectàrees de les comarques del Baix Ebre, Montsià i Terra Alta pertanyents a 9 municipis. L’inventari actual de la seva biodiversitat recull 1.370 tàxons de flora vascular i més de 200 espècies de vertebrats. Si es té prou temps, cal visitar el Punt d'informació de l’Ecomuseu dels Ports situat al carrer de Picasso d’Horta de Sant Joan. L’estada es pot completar amb l’entrada al Centre Picasso de la mateixa localitat.&lt;/i&gt; 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt; Horta de Sant Joan. Las Roques de Benet &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; Las magníficas Roques de Benet están situadas en el término de Horta de Sant Joan, en los confines nororientales del Parque Natural de Els Ports; su nombre proviene, muy probablemente, del árabe &lt;/i&gt;Bene&lt;i&gt; según se recoge en las cartas de población del siglo XII. Su imponente masa pétrea de conglomerados montserratinos se levanta 300 m sobre un zócalo de carácter calcáreo dibujando una silueta cúbica de arquitectura inconfundible, una de las imágenes más características de Els Ports, nada ajena a la inspiración picassiana que desembocó en la creación de la corriente pictórica cubista. 
+ 
+Recorrido magnífico, impresionante, sin dificultad técnica pero que requiere de experiencia en terrenos abruptos; el itinerario sortea las vertiginosas paredes verticales del sector noroccidental de las Roques de Benet, sube a su cima más elevada y vuelve al punto de inicio describiendo un amplio rodeo por la Moleta del Salvatge y el collado de Membrado que permite perspectivas soberbias sobre el macizo.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; Para realizar esta ruta hay que situarse en Horta de Sant Joan, a 20,5 km de Gandesa, la capital de la Terra Alta, por la carretera T-334 (C-111). También se puede llegar desde la C-12 (entre Tortosa y Móra d’Ebre) tomando la carretera C-112. El itinerario nace en el cruce de Les Eres, un desvío de la pista asfaltada que une Horta de Sant Joan con el Mas de la Franqueta, situado a 4,8 km de su inicio en la carretera T-330. 
+ 
+0,00 km (552 m). Desvío de la pista de acceso al Mas de la Franqueta con la pista forestal de las Roques de Benet. Señalización del lugar y, también, del recorrido llamado "Estels del Sud". Se aparca el vehículo en la explanada del desvío y se sale a pie en dirección a levante, hacia las imponentes paredes que se levantan verticales dominando del lugar. Al cabo de 150 m se deja a mano derecha (S) el camino por donde se volverá habiendo dado la vuelta. Más arriba, la pista gira al S. 
+ 
+0,94 km (646 m), 20 min. Bifurcación. Se sigue recto dejando a la izquierda un desvío por donde se va el itinerario de Estels del Sud. Se sigue hacia el sur prestando atención a la próxima desviación. 
+ 
+1,30 km (678 m), 26 min. Se deja la pista y se toma un atajo por un sendero inclinado que sale de mano izquierda en dirección a las paredes. Tramo fatigoso que desemboca de nuevo en la pista (1,46 km, 720 m, 35 min); se continúa a la izquierda, hacia el N pasando muy cerca de los impresionantes muros occidentales de las Roques de Benet. La pista va recorriendo la base de las rocas, primero girando a levante, después, haciendo una ligera bajada, al sur-suroeste, hasta que la pendiente se estabiliza. Se discurre llanamente por la pista durante unos 400 m, hasta que se abandona en la próxima desviación, a la que hay que estar alerta. 
+ 
+3,52 km (728 m), 1 h 3 min. Torrentera del Avellanar. Hay que prestar atención al canchal que baja del sector oriental de la montaña (hitos de piedra). Se deja la pista y se emprende una ardua e incómoda subida por la “tartera” que sube a la derecha de la pista. En lo alto, en el lado izquierdo, se va levantando una cresta afilada donde se adivina una gran apertura: es la Foradada. Hay que pasar rozándola y, con un zigzag, superar fácilmente un peldaño vertical que, con un movimiento de trepada, permite situarse sobre el espolón de la cresta, aquí ya un lomo ancho (punto 3,75 km del recorrido, 844 m; hay hitos, el paso está claro porque cuanto más a la derecha, hacia el norte, más vertical es la pared). Una vez arriba, se gira al norte siguiendo los indicios de camino. 
+ 
+3,80 km (868 m), 1 h 30 min. Se confluye con el sendero que proviene del itinerario normal de acceso a la cima de las Roques de Benet, situado a poniente. Hay que seguir recto dejando el enlace a la izquierda (O). El recorrido se dirige al collado de Faralló en dirección N, utilizando un bancal situado entre dos riscos, primero bajando un poco, después planeando y, finalmente, en subida. 
+ 
+4,20 km (883 m), 1 h 37 min. Collado de Faralló, colgado sobre las paredes septentrionales, cerrado entre la cima principal de las Roque de Benet (a poniente) y la peculiar formación del Cap de Gos (“cabeza de perro”, a levante), característica por la cavidad rocosa rojiza formada bajo el espolón sur. Se gira pronunciadamente hacia el sur para ir a buscar el paso del Coll de les Roques por el camino que permite rodear la pared de poniente y acceder al Castell, cima del macizo. En el punto 4,64 km (981 m) se llega al collado, donde se confluye con el camino normal de acceso. Se continúa hacia arriba (NO); al cabo de trescientos metros se describe un zigzag y se llega a la cúspide. 
+ 
+4,87 km (1.017 m), 2 h 0 min. El Castell, vértice de las Roques de Benet. Amplia vista sobre los Ports noroccidentales y sus innumerables rincones, paredes y cumbres, la Terra Alta y la Franja de Ponent, ya en Aragón. Al oeste se puede ver la población de Arnes, en el norte destaca Horta, encaramada. Es fácil divisar grupos de cabras salvajes prudentemente resguardadas. Se puede ampliar el panorama desplazándose cien metros hacia el norte. 
+ 
+Se vuelve atrás hasta el collado de las Roques (981 m). Ahora hay que dejar el camino por donde se ha subido a la izquierda y bajar por la derecha hacia la inclinada canal por donde discurre el itinerario normal de acceso a la cima. Se desciende trabajosamente pero sin dificultades especiales hasta su base (902 m); el camino, ahora mucho menos inclinado, gira SO: hay que prestar atención a la desviación que hay a unos 150 m de este punto. 
+ 
+5,62 km (864 m), 2 h 20 min. Desviación a la izquierda hacia el collado de la Moleta del Salvatge, que se tomará después de haber visitado la cueva de la Gerra, situada en el camino principal, un poco más abajo. Se continúa bajando, pues, durante unos 110 m de recorrido, hasta la cota 840 m. A mano izquierda, bajo una pared hueca y a unos cinco metros sobre el camino se adivina una entrada. Hay que subir para acceder a la cueva de la Gerra, utilizada como refugio y habitáculo por los antiguos pastores de la zona. Si se profundiza lo suficiente se verá la formación estalagmítica en forma de jarra que da nombre al lugar. 
+ 
+Se vuelve atrás y se deshace el camino hasta el desvío anterior, donde ahora se gira a la derecha, en subida, hasta el Collet de la Moleta del Salvatge, colgado entre las dos vertientes (6,01 km, 899 m ). Se gira a la derecha (S) subiendo y flanqueando la cresta primero por su ladera oeste y, enseguida, por la falda de levante. El camino se dirige hacia el SE en suave bajada y luego llanamente entre de un frondoso bosque de pino salgareño-algunos árboles son de dimensiones notables- utilizando un bancal colgado espectacularmente sobre el risco, pero sin dificultad. Más abajo el camino gira al SO y sale a la vertiente solana. 
+ 
+6,70 km (913 m), 2 h 40 min. Collado de Membrado, donde se confluye con un camino forestal que lleva a la pista que se ha utilizado en el inicio de la ruta (la desviación, situada bajo la pared oeste de las Roques de Benet, no se ha visto porque se ha utilizado un atajo). Se sigue la pista hacia la derecha (NO), en bajada, se describe una curva pronunciada que dirige el camino hacia el SE, se entra de nuevo en el bosque y se gira a poniente. 
+ 
+7,55 km (830 m), 2 h 52 min. Desviación en una curva pronunciada. Se deja la pista principal a la derecha (N y NE) y se sigue recto, hacia el SO, por el camino que atraviesa el espeso pinar hasta un claro (8,05 km, 825 m), donde termina el camino ancho. Por la izquierda desemboca un camino que proviene del collado de Botana y de la cueva Benaixa. Hay que seguir recto (NO) por el sendero señalizado con hitos. A unos 170 m del claro se deja un desvío a mano derecha y se continúa por la izquierda (a poniente, hitos). A pesar de las eses que describe, el recorrido va girando al norte. Se desemboca en el collado de la Pena del Gall (8,73 km, 714 m), la punta de la cual se alza al norte del lugar. Se gira a la derecha (E) y se entra en la vaguada del barranco de la Pineda, en pronunciada bajada y describiendo eses para perder altura. Una vez en el fondo, el camino atenúa la pendiente. Se sale al lado de los cultivos del Mas de Curassana, que se deja a la izquierda, y se desemboca en la pista de subida, muy cerca del punto de inicio de la excursión. 
+ 
+9,92 km (552 m), 3 h 25 min. Cruce de Les Eres. Desvío de la pista de acceso al Mas de la Franqueta con la pista forestal de las Roques de Benet. Fin del itinerario. 
+ 
+&lt;i&gt;El recorrido ha permitido conocer una zona espectacular del Parque Natural de Els Ports. Este parque fue creado en 2001 por la Generalitat de Cataluña con el fin de gestionar el ámbito propio del Principado de este extenso macizo montañoso situado entre Cataluña, el País Valenciano y la Franja de Ponent, en Aragón. Macizo calcáreo, de relieve escarpado y abrupto, ha sido humanizado desde tiempos prehistóricos, pero perdura como un espacio de vida salvaje. Se extiende sobre 35.050 hectáreas de las comarcas del Baix Ebre, Montsià y Terra Alta pertenecientes a 9 municipios. El inventario actual de su biodiversidad recoge 1.370 taxones de flora vascular y más de 200 especies de vertebrados. Si se tiene suficiente tiempo, hay que visitar el Punto de información del Ecomuseo de Els Ports situado en la calle Picasso de Horta de Sant Joan. La estancia se puede completar con la entrada al Centro Picasso de la misma localidad.&lt;/i&gt; 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="40.901199" lon="0.315384">
+        <ele>552.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901021" lon="0.316234">
+        <ele>557.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901295" lon="0.316989">
+        <ele>562.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901534" lon="0.319526">
+        <ele>585.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901864" lon="0.320765">
+        <ele>600.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902486" lon="0.321150">
+        <ele>608.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902333" lon="0.321530">
+        <ele>611.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902479" lon="0.322212">
+        <ele>619.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902378" lon="0.322893">
+        <ele>625.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902572" lon="0.323325">
+        <ele>629.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902964" lon="0.323333">
+        <ele>632.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903609" lon="0.323758">
+        <ele>639.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903491" lon="0.323917">
+        <ele>641.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902784" lon="0.324082">
+        <ele>651.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902533" lon="0.324525">
+        <ele>656.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902313" lon="0.324546">
+        <ele>657.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902111" lon="0.324412">
+        <ele>660.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901883" lon="0.323905">
+        <ele>665.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901535" lon="0.323853">
+        <ele>666.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901368" lon="0.323421">
+        <ele>670.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901074" lon="0.323385">
+        <ele>671.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900709" lon="0.322984">
+        <ele>678.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900871" lon="0.324331">
+        <ele>708.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900569" lon="0.324142">
+        <ele>720.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900718" lon="0.324723">
+        <ele>725.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901274" lon="0.325193">
+        <ele>731.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901367" lon="0.325498">
+        <ele>738.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902656" lon="0.326325">
+        <ele>750.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902772" lon="0.326890">
+        <ele>752.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903468" lon="0.327159">
+        <ele>759.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903843" lon="0.327809">
+        <ele>765.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903833" lon="0.327969">
+        <ele>764.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903509" lon="0.328161">
+        <ele>767.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903014" lon="0.328780">
+        <ele>770.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902712" lon="0.329736">
+        <ele>774.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902820" lon="0.330094">
+        <ele>775.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903561" lon="0.330996">
+        <ele>790.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903741" lon="0.331594">
+        <ele>786.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.904479" lon="0.331944">
+        <ele>778.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.904224" lon="0.332590">
+        <ele>777.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.904401" lon="0.333627">
+        <ele>773.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.904264" lon="0.334149">
+        <ele>772.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.904372" lon="0.334721">
+        <ele>770.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903543" lon="0.335473">
+        <ele>761.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.903186" lon="0.335214">
+        <ele>754.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902751" lon="0.335303">
+        <ele>748.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.902191" lon="0.334067">
+        <ele>743.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901410" lon="0.333795">
+        <ele>735.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900779" lon="0.333197">
+        <ele>731.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900349" lon="0.333096">
+        <ele>732.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900074" lon="0.332668">
+        <ele>731.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898915" lon="0.331830">
+        <ele>728.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898765" lon="0.331581">
+        <ele>730.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898792" lon="0.330588">
+        <ele>781.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898683" lon="0.329981">
+        <ele>816.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898505" lon="0.329870">
+        <ele>828.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898634" lon="0.329621">
+        <ele>844.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898485" lon="0.329609">
+        <ele>846.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898597" lon="0.329373">
+        <ele>858.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899290" lon="0.329340">
+        <ele>861.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899646" lon="0.329972">
+        <ele>847.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899997" lon="0.330124">
+        <ele>856.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900504" lon="0.330626">
+        <ele>863.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901209" lon="0.330533">
+        <ele>884.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901596" lon="0.330719">
+        <ele>899.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901844" lon="0.330566">
+        <ele>884.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901181" lon="0.329750">
+        <ele>897.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900470" lon="0.329351">
+        <ele>915.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900359" lon="0.328833">
+        <ele>925.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899406" lon="0.328142">
+        <ele>978.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899691" lon="0.327822">
+        <ele>981.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900562" lon="0.327490">
+        <ele>981.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900900" lon="0.327144">
+        <ele>985.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900732" lon="0.326877">
+        <ele>1000.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900432" lon="0.326771">
+        <ele>1011.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900515" lon="0.326631">
+        <ele>1014.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900828" lon="0.326559">
+        <ele>1016.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901241" lon="0.326697">
+        <ele>1007.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901376" lon="0.326875">
+        <ele>1005.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900846" lon="0.326564">
+        <ele>1016.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900515" lon="0.326631">
+        <ele>1014.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900432" lon="0.326771">
+        <ele>1011.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900732" lon="0.326877">
+        <ele>1000.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900900" lon="0.327144">
+        <ele>985.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900562" lon="0.327490">
+        <ele>981.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899896" lon="0.327701">
+        <ele>980.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899668" lon="0.327205">
+        <ele>964.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898520" lon="0.326628">
+        <ele>900.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.897399" lon="0.327629">
+        <ele>864.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896774" lon="0.327262">
+        <ele>847.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896418" lon="0.327289">
+        <ele>843.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896354" lon="0.327422">
+        <ele>845.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896450" lon="0.327270">
+        <ele>844.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896742" lon="0.327252">
+        <ele>846.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.897439" lon="0.327615">
+        <ele>865.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896843" lon="0.327936">
+        <ele>885.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896829" lon="0.328275">
+        <ele>899.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896069" lon="0.328335">
+        <ele>915.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895460" lon="0.329078">
+        <ele>921.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895183" lon="0.330081">
+        <ele>917.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894796" lon="0.330262">
+        <ele>913.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893866" lon="0.331362">
+        <ele>910.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893278" lon="0.331795">
+        <ele>909.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892609" lon="0.330350">
+        <ele>912.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893591" lon="0.329403">
+        <ele>900.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894188" lon="0.327954">
+        <ele>886.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893961" lon="0.328052">
+        <ele>885.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893348" lon="0.329027">
+        <ele>876.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892945" lon="0.329108">
+        <ele>873.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892628" lon="0.329008">
+        <ele>870.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892662" lon="0.327600">
+        <ele>855.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892317" lon="0.326112">
+        <ele>840.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.891494" lon="0.324774">
+        <ele>836.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.890947" lon="0.324316">
+        <ele>836.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.891381" lon="0.322850">
+        <ele>828.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.891289" lon="0.320622">
+        <ele>827.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.891817" lon="0.319882">
+        <ele>825.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892063" lon="0.318846">
+        <ele>807.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892438" lon="0.318712">
+        <ele>792.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892366" lon="0.318133">
+        <ele>784.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.892903" lon="0.317981">
+        <ele>772.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893105" lon="0.317645">
+        <ele>762.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.893669" lon="0.318217">
+        <ele>763.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894313" lon="0.318594">
+        <ele>750.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894319" lon="0.318262">
+        <ele>737.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894685" lon="0.318111">
+        <ele>726.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.894818" lon="0.317654">
+        <ele>715.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895185" lon="0.318014">
+        <ele>714.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895141" lon="0.318805">
+        <ele>705.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895462" lon="0.318447">
+        <ele>696.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895810" lon="0.318676">
+        <ele>687.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895690" lon="0.319138">
+        <ele>671.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.895950" lon="0.319253">
+        <ele>664.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896086" lon="0.319544">
+        <ele>653.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896518" lon="0.319568">
+        <ele>646.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896338" lon="0.319766">
+        <ele>642.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.896452" lon="0.320004">
+        <ele>635.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.897866" lon="0.320012">
+        <ele>607.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.898726" lon="0.319817">
+        <ele>598.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899534" lon="0.319120">
+        <ele>591.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.899677" lon="0.318473">
+        <ele>588.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.900910" lon="0.317670">
+        <ele>567.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901251" lon="0.317216">
+        <ele>563.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901006" lon="0.315998">
+        <ele>556.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.901199" lon="0.315384">
+        <ele>552.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.097554" lon="0.885283">
+    <ele>390.4</ele>
+    <time>2018-05-17T07:01:05Z</time>
+    <name>Passera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.087190" lon="0.876835">
+    <ele>625.5</ele>
+    <time>2018-05-17T08:02:44Z</time>
+    <name>S'abandona el PR</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.086074" lon="0.875919">
+    <ele>665.4</ele>
+    <time>2018-05-17T08:10:15Z</time>
+    <name>Carbonera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.085133" lon="0.874669">
+    <ele>747.4</ele>
+    <time>2018-05-17T08:20:52Z</time>
+    <name>Collet del Morral</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.096987" lon="0.856546">
+    <ele>605.0</ele>
+    <time>2018-05-17T10:21:48Z</time>
+    <name>Font de l'Abellar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.102741" lon="0.886974">
+    <ele>529.7</ele>
+    <time>2018-05-17T12:42:30Z</time>
+    <name>GR 7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.099592" lon="0.887867">
+    <ele>434.3</ele>
+    <time>2018-05-19T16:42:24Z</time>
+    <name>Colldejou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.084102" lon="0.875196">
+    <ele>838.2</ele>
+    <time>2008-11-19T00:22:43Z</time>
+    <name>Cavall Bernat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.110012" lon="0.877417">
+    <ele>790.0</ele>
+    <time>2015-10-29T08:41:04Z</time>
+    <name>Portell de la Cova</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.108365" lon="0.875012">
+    <ele>888.8</ele>
+    <time>2015-10-29T08:51:59Z</time>
+    <name>Portell de la Cova de la Mola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.107477" lon="0.873992">
+    <ele>921.4</ele>
+    <time>2015-10-29T10:19:53Z</time>
+    <name>Castell de la Mola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.098301" lon="0.867249">
+    <ele>629.4</ele>
+    <time>2015-10-29T10:59:36Z</time>
+    <name>Coll del Guix i GR 7.3</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.088375" lon="0.874446">
+    <ele>560.2</ele>
+    <time>2018-05-17T07:50:12Z</time>
+    <name>Font del Bullidor</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.096116" lon="0.852150">
+    <ele>647.7</ele>
+    <time>2018-05-17T10:14:04Z</time>
+    <name>PR C-53</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.091721" lon="0.863479">
+    <ele>916.5</ele>
+    <time>2018-05-19T16:54:39Z</time>
+    <name>Radar Meteorològic</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.088748" lon="0.868043">
+    <ele>895.5</ele>
+    <time>2018-05-19T16:56:15Z</time>
+    <name>Punta dels Frares</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.092400" lon="0.862922">
+    <ele>918.4</ele>
+    <time>2018-05-19T16:56:50Z</time>
+    <name>La Miranda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.093909" lon="0.858853">
+    <ele>873.9</ele>
+    <time>2018-05-19T16:57:06Z</time>
+    <name>La Foradada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.094335" lon="0.850548">
+    <ele>780.0</ele>
+    <time>2018-05-19T17:01:21Z</time>
+    <name>Portell de Llaberia i GR 7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.106624" lon="0.865144">
+    <ele>849.5</ele>
+    <time>2018-05-19T17:02:54Z</time>
+    <name>Portell de les Processons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.107159" lon="0.869734">
+    <ele>893.1</ele>
+    <time>2018-05-19T17:03:07Z</time>
+    <name>Bassot de la Mola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.098598" lon="0.885464">
+    <ele>400.2</ele>
+    <time>2018-05-19T17:04:16Z</time>
+    <name>Pas inferior</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.083795" lon="0.872940">
+    <ele>810.5</ele>
+    <time>2018-05-20T11:03:44Z</time>
+    <name>Portell de la Roca Mitjanera</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Colldejou a la serra de Llaberia i Mola de Colldejou</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; De Colldejou a la serra de Llaberia i Mola de Colldejou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífic recorregut pels relleus abruptes de la serra de Llaberia i la Mola de Colldejou que té com a punt de sortida el poble de Colldejou. Les serres que conformen aquest conjunt són d’origen calcari amb repeus juràssics sobre els quals se sustenten les capes triàsiques blanques, aixecades en cinglera i aplanades al capdamunt en forma de “moles”, fet que dona lloc al característic aspecte de la regió. L’altitud i la precipitació de pluja, més abundant que a les rodalies, permet la presència de biòtops de flora i de fauna reminiscents. Els vents dominants del nord oest -mestral, serè o serç- poden atènyer gran intensitat. La conservació d’aquest entorn s’empara en l’Espai Natural Protegit de la Serra de Llaberia, gestionat mitjançant el Consorci de la Serra de Llaberia. 
+ 
+Trams de camí incomodes i amb pendent. El recorregut sencer de la ruta demana un cert nivell d’entrenament físic, però l’itinerari es pot partir en dos a coll de Guix, des d’on es pot tornar a Colldejou en mitja hora. Atenció a l’ascensió al Cavall Bernat, amb un parell de passos de grimpada, fàcils però vertiginosos.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L’inici de l’excursió és a la població de Colldejou. Per arribar-hi des de Reus, cal prendre la carretera T-310 cap al SO, en direcció a Mont-roig del Camp. Cal passar aquest poble i agafar la T-322 a la dreta (NO) fins a Colldejou. 
+ 
+0,00 km (433 m). Plaça de l'Església de Colldejou. Es deixa l’edifici parroquial de Sant Llorenç a la dreta i es baixa fins a la carretera per on s’ha arribat al poble. Cal seguir-la cap a la dreta (oest), en suau baixada. 
+ 
+0,47 km (402 m), 7 min. Pont sobre una riera normalment seca. Abans de creuar-lo es gira a la dreta, es baixa al llit del torrent i es tomba al sud tot passant el pont per sota. Apareixen les marques blanques i grogues del sender PR C-96 que se seguiran sense interrupció fins a sota de la canal de pujada al portell de la Roca Mitjanera. Es torna a creuar la carretera (0,83 km); se segueix ara el camí de Pratdip que gira al SO per enfilar el barranc del Bullidor passant per damunt del salt de les Soques i convergint dues vegades amb la pista forestal de coll de Guix. 
+ 
+2,45 km (560 m), 45 min. Font del Bullidor. Es deixa la surgència, la bassa que en recull l’aigua i la pista a coll de Guix a mà dreta i es continua pujant decididament seguint els senyals. Cal parar compte a la propera desviació, que surt a mà dreta just en el lloc on el camí s’aplana. 
+ 
+2,76 km (626 m), 56 min. Atenció al corriol que surt a la dreta (SO) senyalitzat amb fites de pedra. Aquí es deixa el PR i s’emprèn la pujada al portell de la Roca Mitjanera, primer travessant un espès alzinar (resta d’antigues carboneres), després, en fort pendent, pel roquissar que du al collet boscós que forma la protuberant Roca del Morral d’en Voltes, que s’aborda pel vessant oest. Se segueix pujant en direcció SO. 
+ 
+3,40 km (810 m), 1 h 27 min. Portell de la Roca Mitjanera, pal i banderoles de senyalització. S’és al capdamunt de la serra de Llaberia, a l’indret del pla de Fornells. Cal dirigir-se a l’esquerra (E) i baixar fins a sota del ben visible Cavall Bernat, de formidable presència, l’ascensió del qual requereix un mínim d’habilitats de grimpada. Un cop a la base del monòlit (cota 775 m), abans de la balma rogenca que forma el seu sòcol, s’emprèn la pujada (NE) de la costeruda canal boscosa que du al collet situat a ponent de l’agulla (806 m). Cal enfilar-se per la banda dreta. Un fàcil pas de grimpada permet situar-se al relleix de la base del cim. Seguint les lleixes fàcils, es gira a l’esquerra (NE) i, amb un altre pas que requereix l’ajut de les mans, s'és al capdamunt. 
+ 
+3,62 km (840 m), 1 h 40 min. Cim del Cavall Bernat, coronat per una creu. Es torna al portell de la Roca Mitjanera (ara 3,85 km, 1 h 53 min) i es continua pel camí marcat amb senyals blaus en direcció NO, passant la punta de Fornells pel seu vessant nord. Es creua el portell de Madrocs (4,22 km, 827 m) i s’emprèn la pujada de la punta dels Frares, penjada sobre els espadats de la serra (4,70 km, 909 m). Des d’aquí, al NO, es veu el cim de la Miranda i l’estació de radar meteorològic, cap a on es dirigeix l’itinerari. Es deixa a la dreta l’edifici del radar i s’arriba al cim culminant de la serra. 
+ 
+5,40 km (918m), 2 h 24 min. La Miranda. Magnífica vista sobre l’entorn i la característica Mola de Colldejou. Cap al NNO els cingles calcaris dibuixen la línia capriciosa dels estrats geològics que conformen la serra d’en Jover. Es continua el camí en aquesta direcció parant atenció a la seva continuïtat, a cops difícil d’entreveure a causa de la configuració del terreny, que aquí s’ofereix sota el rude aspecte d’un rascler calcari, incòmode de trepitjar (fites de pedra i senyals blaus escadussers). Cal seguir la línia de la cresta a unes desenes de metres per sota. S’arriba a la roca Foradada (5,80 km, 874 m) -una finestra oberta sobre el coll de Guix i la Mola de Colldejou-, poc després es deixa a mà dreta el portell del Valent (6,15 km, 808 m). 
+ 
+6,51 km (784 m), 2 h 45 min. Portell de Llaberia (senyalització del PR C-88 i del GR 7). Es torça a la dreta i es baixa pel camí d’accés al coll, que descriu nombroses ziga-zagues amb fort pendent. Al punt 7,14 km (646 m) es desemboca al camí de coll de Guix per on discorre en PR C-53. Es gira a la dreta (NE), es passa la font i bassa de l’Abellar, se surt a una pista forestal i, cap a l’est, s’arriba a coll de Guix. 
+ 
+8,62 km (630 m), 3 h 15 min. Coll de Guix, cruïlla de camins, senyalització. Es pren el camí que es dirigeix al nord seguint els senyals blancs i vermells del GR 7.3, que no es deixaran fins al portell de la Cova, a l’altra banda de la Mola. Es planeja virant progressivament cap al nord i després es puja amb força cap a la carena franquejant el Portell de les Processons. Una vegada a la planura culminant el pendent s’alleuja, se segueix pel camí més fressat girant cap a llevant. Poc després, es voreja el Bassot de la Mola (10,30 km, 896 m) i es continua fins al cim del massís. 
+ 
+10,65 km (922 m), 4 h 5 min. Cim de la Mola de Colldejou. Hi trobem una curiosa fortificació circular que la culmina i que havia fet les funcions de punt d’observació militar. Magnífica panoràmica de la contrada als quatre vents: al nord, la serra de la Pòpia i el Montsant, al darrere, al NE, les serres d’Argentera i de Prades, a l’E, el castell-monestir d’Escornalbou, la serra de Puigcerver i la de la Mussara, al SE, el mar i el cap de Salou, al S, la vall de Colldejou, les muntanyes de Pratdip i la imponent serra de Llaberia, a ponent, les serres de Cavalls i de la Fatarella. Finalment, al NO, les poblacions de Falset, Marçà i la serra de la Llena. 
+ 
+Es continua el camí cap a llevant seguint el GR. Immediatament s’arriba a la fenedura del portell de la Cova de la Mola i s’entra a la canal del Batllet, dreta i de mal passar, que es baixa cap al NNE. A mà dreta hi ha la Cova de la Mola. 
+ 
+11,10 km (790 m), 4 h 20 min. Portell de la Cova del Batllet. Atenció, es deixa el GR i es tomba a la dreta, girant cap al sud, seguint el camí de la Cova de la Mola, un corriol fressat però amb algun pas incòmode que condueix al coll de Freginals. 
+ 
+11,94 km (600 m), 4 h 40 min. Pista forestal i coll de Freginals. Es pren la pista cap a la dreta (S) uns metres fins que es bifurca. Cal continuar pel trencall de l’esquerre. La pista descriu una ziga-zaga i acaba transformant-se en un corriol que baixa fins al camí de la Torre de Fontaubella a Colldejou, on es retroba el recorregut del GR 7 (12,60 km, 529 m), que se segueix cap a la dreta (S-SE) i ja no es deixa fins al punt de sortida de l’excursió. 
+ 
+13,22 km (433 m), 5 h 5 min. Plaça de l'Església de Colldejou, final del recorregut. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Colldejou a la Sierra de Llaberia y a la Mola de Colldejou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífico recorrido por los relieves abruptos de la sierra de Llaberia y la Mola de Colldejou que tiene como punto de salida el pueblo de Colldejou. Las sierras que conforman el conjunto son de origen calcáreo con repisas jurásicas sobre las que se sustentan las capas triásicas blancas, levantadas en riscos y aplanadas en lo alto en forma de "moles", lo que da lugar al característico aspecto de la región. La altitud y la precipitación de lluvia, más abundante que en los alrededores, permite la presencia de biotopos de flora y de fauna reminiscentes. Los vientos dominantes del noroeste -cierzo- pueden alcanzar gran intensidad. La conservación de este entorno se ampara en el Espacio Natural Protegido de la Serra de Llaberia, gestionado mediante el consorcio de la Serra de Llaberia. 
+ 
+Tramos de camino incómodos y con pendiente. El recorrido entero de la ruta requiere un cierto nivel de entrenamiento físico, pero el itinerario se puede partir en dos en el collado de Guix, desde donde se puede volver a Colldejou en media hora. Atención a la ascensión del Cavall Bernat, con un par de pasos de trepada, fáciles pero vertiginosos.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; El inicio de la excursión se localiza en Colldejou. Para llegar a esta población desde Reus, hay que tomar la carretera T-310 hacia el SO, en dirección a Mont-roig del Camp. Una vez en Mont-roig, tomar la T-322 a la derecha (NO) hasta Colldejou. 
+ 
+0,00 km (433 m). Plaza de la Iglesia de Colldejou. Se deja el edificio parroquial de Sant Llorenç a la derecha y se baja hasta la carretera por donde se ha llegado al pueblo. Hay que seguirla hacia la derecha (oeste), en suave bajada. 
+ 
+0,47 km (402 m), 7 min. Puente sobre un arroyo normalmente seco. Antes de cruzarlo se gira a la derecha, se baja el lecho del torrente y se gira al sur pasando el puente por debajo. Aparecen las marcas blancas y amarillas del sendero PR C-96 que se seguirán sin interrupción hasta debajo de la canal de subida al portillón (“portell”) de la Roca Mitjanera. Se vuelve a cruzar la carretera (0,83 km); se sigue ahora el camino de Pratdip que gira al SO para tomar el barranco del Bullidor pasando por encima del salto de Les Soques y convergiendo dos veces con la pista forestal de cuello de Guix. 
+ 
+2,45 km (560 m), 45 min. Fuente del Bullidor. Se deja la surgencia, la balsa que recoge el agua y la pista de Coll de Guix a mano derecha y se continúa subiendo decididamente, siguiendo las señales. Hay que tener cuidado en la próxima desviación, que sale a mano derecha justo en el lugar donde el camino se allana. 
+ 
+2,76 km (626 m), 56 min. Atención al sendero que sale a la derecha (SO) señalizado con hitos de piedra. Aquí se deja el PR y se emprende la subida al paso de la Roca Mitjanera, primero atravesando un espeso encinar (resto de antiguas carboneras), después, en fuerte pendiente, por los canchales que llevan al collado boscoso que forma la protuberante Roca del Morral d’en Voltes, que se aborda por la vertiente oeste. Se sigue subiendo en dirección SO. 
+ 
+3,40 km (810 m), 1 h 27 min. Portillón de la Roca Mitjanera, palo y banderolas de señalización. Se está en lo alto de la sierra de Llaberia, en el lugar del Pla de Fornells. Hay que dirigirse a la izquierda (E) y bajar hasta debajo del bien visible Cavall Bernat, de formidable presencia, cuya ascensión requiere un mínimo de habilidades en trepada. Una vez en la base del monolito (cota 775 m), antes de la cueva rojiza que forma su base, se emprende la subida (NE) de la empinada canal boscosa que lleva al collado situado a poniente de la aguja (806 m). Hay que trepar por el lado derecho. Un fácil paso de trepada permite situarse en el rellano de la base de la cima. Siguiendo repisas fáciles, se gira a la izquierda (NE) y, con otro paso que requiere la ayuda de las manos, se llega a lo alto. 
+ 
+3,62 km (840 m), 1 h 40 min. Cumbre del Cavall Bernat, coronado por una cruz. Se vuelve al portillon de la Roca Mitjanera (ahora 3,85 km, 1 h 53 min) y se continúa por el camino marcado con señales azules en dirección NO, pasando la punta de Fornells por su vertiente norte. Se cruza el portillón de Madrocs (4,22 km, 827 m) y se emprende la subida de la punta de Els Frares, colgada sobre los acantilados de la sierra (4,70 km, 909 m). Desde aquí, al NO, se ve la cima de la Miranda y la estación de radar meteorológico, hacia donde se dirige el itinerario. Se deja a la derecha del edificio del radar y se llega a la cima culminante de la sierra. 
+ 
+5,40 km (918m), 2 h 24 min. La Miranda. Magnífica vista sobre el entorno y la característica Mola de Colldejou. Hacia el NNO los riscos calcáreos dibujan la línea caprichosa de los estratos geológicos que conforman la sierra de En Jover. Se continúa el camino en esta dirección prestando atención a su continuidad, a veces difícil de entrever debido a la configuración del terreno, que aquí se ofrece bajo el rudo aspecto de un lapiaz calizo, incómodo de pisar (hitos de piedra y señales azules esporádicos). Hay que seguir la línea de la cresta a unas decenas de metros por debajo. Se llega a la roca Foradada (5,80 km, 874 m) -una ventana abierta sobre el cuello de Guix y la Mola de Colldejou-, poco después se deja a mano derecha el portillón de El Valent (6,15 km, 808 m). 
+ 
+6,51 km (784 m), 2 h 45 min. Portell de Llaberia (señalización del PR C-88 y del GR 7). Se tuerce a la derecha y se baja por el camino de acceso al cuello, que describe numerosos zigzags con fuerte pendiente. En el punto 7,14 km (646 m) se desemboca en el camino de cuello de Guix por donde discurre en PR C-53. Se gira a la derecha (NE), se pasa la fuente y balsa de L’Abellar, se sale en una pista forestal y, hacia el este, se llega al collado de Guix. 
+ 
+8,62 km (630 m), 3 h 15 min. Coll de Guix, cruce de caminos, señalización. Se toma el camino que se dirige al norte siguiendo las señales blancas y rojas del GR 7.3, que no se dejarán hasta el portillón de la Cova, en el otro lado de la Mola. Se planea girando progresivamente hacia el norte y luego se sube con fuerza hacia la cresta franqueando el Portell de les Processons. Una vez en la llanura culminal, el pendiente se alivia, se sigue por el camino más trillado girando hacia levante. Poco después, se bordea el Bassot de la Mola (10,30 km, 896 m) y se continúa hasta la cima del macizo. 
+ 
+10,65 km (922 m), 4 h 5 min. Cima de la Mola de Colldejou. Encontramos una curiosa fortificación circular que la culmina y que había hecho las funciones de punto de observación militar. Magnífica panorámica de la región a los cuatro vientos: al norte, la sierra de la Pòpia y el Montsant, detrás, al NE, las sierras de Argentera y de Prades, el E, el castillo-monasterio de Escornalbou, la sierra de Puigcerver y la de la Mussara, el SE, el mar y el cabo de Salou, el S, el valle de Colldejou, las montañas de Pratdip y la imponente sierra de Llaberia, a poniente, las sierras de Cavalls y de la Fatarella. Finalmente, el NO, las poblaciones de Falset, Marçà y la sierra de la Llena. 
+ 
+Se continúa el camino hacia levante siguiendo el GR. Inmediatamente se llega a la hendidura del portillón de la Cova de la Mola y se entra en la canal del Batllet, derecha y de mal pasar, que se baja hacia el NNE. A mano derecha está la cueva de la Mola. 
+ 
+11,10 km (790 m), 4 h 20 min. Portillón de la Cova del Batllet. Atención, se deja el GR y se gira a la derecha, girando hacia el sur, siguiendo el camino de la Cova de la Mola, un sendero trillado pero con algunos pasos incómodo que conduce al cuello de Freginals. 
+ 
+11,94 km (600 m), 4 h 40 min. Pista forestal y cuello de Freginals. Se toma la pista hacia la derecha (S) unos metros hasta que se bifurca. Hay que seguir por el desvío de la izquierda. La pista describe un zigzag y acaba transformándose en un sendero que baja hasta el camino de la Torre de Fontaubella a Colldejou, donde se reencuentra el recorrido del GR 7 (12,60 km, 529 m), que se sigue hacia a la derecha (S-SE) y ya no se deja hasta el punto de salida de la excursión. 
+ 
+13,22 km (433 m), 5 h 5 min. Plaza de la Iglesia de Colldejou, final del recorrido. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2018&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.099559" lon="0.887838">
+        <ele>433.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099423" lon="0.887509">
+        <ele>430.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099099" lon="0.887264">
+        <ele>427.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099241" lon="0.888134">
+        <ele>418.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098980" lon="0.888404">
+        <ele>415.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098960" lon="0.887792">
+        <ele>411.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098401" lon="0.887268">
+        <ele>408.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098385" lon="0.886882">
+        <ele>407.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098790" lon="0.885392">
+        <ele>401.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098707" lon="0.885311">
+        <ele>399.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098191" lon="0.885679">
+        <ele>392.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.097504" lon="0.885290">
+        <ele>391.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096873" lon="0.886239">
+        <ele>385.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096470" lon="0.886098">
+        <ele>387.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094175" lon="0.886258">
+        <ele>391.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094228" lon="0.885372">
+        <ele>394.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094431" lon="0.884692">
+        <ele>404.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094337" lon="0.884225">
+        <ele>407.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094194" lon="0.884051">
+        <ele>406.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093931" lon="0.884179">
+        <ele>409.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093556" lon="0.883887">
+        <ele>408.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093589" lon="0.882963">
+        <ele>403.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093208" lon="0.882577">
+        <ele>407.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093076" lon="0.881777">
+        <ele>413.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.092532" lon="0.881330">
+        <ele>427.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091668" lon="0.880132">
+        <ele>453.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091477" lon="0.878525">
+        <ele>459.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091286" lon="0.878191">
+        <ele>459.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091442" lon="0.877889">
+        <ele>460.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.090472" lon="0.876319">
+        <ele>484.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.089793" lon="0.875858">
+        <ele>505.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.089024" lon="0.875663">
+        <ele>534.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088890" lon="0.875227">
+        <ele>535.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088621" lon="0.875313">
+        <ele>548.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088410" lon="0.875101">
+        <ele>560.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088254" lon="0.875194">
+        <ele>563.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087831" lon="0.874743">
+        <ele>575.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087634" lon="0.874849">
+        <ele>584.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087088" lon="0.875713">
+        <ele>605.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087181" lon="0.876835">
+        <ele>625.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087009" lon="0.876525">
+        <ele>626.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.086619" lon="0.876511">
+        <ele>641.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.086143" lon="0.876196">
+        <ele>657.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.086045" lon="0.875330">
+        <ele>672.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085575" lon="0.874714">
+        <ele>691.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085407" lon="0.874148">
+        <ele>702.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085130" lon="0.874020">
+        <ele>720.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085082" lon="0.874611">
+        <ele>747.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084690" lon="0.874582">
+        <ele>755.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084508" lon="0.873943">
+        <ele>773.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.083809" lon="0.872950">
+        <ele>810.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.083682" lon="0.873388">
+        <ele>807.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.083738" lon="0.874024">
+        <ele>778.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084127" lon="0.874821">
+        <ele>818.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084098" lon="0.875196">
+        <ele>837.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084127" lon="0.874821">
+        <ele>818.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.083753" lon="0.874112">
+        <ele>775.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.083698" lon="0.873299">
+        <ele>811.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084014" lon="0.872640">
+        <ele>824.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084064" lon="0.872162">
+        <ele>830.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.084423" lon="0.872329">
+        <ele>836.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085101" lon="0.871748">
+        <ele>841.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085381" lon="0.870066">
+        <ele>826.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.085980" lon="0.869564">
+        <ele>835.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.086326" lon="0.868821">
+        <ele>848.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087173" lon="0.868621">
+        <ele>867.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.087581" lon="0.868019">
+        <ele>880.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088324" lon="0.867780">
+        <ele>895.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088716" lon="0.868035">
+        <ele>900.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088444" lon="0.867675">
+        <ele>898.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.088611" lon="0.866723">
+        <ele>872.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.089676" lon="0.864641">
+        <ele>856.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.089682" lon="0.864266">
+        <ele>855.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.090141" lon="0.863989">
+        <ele>880.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.090601" lon="0.864046">
+        <ele>894.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.090968" lon="0.863915">
+        <ele>897.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091455" lon="0.863696">
+        <ele>912.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091678" lon="0.863344">
+        <ele>912.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.091895" lon="0.863379">
+        <ele>917.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.092135" lon="0.863008">
+        <ele>914.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.092461" lon="0.862854">
+        <ele>919.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093000" lon="0.861814">
+        <ele>914.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093134" lon="0.860956">
+        <ele>902.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093783" lon="0.859591">
+        <ele>888.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093960" lon="0.858198">
+        <ele>866.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.093947" lon="0.853698">
+        <ele>801.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094107" lon="0.853329">
+        <ele>807.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094139" lon="0.851918">
+        <ele>791.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094298" lon="0.851216">
+        <ele>788.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094213" lon="0.850551">
+        <ele>783.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094372" lon="0.850606">
+        <ele>776.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094446" lon="0.850478">
+        <ele>774.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094480" lon="0.850602">
+        <ele>766.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094652" lon="0.850436">
+        <ele>764.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094587" lon="0.850777">
+        <ele>756.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094960" lon="0.850491">
+        <ele>748.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095240" lon="0.850584">
+        <ele>743.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094908" lon="0.850874">
+        <ele>735.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.094820" lon="0.851442">
+        <ele>729.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095207" lon="0.850966">
+        <ele>720.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095076" lon="0.851416">
+        <ele>712.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095456" lon="0.851297">
+        <ele>698.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095446" lon="0.851940">
+        <ele>681.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095588" lon="0.851852">
+        <ele>674.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095803" lon="0.852232">
+        <ele>662.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.095871" lon="0.852033">
+        <ele>657.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096043" lon="0.852105">
+        <ele>650.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096462" lon="0.852567">
+        <ele>639.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096553" lon="0.853320">
+        <ele>638.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096900" lon="0.854066">
+        <ele>636.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096623" lon="0.855385">
+        <ele>622.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096986" lon="0.856046">
+        <ele>609.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.096979" lon="0.856856">
+        <ele>605.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098029" lon="0.857875">
+        <ele>602.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098334" lon="0.858508">
+        <ele>602.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098387" lon="0.859215">
+        <ele>600.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098257" lon="0.859725">
+        <ele>600.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098443" lon="0.860517">
+        <ele>600.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098987" lon="0.861702">
+        <ele>606.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098697" lon="0.863033">
+        <ele>611.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098781" lon="0.863662">
+        <ele>616.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098548" lon="0.864217">
+        <ele>618.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098437" lon="0.865274">
+        <ele>621.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098210" lon="0.865669">
+        <ele>623.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098459" lon="0.866220">
+        <ele>629.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098261" lon="0.867233">
+        <ele>629.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.098569" lon="0.867082">
+        <ele>632.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099102" lon="0.867380">
+        <ele>631.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099718" lon="0.867099">
+        <ele>631.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.100767" lon="0.867344">
+        <ele>660.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.101351" lon="0.867254">
+        <ele>677.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.101697" lon="0.866999">
+        <ele>685.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102346" lon="0.865781">
+        <ele>701.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102729" lon="0.865596">
+        <ele>706.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102819" lon="0.865105">
+        <ele>713.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.103353" lon="0.864719">
+        <ele>720.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.103280" lon="0.864429">
+        <ele>728.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.103626" lon="0.864394">
+        <ele>743.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.104145" lon="0.863967">
+        <ele>764.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.104713" lon="0.863764">
+        <ele>787.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.104797" lon="0.863463">
+        <ele>789.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.105340" lon="0.863166">
+        <ele>803.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.105979" lon="0.864318">
+        <ele>827.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106537" lon="0.864580">
+        <ele>841.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106742" lon="0.865407">
+        <ele>854.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106376" lon="0.867056">
+        <ele>877.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107445" lon="0.872041">
+        <ele>916.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107611" lon="0.874173">
+        <ele>919.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107525" lon="0.874664">
+        <ele>917.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107745" lon="0.874868">
+        <ele>914.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.108383" lon="0.875017">
+        <ele>887.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.108372" lon="0.875386">
+        <ele>872.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.109085" lon="0.876697">
+        <ele>822.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.110016" lon="0.877422">
+        <ele>789.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.109454" lon="0.877935">
+        <ele>784.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.108169" lon="0.878078">
+        <ele>744.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.108582" lon="0.878487">
+        <ele>721.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.108434" lon="0.878802">
+        <ele>706.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107374" lon="0.879651">
+        <ele>669.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.107194" lon="0.880419">
+        <ele>655.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106068" lon="0.882331">
+        <ele>612.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106030" lon="0.883237">
+        <ele>600.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.105607" lon="0.883244">
+        <ele>599.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.106007" lon="0.884916">
+        <ele>584.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.105168" lon="0.884604">
+        <ele>581.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.104853" lon="0.884822">
+        <ele>576.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.104322" lon="0.884863">
+        <ele>569.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.103588" lon="0.885560">
+        <ele>561.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.103025" lon="0.886245">
+        <ele>555.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102586" lon="0.887140">
+        <ele>528.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102564" lon="0.888367">
+        <ele>519.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.102241" lon="0.888925">
+        <ele>515.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.101532" lon="0.889323">
+        <ele>499.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.100819" lon="0.889227">
+        <ele>483.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.100283" lon="0.889506">
+        <ele>471.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.100375" lon="0.888824">
+        <ele>461.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.100592" lon="0.888424">
+        <ele>449.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.099614" lon="0.887884">
+        <ele>434.6</ele>
+        <time>2018-07-30T13:05:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

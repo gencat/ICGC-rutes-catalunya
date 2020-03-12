@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.793127" lon="2.442935">
+    <ele>1488.1</ele>
+    <time>2015-06-22T19:28:57Z</time>
+    <name>Bretxa dels Castellets</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.796893" lon="2.443095">
+    <ele>1402.1</ele>
+    <time>2015-06-22T06:58:01Z</time>
+    <name>Coll Saciureda de Dalt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.795194" lon="2.442966">
+    <ele>1489.5</ele>
+    <time>2015-06-22T07:14:39Z</time>
+    <name>Els Castellet Petit</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.795002" lon="2.442366">
+    <ele>1456.8</ele>
+    <time>2015-06-22T07:07:51Z</time>
+    <name>Esglaons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.802871" lon="2.434752">
+    <ele>1188.1</ele>
+    <time>2015-06-22T06:28:12Z</time>
+    <name>Aparcament del Pla d'en Mon</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.789501" lon="2.443923">
+    <ele>1704.1</ele>
+    <time>2015-06-22T08:06:27Z</time>
+    <name>Les Agudes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.776513" lon="2.434856">
+    <ele>1706.0</ele>
+    <time>2015-06-22T19:34:11Z</time>
+    <name>Turó de l'Home</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.787859" lon="2.442439">
+    <ele>1646.3</ele>
+    <time>2015-11-15T10:05:11Z</time>
+    <name>Collada de Sesagudes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.792731" lon="2.443047">
+    <ele>1524.1</ele>
+    <time>2015-11-15T08:41:39Z</time>
+    <name>Grimpada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.788798" lon="2.441973">
+    <ele>1626.0</ele>
+    <time>2017-02-07T11:31:05Z</time>
+    <name>GR 5.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.787808" lon="2.442144">
+    <ele>1644.8</ele>
+    <time>2017-02-07T11:32:26Z</time>
+    <name>GR 5.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.786122" lon="2.440872">
+    <ele>1683.5</ele>
+    <time>2017-02-07T11:32:37Z</time>
+    <name>Puig Sacarbassa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.778313" lon="2.432674">
+    <ele>1640.4</ele>
+    <time>2017-02-07T11:33:43Z</time>
+    <name>GR 5.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.791282" lon="2.443420">
+    <ele>1608.9</ele>
+    <time>2015-11-15T11:06:27Z</time>
+    <name>Fil de la cresta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.794081" lon="2.442710">
+    <ele>1514.3</ele>
+    <time>2015-11-15T08:10:13Z</time>
+    <name>El Castellet Gros</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.801286" lon="2.438821">
+    <ele>1272.4</ele>
+    <time>2017-04-19T08:33:36Z</time>
+    <name>Camí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.791432" lon="2.442751">
+    <ele>1559.6</ele>
+    <time>2017-04-19T09:00:05Z</time>
+    <name>Bifurcació</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.792218" lon="2.434779">
+    <ele>1207.6</ele>
+    <time>2017-04-19T13:31:52Z</time>
+    <name>Tartera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.793119" lon="2.434097">
+    <ele>1197.8</ele>
+    <time>2017-04-19T13:38:19Z</time>
+    <name>GR 5.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.800862" lon="2.431826">
+    <ele>1127.8</ele>
+    <time>2017-04-19T14:45:57Z</time>
+    <name>GR 5.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.799958" lon="2.440848">
+    <ele>1312.1</ele>
+    <time>2017-04-22T13:38:32Z</time>
+    <name>Atenció: recte</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.778495" lon="2.433033">
+    <ele>1644.1</ele>
+    <time>2017-04-22T22:59:31Z</time>
+    <name>Coll de Sesbasses</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Les Agudes i el turó de l'Home pels Castellets</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Les Agudes i el turó de l'Home pels Castellets &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;Recorregut espectacular i de gran bellesa per l’itinerari més atrevit del Montseny. El relleu generalment suau d’aquest massís ofereix excepcions notables però cap d’elles més destacable que l’esmolada cresta dels Castellets. Aquesta aresta està situada al nord de la carena central i culminant del massís, l'esquenall que uneix el coll de Sesferreres pujant cap a les Agudes, al turó de l’Home, al Puigsesolles i al turó Gros. L’itinerari que aquí es proposa recorre el fil de la cresta, visita el turó de l’Home i torna al punt d’inici pel vessant occidental de les Agudes, baixant pels Emprius i saltant el serrat Llarg. 
+ 
+Atenció: el recorregut pel fil de la carena demana experiència a muntanya i decisió en la grimpada. Presenta tres indrets aeris i exposats, tot i que sense dificultats significatives si se sap escollir adequadament cada punt de pas. La resta de l’itinerari, plàcid i tranquil, ofereix raconades de bellesa corprenent.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L’inici d’aquesta ruta circular és a l’àrea d’aparcament de Sesferreres, al pla d’en Mon, un espai ampli i còmode per estacionar-hi els cotxes que hi ha al punt quilomètric 27 de la carretera BV-5114 entre Sant Marçal i Santa Fe del Montseny. S’hi pot accedir des del coll de Gomara per la carretera de coll de Revell a Viladrau (accés des de la C-25 o Eix Transversal) o des de Sant Celoni i Santa Fe del Montseny. 
+ 
+0,00 km (1.188 m). Àrea d’estacionament de Sesferreres. Just al davant de l’entrada a l’aparcament, a l’altra banda de la carretera, surt un corriol amb una entrada molt fressada, senyalitzat amb marques vermelles, que remunta la fageda en direcció ESE. El corriol remunta sinuosament la carena. 
+ 
+0,42 km (1.272 m), 14 min. El corriol desemboca en un camí més ample que prové de la carretera saltant la carena des de llevant. Es continua recte, pujant i parant atenció a la propera desviació que es trobarà en havent passat el pla d’en Jep Xic, situat en un suau collet. 
+ 
+0,76 km (1.310 m), 20 min. Bifurcació en un pronunciat revolt del camí cap a l’esquerra (E). Cal continuar recte (S i SE), pujant pronunciadament pel llom de la carena. Al cap d’onze minuts s’arriba al coll de Saciureda de Baix (1,08 km, 1.382 m), amb àmplies vistes sobre l’entorn i sobre l’esmolada aresta dels Castellets. Es continua amunt pel fil de la serra, se supera el petit i afinat coll de Saciureda de Dalt (1.407 m) i es passa al vessant oest de la cresta. Dos-cents metres després del coll hi ha una bifurcació. Cal continuar per l’esquerra. De tant en tant reapareixen els senyals vermells. 
+ 
+Se superen uns esglaons de roca i es flanqueja, per sota, la primera agulla del contrafort, el Castellet Petit. Passada la vertical de la primera agulla s’és al peu de la canal que la separa de la segona, el Castellet Gros (1,54 km, 1.457 m). Es gira a l’esquerra pronunciadament, retrocedint cap al nord-nord-est, i es puja, amb algun fàcil pas de mans, al vèrtex del Castellet Petit (1,62 km, 1.492 m). Se segueix pel fil de la carena, es baixa cap al S fins a la bretxa que separa les dues agulles (1.472 m) i s’escomet el rocam del Castellet Gros cercant els millors passos (roca ferma, ambient vertical). 
+ 
+1,76 km (1.518 m), 55 min. Cim del Castellet Gros. Es continua endavant baixant l’agulla per la dreta (O), es deixa una dent rocosa a l’esquerra (E) i s’arriba a una nova bretxa, molt acusada (1,90 km, 1.488 m). Es continua en direcció a les Agudes abordant l’esperó que s’alça al sud per l’esquerra, la banda de llevant. Per una canal es puja grimpant a un esglaó de la cresta (1,94 km, 1.524 m). Es careneja amb pendent suau fins a quedar situats sota el gran esperó terminal que es desprèn del mateix cim de les Agudes. 
+ 
+2,12 km (1.560 m), 1 h 10 min. Bifurcació. Cal girar cap a l’esquerra dirigint-se amb decisió al fil de la cresta (senyals grocs). El corriol que continua recte cap al sud permet salvar aquesta darrera pilastra, d’aspecte formidable però menys difícil del que aparenta, anant directament al coll de Sesagudes, situat a la carena sud de les Agudes, des d’on es guanya el cim sense cap dificultat. 
+ 
+Aquest tram rep el nom d’Esglaons de les Agudes. Girant, doncs, a l’esquerra (N-NE), s’escomet un primer contrafort vertical que situa l’itinerari de nou al fil de la cresta (pas dret i curt sobre roca ferma). Per terreny menys costerut i atarterat, seguint els senyals grocs, cal acostar-se a la base de l’esperó terminal, que se supera en diagonal per un canaló vertical però fàcil. Aquest pas és la darrera dificultat que ofereix el recorregut. Seguint la cresta se surt al collet de les Agudes (2.38 km, 1.687 m) i, sense cap altra dificultat, s’arriba al cim. 
+ 
+2,45 km (1.705 m), 1 h 35 min. Les Agudes. Segon cim en altitud del Montseny, però el més esvelt i atractiu, d’àmplies panoràmiques sobre la regió nord oriental del Principat, que abasta des dels Pirineus i Prepirineus Orientals (on són fàcilment identificables el Pedraforca, el Cadí, el Puigmal, el Canigó, etc.) a la costa i a les serres prelitorals i litorals de més al sud, on destaquen Montserrat, Sant Llorenç de Munt i Collserola. Magnífiques vistes sobre l’entorn proper, vall de Santa Fe, Guilleries, Matagalls, Collsacabra. 
+ 
+L’itinerari es dirigeix cap al turó de l’Home, seguint el marcat camí del SO. 
+ 
+2,70 km (1.659 m), 1 h 39 min. Collada de Sesagudes, on es troba el recorregut del sender GR 5.2 que a la tornada es prendrà (senyalització; aquí és on s’hauria vingut a raure si s’hagués pres el corriol de la desviació situada sota el darrer contrafort de la cresta. Se segueix endavant seguint el GR pel llom carener, primer per la seva banda oest, després per l’est. Es desemboca al coll de Sesbasses (4,01 km, 1.644 m), es creua la pista asfaltada que du al cim de Puig Sesolles i, pel camí de l’altra banda, es fa cap al cim del Montseny. 
+ 
+4,37 km (1.707 m), 2 h 5 min. Turó de l’Home, punt culminant del massís. Arracerat a llevant hi ha l’observatori meteorològic bastit el 1932 pel Centre Excursionista de Catalunya. La visió des d’aquest punt complementa la de les Agudes i s’estén sobre la vall de la Tordera i el Vallès Oriental. Es torna enrere pel mateix camí. 
+ 
+6,04 km (1.659 m), 2 h 28 min. Collada de Sesagudes. Bifurcació; es tomba a l’esquerra i s’emprèn la baixada del vessant oest de les Agudes seguint els senyals del GR (pintura de ratlles blanques i vermelles). Cent-cinquanta metres enllà es gira pronunciadament a l’esquerra deixant a la dreta el corriol que prové del recorregut dels Castellets. A partir d’aquest punt cal estar molt atents als senyals del GR convenientment situats en els revolts del corriol però des de la perspectiva inversa, de pujada, que a cops resten amagats darrere els troncs. En el primer tram de la baixada, escadusseres fites de pedra estratègicament situades ajuden a la identificació del recorregut. 
+ 
+Descrivint nombroses ziga-zagues l’itinerari ressegueix el flanc dels Emprius baixant decididament entre la frondosa fageda del vessant occidental de les Agudes, d’inusual bellesa. En cinc ocasions es creuaran bancals d’antigues places carboneres, de les quals en resten, amb prou feines, els murs de contenció. En el punt 7,80 km (1.210 m) es travessa una llarga tartera situada a la vertical del cim de les Agudes: una mica més endavant, després d’un tomb a l’esquerra en acusat pendent es desemboca en un camí ample. 
+ 
+7,95 km (1.200), 3 h 12 min. Camí forestal provinent de Sant Marçal. Cal prendre’l cap a l’esquerra, girant del tot cap al sud i seguint els senyals del GR. Més enllà, el camí gira de nou al nord; ja no es deixarà fins a sota de la carretera. Es passen les torrentades del Pedregar i de la Font del Calvari i se surt als planells de la Jaça de la Costa. El camí es converteix en una pista ampla. 
+ 
+ 9,42 km (1.128 m), 3 h 32 min. Bifurcació. Es continua pel trencall de la dreta abandonant el recorregut del GR, que es dirigeix a Sant Marçal. Cent metres més endavant es deixa a la dreta el camí de la Barraca d’en Codony. El camí gira a ponent i cal parar compte a la propera desviació. 
+ 
+9,76 km (1.141 m), 3 h 38 min. Trencall a la dreta, poc visible, que puja a la carretera de Sant Marçal a Santa Fe (senyal indicador a l’esquerra de la pista). Es deixa la pista, es pren el corriol i se surt a la carretera a l’alçada del coll de Sesferreres (9,95 km, 1.152 m). Es torna al punt de sortida fent els 0,65 km que separen aquest indret de l’estacionament del pla d’en Mon. 
+ 
+10,42 km (1.157 m), 3 h 48 min. Àrea d’estacionament de Sesferreres. Final del recorregut.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Les Agudes y el Turó de l'Home por Els Castellets&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Recorrido espectacular y de gran belleza por el itinerario más atrevido del Montseny. El relieve generalmente suave de este macizo ofrece excepciones notables, pero ninguna de ellas más destacada que la afilada cresta de Els Castellets. Este cordal está situado al norte de la cresta central y culminante del macizo, la línea divisoria que une el collado de Sesferreres subiendo hasta Les Agudes, el Turó de l’Home, el Puigsesolles y el Turó Gros. El itinerario que aquí se propone recorre el filo de la cresta, visita el Turó de l’Home y vuelve al punto de inicio por la vertiente occidental de Les Agudes, bajando por Els Emprius y saltando la Serra Llarga. 
+ 
+Atención: el recorrido por la cresta requiere experiencia en montaña y decisión en la trepada porque ofrece tres pasos aéreos y expuestos, aunque sin dificultades significativas si se sabe elegir adecuadamente en cada punto. El resto del itinerario, apacible y tranquilo, ofrece vistas y rincones de belleza cautivadora.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El inicio de esta ruta circular se encuentra en el área de aparcamiento de Sesferreres, en el Pla d’en Mon, un espacio amplio y cómodo para estacionar los coches que hay en el punto kilométrico 27 de la carretera BV-5114 entre Sant Marçal y Santa Fe del Montseny. Se puede acceder a este punto desde el collado de Gomara por la carretera de Coll de Revell a Viladrau (acceso desde la C-25 o Eje Transversal) o desde Sant Celoni y Santa Fe del Montseny. 
+ 
+0,00 km (1.188 m). Área de estacionamiento de Sesferreres. Justo desde enfrente de la entrada al aparcamiento, al otro lado de la carretera, sale un sendero con una entrada muy erosionada, señalizado con marcas rojas, que remonta el hayedo en dirección ESE. Se toma el sendero y se remonta sinuosamente el lomo de la montaña. 
+ 
+0,42 km (1.272 m), 14 min. El sendero desemboca en un camino más ancho que proviene de la carretera saltando la cresta desde levante. Se sigue recto, subiendo y prestando atención a la próxima desviación que se encontrará habiendo pasado el Pla de Jep Xic, situado en un suave collado. 
+ 
+0,76 km (1.310 m), 20 min. Bifurcación en una pronunciada curva del camino hacia la izquierda (E). Hay que seguir recto (S y SE), subiendo pronunciadamente por el lomo de la cresta. Al cabo de once minutos se llega al collado de Saciureda de Baix (1,08 km, 1.382 m), con amplias vistas sobre el entorno y sobre la afilada arista de Els Castellets. Se continúa hacia arriba por el filo de la sierra, se supera el pequeño y afinado collado de Saciureda de Dalt (1.407 m) y se pasa a la vertiente oeste de la cresta. Doscientos metros después del collado hay una bifurcación. Hay que seguir por la izquierda. De vez en cuando reaparecen las señales rojas. 
+ 
+Se superan unos peldaños de roca y se flanquea, por debajo, la primera aguja del contrafuerte, el Castellet Petit. Pasada la vertical de esta aguja se está al pie de la canal que la separa de la segunda, el Castellet Gros (1,54 km, 1.457 m). Se gira a la izquierda pronunciadamente, retrocediendo hacia el norte-noreste, y se sube, con algún fácil paso ayudándose con las manos, al vértice del Castellet Petit (1,62 km, 1.492 m). Se sigue por la cresta, se baja por el S hasta la brecha que separa las dos agujas (1.472 m) y se acometen las rocas del Castellet Gros buscando los mejores pasos (roca firme, ambiente vertical). 
+ 
+1,76 km (1.518 m), 55 min. Cumbre del Castellet Gros. Se sigue adelante bajando la aguja por la derecha (O), se deja un diente rocoso a la izquierda (E) y se llega a una nueva brecha, muy acusada (1,90 km, 1.488 m). Se continúa en dirección a Les Agudes abordando el espolón que se alza al sur, por la izquierda, por el lado de levante. Por una canal se sube trepando a un peldaño de la cresta (1,94 km, 1.524 m). Se sigue en pendiente suave hasta quedar situados bajo el gran espolón terminal que se desprende de la cima de Les Agudes. 
+ 
+2,12 km (1.560 m), 1 h 10 min. Bifurcación. Hay que girar hacia la izquierda dirigiéndose con decisión al filo de la cresta (señales amarillas). El sendero que sigue recto hacia el sur permite salvar esta última pilastra, de aspecto formidable pero menos difícil de lo que aparenta, yendo directamente al collado de Sesagudes, situado en la cresta sur de Les Agudes, desde donde se gana la cima sin ninguna dificultad. 
+ 
+Este tramo recibe el nombre de Esglaons de Les Agudes. Girando, pues, a la izquierda (N-NE), se acomete un primer contrafuerte vertical que sitúa el itinerario de nuevo en el filo de la cresta (paso derecho y corto sobre roca firme). Por un peñascal menos empinado, siguiendo las señales amarillas, hay que acercarse a la base del espolón terminal, que se supera en diagonal por un canalón vertical pero fácil. Este paso es la última dificultad que ofrece el recorrido. Siguiendo la cresta se sale al Collet de Les Agudes (2:38 km, 1.687 m) y, sin ninguna otra dificultad, se llega a la cima. 
+ 
+2,45 km (1.705 m), 1 h 35 min. Les Agudes. Segundo pico en altitud del Montseny, pero el más esbelto y atractivo, de amplias panorámicas sobre la región nordoriental del Principado, que abarca desde los Pirineos y Prepirineo Orientales (donde son fácilmente identificables el Pedraforca, el Cadí, el Puigmal, el Canigó , etc.) hasta la costa y las sierras prelitorales y litorales de más al sur, donde destacan Montserrat, Sant Llorenç de Munt y Collserola. Magníficas vistas sobre el entorno cercano, valle de Santa Fe, Guilleries, Matagalls, Collsacabra. 
+ 
+El itinerario se dirige hacia el Turó de l’Home, siguiendo el marcado camino del SO. 
+ 
+2,70 km (1.659 m), 1 h 39 min. Collada de Sesagudes, donde se encuentra el recorrido del sendero GR 5.2 que se tomará a la vuelta (señalización; aquí es donde se hubiera llegado de haberse tomado el sendero de la desviación situada bajo el último contrafuerte de la cresta. Se sigue adelante siguiendo el GR por el lomo, primero por su parte oeste, luego por el este. Se desemboca en el collado de Sesbasses (4,01 km, 1.644 m), se cruza la pista asfaltada que lleva a la cima de Puig Sesolles y, por el camino del otro lado, se llega a la cima del Montseny. 
+ 
+4,37 km (1.707 m), 2 h 5 min. Turó de l’Home, punto culminante del macizo. Abrigado, a levante, está el observatorio meteorológico construido en 1932 por el Centre Excursionista de Catalunya. La visión desde este punto complementa la de Les Agudes y se extiende sobre el valle del Tordera y el Vallès Oriental. Se vuelve atrás por el mismo camino. 
+ 
+6,04 km (1.659 m), 2 h 28 min. Collada de Sesagudes. Bifurcación; se gira a la izquierda y se emprende la bajada de la vertiente oeste de Les Agudes siguiendo las señales del GR (pintura de rayas blancas y rojas). Ciento cincuenta metros más allá se gira pronunciadamente a la izquierda dejando a la derecha el sendero que proviene del recorrido de Els Castellets. A partir de este punto hay que prestar atención a las señales del GR convenientemente situadas en las curvas del sendero pero desde la perspectiva inversa, de subida, que a veces quedan ocultos tras los troncos. En el primer tramo de la bajada, diversos hitos de piedra estratégicamente situados ayudan a la identificación del recorrido. 
+ 
+Describiendo numerosos zigzags, el itinerario recorre el flanco de Els Emprius bajando decididamente entre el frondoso hayedo de la vertiente occidental de Les Agudes, de inusual belleza. En cinco ocasiones se cruzarán bancales de antiguas plazas carboneras de las que quedan, apenas, los muros de contención. En el punto 7,80 km (1.210 m) se atraviesa un largo canchal situado en la vertical de la cima de Les Agudes: un poco más adelante, después de un giro a la izquierda en acusada pendiente, se desemboca en un camino ancho. 
+ 
+7,95 km (1.200), 3 h 12 min. Camino forestal proveniente de Sant Marçal. Hay que tomarlo hacia la izquierda, girando del todo hacia el sur y siguiendo las señales del GR. Más allá, el camino gira de nuevo al norte; ya no se dejará hasta debajo de la carretera. Se pasan los arroyos de El Pedregar y de la Font del Calvari y se sale en los llanos de la Jaça de la Costa. El camino se convierte en una pista ancha. 
+ 
+ 9,42 km (1.128 m), 3 h 32 min. Bifurcación. Se sigue por el desvío de la derecha abandonando el recorrido del GR, que se dirige a Sant Marçal. Cien metros más adelante se deja a la derecha el camino de la Barraca d’en Codony. El camino gira a poniente y hay que tener cuidado en la próxima desviación. 
+ 
+9,76 km (1.141 m), 3 h 38 min. Desvío a la derecha, poco visible, que sube a la carretera de Sant Marçal a Santa Fe (señal indicadora a la izquierda de la pista). Se deja la pista, se toma el sendero y se sale a la carretera a la altura del collado de Sesferreres (9,95 km, 1.152 m). Se vuelve al punto de inicio recorriendo por el asfalto los 0,65 km que separan este lugar del estacionamiento del Pla d’en Mon. 
+ 
+10,42 km (1.157 m), 3 h 48 min. Área de estacionamiento de Sesferreres. Final del recorrido.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.802879" lon="2.434571">
+        <ele>1189.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802623" lon="2.435543">
+        <ele>1207.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802407" lon="2.435786">
+        <ele>1214.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802405" lon="2.436218">
+        <ele>1222.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802055" lon="2.436498">
+        <ele>1230.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801974" lon="2.437288">
+        <ele>1245.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801280" lon="2.438682">
+        <ele>1269.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801170" lon="2.439153">
+        <ele>1274.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801293" lon="2.439477">
+        <ele>1277.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800948" lon="2.439781">
+        <ele>1286.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800733" lon="2.440884">
+        <ele>1296.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800463" lon="2.441012">
+        <ele>1301.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800312" lon="2.441375">
+        <ele>1304.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799985" lon="2.440842">
+        <ele>1311.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799819" lon="2.440934">
+        <ele>1317.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799717" lon="2.441284">
+        <ele>1331.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799293" lon="2.441263">
+        <ele>1346.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798995" lon="2.442048">
+        <ele>1360.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799052" lon="2.442559">
+        <ele>1369.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798755" lon="2.442664">
+        <ele>1376.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798184" lon="2.443360">
+        <ele>1385.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797785" lon="2.443208">
+        <ele>1399.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797216" lon="2.443339">
+        <ele>1412.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796793" lon="2.443024">
+        <ele>1407.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796258" lon="2.442240">
+        <ele>1428.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795579" lon="2.442089">
+        <ele>1432.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794751" lon="2.442488">
+        <ele>1458.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795219" lon="2.442861">
+        <ele>1490.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795182" lon="2.442971">
+        <ele>1489.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793973" lon="2.442699">
+        <ele>1515.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793904" lon="2.442562">
+        <ele>1511.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793685" lon="2.442786">
+        <ele>1503.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793229" lon="2.442712">
+        <ele>1486.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793011" lon="2.443081">
+        <ele>1489.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792439" lon="2.443206">
+        <ele>1523.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792341" lon="2.443110">
+        <ele>1529.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792126" lon="2.443328">
+        <ele>1538.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791459" lon="2.442751">
+        <ele>1560.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.791318" lon="2.443402">
+        <ele>1607.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790986" lon="2.443796">
+        <ele>1652.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790707" lon="2.443768">
+        <ele>1667.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790618" lon="2.443997">
+        <ele>1674.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790211" lon="2.443628">
+        <ele>1693.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789442" lon="2.443940">
+        <ele>1704.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789240" lon="2.443901">
+        <ele>1702.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788573" lon="2.442884">
+        <ele>1665.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788030" lon="2.442510">
+        <ele>1647.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787672" lon="2.441969">
+        <ele>1646.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787269" lon="2.441696">
+        <ele>1650.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.786636" lon="2.440933">
+        <ele>1649.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785760" lon="2.439641">
+        <ele>1654.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785433" lon="2.439072">
+        <ele>1653.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785212" lon="2.438081">
+        <ele>1660.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784728" lon="2.437233">
+        <ele>1660.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783250" lon="2.436144">
+        <ele>1645.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782374" lon="2.434907">
+        <ele>1633.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780729" lon="2.433874">
+        <ele>1628.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.779728" lon="2.433534">
+        <ele>1623.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778668" lon="2.433369">
+        <ele>1644.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777973" lon="2.433922">
+        <ele>1654.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776777" lon="2.435305">
+        <ele>1689.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776597" lon="2.435355">
+        <ele>1693.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776371" lon="2.435194">
+        <ele>1698.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776513" lon="2.434856">
+        <ele>1706.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776375" lon="2.435212">
+        <ele>1697.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.776777" lon="2.435305">
+        <ele>1689.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.777973" lon="2.433922">
+        <ele>1654.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.778668" lon="2.433369">
+        <ele>1644.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.779728" lon="2.433534">
+        <ele>1623.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.780729" lon="2.433874">
+        <ele>1628.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.782374" lon="2.434907">
+        <ele>1633.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.783250" lon="2.436144">
+        <ele>1645.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.784778" lon="2.437292">
+        <ele>1661.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785235" lon="2.438135">
+        <ele>1660.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.785500" lon="2.439196">
+        <ele>1652.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787269" lon="2.441696">
+        <ele>1650.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787800" lon="2.442143">
+        <ele>1644.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788776" lon="2.442166">
+        <ele>1636.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788834" lon="2.442009">
+        <ele>1627.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788373" lon="2.441652">
+        <ele>1608.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788153" lon="2.440938">
+        <ele>1580.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787768" lon="2.440514">
+        <ele>1585.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787862" lon="2.440327">
+        <ele>1572.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787493" lon="2.439542">
+        <ele>1541.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787984" lon="2.439393">
+        <ele>1511.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788345" lon="2.439619">
+        <ele>1508.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787949" lon="2.438768">
+        <ele>1480.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.787956" lon="2.438406">
+        <ele>1474.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788078" lon="2.438417">
+        <ele>1465.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788206" lon="2.437905">
+        <ele>1454.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788018" lon="2.436668">
+        <ele>1435.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788192" lon="2.435361">
+        <ele>1404.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788398" lon="2.435901">
+        <ele>1405.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788474" lon="2.435780">
+        <ele>1398.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.788858" lon="2.436053">
+        <ele>1375.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789010" lon="2.435769">
+        <ele>1363.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789051" lon="2.434968">
+        <ele>1346.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789637" lon="2.436052">
+        <ele>1328.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.789894" lon="2.436032">
+        <ele>1322.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790364" lon="2.436329">
+        <ele>1306.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790102" lon="2.435326">
+        <ele>1292.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790020" lon="2.434292">
+        <ele>1290.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.790580" lon="2.434558">
+        <ele>1262.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792623" lon="2.434806">
+        <ele>1210.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793178" lon="2.434157">
+        <ele>1200.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792592" lon="2.434054">
+        <ele>1183.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792405" lon="2.433646">
+        <ele>1182.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.792946" lon="2.433611">
+        <ele>1177.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.793912" lon="2.432429">
+        <ele>1159.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794285" lon="2.432300">
+        <ele>1160.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794516" lon="2.432472">
+        <ele>1165.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.794922" lon="2.433498">
+        <ele>1155.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.795106" lon="2.435277">
+        <ele>1129.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796314" lon="2.434635">
+        <ele>1131.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.796774" lon="2.434673">
+        <ele>1127.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797127" lon="2.435169">
+        <ele>1116.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797282" lon="2.434638">
+        <ele>1119.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797681" lon="2.434310">
+        <ele>1122.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.797787" lon="2.433803">
+        <ele>1125.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.798954" lon="2.433101">
+        <ele>1127.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799375" lon="2.432550">
+        <ele>1127.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.799681" lon="2.432505">
+        <ele>1128.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800016" lon="2.432983">
+        <ele>1127.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800369" lon="2.432354">
+        <ele>1130.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800769" lon="2.432242">
+        <ele>1128.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801229" lon="2.431426">
+        <ele>1132.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801769" lon="2.431325">
+        <ele>1133.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802193" lon="2.431513">
+        <ele>1132.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802881" lon="2.431297">
+        <ele>1133.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802979" lon="2.431061">
+        <ele>1136.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802783" lon="2.430642">
+        <ele>1140.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802849" lon="2.430352">
+        <ele>1141.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803336" lon="2.431377">
+        <ele>1144.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803462" lon="2.431430">
+        <ele>1147.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803704" lon="2.431235">
+        <ele>1152.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803737" lon="2.431404">
+        <ele>1153.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803675" lon="2.431633">
+        <ele>1155.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.803164" lon="2.432143">
+        <ele>1161.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802907" lon="2.433066">
+        <ele>1165.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802222" lon="2.433716">
+        <ele>1174.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802079" lon="2.434030">
+        <ele>1175.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801987" lon="2.434537">
+        <ele>1178.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802146" lon="2.434866">
+        <ele>1181.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802813" lon="2.434873">
+        <ele>1187.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802852" lon="2.434565">
+        <ele>1189.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.150880" lon="2.660335">
+    <ele>313.3</ele>
+    <time>2014-04-25T13:10:35Z</time>
+    <name>DESVIACIO</name>
+    <desc>14-ENE-06 12:30</desc>
+  </wpt>
+  <wpt lat="42.162677" lon="2.680683">
+    <ele>203.6</ele>
+    <time>2014-04-25T13:10:35Z</time>
+    <name>CASTELL DE R0CA</name>
+    <desc>14-ENE-06 11:35</desc>
+  </wpt>
+  <wpt lat="42.157126" lon="2.671565">
+    <ele>316.4</ele>
+    <time>2014-04-25T13:10:36Z</time>
+    <name>MAS DE LA CADAMONT</name>
+    <desc>14-ENE-06 12:12</desc>
+  </wpt>
+  <wpt lat="42.151429" lon="2.652961">
+    <ele>278.0</ele>
+    <time>2014-04-25T13:10:36Z</time>
+    <name>ORATORI DE LA MARE DE DÉU</name>
+    <desc>14-ENE-06 12:40</desc>
+  </wpt>
+  <wpt lat="42.168839" lon="2.670123">
+    <ele>237.7</ele>
+    <time>2014-04-25T13:10:37Z</time>
+    <name>DESVIACIÓ DEL GR</name>
+    <desc>14-ENE-06 10:59</desc>
+  </wpt>
+  <wpt lat="42.151371" lon="2.679499">
+    <ele>199.6</ele>
+    <time>2014-04-25T13:10:37Z</time>
+    <name>FONT DE LA TEULA I DESVIACIÓ</name>
+    <desc>14-ENE-06 11:51</desc>
+  </wpt>
+  <wpt lat="42.166659" lon="2.657074">
+    <ele>233.5</ele>
+    <time>2014-04-25T13:10:38Z</time>
+    <name>FINAL PISTA PAVIMENTADA</name>
+    <desc>14-ENE-06 10:40</desc>
+  </wpt>
+  <wpt lat="42.126368" lon="2.640165">
+    <ele>270.1</ele>
+    <time>2014-04-25T13:10:38Z</time>
+    <name>ESCOLES DE MIERES</name>
+    <desc>14-ENE-06 10:04</desc>
+  </wpt>
+  <wpt lat="42.166460" lon="2.678275">
+    <ele>212.1</ele>
+    <time>2014-04-25T13:10:39Z</time>
+    <name>PORTA</name>
+    <desc>14-ENE-06 11:28</desc>
+  </wpt>
+  <wpt lat="42.151329" lon="2.657024">
+    <ele>302.4</ele>
+    <time>2014-04-25T13:10:39Z</time>
+    <name>PATI SANTUARI DEL COLLELL</name>
+    <desc>14-ENE-06 12:36</desc>
+  </wpt>
+  <wpt lat="42.157959" lon="2.646264">
+    <ele>239.0</ele>
+    <time>2014-04-25T13:10:40Z</time>
+    <name>RIEROL</name>
+    <desc>14-ENE-06 12:55</desc>
+  </wpt>
+  <wpt lat="42.160459" lon="2.645524">
+    <ele>244.8</ele>
+    <time>2014-04-25T13:10:40Z</time>
+    <name>EL TORN</name>
+    <desc>14-ENE-06 10:13</desc>
+  </wpt>
+  <wpt lat="42.154070" lon="2.649254">
+    <ele>260.0</ele>
+    <time>2014-04-25T13:10:41Z</time>
+    <name>VILALLONGA</name>
+    <desc>VILALLONGA</desc>
+  </wpt>
+  <wpt lat="42.154430" lon="2.664750">
+    <ele>351.1</ele>
+    <time>2014-04-25T13:10:41Z</time>
+    <name>CAMÍ A SANT FELIU DE VENTAJOL</name>
+    <desc>CAMÍ A SANT FELIU DE VENTAJOL</desc>
+  </wpt>
+  <wpt lat="42.153234" lon="2.660264">
+    <ele>329.5</ele>
+    <time>2014-04-25T13:10:42Z</time>
+    <name>INSTAL·LACIONS ESPORTIVES DEL COLLELL</name>
+    <desc>INSTAL·LACIONS ESPORTIVES DEL COLLELL</desc>
+  </wpt>
+  <wpt lat="42.162360" lon="2.681505">
+    <ele>194.5</ele>
+    <time>2014-04-25T13:10:42Z</time>
+    <name>MOLÍ DE ROCA</name>
+    <desc>MOLÍ DE ROCA</desc>
+  </wpt>
+  <wpt lat="42.168115" lon="2.671358">
+    <ele>233.2</ele>
+    <time>2014-04-25T13:10:43Z</time>
+    <name>MAS DE CAN BRUGADA</name>
+    <desc>MAS DE CAN BRUGADA</desc>
+  </wpt>
+  <wpt lat="42.167629" lon="2.662707">
+    <ele>233.8</ele>
+    <time>2014-04-25T13:10:43Z</time>
+    <name>INICI SENDER</name>
+    <desc>INICI SENDER</desc>
+  </wpt>
+  <trk>
+    <name>De Mieres al Torn, el Ventatjol, Santa Maria del Collell i Vilallonga</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Mieres al Torn, el Ventatjol, Santa Maria del Collell i Vilallonga&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Plàcid recorregut entre Mieres i el Torn que solca una vall àmplia, verda i assolellada on les masies comparteixen espai amb pastures, conreus i boscos. Al Torn es pot visitar la bella església de Sant Andreu. Des d'aquesta població l'itinerari segueix el curs del riu Ser per entrar a la vall de Campmajor. Al cim de la ruta es passa pel santuari de Santa Maria del Collell, amb l'enorme edifici adossat del seminari utilitzat com a presó en temps de la Guerra d'Espanya, un episodi evocat a diverses novel·les i pel·lícules. Actualment aquest conjunt s'utilitza com a casa de colònies.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L'excursió comença al costat de les escoles de Mieres, on es pot estacionar el cotxe (s'hi arriba des d'Olot per la GI-524 en direcció a Banyoles). 
+ 
+Es pren la GI-524 en direcció a Olot i, tot seguit, en travessar un pont, es gira a mà dreta per la GIV-5243: tot el recorregut fins al Torn es farà per asfalt (és una carretera local poc transitada). 
+ 
+Es passa per la dreta d'un camp de futbol. El trajecte discorre per davant d'un entramat de carrers d'un projecte d'urbanització que finalment no es va arribar a realitzar. 
+ 
+Als 3,63 km, es deixa a la dreta una desviació (la GIP-5245) que, en 1 km, puja fins al santuari de Santa Maria del Collell. 
+ 
+De seguida s'arriba al Torn (km 4,48). Es pot descansar en una plaça restaurada situada vora el riu que compta amb una font i uns bancs de pedra. Al poble, cal visitar l'església de Sant Andreu del Torn. 
+ 
+Se surt del poble pel mateix carrer del davant de l'església cap al sud i girant de seguida a l'est. Se segueix el curs del Ser, que es creua per un gual una mica més enllà. 
+ 
+Al km 5,1, es deixa l'entrada a can Güell i, al 5,43, es passa pel costat del molí d'en Camps. 
+ 
+Al km 5,95, el camí gira a la dreta i s'acaba l'asfalt coincidint amb l'entrada al mas Cadevall. 
+ 
+Al cap d'una estona, i en passar per sobre d'una casa (km 6,58), el camí es transforma en un sender continuant en la mateixa direcció i amb les marques del GR 2. Comença un bonic tram emboscat durant el qual, en alguns indrets, hi ha vistes sobre el riu i, més endavant, es veu com s'obre la vall de Campmajor. 
+ 
+Al km 7,34, el GR marxa amunt per l'esquerra. Aleshores, cal seguir per un corriol en lleugera baixada a la dreta per entrar de seguida al llindar de can Brugada, on s'acaba. 
+ 
+Es passa per l'era d'un antic mas i, al cap d'uns metres, es gira a la dreta pel camí cimentat que condueix a la casa (km 7,77) deixant enrere la porta que dóna accés a la finca: si la porta es trobés tancada, es baixa a la llera del riu i es passa pel costat. 
+ 
+Al km 8,51, es troba -arribant per la dreta- la ruta temàtica marcada en ocasió del llibre &lt;i&gt;Soldados de Salamina&lt;/i&gt;, que evoca els fets ocorreguts al santuari del Collell al final de la Guerra Civil. Fins a arribar al Torn, es poden seguir els pals indicadors d'aquesta ruta. 
+ 
+Tot seguit, es creua el riu Ser i es passa pel costat de l'interessant castell de Roca, que té el seu propi molí uns metres més avall, en una edificació separada, i se segueix baixant per la tranquil·la vall. 
+ 
+Al km 10,16, cal deixar la pista i agafar un camí que s'enfila a la dreta, en el punt on hi ha també la font de la Teula, al Ritort, a l'altra banda de la pista. 
+ 
+Després d'una perllongada ascensió, es passa a tocar del mas de la Cadamont (km 11,65), on el camí vira completament a ponent. Ben aviat es deixa de pujar i, passada la desviació a la dreta que porta a Sant Feliu de Ventatjol (km 12,37), el camí comença una lleugera baixada cap al santuari de Santa Maria del Collell. 
+ 
+Al km 12,81, es passa pel costat d'uns camps esportius que s'utilitzen per a colònies infantils. 
+ 
+Al km 13,03, cal parar atenció per girar a la dreta passant pel costat d'una petita torre transformadora i accedir tot seguit al santuari pujant la rampa. La visita és obligada. 
+ 
+Situats al pati i a l'aparcament principal, davant la porta de l'església, cal buscar a l'altra banda del camí d'arribada la continuació de la ruta per un caminet al principi una mica desdibuixat. Es passa pel costat de l'oratori de la Mare de Déu (km 13,74) i, a continuació, vora els masos de Vilallonga i can Giralt. 
+ 
+Al km 14,74 es travessa un rierol tributari del Ser, a sota del mas de Maüc, i s'arriba al Torn, on tan sols queda desfer el camí fins a Mieres (km 19,59).&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Mieres al Torn, el Ventatjol, Santa Maria del Collell y Vilallonga&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Plácido recorrido entre Mieres y el Torn que surca un valle amplio, verde y soleado donde las masías comparten espacio con pastos, cultivos y bosques. En El Torn se puede visitar la hermosa iglesia de Sant Andreu. Desde esta población el itinerario sigue el curso del río Ser para entrar en el valle de Campmajor. En la cima de la ruta se pasa por el santuario de Santa Maria del Collell, con el enorme edificio adosado del seminario, utilizado como prisión en tiempos de la Guerra Civil de España, un episodio evocado en varias novelas y películas. Actualmente este conjunto se utiliza como casa de colonias.&lt;/i&gt; 
+Ruta señalizada parcialmente. 
+ 
+La excursión comienza junto a las escuelas de Mieres, adonde se puede estacionar el coche (se llega a esta población desde Olot por la GI-524 en dirección a Banyoles). 
+ 
+Se toma la GI-524 en dirección a Olot y, a continuación, al atravesar un puente, se gira a mano derecha por la GIV-5243: todo el recorrido hasta el Torn se hará por asfalto (es una carretera local poco transitada). 
+ 
+Se pasa por la derecha de un campo de fútbol. El trayecto discurre por delante de un entramado de calles de un proyecto de urbanización que finalmente no se llegó a realizar. 
+ 
+A los 3,63 km, se deja a la derecha un desvío (la GIP-5245) que, en 1 km, sube hasta el santuario de Santa Maria del Collell. 
+ 
+Enseguida se llega al Torn (km 4,48). Se puede descansar en una plaza restaurada situada cerca del río que cuenta con una fuente y unos bancos de piedra. En el pueblo, hay que visitar la iglesia de Sant Andreu del Torn. 
+ 
+Se sale del pueblo por la misma calle de enfrente de la iglesia hacia el sur y girando enseguida al este. Se sigue el curso del Ser, que se cruza por un vado un poco más allá. 
+ 
+En el km 5,1, se deja la entrada a Can Güell y, en el 5,43, se pasa junto al molino de En Camps. 
+ 
+En el km 5,95, el camino gira a la derecha y se acaba el asfalto coincidiendo con la entrada a la masía Cadevall. 
+ 
+Al cabo de un rato, y al pasar por encima de una casa (km 6,58), el camino se transforma en un sendero continuando en la misma dirección y con las marcas del GR 2. Comienza un bonito tramo por el bosque durante el cual, en algunos lugares, hay vistas sobre el río y, más adelante, se ve como se abre el valle de Campmajor. 
+ 
+En el km 7,34, el GR marcha hacia arriba por la izquierda. Entonces, hay que seguir por un sendero en ligera bajada a la derecha para entrar en seguida en el umbral de Can Brugada, donde acaba. 
+ 
+Se pasa por la era de un antiguo cortijo y, al cabo de unos metros, se gira a la derecha por el camino de cemento que conduce a la casa (km 7,77) dejando atrás la puerta que da acceso a la finca: si la puerta se encontrara cerrada, se baja al cauce del río y se pasa por el lado. 
+ 
+En el km 8,51, se encuentra -llegando por la derecha- la ruta temática marcada con ocasión del libro &lt;i&gt;Soldados de Salamina&lt;/i&gt;, que evoca los hechos ocurridos en el santuario del Collell al final de la Guerra Civil. Hasta llegar al Torn, se pueden seguir los postes indicadores de esta ruta. 
+ 
+A continuación, se cruza el río Ser y se pasa junto al interesante castillo de Roca, que tiene su propio molino unos metros más abajo, en una edificación separada, y se sigue descendiendo por el tranquilo valle. 
+ 
+En el km 10,16, hay que dejar la pista y tomar un camino que sube a la derecha, en el punto donde está también la fuente de la Teula, en el Ritort, al otro lado de la pista. 
+ 
+Tras una prolongada ascensión, se pasa junto a la masía de la Cadamont (km 11,65), donde el camino gira completamente a poniente. Pronto se deja de subir y, pasada la desviación a la derecha que lleva a Sant Feliu de Ventatjol (km 12,37), el camino comienza una ligera bajada hacia el santuario de Santa Maria del Collell. 
+ 
+En el km 12,81, se pasa junto a unos campos deportivos que se utilizan para colonias infantiles. 
+ 
+En el km 13,03, hay que prestar atención para girar a la derecha pasando junto a una pequeña torre transformadora y acceder de inmediato al santuario subiendo la rampa. La visita es obligada. 
+ 
+Situados en el patio y el aparcamiento principal, delante de la puerta de la iglesia, hay que buscar al otro lado del camino de llegada la continuación de la ruta por un trayecto al principio un poco desdibujado. Se pasa junto al oratorio de la Virgen (km 13,74) y, a continuación, por el lado de las masías de Vilallonga y Can Giralt. 
+ 
+En el km 14,74, se atraviesa un arroyo tributario del Ser, debajo de la casa de Maüc, y se llega al Torn, donde sólo queda desandar el camino hasta Mieres (km 19,59).&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/13&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.126504" lon="2.640211">
+        <ele>270.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.126991" lon="2.640498">
+        <ele>270.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.127567" lon="2.639101">
+        <ele>272.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.127985" lon="2.638575">
+        <ele>271.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.128842" lon="2.640790">
+        <ele>268.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.129548" lon="2.641893">
+        <ele>268.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.129819" lon="2.642037">
+        <ele>271.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.130543" lon="2.642063">
+        <ele>268.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.131344" lon="2.643275">
+        <ele>270.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.132156" lon="2.643718">
+        <ele>270.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.132484" lon="2.643613">
+        <ele>272.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.133876" lon="2.642480">
+        <ele>274.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.135065" lon="2.642661">
+        <ele>272.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.136963" lon="2.642038">
+        <ele>271.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.137997" lon="2.641524">
+        <ele>267.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138551" lon="2.641878">
+        <ele>262.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138487" lon="2.642726">
+        <ele>262.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138681" lon="2.642942">
+        <ele>263.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.140260" lon="2.642685">
+        <ele>262.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.140986" lon="2.643069">
+        <ele>262.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.144215" lon="2.643305">
+        <ele>261.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.144556" lon="2.643037">
+        <ele>259.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.145038" lon="2.641588">
+        <ele>253.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.146664" lon="2.641412">
+        <ele>257.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.146980" lon="2.641586">
+        <ele>258.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.147813" lon="2.642961">
+        <ele>256.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.149180" lon="2.643734">
+        <ele>254.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150369" lon="2.643860">
+        <ele>253.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150734" lon="2.644107">
+        <ele>251.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151408" lon="2.644993">
+        <ele>250.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.153024" lon="2.645885">
+        <ele>246.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154205" lon="2.646175">
+        <ele>248.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154807" lon="2.645712">
+        <ele>248.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155540" lon="2.645484">
+        <ele>249.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158376" lon="2.645268">
+        <ele>245.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159748" lon="2.644801">
+        <ele>247.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160118" lon="2.644938">
+        <ele>244.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160344" lon="2.645342">
+        <ele>243.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160301" lon="2.645742">
+        <ele>244.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159977" lon="2.646142">
+        <ele>242.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159226" lon="2.646172">
+        <ele>238.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159358" lon="2.647081">
+        <ele>238.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160506" lon="2.648394">
+        <ele>235.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160595" lon="2.649337">
+        <ele>235.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160867" lon="2.649965">
+        <ele>234.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.161980" lon="2.650510">
+        <ele>233.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.163936" lon="2.651931">
+        <ele>230.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.164757" lon="2.653036">
+        <ele>230.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.164993" lon="2.653737">
+        <ele>228.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.165242" lon="2.655491">
+        <ele>229.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166642" lon="2.656941">
+        <ele>233.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166513" lon="2.657553">
+        <ele>231.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166636" lon="2.658218">
+        <ele>230.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167581" lon="2.658657">
+        <ele>230.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167785" lon="2.660714">
+        <ele>228.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167630" lon="2.661683">
+        <ele>230.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167671" lon="2.663512">
+        <ele>231.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167907" lon="2.663987">
+        <ele>230.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169062" lon="2.665347">
+        <ele>232.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169047" lon="2.665696">
+        <ele>222.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169572" lon="2.666747">
+        <ele>233.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169589" lon="2.668084">
+        <ele>234.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169345" lon="2.669139">
+        <ele>235.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169787" lon="2.669470">
+        <ele>237.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.169676" lon="2.669682">
+        <ele>238.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168856" lon="2.670076">
+        <ele>236.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168392" lon="2.670799">
+        <ele>236.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168206" lon="2.670771">
+        <ele>231.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168058" lon="2.671216">
+        <ele>231.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167936" lon="2.672482">
+        <ele>232.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168140" lon="2.673044">
+        <ele>232.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168058" lon="2.674293">
+        <ele>236.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.168181" lon="2.674649">
+        <ele>238.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167718" lon="2.675051">
+        <ele>230.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.167602" lon="2.677050">
+        <ele>224.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166995" lon="2.677168">
+        <ele>217.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166707" lon="2.677381">
+        <ele>213.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.166331" lon="2.678487">
+        <ele>211.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.165411" lon="2.679482">
+        <ele>212.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.165114" lon="2.680051">
+        <ele>215.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.164529" lon="2.679951">
+        <ele>207.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.163975" lon="2.680032">
+        <ele>202.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.163678" lon="2.679876">
+        <ele>207.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.163085" lon="2.680503">
+        <ele>208.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.162720" lon="2.680517">
+        <ele>205.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.162446" lon="2.680283">
+        <ele>203.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.161958" lon="2.680163">
+        <ele>199.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.161606" lon="2.679097">
+        <ele>196.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.161068" lon="2.678982">
+        <ele>197.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160558" lon="2.678367">
+        <ele>198.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160364" lon="2.678314">
+        <ele>201.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159754" lon="2.679087">
+        <ele>206.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159087" lon="2.678980">
+        <ele>205.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158745" lon="2.679096">
+        <ele>205.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158267" lon="2.679583">
+        <ele>203.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155213" lon="2.681359">
+        <ele>203.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.153893" lon="2.681208">
+        <ele>199.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152035" lon="2.680159">
+        <ele>200.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151123" lon="2.679189">
+        <ele>203.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151338" lon="2.678898">
+        <ele>208.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151307" lon="2.678005">
+        <ele>217.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150505" lon="2.675459">
+        <ele>230.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150535" lon="2.675150">
+        <ele>232.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150890" lon="2.674846">
+        <ele>237.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150898" lon="2.674314">
+        <ele>240.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151243" lon="2.673816">
+        <ele>246.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151426" lon="2.673222">
+        <ele>251.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152072" lon="2.672275">
+        <ele>261.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154369" lon="2.671204">
+        <ele>270.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154649" lon="2.671329">
+        <ele>268.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154949" lon="2.672399">
+        <ele>277.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155657" lon="2.672764">
+        <ele>285.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156191" lon="2.672157">
+        <ele>293.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155798" lon="2.671868">
+        <ele>299.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156166" lon="2.671310">
+        <ele>307.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156674" lon="2.671083">
+        <ele>313.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156999" lon="2.671214">
+        <ele>317.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156212" lon="2.670184">
+        <ele>322.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155642" lon="2.667712">
+        <ele>328.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155097" lon="2.667394">
+        <ele>332.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154779" lon="2.666476">
+        <ele>338.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154943" lon="2.665537">
+        <ele>342.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154396" lon="2.664784">
+        <ele>350.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154532" lon="2.663549">
+        <ele>344.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154693" lon="2.663173">
+        <ele>347.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154127" lon="2.660610">
+        <ele>339.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152663" lon="2.660442">
+        <ele>326.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152245" lon="2.660572">
+        <ele>324.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150875" lon="2.660379">
+        <ele>314.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150881" lon="2.659175">
+        <ele>306.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151661" lon="2.657919">
+        <ele>307.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151458" lon="2.657775">
+        <ele>304.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151429" lon="2.657157">
+        <ele>303.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151033" lon="2.657183">
+        <ele>301.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150974" lon="2.657038">
+        <ele>299.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151224" lon="2.656371">
+        <ele>298.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151157" lon="2.655167">
+        <ele>286.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151329" lon="2.654095">
+        <ele>281.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151634" lon="2.653610">
+        <ele>278.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151397" lon="2.652746">
+        <ele>277.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151709" lon="2.651437">
+        <ele>273.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151888" lon="2.651097">
+        <ele>272.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152733" lon="2.650772">
+        <ele>272.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.152930" lon="2.650317">
+        <ele>268.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154408" lon="2.649353">
+        <ele>262.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155558" lon="2.648276">
+        <ele>246.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.156677" lon="2.647592">
+        <ele>244.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.157243" lon="2.647401">
+        <ele>248.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.157723" lon="2.646854">
+        <ele>241.6</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158077" lon="2.646150">
+        <ele>238.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158855" lon="2.645970">
+        <ele>240.0</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159716" lon="2.646199">
+        <ele>241.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160134" lon="2.646041">
+        <ele>242.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160344" lon="2.645342">
+        <ele>243.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.160118" lon="2.644938">
+        <ele>244.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.159748" lon="2.644801">
+        <ele>247.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.158376" lon="2.645268">
+        <ele>245.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.155540" lon="2.645484">
+        <ele>249.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154807" lon="2.645712">
+        <ele>248.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.154205" lon="2.646175">
+        <ele>248.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.153024" lon="2.645885">
+        <ele>246.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.151408" lon="2.644993">
+        <ele>250.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150734" lon="2.644107">
+        <ele>251.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.150369" lon="2.643860">
+        <ele>253.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.149180" lon="2.643734">
+        <ele>254.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.147813" lon="2.642961">
+        <ele>256.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.146980" lon="2.641586">
+        <ele>258.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.146664" lon="2.641412">
+        <ele>257.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.145038" lon="2.641588">
+        <ele>253.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.144556" lon="2.643037">
+        <ele>259.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.144215" lon="2.643305">
+        <ele>261.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.140986" lon="2.643069">
+        <ele>262.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.140260" lon="2.642685">
+        <ele>262.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138681" lon="2.642942">
+        <ele>263.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138487" lon="2.642726">
+        <ele>262.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.138551" lon="2.641878">
+        <ele>262.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.137997" lon="2.641524">
+        <ele>267.2</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.136963" lon="2.642038">
+        <ele>271.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.135065" lon="2.642661">
+        <ele>272.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.133876" lon="2.642480">
+        <ele>274.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.132484" lon="2.643613">
+        <ele>272.8</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.132156" lon="2.643718">
+        <ele>270.4</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.131344" lon="2.643275">
+        <ele>270.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.130543" lon="2.642063">
+        <ele>268.7</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.129819" lon="2.642037">
+        <ele>271.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.129548" lon="2.641893">
+        <ele>268.9</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.128842" lon="2.640790">
+        <ele>268.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.127985" lon="2.638575">
+        <ele>271.5</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.127567" lon="2.639101">
+        <ele>272.3</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.126991" lon="2.640498">
+        <ele>270.1</ele>
+        <time>2005-09-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.126504" lon="2.640211">
+        <ele>270.1</ele>
+        <time>2005-09-20T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

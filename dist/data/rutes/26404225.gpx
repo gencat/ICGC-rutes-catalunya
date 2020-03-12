@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.025123" lon="1.060368">
+    <ele>1070.6</ele>
+    <time>2015-01-24T11:42:18Z</time>
+    <name>Roca Roja</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.017166" lon="1.079770">
+    <ele>921.7</ele>
+    <time>2015-01-24T09:35:26Z</time>
+    <name>Montadó</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.017148" lon="1.081183">
+    <ele>916.4</ele>
+    <time>2015-01-24T09:46:57Z</time>
+    <name>Santa Anna de Montadó</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.038655" lon="1.052253">
+    <ele>1047.4</ele>
+    <time>2018-04-06T13:58:42Z</time>
+    <name>Bonrepòs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.034650" lon="1.057691">
+    <ele>1034.9</ele>
+    <time>2018-04-06T13:59:30Z</time>
+    <name>Termenat Gavet de la C-Vilanova de M</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.027814" lon="1.077829">
+    <ele>1034.1</ele>
+    <time>2018-04-06T14:08:32Z</time>
+    <name>Cal Castellí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.035949" lon="1.082982">
+    <ele>1058.1</ele>
+    <time>2018-04-06T14:09:19Z</time>
+    <name>La Casa Blanca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.017091" lon="1.077979">
+    <ele>910.2</ele>
+    <time>2018-04-06T14:10:37Z</time>
+    <name>Cova de Montadó</name>
+    <desc>O de Montadó de Dalt</desc>
+  </wpt>
+  <wpt lat="42.038402" lon="1.073338">
+    <ele>1074.8</ele>
+    <time>2018-04-06T14:12:44Z</time>
+    <name>Dolmen de Montadó</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.016590" lon="1.079260">
+    <ele>879.2</ele>
+    <time>2018-04-06T14:55:10Z</time>
+    <name>Cova de Joan Pau</name>
+    <desc>O de Montadó de Baix</desc>
+  </wpt>
+  <wpt lat="42.013550" lon="1.060976">
+    <ele>775.5</ele>
+    <time>2018-04-06T16:12:49Z</time>
+    <name>Cabana de Guerra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.039068" lon="1.052984">
+    <ele>1048.0</ele>
+    <time>2018-06-17T08:34:46Z</time>
+    <name>Senyalització</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.028676" lon="1.051674">
+    <ele>957.0</ele>
+    <time>2018-06-17T09:47:58Z</time>
+    <name>Corriol prop del riu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.026821" lon="1.054782">
+    <ele>939.0</ele>
+    <time>2018-06-17T10:04:18Z</time>
+    <name>Per sota el cingle</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.024518" lon="1.056922">
+    <ele>897.0</ele>
+    <time>2018-06-17T10:11:11Z</time>
+    <name>Fites</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.023157" lon="1.057042">
+    <ele>869.0</ele>
+    <time>2018-06-17T10:15:06Z</time>
+    <name>Torrent</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.022474" lon="1.057941">
+    <ele>862.0</ele>
+    <time>2018-06-17T10:17:26Z</time>
+    <name>Abric natural</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.021596" lon="1.058704">
+    <ele>843.0</ele>
+    <time>2018-06-17T10:23:28Z</time>
+    <name>No s'ha de passar el torrent</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.010650" lon="1.071483">
+    <ele>757.0</ele>
+    <time>2018-06-17T11:28:40Z</time>
+    <name>Fites</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.016950" lon="1.078628">
+    <ele>918.0</ele>
+    <time>2018-06-17T12:39:10Z</time>
+    <name>Arran de paret</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.032613" lon="1.074540">
+    <ele>1067.0</ele>
+    <time>2018-06-17T13:33:32Z</time>
+    <name>Roure</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.038038" lon="1.073128">
+    <ele>1071.0</ele>
+    <time>2018-06-17T13:43:53Z</time>
+    <name>Cadenat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.042980" lon="1.073747">
+    <ele>1067.0</ele>
+    <time>2018-06-22T06:56:36Z</time>
+    <name>Termenat Gavet de la C-Isona</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.013208" lon="1.073258">
+    <ele>815.0</ele>
+    <time>2018-06-22T06:57:46Z</time>
+    <name>Termenat Vilanova de Meià-Isona</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.043889" lon="1.066169">
+    <ele>1026.0</ele>
+    <time>2018-06-17T08:32:16Z</time>
+    <name>GR 1</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.038498" lon="1.051027">
+    <ele>1037.0</ele>
+    <time>2018-06-17T08:34:46Z</time>
+    <name>GR 1</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.032199" lon="1.048207">
+    <ele>977.0</ele>
+    <time>2018-06-17T09:23:45Z</time>
+    <name>GR 1</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.014666" lon="1.074300">
+    <ele>826.0</ele>
+    <time>2018-06-17T11:28:40Z</time>
+    <name>Fites</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.016124" lon="1.075283">
+    <ele>861.0</ele>
+    <time>2018-06-17T12:12:02Z</time>
+    <name>Fites</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Bonrepòs a Montadó pel barranc de Cuba i tornant per cal Castellí</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Bonrepòs a Montadó pel barranc de Cuba i tornant per cal Castellí&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;La ruta que es proposa visita l’entorn feréstec de les serres disposades entre el port de Comiols i el congost del Pas Nou, on s’inicia el Montsec de Rúbies. Remotes i solitàries, són de constitució calcària i estan solcades per profunds barrancs que drenen l’aigua cap a la conca de Meià, al sud. D’entre ells destaca el barranc de Cuba, encaixonat entre les cingleres de les serres de Lo Tamany i Lo Pelat. Aquests relleus intricats i de difícil accés van estar poblats des de la prehistòria fins a principis del segle XX, en el cas de Montadó; ara però de l’antic terme únicament resten dues masies en activitat. Tot i que no hi ha cap dificultat tècnica especial el recorregut té trams on el camí es desdibuixa i la senyalització és precària. No indicat per a excursionistes poc avesats a l’orientació.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; 
+L’itinerari té el seu inici al santuari de la Mare de Déu de Bonrepòs, terme de Gavet de la Conca, Pallars Jussà. S’hi arriba en vehicle des de la carretera d’Artesa de Segre a Tremp (C-74) prenent al mateix coll de Comiols la carretera local L-911 en direcció a Sant Salvador de Toló. En el punt Km 2,5 d’aquest vial neix una pista de terra ampla i en molt bon estat que porta al Santuari. 
+ 
+0,00 km (1.049 m). Santuari de la Mare de Déu de Bonrepòs, esplanada situada al costat de l’ermita amb la casa de Bonrepòs a la dreta i l’alberg més lluny i al nord. Hi ha una font. Es comença a caminar prenent el camí que es dirigeix cap a ponent passant pel costat obac del santuari, que es té a mà esquerra. Senyalització del sender GR 1 (marques blanques i vermelles) que se seguirà fins a la capçalera del barranc de Cuba. 
+ 
+El santuari de la Mare de Déu de Bonrepòs té l'origen en un ermitatge del segle XI, coincident en el temps amb la conquesta del territori als alarbs liderada per Arnau Mir de Tost. És, també, el centre d’una finca forestal de 420 ha propietat de la Diputació de Lleida. Al conjunt de dependències del santuari i mas adjacents s’hi ha afegit un alberg de joventut. 
+ 
+Al cap de 625 m el camí gira al sud. Es deixa un trencall que se’n va a la dreta (O) i comença una baixada que el camí recorre fent dues àmplies ziga-zagues. Un cop al fons de la vall la pista es desdibuixa en els camps de conreu. Cal seguir el camí que els voreja pel cantó de llevant. 
+ 
+1,40 km (977 m), 19 min. Es GR-1 se’n va cap a l’Hostal Roig pel camí que surt a la dreta (SO). Es continua recte pel fons de la vall que insinua ja el naixement del torrent de Cuba, sempre cap al S. El camí convertit en corriol es desdibuixa de tant en tant. Cal estar alerta i mantenir-se sempre al costat oriental del torrent, que s’haurà de mantenir sempre a la dreta del recorregut. Aviat el torrent s’encaixona. S’han de deixar les incipients cingleres de Lo Tamany a l’esquerra (E). De tant en tant es troben fites de pedra orientadores. El camí discorre entre un bosc d’alzina espès. 
+ 
+2,95 km (858 m), 40 min. Es passa pel costat d’un abric format per una espluga situada sota uns grans blocs. Una mica més enllà (3,06 km, 844 m) hi ha una desviació a la dreta que creua el torrent. No s’ha de prendre, cal continuar pel fons del barranc, cap al sud. El camí s’allunya del torrent, que es va distanciant a la dreta. Més endavant (3,60 km, 792 m) s’inicia una baixada; el corriol desemboca en uns camps de conreu mig abandonats, on es pren un camí ample que enllaça amb una pista. 
+ 
+3,96 km (763 m), 54 min. Camí de Fabregada, pista ampla i ben formada provinent del coll de Cabeces i de la carretera de Vilanova de Meià a l’Hostal Roig. Es pren cap a l’esquerra (SE) en suau pujada, abandonant el vessant de Cuba per tal de tramuntar la serra de Lo Tamany cap a Montadó. Poc més enllà es deixen a la dreta dues bordes de pagès, una d’elles anomenada Cabana de Guerra. En baixada encara, es deixen a la dreta dos trencalls d’accés als camps de conreu. 
+ 
+5,08 km (731 m), 1 h 10 min. Es creua el torrent del Cabirol i es comença una remuntada que no s’aturarà fins ben passat can Castellí. El camí gira al SE passant per sota dels petits cingles occidentals del serrat de la Cova. Just en travessar la carena de la serra el camí s’acaba. 
+ 
+5,62 km (763 m), 1 h 9 min. Final del camí que se seguia. Cal prendre un corriol desdibuixat que neix a l’esquerra (fites) en direcció nord. Se segueix per un terreny calcàri, cobert d’arbusts, entre els quals el viarany va fent el seu camí, en pujada i sempre cap al nord. Cal fixar-se en les fites que assenyalen l’itinerari. Passada la cota 850 m el camí s’aplana. A la dreta (NNE) es veuen ja les parets mig enrunades de Montadó. Es travessa horitzontalment cap al NE, es passa el torrent de Santa Anna (6,57 km, 852 m) i es puja descrivint ziga-zagues cap a la ben visible balma de Montadó, o cova de Montadó, situada a la base d’una petita cinglera, on hi ha les restes d’una gran casa balmada (6,93 km, 911 m). Es passa enmig de les parets dels corrals i dels edificis i, arran de paret, s’arriba a les ruïnes de Montadó. 
+ 
+Per als interessats en restes històriques, una mica més avall del camí entre la cova de Montadó i Montadó hi ha una segona balma dita Cova de Joan Pau (cota 879 m). 
+ 
+7,11 km (921 m), 1 h 40 min. Montadó. Antic nucli abandonat a principis del segle XX, estratègicament situat damunt la conca de Meià. Va estar vinculat al priorat de Meià i va arribar a ser una parròquia sufragània de Santa Margarida de Benavent. Actualment pertany al municipi d’Isona i Conca Dellà (Pallars Jussà). D’allò que va ser un poblat viu que acollia més de 40 persones no en resten sinó les parets d’algunes cases. 
+ 
+Es travessen els enderrocs pel nord, arran de la paret del cingle que servia d’abric als habitacles i, sense guanyar ni perdre alçada, es travessa el torrent de Sant Miquel i es fa cap a l’església de Santa Anna de Montadó (7,36 km, 919 m), situada a l’altra banda de la barrancada, aplomada sobre el balç. Es tracta d’un edifici d'una sola nau malauradament en molt mal estat, disposa encara de la coberta amb volta de canó. La porta és a migdia i té un arc de mig punt. L'absis conté mostres d’arcuacions llombardes en arcs separades per lesenes. Al Museu d'Art de Catalunya es conserven dues mostres de fusta policromada romànica procedents de l’església: un frontal d'altar del segle XIII i una taula de baldaquí. 
+ 
+Es torna enrere, es passa el torrent i, abans d’arribar a Montadó es trenca cap a la dreta (O) en pujada i es desemboca a l’antic camí de Montadó a Comiols. Se segueix cap al N en suau pujada. 
+ 
+9,10 km (1.034 m), 2 h 15 min. Can Castellí, masia encara activa de l’antic terme de Montadó. Es deixen els edificis a mà dreta i es continua la pista cap al nord. Es passa pel costat d’un roure rabassut i molt vell (9,74 km, 1.067 m), es travessa un cadenat que barra el pas als vehicles a la finca (10,40 km, 1.071 m) i, uns 50 m més enllà, l’indret on se situen les restes d’un dolmen difícil de trobar situat a l’esquerra del camí. 
+ 
+10,95 km (1.078 m), 2 h 45 min. Cruïlla en un coll molt suau. Es deixa la pista principal i es pren el camí dit de Planistella que se’n va a l’esquerra (O) baixant per entre un espès bosc de pinàcies i roures. Es desemboca a la carretera de Comiols a Sant Salvador de Toló (11,45 km, 1.031 m, marques del GR 1), que se segueix cap a l’esquerra (SO) fins a l’esplanada on neixen els accessos a Bonrepòs. Es deixa el primer trencall i es pren el segon (GR 1), més curt. 
+ 
+13,34 km (1.049 m) 3 h 20 min. Santuari de la Mare de Déu de Bonrepòs. Final del recorregut. 
+&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Bonrepòs a Montadó por el barranco de Cuba y volviendo por Cal Castellí&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;La ruta que se propone visita el entorno de las sierras dispuestas entre el puerto de Comiols y el desfiladero del Pas Nou, donde se inicia el Montsec de Rúbies. Remotas y solitarias, son de constitución caliza y están surcadas por profundos barrancos que drenan el agua hacia la cuenca de Meià, en el sur. De entre ellos destaca el barranco de Cuba, encajonado entre los riscos de las sierras de Lo Tamany y Lo Pelat. Estos relieves intrincados y de difícil acceso estuvieron poblados desde la prehistoria hasta principios del siglo XX, en el caso de Montadó; ahora, pero, del antiguo término únicamente quedan dos masías en actividad. Aunque no ofrece ninguna dificultad técnica especial el recorrido tiene tramos donde el camino se desdibuja y la señalización es precaria. No indicado para excursionistas poco avezados en la orientación.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El itinerario tiene su punto de inicio en el santuario de la Virgen de Bonrepòs, término de Gavet de la Conca, Pallars Jussà. Se llega en vehículo desde la carretera de Artesa de Segre a Tremp (C-74) tomando en el mismo puerto de Comiols la carretera local L-911 en dirección a Sant Salvador de Toló. En el punto Km 2,5 de este vial nace una pista de tierra ancha y en muy buen estado que lleva al santuario. 
+ 
+0,00 km (1.049 m). Santuario de la Virgen de Bonrepòs, explanada situada junto a la ermita con la casa de Bonrepòs a la derecha y el albergue más lejos y en el norte. Hay una fuente. Se empieza a caminar tomando el camino que se dirige hacia poniente pasando junto al santuario, que se tiene a mano izquierda. Señalización del sendero GR 1 (marcas blancas y rojas) que se seguirá hasta la cabecera del barranco de Cuba. 
+ 
+El santuario de Bonrepòs tiene su origen en un ermitaje del siglo XI, coincidente en el tiempo con la conquista del territorio a los alarbes liderada por Arnau Mir de Tost. Es, también, el centro de una finca forestal de 420 ha propiedad de la Diputación de Lleida. Al conjunto de dependencias del santuario y masías adyacentes se ha añadido un albergue de juventud. 
+ 
+Al cabo de 625 m el camino gira al sur. Se deja un desvío que se va a la derecha (O) y comienza una bajada que el camino recorre haciendo dos amplios zigzags. Una vez en el fondo del valle la pista se desdibuja en los campos de cultivo. Hay que seguir el camino que los bordea por el lado de levante. 
+ 
+1,40 km (977 m), 19 min. El sendero GR-1 se va hacia el Hostal Roig por el camino que sale a la derecha (SO). Se sigue recto por el fondo del valle que insinúa ya el nacimiento del torrente de Cuba, siempre hacia el S. El camino convertido en sendero se desdibuja de vez en cuando. Hay que estar alerta y mantenerse siempre en el lado oriental del torrente, que deberá mantenerse siempre a la derecha del recorrido. Pronto el torrente encajona. Se deben dejar los incipientes riscos de Lo Tamany a la izquierda (E). De vez en cuando se encuentran hitos de piedra orientadores. El camino discurre entre un bosque de encina espeso. 
+ 
+2,95 km (858 m), 40 min. Se pasa junto a un abrigo formado por una cueva situada bajo unos grandes bloques. Un poco más allá (3,06 km, 844 m) hay una desviación a la derecha que cruza el torrente. No se debe tomar, hay que continuar por el fondo del barranco, hacia el sur. El camino se aleja del torrente, que se va distanciando a la derecha. Más adelante (3,60 km, 792 m) se inicia una bajada; el sendero desemboca en unos campos de cultivo medio abandonados, donde se toma un camino ancho que enlaza con una pista. 
+ 
+3,96 km (763 m), 54 min. Camino de Fabregada, pista ancha y bien formada proveniente del cuello de Cabeces y de la carretera de Vilanova de Meià al Hostal Roig. Se toma hacia la izquierda (SE) en suave subida, abandonando la vertiente de Cuba para franquear la sierra de Lo Tamany hacia Montadó. Poco más allá se dejan a la derecha dos bordas de labrador, una de ellas llamada Cabana de Guerra. En bajada aún, se dejan a la derecha dos desvíos de acceso a los campos de cultivo. 
+ 
+5,08 km (731 m), 1 h 10 min. Se cruza el torrente del Cabirol y se empieza una remontada que no se detendrá hasta bien pasado Can Castellí. El camino gira al SE pasando por debajo de los pequeños riscos occidentales de la sierra de la Cova. Justo al atravesar la cresta de la sierra el camino se acaba. 
+ 
+5,62 km (763 m), 1 h 9 min. Final del camino que se seguía. Hay que tomar un sendero desdibujado que nace a la izquierda (hitos) en dirección norte. Se sigue por un terreno calcáreo, cubierto de arbustos, entre los que el sendero va labrando su camino, en subida y siempre hacia el norte. Hay que fijarse en los hitos que señalan el itinerario. Pasada la cota 850 m el camino se allana. A la derecha (NNE) se ven ya las paredes medio en ruinas de Montadó. Se atraviesa horizontalmente hacia el NE, se pasa el torrente de Santa Anna (6,57 km, 852 m) y se sube describiendo zigzags hacia la bien visible caverna de Montadó, o Cova de Montadó, situada en la base de una pequeña risco, donde están los restos de una gran casa construida en el hueco (6,93 km, 911 m). Se pasa en medio de las paredes de los corrales y los edificios y, rozando las paredes del risco, se llega a las ruinas de Montadó. 
+ 
+Para los interesados en restos históricos, un poco más abajo del camino entre la cueva de Montadó y Montadó hay una segunda caverna dicha Cova de Joan Pau (cota 879 m). 
+ 
+7,11 km (921 m), 1 h 40 min. Montadó. Antiguo núcleo abandonado a principios del siglo XX, estratégicamente situado sobre la cuenca de Meià, estuvo históricamente vinculado al priorato de Meià y llegó a ser una parroquia sufragánea de Santa Margarida de Benavent. Actualmente pertenece al municipio de Isona i Conca Dellà (Pallars Jussà). De lo que fue un poblado vivo que acogía más de 40 personas no quedan sino las paredes de algunas casas. 
+ 
+Se atraviesan los escombros por el norte, acariciando la pared del risco que servía de abrigo a los habitáculos y, sin ganar ni perder altura, se atraviesa el torrente de Sant Miquel y se llega a la iglesia de Santa Anna de Montadó (7,36 km, 919 m), situada al otro lado de la barrancada, aplomada sobre el peñasco. Se trata de un edificio de una sola nave desgraciadamente en muy mal estado, dispone todavía de la cubierta con bóveda de cañón. La puerta es a mediodía y tiene un arco de medio punto. El ábside contiene muestras de arcos lombardos separados por lesenas. En el Museu d’Art de Catalunya se conservan dos muestras de madera policromada románica procedentes de la iglesia: un frontal de altar del siglo XIII y una mesa de baldaquino. 
+ 
+Se vuelve atrás, se pasa el torrente y antes de llegar a Montadó se tuerce hacia la derecha (O) en subida y se desemboca en el antiguo camino de Montadó a Comiols. Se sigue hacia el N en suave subida. 
+ 
+9,10 km (1.034 m), 2 h 15 min. Can Castellí, masía aún activa del antiguo término de Montadó. Se dejan los edificios a mano derecha y se continúa la pista hacia el norte. Se pasa junto a un roble orondo y muy viejo (9,74 km, 1.067 m), se atraviesa una cadena que cierra el paso a los vehículos a la finca (10,40 km, 1.071 m) y, unos 50 m más allá, el lugar donde se sitúan los restos de un dolmen difícil de encontrar situado a la izquierda del camino. 
+ 
+10,95 km (1.078 m), 2 h 45 min. Cruce en un collado muy suave. Se deja la pista principal y se toma el camino dicho de Planistella que se va a la izquierda (O) bajando por entre un espeso bosque de pináceas y robles. Se llega a la carretera de Comiols a Sant Salvador de Toló (11,45 km, 1.031 m, marcas del GR 1), que se sigue hacia la izquierda (SO) hasta la explanada donde nacen los dos accesos a Bonrepòs. Se deja el primer desvío y se toma el segundo (GR 1), más corto. 
+ 
+13,34 km (1.049 m) 3 h 20 min. Santuario de la Virgen de Bonrepòs. Final del recorrido.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2018&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.038823" lon="1.052335">
+        <ele>1048.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038502" lon="1.051281">
+        <ele>1051.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038458" lon="1.050521">
+        <ele>1049.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038040" lon="1.049501">
+        <ele>1047.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.037894" lon="1.048389">
+        <ele>1043.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.036944" lon="1.045693">
+        <ele>1036.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.035945" lon="1.045742">
+        <ele>1031.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.035481" lon="1.046251">
+        <ele>1035.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.035651" lon="1.047001">
+        <ele>1026.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.034875" lon="1.046892">
+        <ele>1014.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.034278" lon="1.046451">
+        <ele>1011.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.034209" lon="1.046616">
+        <ele>1008.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.034412" lon="1.047178">
+        <ele>999.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.033257" lon="1.047056">
+        <ele>986.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.032987" lon="1.047292">
+        <ele>983.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.032945" lon="1.047785">
+        <ele>982.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.032670" lon="1.048264">
+        <ele>980.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.032193" lon="1.048593">
+        <ele>976.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.031568" lon="1.048890">
+        <ele>975.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030795" lon="1.048714">
+        <ele>969.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030100" lon="1.049164">
+        <ele>968.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.029379" lon="1.049102">
+        <ele>964.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.029096" lon="1.049666">
+        <ele>962.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028583" lon="1.052434">
+        <ele>954.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027710" lon="1.053205">
+        <ele>948.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026843" lon="1.053483">
+        <ele>938.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026814" lon="1.054649">
+        <ele>940.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026612" lon="1.055111">
+        <ele>934.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026023" lon="1.055413">
+        <ele>924.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.024464" lon="1.056922">
+        <ele>896.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.024141" lon="1.057034">
+        <ele>894.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023501" lon="1.056870">
+        <ele>878.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023071" lon="1.057091">
+        <ele>865.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.022056" lon="1.058354">
+        <ele>853.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.021366" lon="1.058972">
+        <ele>844.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020420" lon="1.059312">
+        <ele>849.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.019861" lon="1.059900">
+        <ele>842.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.019078" lon="1.059872">
+        <ele>830.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018391" lon="1.060495">
+        <ele>809.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018021" lon="1.060194">
+        <ele>798.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017342" lon="1.060239">
+        <ele>795.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016702" lon="1.059926">
+        <ele>781.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016632" lon="1.059216">
+        <ele>761.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016432" lon="1.058890">
+        <ele>756.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015330" lon="1.058960">
+        <ele>759.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.014500" lon="1.059655">
+        <ele>764.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.014071" lon="1.060628">
+        <ele>774.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013746" lon="1.060837">
+        <ele>779.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013255" lon="1.061909">
+        <ele>781.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011188" lon="1.061917">
+        <ele>771.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011640" lon="1.062272">
+        <ele>765.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011814" lon="1.062987">
+        <ele>758.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011620" lon="1.063790">
+        <ele>751.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011966" lon="1.064577">
+        <ele>744.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011944" lon="1.065362">
+        <ele>738.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012571" lon="1.066261">
+        <ele>732.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013228" lon="1.066761">
+        <ele>734.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013663" lon="1.066904">
+        <ele>730.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013794" lon="1.067227">
+        <ele>731.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013569" lon="1.068018">
+        <ele>747.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012827" lon="1.069400">
+        <ele>768.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012456" lon="1.069599">
+        <ele>778.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011938" lon="1.069554">
+        <ele>787.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011253" lon="1.070638">
+        <ele>771.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011069" lon="1.071199">
+        <ele>765.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.010643" lon="1.071496">
+        <ele>763.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.010835" lon="1.071648">
+        <ele>774.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011159" lon="1.071638">
+        <ele>780.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011191" lon="1.071912">
+        <ele>787.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011559" lon="1.071867">
+        <ele>797.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011805" lon="1.072017">
+        <ele>806.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011943" lon="1.072508">
+        <ele>806.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012271" lon="1.072957">
+        <ele>805.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.012801" lon="1.072948">
+        <ele>810.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013589" lon="1.073454">
+        <ele>818.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.013770" lon="1.073775">
+        <ele>815.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.014748" lon="1.074355">
+        <ele>826.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015010" lon="1.074426">
+        <ele>832.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015590" lon="1.074119">
+        <ele>855.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015639" lon="1.074347">
+        <ele>853.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.015963" lon="1.074603">
+        <ele>858.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016179" lon="1.075659">
+        <ele>858.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016586" lon="1.076353">
+        <ele>845.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016856" lon="1.076345">
+        <ele>851.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017018" lon="1.076835">
+        <ele>870.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017363" lon="1.076776">
+        <ele>877.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017213" lon="1.077204">
+        <ele>886.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017894" lon="1.077002">
+        <ele>897.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017086" lon="1.077666">
+        <ele>898.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017111" lon="1.078112">
+        <ele>917.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.016890" lon="1.078349">
+        <ele>914.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017328" lon="1.079223">
+        <ele>919.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017219" lon="1.079709">
+        <ele>921.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018106" lon="1.080503">
+        <ele>921.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017902" lon="1.080993">
+        <ele>922.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017213" lon="1.081267">
+        <ele>918.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017902" lon="1.080993">
+        <ele>922.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018102" lon="1.080540">
+        <ele>921.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017558" lon="1.080049">
+        <ele>918.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017454" lon="1.079769">
+        <ele>926.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017432" lon="1.079552">
+        <ele>927.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017752" lon="1.079228">
+        <ele>938.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017977" lon="1.079492">
+        <ele>944.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.018342" lon="1.079560">
+        <ele>948.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.019556" lon="1.079427">
+        <ele>960.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020544" lon="1.078986">
+        <ele>967.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.020878" lon="1.079176">
+        <ele>972.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.021852" lon="1.078185">
+        <ele>989.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.023233" lon="1.077812">
+        <ele>1012.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.024138" lon="1.078050">
+        <ele>1021.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.024473" lon="1.078469">
+        <ele>1018.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.024676" lon="1.078469">
+        <ele>1016.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.025745" lon="1.077488">
+        <ele>1016.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.026974" lon="1.075567">
+        <ele>1024.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027272" lon="1.075619">
+        <ele>1023.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027534" lon="1.075925">
+        <ele>1026.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.027523" lon="1.076909">
+        <ele>1030.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028018" lon="1.077945">
+        <ele>1034.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028278" lon="1.077611">
+        <ele>1037.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.028409" lon="1.077082">
+        <ele>1042.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.029113" lon="1.076137">
+        <ele>1049.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030082" lon="1.075908">
+        <ele>1054.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.030547" lon="1.075979">
+        <ele>1056.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.031523" lon="1.075648">
+        <ele>1059.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.032798" lon="1.074305">
+        <ele>1068.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.033727" lon="1.073872">
+        <ele>1070.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.035912" lon="1.073377">
+        <ele>1074.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.036969" lon="1.072741">
+        <ele>1075.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.037757" lon="1.072778">
+        <ele>1071.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038225" lon="1.073525">
+        <ele>1071.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038543" lon="1.073739">
+        <ele>1074.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038831" lon="1.073718">
+        <ele>1074.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039168" lon="1.073388">
+        <ele>1076.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.040260" lon="1.073276">
+        <ele>1083.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.041426" lon="1.074310">
+        <ele>1078.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.042133" lon="1.074449">
+        <ele>1077.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.042423" lon="1.074785">
+        <ele>1077.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043190" lon="1.073275">
+        <ele>1059.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043155" lon="1.071440">
+        <ele>1044.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043317" lon="1.070631">
+        <ele>1038.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043643" lon="1.069957">
+        <ele>1034.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.044114" lon="1.069544">
+        <ele>1030.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043525" lon="1.067725">
+        <ele>1027.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043741" lon="1.066420">
+        <ele>1025.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.045297" lon="1.064651">
+        <ele>1029.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.045419" lon="1.064170">
+        <ele>1030.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.044561" lon="1.062099">
+        <ele>1031.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.044019" lon="1.061457">
+        <ele>1032.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043736" lon="1.060693">
+        <ele>1033.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.043012" lon="1.059936">
+        <ele>1034.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.041341" lon="1.056988">
+        <ele>1040.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.041046" lon="1.056840">
+        <ele>1040.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.040174" lon="1.056903">
+        <ele>1041.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039865" lon="1.056725">
+        <ele>1041.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039666" lon="1.055655">
+        <ele>1043.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039788" lon="1.054879">
+        <ele>1043.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039254" lon="1.054194">
+        <ele>1047.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.039030" lon="1.052636">
+        <ele>1047.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038947" lon="1.052397">
+        <ele>1047.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.038854" lon="1.052428">
+        <ele>1046.9</ele>
+        <time>2018-07-30T11:20:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

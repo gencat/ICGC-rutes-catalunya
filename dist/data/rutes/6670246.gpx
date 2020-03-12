@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.446418" lon="1.609922">
+    <ele>2144.9</ele>
+    <time>2014-04-25T15:13:30Z</time>
+    <name>CRUÏLLA POLLINERES</name>
+    <desc>22-OCT-05 14:08:31</desc>
+  </wpt>
+  <wpt lat="42.454703" lon="1.598065">
+    <ele>2300.0</ele>
+    <time>2014-04-25T15:13:31Z</time>
+    <name>ESTANY INFERIOR</name>
+    <desc>22-OCT-05 14:35:19</desc>
+  </wpt>
+  <wpt lat="42.456051" lon="1.595597">
+    <ele>2321.1</ele>
+    <time>2014-04-25T15:13:31Z</time>
+    <name>PONTET</name>
+    <desc>22-OCT-05 14:41:44</desc>
+  </wpt>
+  <wpt lat="42.456070" lon="1.594160">
+    <ele>2343.9</ele>
+    <time>2014-04-25T15:13:31Z</time>
+    <name>ESTANY SUPERIOR</name>
+    <desc>22-OCT-05 14:47:15</desc>
+  </wpt>
+  <wpt lat="42.451350" lon="1.589660">
+    <ele>2442.1</ele>
+    <time>2014-04-25T15:13:32Z</time>
+    <name>FONT</name>
+    <desc>22-OCT-05 15:01:46</desc>
+  </wpt>
+  <wpt lat="42.451204" lon="1.588488">
+    <ele>2460.0</ele>
+    <time>2014-04-25T15:13:32Z</time>
+    <name>BASSA DE CLAROR</name>
+    <desc>22-OCT-05 15:04:07</desc>
+  </wpt>
+  <wpt lat="42.447630" lon="1.593630">
+    <ele>2614.9</ele>
+    <time>2014-04-25T15:13:33Z</time>
+    <name>FITA</name>
+    <desc>22-OCT-05 15:20:24</desc>
+  </wpt>
+  <wpt lat="42.446760" lon="1.592000">
+    <ele>2660.0</ele>
+    <time>2014-04-25T15:13:33Z</time>
+    <name>PIC NORD</name>
+    <desc>22-OCT-05 15:25:20</desc>
+  </wpt>
+  <wpt lat="42.447530" lon="1.588840">
+    <ele>2635.0</ele>
+    <time>2014-04-25T15:13:34Z</time>
+    <name>COLL DE MONTURULL</name>
+    <desc>22-OCT-05 15:28:38</desc>
+  </wpt>
+  <wpt lat="42.448310" lon="1.587270">
+    <ele>2631.9</ele>
+    <time>2014-04-25T15:13:34Z</time>
+    <name>COLL 2 632</name>
+    <desc>22-OCT-05 15:30:08</desc>
+  </wpt>
+  <wpt lat="42.448370" lon="1.581260">
+    <ele>2724.0</ele>
+    <time>2014-04-25T15:13:35Z</time>
+    <name>COTA 2 724</name>
+    <desc>22-OCT-05 15:40:56</desc>
+  </wpt>
+  <wpt lat="42.454490" lon="1.583020">
+    <ele>2573.1</ele>
+    <time>2014-04-25T15:13:35Z</time>
+    <name>COLL DE CLAROR</name>
+    <desc>22-OCT-05 16:01:33</desc>
+  </wpt>
+  <wpt lat="42.455510" lon="1.583520">
+    <ele>2589.9</ele>
+    <time>2014-04-25T15:13:36Z</time>
+    <name>COLL 2 590</name>
+    <desc>22-OCT-05 16:06:52</desc>
+  </wpt>
+  <wpt lat="42.459210" lon="1.585510">
+    <ele>2753.9</ele>
+    <time>2014-04-25T15:13:36Z</time>
+    <name>PIC DE PERAFITA</name>
+    <desc>22-OCT-05 16:27:51</desc>
+  </wpt>
+  <wpt lat="42.450224" lon="1.581317">
+    <ele>2755.1</ele>
+    <time>2014-04-25T15:13:37Z</time>
+    <name>MONTURULL</name>
+    <desc>MONTURULL</desc>
+  </wpt>
+  <wpt lat="42.463305" lon="1.589907">
+    <ele>2599.9</ele>
+    <time>2014-04-25T15:13:37Z</time>
+    <name>PORT DE PERAFITA</name>
+    <desc>PORT DE PERAFITA</desc>
+  </wpt>
+  <wpt lat="42.465040" lon="1.594240">
+    <ele>2580.1</ele>
+    <time>2014-04-25T15:13:38Z</time>
+    <name>COLLET DE SANT VICENÇ</name>
+    <desc>COLLET DE SANT VICENÇ</desc>
+  </wpt>
+  <wpt lat="42.463011" lon="1.599098">
+    <ele>2495.1</ele>
+    <time>2014-04-25T15:13:38Z</time>
+    <name>COTA 2 495</name>
+    <desc>COTA 2 495</desc>
+  </wpt>
+  <wpt lat="42.456653" lon="1.598776">
+    <ele>2350.0</ele>
+    <time>2014-04-25T15:13:39Z</time>
+    <name>REFUGI DELS ESTANYS DE LA PERA</name>
+    <desc>REFUGI DELS ESTANYS DE LA PERA</desc>
+  </wpt>
+  <wpt lat="42.445513" lon="1.610271">
+    <ele>2135.1</ele>
+    <time>2014-04-25T15:13:39Z</time>
+    <name>REFUGI POLLINERES</name>
+    <desc>REFUGI POLLINERES</desc>
+  </wpt>
+  <wpt lat="42.454069" lon="1.599228">
+    <ele>2297.9</ele>
+    <time>2014-04-25T15:13:40Z</time>
+    <name>CRUÏLLA GR 11.10</name>
+    <desc>CRUÏLLA GR 11.10</desc>
+  </wpt>
+  <wpt lat="42.446302" lon="1.609763">
+    <ele>2150.1</ele>
+    <time>2014-04-25T15:13:40Z</time>
+    <name>PISTA AL REFUGI DELS ESTANYS DE LA PERA</name>
+    <desc>PISTA AL REFUGI DELS ESTANYS DE LA PERA</desc>
+  </wpt>
+  <wpt lat="42.453842" lon="1.599559">
+    <ele>2290.0</ele>
+    <time>2014-04-25T15:13:41Z</time>
+    <name>PISTA AL REFUGI DE POLLINERES</name>
+    <desc>PISTA AL REFUGI DE POLLINERES</desc>
+  </wpt>
+  <trk>
+    <name>De les Pollineres als pics de Monturull i de Perafita pels estanys de la Pera</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De les Pollineres als pics de Monturull i de Perafita pels estanys de la Pera&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Excursió molt popular per l'entorn de la petita regió lacustre dels estanys de la Pera, dominada pels emblemàtics pics de Perafita i de Monturull, fronterers amb Andorra. Els dos cims tenen una forma ben diferent: el de Perafita és esvelt i redreçat, mentre que el de Monturull és més voluminós. La seva ascensió, força dreta en alguns trams, permet gaudir de la visió dels estanys de la Pera: el petit és molt acollidor i amb els voltants més verds, mentre que el gran té les vores més accidentades.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;A Martinet de Cerdanya, on s'arriba per la carretera N-260 entre Puigcerdà i la Seu d'Urgell, es pren la carretera que puja a Lles (LV-4036) en 9 km. Abans d'arribar-hi, s'agafa un trencall de l'esquerra fins a Arànser, des d'on cal ascendir per una pista asfaltada fins a les pistes d'esquí nòrdic (el Fornell, 1.880 m). Un cop allí, se segueix per la pista forestal sense asfaltar que s'enfila cap al refugi de Prat Miró (2.000 m) i arriba a les Pollineres al cap de 12 km, on es deixa el vehicle. Des de les Pollineres, hi ha 2 km per arribar al refugi dels Estanys de la Pera, 3 km si s'hi va per la pista forestal. També s'hi pot arribar des de Lles i l'estació d'esquí nòrdic de Cap de Rec per la pista forestal que comunica ambdues estacions d'esquí. 
+ 
+0,00 km (2.146 m). Les Pollineres. El pas de vehicles està barrat més amunt. La pujada fins al primer estany coincideix amb el camí del GR 11-10, que ve de Cap de Rec, però també es pot fer per la pista forestal, més suau, que travessa el GR fins a 7 vegades. Si s'ha pujat per la pista, de baixada serà fàcil reconèixer el GR fent drecera entre els revolts. 
+ 
+1,39 km (2.303 m), 0 h 25 min. El GR troba per vuitena vegada la pista forestal. Cal seguir-la pujant i deixant a la dreta el GR, que duu al refugi dels Estanys de la Pera (per on després es tornarà). De seguida, es voreja l'estany Petit de la Pera per la dreta. 
+ 
+1,84 km (2.323 m), 0 h 45 min. Es travessa el riu per un petit pont en un ample revolt. Per la pista forestal, s'arribaria al refugi en 500 m. Si s'ha dormit al refugi, després només caldrà baixar aquest tram. Des d'aquest revolt, es deixa la pista i s'agafa un camí que remunta el riuet pel seu marge dret i, en 200 m, arriba a l'estany Gran de la Pera. 
+ 
+1,98 km (2.345 m), 0 h 50 min. Estany Gran de la Pera. És famós per les seves truites, avui protegides. Al desguàs de l'estany, es veuen, a l'esquerra, al sud, solcs paral·lels en el neret que pugen pel bosc. És el camí que en 200 m arriba a un serrat on desapareix el bosc. Es veu el clot de la Bassa amb el Monturull. Cal perdre uns metres d'alçada anant cap al fons del clot, on es troba el GR abans esmentat, i seguir remuntant cap al coll que hi ha a l'esquerra del Monturull, al sud-oest, deixant a la dreta el torrent de Claror, més marcat, que marxa a l'oest cap al coll de Claror, situat a la dreta (N) del Monturull. 
+ 
+2,76 km (2.442 m), 1 h 05 min. Es troba una font amb molsa: és la sortida de la bassa que dóna nom al clot, situada 100 m més amunt (km 2,86, 2.460 m). Es torna enrere 50 m i es veu clarament el camí que puja flanquejant cap a una fita (2.615 m), visible al sud-est. 
+ 
+3,72 km (2.657 m), 1 h 27 min. El següent molló és un cim molt pla situat al sud-est del Monturull. Cal anar, doncs, cap al NO baixant suaument fins a la cota 2.635 m del coll de Monturull (km 4,01, 2.635 m) que abans ha servit de referència. Cal seguir per la planera carena cap al pic de Monturull. Al peu del cim, el camí flanqueja desviant-se a l'esquerra per la vall de Bescaran, a l'Alt Urgell. A la cota 2.720 m, s'arriba al pla del cim del Monturull o Torreta dels Soldats, que està una mica a la dreta, al nord-est. 
+ 
+4,95 km (2.760 m), 2 h. Monturull. És un cim pla i ample des d'on el panorama s'obre cap al vessant de la Seu d'Urgell i el Cadí. És fronterer amb Andorra. Per roquissers i terreny herbat, es descendeix fins al següent coll seguint per la carena fronterera. 
+ 
+5,53 km (2.574 m), 2 h 20 min. Coll de Claror. Es continua carenejant pujant fort cap al NE. 
+ 
+6,16 km (2.753 m), 2 h 45 min. Perafita o tossal de la Truita. Des d'aquí, es tenen bones vistes sobre els estanys. Cal baixar per la carena fronterera en direcció NE sense cap dificultat. 
+ 
+6,80 km (2.603 m), 3 h. Port de Perafita. Se segueix pel replà de la carena (NE) fins al collet de Sant Vicenç (km 7,23, 2.580 m). El camí se separa definitivament de la divisòria d'Andorra i, flanquejant sota el pic del Sirvent, baixa primer cap al sud-est i, després, al sud fins al refugi dels Estanys de la Pera. 
+ 
+8,60 km (2.346 m), 3 h 40 min. Refugi dels Estanys de la Pera. És més agradable i ràpid baixar pel GR 11-10 (tram georeferenciat) que per la pista forestal. Als 400 m de forta baixada, es retroba la pista forestal i l'encreuament on s'ha deixat el GR al km 1,39 del recorregut. Des d'aquest punt, es davalla desfent el camí fins a les Pollineres. 
+ 
+10,39 km (2.146 m), 4 h 19 min. Les Pollineres, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Les Pollineres a los picos de Monturull y de Perafita por los lagos de la Pera&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Excursión muy popular por el entorno de la pequeña región lacustre de los lagos de la Pera, dominada por los emblemáticos picos de Perafita y de Monturull, fronterizos con Andorra. Los dos picos tienen una forma muy diferente: el de Perafita es esbelto y enderezado, mientras que el de Monturull es más voluminoso. Su ascensión, muy empinada en algunos tramos, permite disfrutar de la visión de los lagos de la Pera: el pequeño es muy acogedor y con los alrededores más verdes, mientras que el mayor tiene los bordes más accidentados.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;En Martinet de Cerdanya, adonde se llega por la carretera N-260 entre Puigcerdà y la Seu d'Urgell, se toma la carretera que sube a Lles (LV-4036) en 9 km. Antes de llegar a esta población, se toma un desvío a la izquierda hasta Arànser, desde donde hay que ascender por una pista asfaltada hasta las pistas de esquí nórdico (el Fornell, 1.880 m). Una vez allí, se sigue por la pista forestal sin asfaltar que sube hacia el refugio de Prat Miró (2.000 m) y llega a Les Pollineres al cabo de 12 km, donde se deja el vehículo. Desde Les Pollineres, hay 2 km para llegar al refugio de Els Estanys de la Pera, 3 km si se va por la pista forestal. También se puede llegar desde Lles y la estación de esquí nórdico de Cap de Rec por la pista forestal que comunica ambas estaciones de esquí. 
+ 
+0,00 km (2.146 m). Les Pollineres. El paso de vehículos está cerrado más arriba. La subida hasta el primer lago coincide con el camino del GR 11-10, que viene de Cap de Rec, pero también se puede hacer por la pista forestal, más suave, que atraviesa el GR hasta 7 veces. Si se ha subido por la pista, de bajada será fácil reconocer el GR atajando entre las curvas. 
+ 
+1,39 km (2.303 m), 0 h 25 min. El GR encuentra por octava vez la pista forestal. Hay que seguirla subiendo y dejando a la derecha el GR, que lleva al refugio de Els Estanys de la Pera (por donde después se volverá). En seguida, se bordea el lago Petit de la Pera por la derecha. 
+ 
+1,84 km (2.323 m), 0 h 45 min. Se cruza el río por un pequeño puente en una ancha curva. Por la pista forestal, se llegaría al refugio en 500 m. Si se ha dormido en el refugio, después sólo se tendrá que bajar este tramo. Desde esta curva, se deja la pista y se toma un camino que remonta el arroyo por su margen derecho y, en 200 m, llega al lago Gran de la Pera. 
+ 
+1,98 km (2.345 m), 0 h 50 min. Lago Gran de la Pera. Es famoso por sus truchas, hoy protegidas. En el desagüe del lago, se ven, a la izquierda, al sur, surcos paralelos en el rododendro que suben por el bosque. Es el camino que en 200 m llega a una loma donde desaparece el bosque. Se ve la hondonada de la Bassa con el Monturull. Hay que perder unos metros de altura yendo hacia el fondo de la hondonada, donde se encuentra el GR antes mencionado, y seguir remontando hacia el collado que hay a la izquierda del Monturull, al suroeste, dejando a la derecha el torrente de Claror, más marcado, que marcha al oeste hacia el collado de Claror, situado a la derecha (N) del Monturull. 
+ 
+2,76 km (2.442 m), 1 h 05 min. Se encuentra una fuente con musgo: es la salida de la balsa que da nombre a la hondonada, ubicada 100 m más arriba (km 2,86, 2.460 m). Se vuelve atrás 50 m y se ve claramente el camino que sube flanqueando hacia un hito (2.615 m), visible al sureste. 
+ 
+3,72 km (2.657 m), 1 h 27 min. El siguiente mojón es una cima muy llana situada al sureste del Monturull. Hay que ir, pues, hacia el NO bajando suavemente hasta la cota 2.635 m del collado de Monturull (km 4,01, 2.635 m) que antes ha servido de referencia. Hay que seguir por el llano cordal hacia el pico de Monturull. Al pie de la cima, el camino flanquea desviándose a la izquierda por el valle de Bescaran, en L'Alt Urgell. En la cota 2.720 m, se llega al llano de la cima del Monturull o Torreta dels Soldats, que está un poco a la derecha, al noreste. 
+ 
+4,95 km (2.760 m), 2 h. Monturull. Es una cima llana y ancha desde donde el panorama se abre hacia la vertiente de la Seu d'Urgell y el Cadí. Es fronteriza con Andorra. Por roquedales y terreno herboso, se desciende hasta el siguiente puerto siguiendo por el cordal fronterizo. 
+ 
+5,53 km (2.574 m), 2 h 20 min. Collado de Claror. Se continúa por el cordal subiendo fuertemente hacia el NE. 
+ 
+6,16 km (2.753 m), 2 h 45 min. Perafita o cerro de la Truita. Desde aquí, se tienen buenas vistas sobre los lagos. Hay que bajar por el cordal fronterizo en dirección NE sin ninguna dificultad. 
+ 
+6,80 km (2.603 m), 3 h. Puerto de Perafita. Se sigue por el rellano del cordal (NE) hasta el collado de Sant Vicenç (km 7,23, 2.580 m). El camino se separa definitivamente de la divisoria de Andorra y, flanqueando bajo el pico del Sirvent, baja primero hacia el sureste y, después, al sur hasta el refugio de Els Estanys de la Pera. 
+ 
+8,60 km (2.346 m), 3 h 40 min. Refugio de Els Estanys de la Pera. Es más agradable y rápido bajar por el GR 11-10 (tramo georreferenciado) que por la pista forestal. A los 400 m de fuerte bajada, se reencuentra la pista forestal y el cruce donde se ha dejado el GR en el km 1,39 del recorrido. Desde este punto, se baja desandando el camino hasta Les Pollineres. 
+ 
+10,39 km (2.146 m), 4 h 19 min. Les Pollineres, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Les Pollineres to the summit of Perafita and Monturull via La Pera lakes&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Popular excursion in the small lake region of Estanys de la Pera, dominated by the landmark peaks of Perafita and Monturull, on the border with Andorra. The two peaks are shaped quite differently: Perafita is slender and straight, whilst Monturull is bulkier. The climb to the two summits, very steep in places, provides views of two lakes: the smaller one is gentle and set amidst greenery, whilst the larger one has much craggier shores.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.446409" lon="1.609879">
+        <ele>2145.8</ele>
+        <time>2005-10-22T12:10:58Z</time>
+      </trkpt>
+      <trkpt lat="42.447210" lon="1.608372">
+        <ele>2159.2</ele>
+        <time>2005-10-22T12:12:48Z</time>
+      </trkpt>
+      <trkpt lat="42.448188" lon="1.607384">
+        <ele>2175.7</ele>
+        <time>2005-10-22T12:15:09Z</time>
+      </trkpt>
+      <trkpt lat="42.448372" lon="1.606936">
+        <ele>2179.0</ele>
+        <time>2005-10-22T12:15:43Z</time>
+      </trkpt>
+      <trkpt lat="42.449076" lon="1.606306">
+        <ele>2206.4</ele>
+        <time>2005-10-22T12:19:26Z</time>
+      </trkpt>
+      <trkpt lat="42.449404" lon="1.605186">
+        <ele>2233.0</ele>
+        <time>2006-01-23T22:45:30Z</time>
+      </trkpt>
+      <trkpt lat="42.449342" lon="1.604428">
+        <ele>2249.7</ele>
+        <time>2005-10-22T12:26:12Z</time>
+      </trkpt>
+      <trkpt lat="42.449942" lon="1.603059">
+        <ele>2260.1</ele>
+        <time>2005-10-22T12:29:20Z</time>
+      </trkpt>
+      <trkpt lat="42.450094" lon="1.601833">
+        <ele>2268.9</ele>
+        <time>2005-10-22T12:30:26Z</time>
+      </trkpt>
+      <trkpt lat="42.450348" lon="1.601256">
+        <ele>2273.2</ele>
+        <time>2005-10-22T12:30:54Z</time>
+      </trkpt>
+      <trkpt lat="42.450907" lon="1.600611">
+        <ele>2275.0</ele>
+        <time>2005-10-22T12:31:20Z</time>
+      </trkpt>
+      <trkpt lat="42.451498" lon="1.599601">
+        <ele>2281.4</ele>
+        <time>2005-10-22T12:32:33Z</time>
+      </trkpt>
+      <trkpt lat="42.452370" lon="1.599114">
+        <ele>2287.5</ele>
+        <time>2005-10-22T12:33:26Z</time>
+      </trkpt>
+      <trkpt lat="42.452575" lon="1.599273">
+        <ele>2290.6</ele>
+        <time>2005-10-22T12:33:58Z</time>
+      </trkpt>
+      <trkpt lat="42.453215" lon="1.599381">
+        <ele>2292.4</ele>
+        <time>2005-10-22T12:34:13Z</time>
+      </trkpt>
+      <trkpt lat="42.453934" lon="1.599273">
+        <ele>2295.4</ele>
+        <time>2005-10-22T12:34:37Z</time>
+      </trkpt>
+      <trkpt lat="42.454437" lon="1.598800">
+        <ele>2300.1</ele>
+        <time>2005-10-22T12:35:49Z</time>
+      </trkpt>
+      <trkpt lat="42.454691" lon="1.598211">
+        <ele>2302.5</ele>
+        <time>2005-10-22T12:36:17Z</time>
+      </trkpt>
+      <trkpt lat="42.456030" lon="1.597257">
+        <ele>2306.8</ele>
+        <time>2005-10-22T12:40:00Z</time>
+      </trkpt>
+      <trkpt lat="42.456424" lon="1.596677">
+        <ele>2310.7</ele>
+        <time>2005-10-22T12:40:35Z</time>
+      </trkpt>
+      <trkpt lat="42.456014" lon="1.595926">
+        <ele>2316.9</ele>
+        <time>2005-10-22T12:41:24Z</time>
+      </trkpt>
+      <trkpt lat="42.455835" lon="1.594513">
+        <ele>2343.8</ele>
+        <time>2005-10-22T12:44:37Z</time>
+      </trkpt>
+      <trkpt lat="42.456029" lon="1.594156">
+        <ele>2345.0</ele>
+        <time>2005-10-22T12:47:20Z</time>
+      </trkpt>
+      <trkpt lat="42.454370" lon="1.594800">
+        <ele>2384.2</ele>
+        <time>2005-10-22T12:51:43Z</time>
+      </trkpt>
+      <trkpt lat="42.454479" lon="1.594112">
+        <ele>2385.2</ele>
+        <time>2005-10-22T12:53:24Z</time>
+      </trkpt>
+      <trkpt lat="42.454390" lon="1.593560">
+        <ele>2378.9</ele>
+        <time>2005-10-22T12:53:58Z</time>
+      </trkpt>
+      <trkpt lat="42.453310" lon="1.591900">
+        <ele>2391.9</ele>
+        <time>2005-10-22T12:56:01Z</time>
+      </trkpt>
+      <trkpt lat="42.451510" lon="1.589940">
+        <ele>2435.6</ele>
+        <time>2005-10-22T13:00:23Z</time>
+      </trkpt>
+      <trkpt lat="42.451210" lon="1.589230">
+        <ele>2454.4</ele>
+        <time>2005-10-22T13:02:41Z</time>
+      </trkpt>
+      <trkpt lat="42.451169" lon="1.588513">
+        <ele>2459.2</ele>
+        <time>2005-10-22T13:04:15Z</time>
+      </trkpt>
+      <trkpt lat="42.450985" lon="1.588931">
+        <ele>2467.8</ele>
+        <time>2005-10-22T13:04:57Z</time>
+      </trkpt>
+      <trkpt lat="42.450750" lon="1.589090">
+        <ele>2469.8</ele>
+        <time>2005-10-22T13:05:24Z</time>
+      </trkpt>
+      <trkpt lat="42.450360" lon="1.589073">
+        <ele>2467.8</ele>
+        <time>2005-10-22T13:05:52Z</time>
+      </trkpt>
+      <trkpt lat="42.450018" lon="1.589384">
+        <ele>2480.3</ele>
+        <time>2005-10-22T13:06:49Z</time>
+      </trkpt>
+      <trkpt lat="42.449903" lon="1.589940">
+        <ele>2493.8</ele>
+        <time>2005-10-22T13:08:07Z</time>
+      </trkpt>
+      <trkpt lat="42.449053" lon="1.591151">
+        <ele>2522.2</ele>
+        <time>2005-10-22T13:11:08Z</time>
+      </trkpt>
+      <trkpt lat="42.448590" lon="1.593070">
+        <ele>2567.3</ele>
+        <time>2005-10-22T13:16:01Z</time>
+      </trkpt>
+      <trkpt lat="42.448280" lon="1.593230">
+        <ele>2578.4</ele>
+        <time>2005-10-22T13:17:02Z</time>
+      </trkpt>
+      <trkpt lat="42.448250" lon="1.593640">
+        <ele>2586.6</ele>
+        <time>2005-10-22T13:17:52Z</time>
+      </trkpt>
+      <trkpt lat="42.447712" lon="1.593777">
+        <ele>2609.1</ele>
+        <time>2005-10-22T13:20:02Z</time>
+      </trkpt>
+      <trkpt lat="42.447160" lon="1.593280">
+        <ele>2634.6</ele>
+        <time>2005-10-22T13:22:27Z</time>
+      </trkpt>
+      <trkpt lat="42.446966" lon="1.592791">
+        <ele>2647.6</ele>
+        <time>2005-10-22T13:23:39Z</time>
+      </trkpt>
+      <trkpt lat="42.446740" lon="1.591880">
+        <ele>2651.5</ele>
+        <time>2005-10-22T13:25:30Z</time>
+      </trkpt>
+      <trkpt lat="42.447064" lon="1.589749">
+        <ele>2637.5</ele>
+        <time>2005-10-22T13:27:45Z</time>
+      </trkpt>
+      <trkpt lat="42.448010" lon="1.587995">
+        <ele>2637.0</ele>
+        <time>2005-10-22T13:29:23Z</time>
+      </trkpt>
+      <trkpt lat="42.449175" lon="1.584594">
+        <ele>2673.6</ele>
+        <time>2005-10-22T13:34:20Z</time>
+      </trkpt>
+      <trkpt lat="42.449040" lon="1.583420">
+        <ele>2681.7</ele>
+        <time>2005-10-22T13:36:16Z</time>
+      </trkpt>
+      <trkpt lat="42.448540" lon="1.582280">
+        <ele>2706.3</ele>
+        <time>2005-10-22T13:38:47Z</time>
+      </trkpt>
+      <trkpt lat="42.448319" lon="1.581269">
+        <ele>2720.7</ele>
+        <time>2005-10-22T13:40:45Z</time>
+      </trkpt>
+      <trkpt lat="42.449150" lon="1.581470">
+        <ele>2742.3</ele>
+        <time>2005-10-22T13:43:01Z</time>
+      </trkpt>
+      <trkpt lat="42.449916" lon="1.581148">
+        <ele>2752.9</ele>
+        <time>2005-10-22T13:44:53Z</time>
+      </trkpt>
+      <trkpt lat="42.450200" lon="1.581310">
+        <ele>2753.3</ele>
+        <time>2005-10-22T13:45:32Z</time>
+      </trkpt>
+      <trkpt lat="42.450410" lon="1.581080">
+        <ele>2749.0</ele>
+        <time>2005-10-22T13:46:20Z</time>
+      </trkpt>
+      <trkpt lat="42.450720" lon="1.581090">
+        <ele>2747.6</ele>
+        <time>2005-10-22T13:46:43Z</time>
+      </trkpt>
+      <trkpt lat="42.451160" lon="1.581610">
+        <ele>2709.1</ele>
+        <time>2005-10-22T13:49:45Z</time>
+      </trkpt>
+      <trkpt lat="42.452690" lon="1.582430">
+        <ele>2634.6</ele>
+        <time>2005-10-22T13:55:33Z</time>
+      </trkpt>
+      <trkpt lat="42.453586" lon="1.582646">
+        <ele>2595.2</ele>
+        <time>2005-10-22T13:57:55Z</time>
+      </trkpt>
+      <trkpt lat="42.453716" lon="1.582570">
+        <ele>2586.1</ele>
+        <time>2005-10-22T13:58:19Z</time>
+      </trkpt>
+      <trkpt lat="42.455610" lon="1.583567">
+        <ele>2591.4</ele>
+        <time>2005-10-22T14:07:04Z</time>
+      </trkpt>
+      <trkpt lat="42.456570" lon="1.583620">
+        <ele>2610.1</ele>
+        <time>2005-10-22T14:09:07Z</time>
+      </trkpt>
+      <trkpt lat="42.456986" lon="1.584174">
+        <ele>2639.0</ele>
+        <time>2005-10-22T14:11:45Z</time>
+      </trkpt>
+      <trkpt lat="42.457730" lon="1.584680">
+        <ele>2674.5</ele>
+        <time>2005-10-22T14:15:41Z</time>
+      </trkpt>
+      <trkpt lat="42.458690" lon="1.585040">
+        <ele>2724.0</ele>
+        <time>2005-10-22T14:21:04Z</time>
+      </trkpt>
+      <trkpt lat="42.459070" lon="1.585520">
+        <ele>2750.0</ele>
+        <time>2005-10-22T14:23:58Z</time>
+      </trkpt>
+      <trkpt lat="42.459880" lon="1.585670">
+        <ele>2738.4</ele>
+        <time>2005-10-22T14:29:25Z</time>
+      </trkpt>
+      <trkpt lat="42.460040" lon="1.585470">
+        <ele>2733.2</ele>
+        <time>2005-10-22T14:29:45Z</time>
+      </trkpt>
+      <trkpt lat="42.460240" lon="1.585740">
+        <ele>2726.4</ele>
+        <time>2005-10-22T14:30:04Z</time>
+      </trkpt>
+      <trkpt lat="42.460565" lon="1.585851">
+        <ele>2723.5</ele>
+        <time>2005-10-22T14:30:57Z</time>
+      </trkpt>
+      <trkpt lat="42.460750" lon="1.586190">
+        <ele>2715.4</ele>
+        <time>2005-10-22T14:31:33Z</time>
+      </trkpt>
+      <trkpt lat="42.460751" lon="1.586638">
+        <ele>2702.4</ele>
+        <time>2005-10-22T14:32:34Z</time>
+      </trkpt>
+      <trkpt lat="42.460990" lon="1.586712">
+        <ele>2693.8</ele>
+        <time>2005-10-22T14:33:01Z</time>
+      </trkpt>
+      <trkpt lat="42.461070" lon="1.586940">
+        <ele>2685.1</ele>
+        <time>2005-10-22T14:33:28Z</time>
+      </trkpt>
+      <trkpt lat="42.461373" lon="1.587146">
+        <ele>2674.0</ele>
+        <time>2005-10-22T14:35:01Z</time>
+      </trkpt>
+      <trkpt lat="42.461984" lon="1.588429">
+        <ele>2651.5</ele>
+        <time>2005-10-22T14:37:01Z</time>
+      </trkpt>
+      <trkpt lat="42.463478" lon="1.589836">
+        <ele>2603.0</ele>
+        <time>2005-10-22T14:37:50Z</time>
+      </trkpt>
+      <trkpt lat="42.464053" lon="1.590826">
+        <ele>2614.0</ele>
+        <time>2005-10-22T14:37:59Z</time>
+      </trkpt>
+      <trkpt lat="42.464406" lon="1.592095">
+        <ele>2608.0</ele>
+        <time>2005-10-22T14:38:24Z</time>
+      </trkpt>
+      <trkpt lat="42.464556" lon="1.593278">
+        <ele>2593.0</ele>
+        <time>2005-10-22T14:38:49Z</time>
+      </trkpt>
+      <trkpt lat="42.464994" lon="1.594180">
+        <ele>2580.0</ele>
+        <time>2005-10-22T14:39:09Z</time>
+      </trkpt>
+      <trkpt lat="42.464474" lon="1.596510">
+        <ele>2541.0</ele>
+        <time>2005-10-22T14:40:28Z</time>
+      </trkpt>
+      <trkpt lat="42.463619" lon="1.597655">
+        <ele>2517.0</ele>
+        <time>2005-10-22T14:41:07Z</time>
+      </trkpt>
+      <trkpt lat="42.463227" lon="1.598812">
+        <ele>2500.0</ele>
+        <time>2005-10-22T14:41:23Z</time>
+      </trkpt>
+      <trkpt lat="42.462743" lon="1.599281">
+        <ele>2484.2</ele>
+        <time>2005-10-22T14:46:13Z</time>
+      </trkpt>
+      <trkpt lat="42.462023" lon="1.598968">
+        <ele>2478.4</ele>
+        <time>2005-10-22T14:46:28Z</time>
+      </trkpt>
+      <trkpt lat="42.461309" lon="1.599100">
+        <ele>2450.0</ele>
+        <time>2005-10-22T14:47:52Z</time>
+      </trkpt>
+      <trkpt lat="42.460826" lon="1.598295">
+        <ele>2440.0</ele>
+        <time>2005-10-22T14:48:20Z</time>
+      </trkpt>
+      <trkpt lat="42.460896" lon="1.597716">
+        <ele>2435.2</ele>
+        <time>2005-10-22T14:48:39Z</time>
+      </trkpt>
+      <trkpt lat="42.460421" lon="1.597569">
+        <ele>2425.0</ele>
+        <time>2005-10-22T14:49:10Z</time>
+      </trkpt>
+      <trkpt lat="42.460178" lon="1.597215">
+        <ele>2412.1</ele>
+        <time>2005-10-22T14:49:52Z</time>
+      </trkpt>
+      <trkpt lat="42.458931" lon="1.597997">
+        <ele>2401.5</ele>
+        <time>2005-10-22T14:50:19Z</time>
+      </trkpt>
+      <trkpt lat="42.458444" lon="1.598024">
+        <ele>2392.9</ele>
+        <time>2005-10-22T14:50:45Z</time>
+      </trkpt>
+      <trkpt lat="42.457895" lon="1.598413">
+        <ele>2386.1</ele>
+        <time>2005-10-22T14:51:36Z</time>
+      </trkpt>
+      <trkpt lat="42.457822" lon="1.598299">
+        <ele>2381.3</ele>
+        <time>2005-10-22T14:52:06Z</time>
+      </trkpt>
+      <trkpt lat="42.457638" lon="1.598358">
+        <ele>2356.4</ele>
+        <time>2005-10-22T14:52:53Z</time>
+      </trkpt>
+      <trkpt lat="42.457386" lon="1.598716">
+        <ele>2348.0</ele>
+        <time>2005-10-22T14:53:01Z</time>
+      </trkpt>
+      <trkpt lat="42.457114" lon="1.598595">
+        <ele>2345.0</ele>
+        <time>2005-10-22T14:53:16Z</time>
+      </trkpt>
+      <trkpt lat="42.456908" lon="1.598666">
+        <ele>2345.0</ele>
+        <time>2005-10-22T14:53:43Z</time>
+      </trkpt>
+      <trkpt lat="42.456500" lon="1.599186">
+        <ele>2344.8</ele>
+        <time>2005-10-22T12:45:28Z</time>
+      </trkpt>
+      <trkpt lat="42.456246" lon="1.599064">
+        <ele>2340.6</ele>
+        <time>2005-10-22T12:43:33Z</time>
+      </trkpt>
+      <trkpt lat="42.456033" lon="1.599306">
+        <ele>2323.8</ele>
+        <time>2005-10-22T12:42:04Z</time>
+      </trkpt>
+      <trkpt lat="42.455672" lon="1.599253">
+        <ele>2315.6</ele>
+        <time>2005-10-22T12:41:14Z</time>
+      </trkpt>
+      <trkpt lat="42.455503" lon="1.599397">
+        <ele>2312.5</ele>
+        <time>2005-10-22T12:40:48Z</time>
+      </trkpt>
+      <trkpt lat="42.455303" lon="1.600021">
+        <ele>2306.7</ele>
+        <time>2005-10-22T12:39:54Z</time>
+      </trkpt>
+      <trkpt lat="42.455123" lon="1.600007">
+        <ele>2302.5</ele>
+        <time>2005-10-22T12:38:51Z</time>
+      </trkpt>
+      <trkpt lat="42.454542" lon="1.599260">
+        <ele>2301.5</ele>
+        <time>2005-10-22T12:36:00Z</time>
+      </trkpt>
+      <trkpt lat="42.454315" lon="1.599447">
+        <ele>2297.6</ele>
+        <time>2005-10-22T12:35:34Z</time>
+      </trkpt>
+      <trkpt lat="42.454001" lon="1.599211">
+        <ele>2295.0</ele>
+        <time>2005-10-22T12:34:51Z</time>
+      </trkpt>
+      <trkpt lat="42.453576" lon="1.599409">
+        <ele>2293.0</ele>
+        <time>2005-10-22T12:34:17Z</time>
+      </trkpt>
+      <trkpt lat="42.452575" lon="1.599273">
+        <ele>2290.6</ele>
+        <time>2005-10-22T12:33:58Z</time>
+      </trkpt>
+      <trkpt lat="42.452370" lon="1.599114">
+        <ele>2287.5</ele>
+        <time>2005-10-22T12:33:26Z</time>
+      </trkpt>
+      <trkpt lat="42.451632" lon="1.599477">
+        <ele>2281.7</ele>
+        <time>2005-10-22T12:32:41Z</time>
+      </trkpt>
+      <trkpt lat="42.450348" lon="1.601256">
+        <ele>2273.2</ele>
+        <time>2005-10-22T12:30:54Z</time>
+      </trkpt>
+      <trkpt lat="42.450094" lon="1.601833">
+        <ele>2268.9</ele>
+        <time>2005-10-22T12:30:26Z</time>
+      </trkpt>
+      <trkpt lat="42.449942" lon="1.603059">
+        <ele>2260.1</ele>
+        <time>2005-10-22T12:29:20Z</time>
+      </trkpt>
+      <trkpt lat="42.449342" lon="1.604428">
+        <ele>2249.7</ele>
+        <time>2005-10-22T12:26:12Z</time>
+      </trkpt>
+      <trkpt lat="42.449404" lon="1.605186">
+        <ele>2233.0</ele>
+        <time>2006-01-23T22:45:30Z</time>
+      </trkpt>
+      <trkpt lat="42.449076" lon="1.606306">
+        <ele>2206.4</ele>
+        <time>2005-10-22T12:19:26Z</time>
+      </trkpt>
+      <trkpt lat="42.448372" lon="1.606936">
+        <ele>2179.0</ele>
+        <time>2005-10-22T12:15:43Z</time>
+      </trkpt>
+      <trkpt lat="42.448188" lon="1.607384">
+        <ele>2175.7</ele>
+        <time>2005-10-22T12:15:09Z</time>
+      </trkpt>
+      <trkpt lat="42.447210" lon="1.608372">
+        <ele>2159.2</ele>
+        <time>2005-10-22T12:12:48Z</time>
+      </trkpt>
+      <trkpt lat="42.446409" lon="1.609879">
+        <ele>2145.8</ele>
+        <time>2005-10-22T12:10:58Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

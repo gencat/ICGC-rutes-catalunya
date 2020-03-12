@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.860108" lon="2.319019">
+    <ele>822.2</ele>
+    <time>2007-07-06T21:16:30Z</time>
+    <name>GR 2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.851639" lon="2.333156">
+    <ele>708.4</ele>
+    <time>2007-07-06T21:24:19Z</time>
+    <name>GI-520</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.857090" lon="2.319885">
+    <ele>796.3</ele>
+    <time>2007-07-07T19:57:19Z</time>
+    <name>La Creu de Pedra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.818837" lon="2.339465">
+    <ele>1186.1</ele>
+    <time>2007-07-07T19:58:17Z</time>
+    <name>Font Pomereta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.875328" lon="2.323775">
+    <ele>755.7</ele>
+    <time>2007-07-12T11:37:55Z</time>
+    <name>Collet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.866247" lon="2.321533">
+    <ele>780.1</ele>
+    <time>2007-07-12T11:38:31Z</time>
+    <name>B-520</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.855305" lon="2.329174">
+    <ele>725.6</ele>
+    <time>2007-07-12T11:39:47Z</time>
+    <name>GI-520</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.844848" lon="2.321985">
+    <ele>758.6</ele>
+    <time>2007-07-12T11:42:22Z</time>
+    <name>Sobrevia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.835183" lon="2.326771">
+    <ele>990.3</ele>
+    <time>2007-07-12T11:42:52Z</time>
+    <name>Collet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.802351" lon="2.353382">
+    <ele>1212.5</ele>
+    <time>2007-07-18T11:14:39Z</time>
+    <name>La Castanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.813169" lon="2.351796">
+    <ele>1326.4</ele>
+    <time>2007-07-18T11:15:05Z</time>
+    <name>Calm dels Centsous</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.800998" lon="2.347353">
+    <ele>1143.7</ele>
+    <time>2007-11-12T17:36:37Z</time>
+    <name>Collformic</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.822080" lon="2.355054">
+    <ele>1237.4</ele>
+    <time>2007-11-12T17:37:28Z</time>
+    <name>Sant Segimon</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.922453" lon="2.325494">
+    <ele>595.0</ele>
+    <time>2007-07-06T19:02:54Z</time>
+    <name>Sant Julià de Vilatorta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.921548" lon="2.320293">
+    <ele>589.1</ele>
+    <time>2007-07-06T19:20:51Z</time>
+    <name>GR 2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.885218" lon="2.326933">
+    <ele>743.9</ele>
+    <time>2007-07-06T19:44:40Z</time>
+    <name>Puig-l'Agulla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.920402" lon="2.321936">
+    <ele>627.7</ele>
+    <time>2007-07-12T22:57:02Z</time>
+    <name>El Castell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.880808" lon="2.327056">
+    <ele>761.8</ele>
+    <time>2007-12-15T12:30:47Z</time>
+    <name>Variant a Viladrau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.804628" lon="2.351750">
+    <ele>1283.7</ele>
+    <time>2007-12-15T16:49:09Z</time>
+    <name>Camí del Matagalls</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>El Meridià Verd. 7a. Sant Julià de Vilatorta-Collformic en BTT</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;El Meridià Verd. 7a. Sant Julià de Vilatorta-Collformic en BTT&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;Variant en BTT de la setena i vuitena etapes del Meridià Verd, ruta de llarg recorregut preparada arran de la celebració del 200 aniversari del Sistema Mètric Decimal, la unitat base del qual, el metre, es va obtenir a partir de l'amidament de la distància entre Dunkerque i Barcelona. El recorregut es distribueix en 11 etapes que sumen prop de 180 km de longitud i un desnivell acumulat en pujada d'uns 4.450 m. 
+ 
+Aquesta etapa en BTT equival a les etapes 7 i 8 de la modalitat a peu. Uneix directament Sant Julià de Vilatorta amb Collformic estalviant el pas per Viladrau perquè la pujada entre aquesta població i Sant Segimon no és possible amb bicicleta. El recorregut transcorre pel vessant nord-oest del Montseny, entre boscos de roure i alzines i, més amunt, de castanyers, pi roig i faigs. Hi ha la possibilitat de visitar Sant Segimon, indret singular i de gran bellesa on s'enllaça amb l'itinerari a peu. Finalment, travessant la carena occidental del Matagalls, es fa cap a Collformic. Cal tenir en compte el fort i continuat pendent d'alguns trams de la pujada, sempre -això sí- per camins amples i en bon estat.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se surt de Sant Julià de Vilatorta, població d'Osona situada a l'E de Vic i de l'Eix Transversal (C-25), amb els quals es comunica per la carretera BV-5201. 
+ 
+0,00 km (597 m). Plaça del Marquès de la Quadra de Sant Julià de Vilatorta. Se surt en direcció O deixant l'Ajuntament a mà dreta (N). Es va a parar al carrer del Pont, que s'agafa a l'esquerra (S), es passa la plaça Major i, sempre cap al S, se surt al carrer de Jesús. Es gira a la dreta (O) fins al carrer Montseny, on es torça de nou a l'esquerra (S) fins a la plaça Montseny. Des d'allà, cap a la dreta (O), s'agafa la carretera de Vilalleons (BV-5202) creuant la carretera BV-5201 o de Sant Hilari. Es voreja el parc de les Set Fonts, que queda a la dreta (N), mentre que a l'esquerra (S) s'eleva el turó on hi ha les restes del castell o Casal de Bellpuig. 
+ 
+0,58 km (588 m). Es torça a l'esquerra pel camí que s'enfila al puig tot deixant la carretera i seguint els senyals blancs i vermells del sender GR 2, que s'acompanyarà fins després de la collada del Vilar (km 9,35). Es remunta cap al castell en direcció SE (s'hauran de pujar graons i dur la bicicleta al costat durant uns 100 m; si no es vol baixar de la bicicleta, es pot continuar carretera enllà durant 1,30 km i agafar una pista a l'esquerra que remunta cap a l'E/NE, passa pel costat del mas de la Boscana i va a sortir a la pista de la carena en el punt km 1,20). 
+ 
+0,80 km (628 m). El castell o Casal de Bellpuig. En resten dos murs. Bona panoràmica sobre Sant Julià de Vilatorta. S'agafa la pista que es dirigeix al S seguint la carena, que no es deixarà fins passat Puig-l'agulla. 
+ 
+1,20 km (620 m). Per la dreta desemboca la pista per on es podia pujar en bicicleta des de la carretera de Vilalleons. Es continua recte, cap al S, es passa pel costat del mas de la Carena. 
+ 
+2,19 km (648 m). Es deixa una desviació a la dreta i es continua recte cap al S. Es passa el mas de la Riera, que queda a l'esquerra (E), i es travessa l'eix transversal, carretera C-25, per sobre d'un túnel (km 2,41, 645 m). Es continua carenejant cap al S. Al km 2,91 es deixa a la dreta un trencall que duu al mas del Mesquí. La pista es va estrenyent i esdevé un camí. Es va seguint la carena, sempre cap al S. 
+ 
+4,40 km (703 m). Es creua la pista de can Costa i la Sala, masies que queden a la dreta del recorregut (O). El camí, en alguns llocs en mal estat degut a l'erosió, torça cap al SE decantant-se pel flanc E de la carena. Hi ha algunes rampes fortes. Al km 5,37 el camí gira a la dreta (O, després NO) i, planejant i després en baixada, arriba al santuari de Puig-l'agulla. 
+ 
+5,85 km (742 m). Santuari de la Mare de Déu de Puig-l'agulla. Restaurant, font. Des de davant del temple es deixa la pista d'accés a la dreta i es continua pel camí que s'endinsa al bosc. Es desemboca a una pista que es comunica amb l'accés al santuari més avall, a la dreta (NO). Es gira a l'esquerra (SE) i es remunta suaument la pista fins a la carena, on es gira al S. Es deixa un trencall a l'esquerra en mal estat que baixa en direcció NE. 
+ 
+6,50 km (762 m). D'aquest punt surt una pista a mà esquerra (SE) tancada per un cadenat, per on se'n va l'itinerari a peu fins a Viladrau (vegeu l'etapa específica entre Sant Julià de Vilatorta i Viladrau). Es continua recte per la pista en direcció S. El terra és de sauló (sorrenc). 
+ 
+7,24 km (755 m). Coll i cruïlla de pistes. Es continua recte, cap al SO, deixant dues pistes a la dreta (N i NO) i una a l'esquerra (S). S'emprèn una pujada per terreny erosionat i clivellat a causa de l'aigua i del pas de les motos; l'itinerari discorre pel vessant E del turó de l'Enclusa. Més amunt el perfil s'aplana, la pista fa un revolt a l'E, gira al SO i puja fortament fins a estabilitzar-se per anar a raure a la collada del Vilar. 
+ 
+8,65 km (779 m). Collada de Mansa (o del Vilar). Es creua la carretera BV-520 de Taradell a Viladrau. Es continua recte cap al S per la pista de l'altra banda que puja durant 200 m fortament erosionada. Acabada la pujada, es discorre cap al S planerament fins que es comença a baixar. Just en aquest moment (km 9,35, 819 m) es deixa una desviació a la dreta (SO), per on se'n va el GR 2. Es baixa amb força seguint la pista cap al S per terreny erosionat, es deixa una altra pista a la dreta (km 9,59, 809 m), es fa una ziga-zaga, la pista s'orienta al SE i desemboca a la carretera. 
+ 
+10,70 km (726 m). Carretera GI-520 de Taradell a Viladrau. Es gira a la dreta (S) i se segueix per la carretera durant 270 m. 
+ 
+10,97 km (718 m). Just 70 m abans d'un pontet sobre un torrent i de la cruïlla amb la carretera de Seva, es pren una pista a l'esquerra que s'endinsa a la bosquina, gira a l'E, travessa uns camps i, sempre mantenint el torrent a la dreta (S), desemboca a una pista (km 11,32, 699 m). Es gira a la dreta (S), es passa el torrent per un pont, es deixa l'accés del Molí Espatllat a l'esquerra (E) i se surt de nou a la carretera passant una barrera. 
+ 
+11,47 km (709 m). Es desemboca al punt quilomètric 6,45 de la carretera GI-520. Es creua la carretera i es continua per la pista de l'altra banda en direcció S. Aquest és el punt on caldria arribar si s'hagués optat per anar a Viladrau en bicicleta seguint l'etapa Sant Julià de Vilatorta-Viladrau. Es deixa una desviació a l'esquerra i es continua seguint la pista, que gira al SO, puja i s'estreny. Es travessa un alzinar. Després d'un tram pla, cap al km 12,17 (738 m), la pista torna a fer pujada. Es va girant al S. 
+ 
+12,70 km (764 m). En una àmplia girada, es deixa a la dreta l'accés a la masia de Sobrevia (S). Es creua un tallafocs i, poc més enllà, comença la forta remuntada cap al turó del Matagalls Xic. Se seguirà sempre la pista principal. Després de fer una ziga-zaga es deixen trencalls a banda i banda. Es va guanyant alçària, sempre cap al S, i s'entra dins dels límits del Parc Natural del Montseny. Una altra ziga-zaga i, al km 13,80 (870 m), es deixa una desviació a l'esquerra. Venen rampes fortes, es deixa un altre trencall a l'esquerra i es continua pujant fins que s'és en un collet (km 14,64, 990 m) sota el turó del Matagalls Xic, que queda al S. Es deixa una desviació a l'esquerra, una altra a la dreta i es continua cap al S, encara en pujada. Es descriu una ziga-zaga, es deixa un trencall a la dreta i, just quan la pista deixa de pujar, s'arriba a una altra pista. 
+ 
+15,29 km (1.061 m). Pista del Brull i Seva. Es continua recte cap al S. La pujada se suavitza. Es deixa un desviament a la dreta (km 15,91, 1.121 m), un altre 330 m més endavant i s'enfila la carena de les Planes. La pista va girant al SE. La vegetació ha canviat a causa de l'alçada i els faigs tornen a veure's de nou. 
+ 
+17,23 km (1.185 m). Font Pomereta. La pista gira al N, fa una gran ziga-zaga (km 17,63, 1.217 m), deixa una desviació a l'esquerra (O) que baixa (km 18,08, 1.218 m) i torna a girar al S. Es passen els plans de Font Ceballar i s'arriba al collet de Font Pomereta (km 19,41, 1.243 m). Extraordinària panoràmica sobre la plana de Vic i el santuari de Sant Segimon emmarcada pel Pirineu i les serres prepirinenques orientals. Bon lloc i moment per descansar, perquè ve un tram curt, però amb forta pujada. Es continua per la pista cap al S, deixant una desviació a la dreta es remunta la costa del turó dels Esqueis i s'arriba al calm dels Cent Sous -en altres fonts, Cincsous-, on es desemboca a la pista de Collformic a Sant Segimon. 
+ 
+20,65 km (1.325 m). Pista de Collformic a Sant Segimon. El santuari queda a l'esquerra (N), a 2,45 km d'aquest punt. Si es disposa de temps, mereix una visita. L'itinerari continua cap al S, en pujada. S'arriba a la carena del turó d'en Bessa, punt de major altitud de l'etapa. Es deixa la pista als repetidors a mà esquerra i comença la baixada a Collformic. Fent diverses ziga-zagues i, havent passat una tanca, es desemboca a la carretera BV-5310, que se segueix cap a l'esquerra (N) per anar a raure a Collformic. 
+ 
+23,22 km (1.143 m). Collformic, carretera BV-5301 de Seva a Montseny. Fi de l'etapa. Hi ha un restaurant. L'allotjament més proper és la masia de la Morera (municipi del Brull), situada a 2,5 km en direcció al Brull (O), baixant per la carretera i prenent una desviació a l'esquerra. Al mateix municipi hi ha altres allotjaments rurals. Al vessant E del coll, el municipi de Montseny disposa d'hotels, allotjaments rurals, cases de colònies i càmpings, encara que més lluny que els del Brull.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;El Meridiano Verde. 7a. Sant Julià de Vilatorta - Collformic con BTT&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;Variante en BTT de la séptima y octava etapas del Meridiano Verde, ruta de largo recorrido creada con motivo de la celebración del bicentenario del sistema métrico decimal, cuya unidad base, el metro, se obtuvo a partir de la medición de la distancia entre Dunkerque y Barcelona. El recorrido se distribuye en once etapas que suman cerca de 180 km de longitud y un desnivel acumulado en ascensión de unos 4.450 m. 
+ 
+Esta etapa en BTT equivale a las etapas 7 y 8 de la modalidad a pie. Une directamente Sant Julià de Vilatorta con Collformic ahorrando el paso por Viladrau porque la subida desde esta población a Sant Segimon no es posible en bicicleta. El recorrido transcurre por la ladera noroeste del Montseny, entre bosques de roble y encinas y, más arriba, de castaños, pino silvestre y hayas. Existe la posibilidad de visitar Sant Segimon, lugar singular y de gran belleza donde se enlaza con el itinerario a pie. Finalmente, atravesando la cresta occidental del Matagalls, se llega a Collformic. Hay que tener en cuenta el fuerte y continuado pendiente de algunos tramos de la subida, siempre -eso sí- por caminos anchos y en buen estado.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; Se sale de Sant Julià de Vilatorta, población de Osona situada al E de Vic y del Eje Transversal (C-25), con los que se comunica por la carretera BV-5201. 
+ 
+0,00 km (597 m). Plaza del Marquès de la Quadra de Sant Julià de Vilatorta. Se sale en dirección O dejando el Ayuntamiento a mano derecha (N). Se va a parar a la calle del Pont, que se toma a la izquierda (S), se pasa la plaza Major y, siempre hacia el S, se sale a la calle de Jesús. Se gira a la derecha (O) hasta la calle Montseny, donde se tuerce de nuevo a la izquierda (S) hasta la plaza Montseny. Desde allí, hacia la derecha (O), se coge la carretera de Vilalleons (BV-5202) cruzando la carretera BV-5201 o de Sant Hilari. Se bordea el parque de Les Set Fonts, que queda a la derecha (N), mientras que a la izquierda (S) se eleva el cerro donde están los restos del castillo o Casal de Bellpuig. 
+ 
+0,58 km (588 m). Se tuerce a la izquierda por el camino que sube al monte dejando la carretera y siguiendo las señales blancas y rojas del sendero GR 2, que se acompañará hasta después del collado del Vilar (km 9,35). Se remonta hacia el castillo en dirección SE (se deberá subir escalones y llevar la bicicleta al lado durante unos 100 metros, si no se quiere bajar de la bicicleta, se puede continuar por la carretera durante 1,30 km y tomar una pista a la izquierda que remonta hacia el E / NE, pasa junto al Mas de la Boscana y va a salir a la pista de la loma divisoria en el punto km 1,20). 
+ 
+0,80 km (628 m). El castillo o Casal de Bellpuig. Quedan dos muros. Buena panorámica sobre Sant Julià de Vilatorta. Se coge la pista que se dirige al S siguiendo la cresta, que no se dejará hasta pasado Puig-l’agulla. 
+ 
+1,20 km (620 m). Por la derecha desemboca la pista por donde se podía subir en bicicleta desde la carretera de Vilalleons. Se sigue recto, hacia el S, se pasa junto al Mas de la Carena. 
+ 
+2,19 km (648 m). Se deja un desvío a la derecha y se sigue recto hacia el S. Se pasa el Mas de la Riera, que queda a la izquierda (E), y se atraviesa el eje transversal, carretera C-25, por encima de un túnel (km 2,41, 645 m). Se continúa la cresta hacia el S. En el km 2,91 se deja a la derecha un desvío que lleva al Mas del Mesquí. La pista se va estrechando y se convierte en un camino. Se va siguiendo el lomo divisorio, siempre hacia el S. 
+ 
+4,40 km (703 m). Se cruza la pista de Can Costa y la Sala, masías que quedan a la derecha del recorrido (O). El camino, en algunos lugares en mal estado debido a la erosión, tuerce hacia el SE decantándose por el flanco E de la cresta. Hay algunas rampas fuertes. En el km 5,37 el camino gira a la derecha (O, después NO) y, planeando y luego en bajada, llega al santuario de Puig-l’agulla. 
+ 
+5,85 km (742 m). Santuario de la Virgen de Puig-l’agulla. Restaurante, fuente. Desde el frontal del templo se deja la pista de acceso a la derecha y se continúa por el camino que se adentra en el bosque. Se desemboca en una pista que se comunica con el acceso al santuario más abajo, a la derecha (NO). Se gira a la izquierda (SE) y se remonta suavemente la pista hasta la cresta, donde se gira el S. Se deja un desvío a la izquierda en mal estado que baja en dirección NE. 
+ 
+6,50 km (762 m). De este punto sale una pista a mano izquierda (SE) cerrada por una cadena, por donde se va el itinerario a pie hasta Viladrau (véase la etapa específica entre Sant Julià de Vilatorta y Viladrau). Se sigue recto por la pista en dirección S. El suelo es de arena (arenoso). 
+ 
+7,24 km (755 m). Cuello y cruce de pistas. Se sigue recto, hacia el SO, dejando dos pistas a la derecha (N y NO) y una a la izquierda (S). Se emprende una subida por terreno erosionado y agrietado debido al agua y al paso de motos; el itinerario discurre por la vertiente E del cerro de L’Enclusa. Más arriba el perfil se allana, la pista describe una curva hacia el E, después gira al SO y sube fuertemente hasta estabilizarse para ir a dar al collado del Vilar. 
+ 
+8,65 km (779 m). Collada de Mansa (o del Vilar). Se cruza la carretera BV-520 de Taradell a Viladrau. Se sigue recto hacia el S por la pista del otro lado que sube durante 200 m fuertemente erosionada. Terminada la subida, se discurre hacia el S llanamente hasta que se empieza a bajar. Justo en ese momento (km 9,35, 819 m) se deja un desvío a la derecha (SO), por donde se va el GR 2. Se baja con fuerza siguiendo la pista hacia el S por terreno erosionado, se deja otra pista a la derecha (km 9,59, 809 m), se hace un zigzag, la pista se orienta al SE y desemboca en la carretera. 
+ 
+10,70 km (726 m). Carretera GI-520 de Taradell a Viladrau. Se gira a la derecha (S) y se sigue por la carretera durante 270 m. 
+ 
+10,97 km (718 m). Justo 70 m antes de un pequeño puente sobre un torrente y del cruce con la carretera de Seva, se toma una pista a la izquierda que se adentra en la maleza, gira al E, atraviesa unos campos y, siempre manteniendo el torrente a la derecha (S), desemboca en una pista (km 11,32, 699 m). Se gira a la derecha (S), se pasa el torrente por un puente, se deja el acceso a la masía del Molí Espatllat a la izquierda (E) y se sale de nuevo a la carretera pasando una barrera. 
+ 
+11,47 km (709 m). Se desemboca en el punto kilométrico 6,45 de la carretera GI-520. Se cruza la carretera y se continúa por la pista del otro lado en dirección S. Este es el punto donde se debería llegar si se hubiera optado por ir a Viladrau en bicicleta siguiendo la etapa Sant Julià de Vilatorta-Viladrau. Se deja un desvío a la izquierda y se continúa siguiendo la pista, que gira al SO, sube y se estrecha. Se atraviesa un encinar. Después de un tramo llano, hacia el km 12,17 (738 m), la pista vuelve a subir girando al S. 
+ 
+12,70 km (764 m). En una amplia curva, se deja a la derecha el acceso a la masía de Sobrevia (S). Se cruza un cortafuegos y, poco más allá, comienza la fuerte remontada hacia el cerro del Matagalls Xic. Se seguirá siempre la pista principal. Después de hacer un zigzag se dejan desvíos a ambos lados. Se va ganando altura, siempre hacia el S, y se entra dentro de los límites del Parque Natural del Montseny. Otro zigzag y en el km 13,80 (870 m) se deja un desvío a la izquierda. Vienen rampas fuertes, se deja otro desvío a la izquierda y se continúa subiendo hasta que se está en un collado (km 14,64, 990 m) bajo el cerro del Matagalls Xic, que queda al S. Se deja un desvío a la izquierda, otro a la derecha y se continúa hacia el S, aun en subida. Se describe un zigzag, se deja un desvío a la derecha y, justamente cuando la pista deja de subir, se llega a otra pista. 
+ 
+15,29 km (1.061 m). Pista del Brull y Seva. Se sigue recto hacia el S. La subida se suaviza. Se deja un desvío a la derecha (km 15,91, 1.121 m), otro 330 m más adelante y se sube la loma de Les Planes. La pista va girando el SE. La vegetación ha cambiado debido a la altura y vuelven a verse hayas de nuevo. 
+ 
+17,23 km (1.185 m). Fuente Pomereta. La pista gira al N, hace una gran zigzag (km 17,63, 1.217 m), deja un desvío a la izquierda (O) que baja (km 18,08, 1.218 m) y vuelve a girar al S. se pasan los llanos de Font Ceballar y se llega al collado de Font Pomereta (km 19,41, 1.243 m). Extraordinaria panorámica sobre la llanura de Vic y el santuario de Sant Segimon enmarcada por el Pirineo y las sierras prepirenaicas orientales. Buen lugar y momento para descansar, porque viene un tramo con fuerte subida, aunque corto. Se continúa por la pista hacia el S, dejando un desvío a la derecha se remonta la costa de la colina de los Esqueis y se llega al Calm dels Cent Sous -en otras fuentes, Cincsous-, donde se desemboca en la pista de Collformic a Sant Segimon. 
+ 
+20,65 km (1.325 m). Pista de Collformic a Sant Segimon. El santuario queda a la izquierda (N), a 2,45 km de este punto. Si se dispone de tiempo, merece una visita. El itinerario continúa hacia el S, en subida. Se llega a la cresta de la colina de En Bessa, punto de mayor altitud de la etapa. Se deja un acceso a los repetidores a mano izquierda y comienza la bajada a Collformic. Haciendo varias zigzags y, habiendo pasado una valla, se desemboca en la carretera BV-5310, que se sigue hacia la izquierda (N) para ir a dar a Collformic. 
+ 
+23,22 km (1.143 m). Collformic, carretera BV-5301 de Seva a Montseny. Fin de la etapa. Hay un restaurante. El alojamiento más cercano es la masía de La Morera (municipio de El Brull), situada a 2,5 km en dirección a El Brull (O), bajando por la carretera y tomando un desvío a la izquierda. En el mismo municipio hay otros alojamientos rurales. En la vertiente E del cuello, el municipio de Montseny dispone de hoteles, alojamientos rurales, casas de colonias y campings, aunque más lejos que los del Brull. &lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[EN] &lt;b&gt;Green Meridian. 7a Sant Julià de Vilatorta-Collformic&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;This is the mountain bike variant of stages 7 and 8 of the Green Meridian, a long route designed for the European commemoration of the 200th anniversary of the decimal metric system, the base unit of which -the metre- was obtained by measuring the distance between Dunkirk, Paris and Barcelona. Completed in 2003, the Catalan project is divided into 11 stages totalling 179.41 km in length. The cumulative difference in altitude in ascent is 4,410 m (on foot, without taking any mountain bike variants into account). The route has its own signposting and tries to keep as close as possible to the line of that meridian (it currently corresponds to longitude 2°20'14'' E). While the starting point for the original route is in La Preste (Vallespir, France), this version of it starts at Fonda pass, to the south of Costabona mountain. It therefore links the Pyrenees to the beaches of Maresme county via a very well conserved corridor, with a succession of landscapes of great natural interest. These include Alpine meadows and forests, humid and Mediterranean mountain landscapes, and pre-coastal and coastal plain landscapes. It is an extraordinary route through natural, rural and built-up environments of unique beauty. It is dotted with villages, hamlets, farmhouses, churches, hermitages, castles and towers, and culminates in the legendary capital of the Western Mediterranean: Barcelona.&lt;br&gt;&lt;br&gt;The route is described from north to south for both options: on foot and by mountain bike. When the mountain bike route differs from the walking route, specific mention will be made of that and additional information will be given at the bottom of the description. Accommodation, reception and restaurant services are available along each stage. Although they are minimal, they will allow you to do the route comfortably, in accordance with your needs. 
+The route of this mountain bike stage equates to stages 7 and 8 on foot. It runs along the far easterly end of Vic plain on the north-western side of the Montseny mountain range among thick oak and Holm oak forests and, further up, among thick chestnut, Scots pine and beech forests. You have the option to visit Sant Segimon, a unique place of outstanding beauty. Finally, crossing the western crest line of Matagalls mountain, it heads towards Collformic.&lt;/i&gt; 
+Marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14 &lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.922443" lon="2.325445">
+        <ele>594.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.922490" lon="2.325088">
+        <ele>595.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.922095" lon="2.325147">
+        <ele>596.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921777" lon="2.324947">
+        <ele>597.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921827" lon="2.324295">
+        <ele>595.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921142" lon="2.324206">
+        <ele>594.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921020" lon="2.324039">
+        <ele>593.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920985" lon="2.322737">
+        <ele>586.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921557" lon="2.320476">
+        <ele>587.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.921439" lon="2.320254">
+        <ele>592.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920628" lon="2.321691">
+        <ele>617.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920541" lon="2.321523">
+        <ele>624.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920326" lon="2.321688">
+        <ele>628.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.920262" lon="2.321502">
+        <ele>628.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.919712" lon="2.321363">
+        <ele>626.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.919503" lon="2.321148">
+        <ele>625.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.918774" lon="2.321192">
+        <ele>623.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.917692" lon="2.320402">
+        <ele>623.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.916762" lon="2.319929">
+        <ele>619.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.915113" lon="2.320628">
+        <ele>628.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.914183" lon="2.321627">
+        <ele>636.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.913607" lon="2.321814">
+        <ele>638.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.912833" lon="2.321834">
+        <ele>640.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.912526" lon="2.321680">
+        <ele>640.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.911338" lon="2.321880">
+        <ele>642.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.908632" lon="2.320998">
+        <ele>649.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.907568" lon="2.321522">
+        <ele>647.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.906479" lon="2.321708">
+        <ele>649.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.906082" lon="2.321501">
+        <ele>649.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.905520" lon="2.321664">
+        <ele>652.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.905222" lon="2.321505">
+        <ele>657.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.903697" lon="2.322521">
+        <ele>670.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.903148" lon="2.322696">
+        <ele>676.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.900497" lon="2.322104">
+        <ele>683.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.898975" lon="2.322843">
+        <ele>689.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.898322" lon="2.322814">
+        <ele>687.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.897011" lon="2.323497">
+        <ele>687.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.896287" lon="2.323625">
+        <ele>692.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.896113" lon="2.323946">
+        <ele>692.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.895028" lon="2.324699">
+        <ele>699.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.894659" lon="2.324721">
+        <ele>703.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.894475" lon="2.325543">
+        <ele>707.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.893865" lon="2.326073">
+        <ele>710.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.892539" lon="2.326473">
+        <ele>709.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.890850" lon="2.326358">
+        <ele>703.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.889767" lon="2.327412">
+        <ele>703.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.889563" lon="2.328035">
+        <ele>705.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.888908" lon="2.329115">
+        <ele>717.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.887019" lon="2.330340">
+        <ele>741.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.886416" lon="2.330472">
+        <ele>744.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885937" lon="2.330827">
+        <ele>748.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885442" lon="2.330862">
+        <ele>752.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885205" lon="2.330455">
+        <ele>759.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884849" lon="2.330326">
+        <ele>765.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883811" lon="2.330813">
+        <ele>769.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883209" lon="2.330174">
+        <ele>768.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883234" lon="2.329897">
+        <ele>767.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883578" lon="2.329417">
+        <ele>765.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883950" lon="2.328299">
+        <ele>762.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885344" lon="2.327193">
+        <ele>744.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885415" lon="2.327006">
+        <ele>744.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885387" lon="2.326825">
+        <ele>743.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.885138" lon="2.326683">
+        <ele>742.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884665" lon="2.326580">
+        <ele>744.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.884134" lon="2.326676">
+        <ele>753.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883794" lon="2.325589">
+        <ele>763.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.883206" lon="2.325806">
+        <ele>761.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.882742" lon="2.326648">
+        <ele>762.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.882030" lon="2.327288">
+        <ele>764.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.881409" lon="2.327319">
+        <ele>765.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879791" lon="2.326373">
+        <ele>771.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.879181" lon="2.326220">
+        <ele>769.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878796" lon="2.326477">
+        <ele>764.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878254" lon="2.326208">
+        <ele>765.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.878080" lon="2.325014">
+        <ele>769.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.876190" lon="2.324468">
+        <ele>759.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.875096" lon="2.323623">
+        <ele>755.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874705" lon="2.322977">
+        <ele>761.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.874238" lon="2.322840">
+        <ele>762.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873923" lon="2.323024">
+        <ele>762.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873452" lon="2.322797">
+        <ele>761.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.873243" lon="2.323790">
+        <ele>765.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872530" lon="2.322701">
+        <ele>780.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.872078" lon="2.322399">
+        <ele>780.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.871667" lon="2.322349">
+        <ele>781.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870931" lon="2.322754">
+        <ele>790.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870595" lon="2.322381">
+        <ele>792.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.870254" lon="2.322472">
+        <ele>791.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.869776" lon="2.323182">
+        <ele>785.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.869252" lon="2.322950">
+        <ele>781.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868817" lon="2.324063">
+        <ele>777.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868539" lon="2.324175">
+        <ele>775.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.868248" lon="2.323710">
+        <ele>776.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.867579" lon="2.323283">
+        <ele>780.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.867248" lon="2.322407">
+        <ele>781.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.866756" lon="2.322135">
+        <ele>780.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.866167" lon="2.321491">
+        <ele>779.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.862609" lon="2.320788">
+        <ele>809.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.861797" lon="2.319790">
+        <ele>811.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.860795" lon="2.319530">
+        <ele>815.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.860032" lon="2.319146">
+        <ele>821.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.859407" lon="2.319364">
+        <ele>825.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858927" lon="2.318929">
+        <ele>816.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858666" lon="2.318884">
+        <ele>814.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858328" lon="2.319173">
+        <ele>808.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.858678" lon="2.319420">
+        <ele>801.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.857723" lon="2.320348">
+        <ele>785.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856867" lon="2.322444">
+        <ele>763.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856526" lon="2.322623">
+        <ele>761.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856393" lon="2.323881">
+        <ele>756.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855725" lon="2.325799">
+        <ele>748.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855794" lon="2.326828">
+        <ele>745.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856036" lon="2.327440">
+        <ele>741.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.856003" lon="2.328790">
+        <ele>735.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855909" lon="2.328821">
+        <ele>736.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855686" lon="2.328426">
+        <ele>733.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855363" lon="2.328634">
+        <ele>728.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.855307" lon="2.329121">
+        <ele>725.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.854258" lon="2.329216">
+        <ele>719.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.853628" lon="2.329014">
+        <ele>717.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852975" lon="2.329051">
+        <ele>710.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852754" lon="2.329705">
+        <ele>707.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852731" lon="2.330452">
+        <ele>708.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852356" lon="2.331165">
+        <ele>701.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852484" lon="2.333079">
+        <ele>698.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852306" lon="2.333221">
+        <ele>702.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.852273" lon="2.333685">
+        <ele>704.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.851662" lon="2.333107">
+        <ele>708.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.851427" lon="2.333049">
+        <ele>710.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.851311" lon="2.332394">
+        <ele>712.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.850734" lon="2.331049">
+        <ele>722.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.850704" lon="2.329616">
+        <ele>729.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.850151" lon="2.328212">
+        <ele>731.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.848831" lon="2.325788">
+        <ele>738.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.848405" lon="2.324557">
+        <ele>742.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.847419" lon="2.323766">
+        <ele>752.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.847076" lon="2.323710">
+        <ele>753.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.846722" lon="2.323889">
+        <ele>751.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.846428" lon="2.323778">
+        <ele>753.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845834" lon="2.322959">
+        <ele>757.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845485" lon="2.323384">
+        <ele>766.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845751" lon="2.324279">
+        <ele>772.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845992" lon="2.324559">
+        <ele>775.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845526" lon="2.325853">
+        <ele>785.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845436" lon="2.325788">
+        <ele>788.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845560" lon="2.325425">
+        <ele>789.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845424" lon="2.325276">
+        <ele>790.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.845043" lon="2.325671">
+        <ele>798.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.843957" lon="2.326159">
+        <ele>811.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.843083" lon="2.325431">
+        <ele>817.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841419" lon="2.325737">
+        <ele>839.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841056" lon="2.326014">
+        <ele>842.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841008" lon="2.326358">
+        <ele>848.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841095" lon="2.326580">
+        <ele>849.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841805" lon="2.327107">
+        <ele>859.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841831" lon="2.327626">
+        <ele>866.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.841335" lon="2.327631">
+        <ele>870.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.840300" lon="2.327028">
+        <ele>891.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.839453" lon="2.326959">
+        <ele>910.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.839118" lon="2.326655">
+        <ele>916.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.839013" lon="2.327102">
+        <ele>923.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.838869" lon="2.327163">
+        <ele>926.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.838089" lon="2.326274">
+        <ele>940.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.838050" lon="2.325763">
+        <ele>946.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.837195" lon="2.325802">
+        <ele>960.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.836638" lon="2.326085">
+        <ele>970.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.835764" lon="2.325955">
+        <ele>979.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.835201" lon="2.326732">
+        <ele>990.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.833536" lon="2.326189">
+        <ele>1021.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.833119" lon="2.326435">
+        <ele>1030.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.833401" lon="2.326865">
+        <ele>1040.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.832523" lon="2.326902">
+        <ele>1048.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.832088" lon="2.327124">
+        <ele>1052.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.831323" lon="2.326421">
+        <ele>1061.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.829964" lon="2.326496">
+        <ele>1062.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.829224" lon="2.326377">
+        <ele>1072.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.828644" lon="2.327268">
+        <ele>1080.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.828147" lon="2.327563">
+        <ele>1083.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.827682" lon="2.327429">
+        <ele>1086.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.827482" lon="2.327082">
+        <ele>1089.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.827266" lon="2.327132">
+        <ele>1095.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.826938" lon="2.327984">
+        <ele>1109.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.826149" lon="2.328649">
+        <ele>1121.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.825714" lon="2.329569">
+        <ele>1125.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.825670" lon="2.329960">
+        <ele>1127.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.825142" lon="2.330508">
+        <ele>1134.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.824419" lon="2.330828">
+        <ele>1145.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.823932" lon="2.330593">
+        <ele>1148.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822812" lon="2.331658">
+        <ele>1161.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.821904" lon="2.331908">
+        <ele>1161.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.821397" lon="2.332847">
+        <ele>1158.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.821291" lon="2.333372">
+        <ele>1162.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.820416" lon="2.334687">
+        <ele>1175.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.819380" lon="2.338491">
+        <ele>1177.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.818912" lon="2.339284">
+        <ele>1184.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.818980" lon="2.339434">
+        <ele>1184.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.819350" lon="2.339472">
+        <ele>1188.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.820695" lon="2.339344">
+        <ele>1196.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.820928" lon="2.339125">
+        <ele>1198.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822209" lon="2.338630">
+        <ele>1215.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822399" lon="2.338893">
+        <ele>1218.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822251" lon="2.340574">
+        <ele>1213.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822399" lon="2.341223">
+        <ele>1208.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.823010" lon="2.340994">
+        <ele>1204.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.823439" lon="2.341110">
+        <ele>1207.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.824460" lon="2.341070">
+        <ele>1217.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.825739" lon="2.340292">
+        <ele>1232.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.826851" lon="2.340226">
+        <ele>1244.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.827182" lon="2.340555">
+        <ele>1246.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.827104" lon="2.341169">
+        <ele>1252.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.826690" lon="2.341137">
+        <ele>1254.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.826246" lon="2.341539">
+        <ele>1252.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.824686" lon="2.341922">
+        <ele>1245.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.823729" lon="2.342317">
+        <ele>1244.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822345" lon="2.343620">
+        <ele>1252.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.822053" lon="2.343653">
+        <ele>1255.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.821728" lon="2.343453">
+        <ele>1257.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.821259" lon="2.343486">
+        <ele>1259.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.820426" lon="2.344127">
+        <ele>1250.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.819501" lon="2.345312">
+        <ele>1242.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.818453" lon="2.344727">
+        <ele>1243.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.818042" lon="2.343862">
+        <ele>1254.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.817840" lon="2.343864">
+        <ele>1258.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.817283" lon="2.344875">
+        <ele>1274.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.817360" lon="2.346615">
+        <ele>1298.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.816670" lon="2.347199">
+        <ele>1309.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.816549" lon="2.348047">
+        <ele>1311.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.816068" lon="2.349097">
+        <ele>1315.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.815214" lon="2.350039">
+        <ele>1316.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.813446" lon="2.350412">
+        <ele>1315.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812950" lon="2.350952">
+        <ele>1317.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812680" lon="2.351704">
+        <ele>1325.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.812089" lon="2.351589">
+        <ele>1330.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811807" lon="2.350948">
+        <ele>1336.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811263" lon="2.351080">
+        <ele>1339.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.811055" lon="2.350998">
+        <ele>1342.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810699" lon="2.350201">
+        <ele>1346.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.810094" lon="2.350598">
+        <ele>1344.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.809256" lon="2.350637">
+        <ele>1341.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808763" lon="2.350949">
+        <ele>1334.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.808155" lon="2.350955">
+        <ele>1328.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807216" lon="2.351223">
+        <ele>1317.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805725" lon="2.351256">
+        <ele>1292.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804580" lon="2.351738">
+        <ele>1282.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804538" lon="2.351503">
+        <ele>1279.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805533" lon="2.350711">
+        <ele>1265.6</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806391" lon="2.349535">
+        <ele>1254.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.807068" lon="2.348221">
+        <ele>1238.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.806062" lon="2.348749">
+        <ele>1227.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.805164" lon="2.348355">
+        <ele>1216.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804727" lon="2.348359">
+        <ele>1213.5</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804533" lon="2.349048">
+        <ele>1206.9</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.804309" lon="2.349152">
+        <ele>1204.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802775" lon="2.348602">
+        <ele>1191.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802470" lon="2.348081">
+        <ele>1183.2</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801674" lon="2.348306">
+        <ele>1173.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801451" lon="2.348633">
+        <ele>1169.3</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801582" lon="2.348066">
+        <ele>1167.0</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802505" lon="2.347238">
+        <ele>1152.1</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.802509" lon="2.347058">
+        <ele>1146.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801647" lon="2.347373">
+        <ele>1142.4</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.801165" lon="2.347384">
+        <ele>1142.8</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800959" lon="2.347555">
+        <ele>1142.7</ele>
+        <time>2014-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.800728" lon="2.347323">
+        <ele>1141.5</ele>
+        <time>2014-12-30T00:55:10Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.477454" lon="1.387736">
+    <ele>549.9</ele>
+    <time>2014-04-28T10:40:38Z</time>
+    <name>Pontils</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.444699" lon="1.349487">
+    <ele>631.9</ele>
+    <time>2014-04-28T10:40:39Z</time>
+    <name>Vallespinosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.462712" lon="1.392129">
+    <ele>579.1</ele>
+    <time>2016-03-10T15:58:31Z</time>
+    <name>Castell de Santa Perpètua</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.462030" lon="1.392936">
+    <ele>517.9</ele>
+    <time>2016-03-10T15:58:44Z</time>
+    <name>Santa Perpètua de Gaià</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.462398" lon="1.389624">
+    <ele>527.0</ele>
+    <time>2016-11-04T08:16:38Z</time>
+    <name>Trams en mal estat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.462291" lon="1.388580">
+    <ele>542.2</ele>
+    <time>2016-11-04T08:20:18Z</time>
+    <name>Trams cimentats</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.458593" lon="1.376686">
+    <ele>665.1</ele>
+    <time>2016-11-04T08:49:47Z</time>
+    <name>A l'esquerra (SO)</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.457904" lon="1.373854">
+    <ele>688.0</ele>
+    <time>2016-11-04T08:51:56Z</time>
+    <name>GR 7. Camí de Ricreu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.453037" lon="1.369084">
+    <ele>721.8</ele>
+    <time>2016-11-04T09:02:09Z</time>
+    <name>Camí a la dreta (SO)</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.447083" lon="1.357426">
+    <ele>695.9</ele>
+    <time>2016-11-04T09:35:02Z</time>
+    <name>Mas Carbonell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.446658" lon="1.343466">
+    <ele>641.0</ele>
+    <time>2016-11-04T09:37:54Z</time>
+    <name>Cap a Pontils</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.464405" lon="1.373787">
+    <ele>702.3</ele>
+    <time>2016-11-04T10:02:42Z</time>
+    <name>GR 7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.456636" lon="1.355663">
+    <ele>694.9</ele>
+    <time>2016-11-04T10:06:10Z</time>
+    <name>Coll de Mas Marí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.473904" lon="1.389972">
+    <ele>545.6</ele>
+    <time>2016-11-04T10:15:29Z</time>
+    <name>Desviació cap al riu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.463439" lon="1.391037">
+    <ele>520.6</ele>
+    <time>2016-11-04T12:47:43Z</time>
+    <name>Pas a gual</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.464511" lon="1.392288">
+    <ele>522.7</ele>
+    <time>2016-11-04T12:58:05Z</time>
+    <name>Resclosa de Santa Perpètua</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.465771" lon="1.391874">
+    <ele>538.3</ele>
+    <time>2016-11-04T13:03:36Z</time>
+    <name>Desviació cap al riu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.469211" lon="1.390209">
+    <ele>528.2</ele>
+    <time>2016-11-04T13:18:47Z</time>
+    <name>Pas a gual</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Santa Perpètua de Gaià a Vallespinosa i Pontils</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Santa Perpètua de Gaià a Vallespinosa i Pontils&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Passeig per la vall del l'alt Gaià, en el terme de Pontils, Conca de Barberà, que discorre per les localitats de Santa Perpètua de Gaià, Vallespinosa i Pontils. El recorregut permet gaudir del paisatge rural d’aquests entorns i del seu patrimoni arquitectònic, on destaca per la seva dimensió i esveltesa el castell de Santa Perpètua. Aquesta edificació estava integrada en la línia de fortificacions medievals del riu Gaià, que va definir la frontera de l’Al-Andalus i Catalunya durant els segles X i XI, entre les quals hi havia els castells de Selmella, Saborella, Vallespinosa, Querol, el Catllar i tants d’altres, fins a arribar a Tamarit, arran de mar (independentment del seu estat i dimensions, la vall del Gaià conserva la més alta densitat de defenses medievals del Principat).&lt;/i&gt; 
+Ruta senyalitzada. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;L’itinerari comença a Santa Perpètua de Gaià, petit nucli del terme de Pontils situat arran del riu Gaià, sota els espadats coronats pel castell de Santa Perpètua i l’església de Santa Maria. S’arriba a aquesta localitat per la carretera T-201, que neix a Santa Coloma de Queralt (entre Igualada i Montblanc) i s’acaba a Esblada, al peu de la C-37 (entre Igualada i Valls). 
+ 
+Si es pretén fer el recorregut amb bicicleta cal tenir present que la primera pujada entre Santa Perpètua i el camí de Pontils té trams de molt fort pendent i sòl erosionat. A la tornada pot ser més pràctic baixar de Pontils a Vallespinosa per la carretera i no pel camí del riu. 
+ 
+0,00 km (517 m). Santa Perpètua de Gaià. Se surt de la Plaça Major, a tocar del Gaià. Es va riu amunt pel camí que s’endinsa en la verneda, deixant les cases a la dreta i el riu a l’esquerra. Dos-cents metres enllà s’arriba a una bifurcació; es gira a l’esquerra, es creua el riu per una passera, es deixa una desviació a l’esquerra (que se’n va cap al sud) i es continua recte per la pista que, en forta pujada, remunta la vall del torrent de Ricreu. El camí es deteriora a causa de l’erosió de l’aigua però els trams de pendent més fort estan cimentats. Descrivint ziga-zagues es guanya altura constantment; se segueix la pista principal, deixant dos trencalls a l’esquerra que porten als camps de la Masieta. Una mica més enllà, el pendent minva considerablement. 
+ 
+1,96 km (665 m), 0 h 36 min. Bifurcació. Es gira a l’esquerra (SO). Tres-cents cinquanta metres després es desemboca al camí de Pontils a Vallespinosa, senyalitzat amb indicadors i les marques blanques i vermelles del sender GR 7. Es pren cap a l’esquerra, a ponent. Aquest sender se seguirà fins més enllà de Vallespinosa, per la qual cosa cal estar atents als senyals. Es continua en suau pujada. Més enllà es veu, a la dreta, el gran mas ensorrat de Cal Vilar. S’ha de parar atenció al proper trencall. 
+ 
+3,13 km (720 m) 0 h 56 min. Desviació a la dreta. Es deixa el camí ample i es pren el corriol que discorre entre la bosquina, mantenint-se paral·lel als conreus de la dreta. 
+ 
+3,96 km (740 m), 1 h 10 min. Es desemboca a la pista de Vallespinosa, que se segueix cap a la dreta (O), ja en franca baixada. Al punt 4,54 km (699 m) es rodeja el mas Carbonell amb una pronunciada ziga-zaga. Més endavant, el camí gira a ponent, se situa sobre Vallespinosa i desemboca a la carretera TV-2015, ja a tocar del nucli. Es gira a l’esquerra per fer-hi cap. 
+ 
+5,61 km (631 m), 1 h 32 min. Vallespinosa, plaça Major, església de Sant Jaume. Cal passejar-se pels evocadors carrerons d’aquesta petita localitat adscrita al municipi de Pontils. En acabat, es pren la carretera per on s’ha arribat, ara cap a ponent. 
+ 
+6,18 km (639m ), 1 h 40 min. Cruïlla. Cal girar a la dreta (NE) per la pista asfaltada de Pontils, deixant la carretera i el GR, que se’n va cap a l’esquerra, en direcció a Cabra del Camp. La pista puja suaument fins a una collada. 
+ 
+7,73 km (695 m), 2 h 5 min. Coll de Mas Marí. Atenció: es deixa la pista asfaltada i es gira a la dreta (E). Al cap de 160 m es deixa un trencall a la dreta, es gira al NE i s’inicia la pujada a la serra. En el punt 8,52 km (721 m) es torna a deixar una desviació a la dreta, es continua pujant cap al NE i s’arriba a un suau turó (739 m) que domina l’ampla carena de la serra, els boscos i els camps de conreu; a partir d’ara tot serà baixada. 
+ 
+9,65 km (702 m), 2 h 35 min. Camí de Pontils, on es retroben els senyals del GR 7. Es gira a l’esquerra, en baixada, i s’entra a l’obaga del Comellar de Pontils. Es descriu una ziga-zaga i, cap al NE, s’arriba al fons de la vall. 
+ 
+11,52 km (547 m), 3 h 1 min. Pista asfaltada de Pontils a Vallespinosa, a tocar de Pontils. Es gira a la dreta i s’entra al poble deixant la pista i passant el torrent de Biure per un pont. S’arriba a la plaça Major, on hi ha l’edifici de l’ajuntament. L’església de Santa Maria conserva la portalada romànica original; l’interior és gòtic. Del castell de Pontils, el Castellot, situat sobre el turó que s’aixeca al nord, solament en resten fragments de parets. 
+ 
+Se surt a la carretera T-201 pel carrer de Freginal. Es pren cap a la dreta (SE), en direcció a Santa Perpètua. Es passa el pont del Gaià i es continua cap a la dreta durant 250 m, pel costat de la carretera, deixant la desviació de la carretera T-2011 a mà esquerra. 
+ 
+12,41 km (548 m), 3 h 14 min. Desviació senyalitzada. Es deixa la carretera i es pren el camí de la dreta que baixa cap al Gaià. Al cap de mig quilòmetre un pas a gual permet passar el riu (el tram més proper a l’aigua d’aquest sector de camí pot tenir l’herba alta, cosa que pot dificultar-ne la identificació). Al punt 12,95 km (530 m) es creua el riu a gual, sobre pedres. A l’altra banda, es continua cap a l’esquerra (S), seguint el curs de l’aigua. 
+ 
+13,37 km (537 m), 3 h 27 min. Bifurcació senyalitzada. Es continua cap a l’esquerra, seguint el riu. Cent-cinquanta metres després, a mà esquerra es pot veure la vella resclosa de Santa Perpètua, que alimentava el rec del molí de Seguer, situat aigües avall. Es continua baixant. A l’altra banda, al capdamunt del penya-segat de més de 60 m excavat pel Gaià, s’observa l’esvelta torre del castell de Santa perpètua i l’edifici de l’església de Santa Maria, dominant l’entorn. Seguint el curs de l’aigua, es gira a la dreta, es creua el riu (13,75 km, 518 m) i, resseguint el balç, es fa cap al camí de l’anada, just abans que aquest creués el Gaià. 
+ 
+14,11 km (517 m), 3 h 38 min. Santa Perpètua de Gaià, plaça Major, final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt; De Santa Perpètua de Gaià a Vallespinosa y Pontils &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Paseo por el valle del alto Gaià, en el término de Pontils, Conca de Barberà, que discurre por las localidades de Santa Perpètua de Gaià, Vallespinosa y Pontils. El recorrido permite disfrutar del paisaje rural de estos entornos y de su patrimonio arquitectónico, donde destaca por su dimensión y esbeltez el castillo de Santa Perpètua. Esta edificación estaba integrada en la línea de fortificaciones medievales del río Gaià, que definió la frontera de Al-Andalus y Cataluña durante los siglos X y XI, entre las que estaban los castillos de Selmella, Saborella, Vallespinosa, Querol, el Catllar y tantos otros, hasta llegar a Tamarit, junto al mar (independientemente de su estado y dimensiones, el valle del Gaià conserva la más alta densidad de defensas medievales del Principado).&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta de montaña.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;El itinerario comienza en Santa Perpètua de Gaià, pequeño núcleo del término de Pontils situado al lado del río Gaià, bajo los acantilados coronados por el castillo de Santa Perpètua y la iglesia de Santa Maria. Se llega a esta localidad por la carretera T-201, que nace en Santa Coloma de Queralt (entre Igualada y Montblanc) y termina en Esblada, al pie de la C-37 (entre Igualada y Valls). 
+ 
+Si se pretende hacer el recorrido en bicicleta hay que tener presente que la primera subida entre Santa Perpètua y el camino de Pontils tiene tramos de muy fuerte pendiente y suelo erosionado. A la vuelta puede ser más práctico bajar de Pontils a Vallespinosa por la carretera y no por el camino del río. 
+ 
+0,00 km (517 m). Santa Perpètua de Gaià. Se sale de la Plaça Major, junto al Gaià. Se va río arriba por el camino que se adentra en la alameda, dejando las casas a la derecha y el río a la izquierda. Doscientos metros más allá se llega a una bifurcación; se gira a la izquierda, se cruza el río por una pasarela, se deja un desvío a la izquierda (que se va hacia el sur) y se sigue recto por la pista que, en fuerte subida, remonta el valle del torrente de Ricreu. El camino se deteriora debido a la erosión del agua pero los tramos de pendiente más fuerte están cementados. Describiendo zigzags se gana altura constantemente; se sigue la pista principal, dejando dos desvíos a la izquierda que llevan a los campos de la Masieta. Un poco más allá, la pendiente disminuye considerablemente. 
+ 
+1,96 km (665 m), 0 h 36 min. Bifurcación. Se gira a la izquierda (SO). Trescientos cincuenta metros después se desemboca en el camino de Pontils a Vallespinosa, señalizado con indicadores y las marcas blancas y rojas del sendero GR 7. Se toma hacia la izquierda, a poniente. Este sendero se seguirá hasta más allá de Vallespinosa, por lo que hay que estar atentos a las señales. Se continúa en suave subida. Más allá se ve, a la derecha, la gran masía derrumbada de Cal Vilar. Se debe prestar atención al próximo cruce. 
+ 
+3,13 km (720 m) 0 h 56 min. Desvío a la derecha. Se deja el camino ancho y se toma el sendero que discurre entre la maleza, manteniéndose paralelo a los cultivos de la derecha. 
+ 
+3,96 km (740 m), 1 h 10 min. Se desemboca en la pista de Vallespinosa, que se sigue hacia la derecha (O), ya en franca bajada. En el punto 4,54 km (699 m) se rodea el Mas Carbonell con un pronunciado zigzag. Más adelante, el camino gira a poniente, se sitúa sobre Vallespinosa y desemboca en la carretera TV-2015, ya muy cerca del núcleo. Se gira a la izquierda para dirigirse hacia hacia el publo. 
+ 
+5,61 km (631 m), 1 h 32 min. Vallespinosa, plaza Major, iglesia de Sant Jaume. Hay que pasearse por las evocadoras callejuelas de esta pequeña localidad adscrita al municipio de Pontils. Luego, se toma la carretera por donde se ha llegado, ahora hacia poniente. 
+ 
+6,18 km (639m), 1 h 40 min. Cruce. Hay que girar a la derecha (NE) por la pista asfaltada de Pontils, dejando la carretera y el GR, que se va hacia la izquierda, en dirección a Cabra del Camp. La pista asciende suavemente hasta un collado. 
+ 
+7,73 km (695 m), 2 h 5 min. Collado de Mas Marí. Atención: se deja la pista asfaltada y se gira a la derecha (E). Al cabo de 160 m se deja un desvío a la derecha, se gira al NE y se inicia la subida a la sierra. En el punto 8,52 km (721 m) se vuelve a dejar un desvío a la derecha, se continúa subiendo hacia el NE y se llega a una suave colina (739 m) que domina la amplia cresta de la sierra, los bosques y los campos de cultivo; a partir de ahora todo será bajada. 
+ 
+9,65 km (702 m), 2 h 35 min. Camino de Pontils, donde se reencuentran las señales del GR 7. Se gira a la izquierda, en bajada, y se entra en la umbría del Comellar de Pontils. Se describe un zigzag y, hacia el NE, se llega al fondo del valle. 
+ 
+11,52 km (547 m), 3 h 1 min. Pista asfaltada de Pontils a Vallespinosa, junto a Pontils. Se gira a la derecha y se entra en el pueblo dejando la pista y pasando el torrente de Biure por un puente. Se llega a la plaza Major, donde se encuentra el edificio del ayuntamiento. La iglesia de Santa Maria conserva la portada románica original; el interior es gótico. Del castillo de Pontils, el Castellot, situado sobre la colina que se levanta al norte, solo quedan fragmentos de paredes. 
+ 
+Se sale a la carretera T-201 por la calle de Freginal. Se toma hacia la derecha (SE), en dirección a Santa Perpètua. Se pasa el puente del Gaià y se continúa hacia la derecha durante 250 m, por el lado de la carretera, dejando la desviación de la carretera T-2011 a mano izquierda. 
+ 
+12,41 km (548 m), 3 h 14 min. Desviación señalizada. Se deja la carretera y se toma el camino de la derecha que baja hacia el Gaià. Al cabo de medio kilómetro un paso a vado permite pasar el río (el tramo más cercano al agua de este sector de camino puede tener la hierba alta, lo que puede dificultar su identificación). En el punto 12,95 km (530 m) se cruza el río a vado, sobre piedras. En el otro lado, se continúa hacia la izquierda (S), siguiendo el curso del agua. 
+ 
+13,37 km (537 m), 3 h 27 min. Bifurcación señalizada. Se continúa hacia la izquierda, siguiendo el río. Ciento cincuenta metros después, a mano izquierda se puede ver la vieja presa de Santa Perpètua, que alimentaba la acequia del molino de Seguer, situado aguas abajo. Se continúa bajando. Al otro lado, en lo alto del acantilado de más de 60 m excavado por el Gaià, se observa la esbelta torre del castillo de Santa Perpètua y el edificio de la iglesia de Santa Maria, dominando el entorno. Siguiendo el curso del agua, se gira a la derecha, se cruza el río (13,75 km, 518 m) y, siguiendo el Balç, se va hacia el camino de la ida, justo antes de que éste cruzara el Gaià. 
+ 
+14,11 km (517 m), 3 h 38 min. Santa Perpètua de Gaià, plaza Major, final del itinerario. &lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.461882" lon="1.392958">
+        <ele>516.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462095" lon="1.391761">
+        <ele>517.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462623" lon="1.390898">
+        <ele>517.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462242" lon="1.390051">
+        <ele>524.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462502" lon="1.389344">
+        <ele>528.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462308" lon="1.388702">
+        <ele>538.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462443" lon="1.388334">
+        <ele>544.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462273" lon="1.387763">
+        <ele>559.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462678" lon="1.387969">
+        <ele>566.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463179" lon="1.387513">
+        <ele>564.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463249" lon="1.387050">
+        <ele>567.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462627" lon="1.386383">
+        <ele>575.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462438" lon="1.385729">
+        <ele>579.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462445" lon="1.384610">
+        <ele>595.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462283" lon="1.384009">
+        <ele>601.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461352" lon="1.382475">
+        <ele>616.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461148" lon="1.382361">
+        <ele>621.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460986" lon="1.382676">
+        <ele>623.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460215" lon="1.382983">
+        <ele>638.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460111" lon="1.382321">
+        <ele>646.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460492" lon="1.381557">
+        <ele>656.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460623" lon="1.380901">
+        <ele>658.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460522" lon="1.380623">
+        <ele>656.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459963" lon="1.380097">
+        <ele>652.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459657" lon="1.379129">
+        <ele>657.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459040" lon="1.378877">
+        <ele>663.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458711" lon="1.378476">
+        <ele>663.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458294" lon="1.377272">
+        <ele>662.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458599" lon="1.376928">
+        <ele>662.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458602" lon="1.376732">
+        <ele>664.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457937" lon="1.376203">
+        <ele>670.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457667" lon="1.375605">
+        <ele>673.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457463" lon="1.373910">
+        <ele>679.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457587" lon="1.373739">
+        <ele>681.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457895" lon="1.373875">
+        <ele>687.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457598" lon="1.372201">
+        <ele>689.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456672" lon="1.370798">
+        <ele>692.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456430" lon="1.369961">
+        <ele>694.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455647" lon="1.369980">
+        <ele>699.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455265" lon="1.370684">
+        <ele>707.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454592" lon="1.369899">
+        <ele>714.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454034" lon="1.369637">
+        <ele>715.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453742" lon="1.369681">
+        <ele>713.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453267" lon="1.369513">
+        <ele>719.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452968" lon="1.368718">
+        <ele>722.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452406" lon="1.367846">
+        <ele>724.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451384" lon="1.366932">
+        <ele>729.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450772" lon="1.366007">
+        <ele>733.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450359" lon="1.365784">
+        <ele>741.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450071" lon="1.363277">
+        <ele>745.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449408" lon="1.362228">
+        <ele>742.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449019" lon="1.362136">
+        <ele>739.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448935" lon="1.361259">
+        <ele>733.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448675" lon="1.360714">
+        <ele>729.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448474" lon="1.360498">
+        <ele>726.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448038" lon="1.360404">
+        <ele>719.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448587" lon="1.359956">
+        <ele>714.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448198" lon="1.358847">
+        <ele>710.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448037" lon="1.358617">
+        <ele>710.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447593" lon="1.358461">
+        <ele>704.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447355" lon="1.357509">
+        <ele>700.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447188" lon="1.357513">
+        <ele>697.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447148" lon="1.357867">
+        <ele>693.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447045" lon="1.357882">
+        <ele>694.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447105" lon="1.357653">
+        <ele>692.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446902" lon="1.357371">
+        <ele>686.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446602" lon="1.355918">
+        <ele>673.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445879" lon="1.355116">
+        <ele>661.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445315" lon="1.354723">
+        <ele>657.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445106" lon="1.354354">
+        <ele>659.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444847" lon="1.352242">
+        <ele>647.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445419" lon="1.349421">
+        <ele>628.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445428" lon="1.349110">
+        <ele>628.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445218" lon="1.348971">
+        <ele>626.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445203" lon="1.348505">
+        <ele>629.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444963" lon="1.349343">
+        <ele>628.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444708" lon="1.349487">
+        <ele>631.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444884" lon="1.349483">
+        <ele>630.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445098" lon="1.349034">
+        <ele>631.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445273" lon="1.348054">
+        <ele>630.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445201" lon="1.347452">
+        <ele>630.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445974" lon="1.344853">
+        <ele>637.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446690" lon="1.343602">
+        <ele>639.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447311" lon="1.344125">
+        <ele>637.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448214" lon="1.345544">
+        <ele>639.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451481" lon="1.349924">
+        <ele>660.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452916" lon="1.352469">
+        <ele>672.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453125" lon="1.352595">
+        <ele>671.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453590" lon="1.352368">
+        <ele>672.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454879" lon="1.353072">
+        <ele>685.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456632" lon="1.355658">
+        <ele>694.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456702" lon="1.356770">
+        <ele>691.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456218" lon="1.357603">
+        <ele>695.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456681" lon="1.358507">
+        <ele>697.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457327" lon="1.360532">
+        <ele>713.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457371" lon="1.361387">
+        <ele>715.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457955" lon="1.362528">
+        <ele>715.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458383" lon="1.364128">
+        <ele>721.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458397" lon="1.364869">
+        <ele>721.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458760" lon="1.365716">
+        <ele>724.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459242" lon="1.366375">
+        <ele>725.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459791" lon="1.368594">
+        <ele>739.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460620" lon="1.368933">
+        <ele>728.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461122" lon="1.369405">
+        <ele>724.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461568" lon="1.370657">
+        <ele>721.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463062" lon="1.371530">
+        <ele>709.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464488" lon="1.373902">
+        <ele>701.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465607" lon="1.374484">
+        <ele>688.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467313" lon="1.376651">
+        <ele>653.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468019" lon="1.377226">
+        <ele>639.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468426" lon="1.378264">
+        <ele>626.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468834" lon="1.378816">
+        <ele>624.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469238" lon="1.378728">
+        <ele>622.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468889" lon="1.378575">
+        <ele>617.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468732" lon="1.378268">
+        <ele>617.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468806" lon="1.378128">
+        <ele>613.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469956" lon="1.378567">
+        <ele>595.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470227" lon="1.379225">
+        <ele>593.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471093" lon="1.380323">
+        <ele>590.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471416" lon="1.381129">
+        <ele>582.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471880" lon="1.381519">
+        <ele>578.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.472315" lon="1.382670">
+        <ele>573.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.472671" lon="1.382978">
+        <ele>569.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474424" lon="1.385648">
+        <ele>565.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475295" lon="1.386404">
+        <ele>552.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475729" lon="1.386513">
+        <ele>547.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476315" lon="1.386900">
+        <ele>543.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476501" lon="1.388267">
+        <ele>539.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476821" lon="1.388289">
+        <ele>543.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477396" lon="1.387861">
+        <ele>549.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477813" lon="1.388432">
+        <ele>546.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476111" lon="1.390307">
+        <ele>545.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475464" lon="1.389814">
+        <ele>543.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474801" lon="1.390082">
+        <ele>545.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471678" lon="1.389554">
+        <ele>536.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470102" lon="1.389916">
+        <ele>533.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469289" lon="1.390326">
+        <ele>530.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469187" lon="1.390167">
+        <ele>528.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467129" lon="1.390798">
+        <ele>529.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465230" lon="1.392360">
+        <ele>527.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463394" lon="1.391633">
+        <ele>521.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463307" lon="1.391222">
+        <ele>522.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463535" lon="1.390779">
+        <ele>518.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463456" lon="1.390249">
+        <ele>522.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463274" lon="1.390139">
+        <ele>521.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462737" lon="1.390703">
+        <ele>516.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462138" lon="1.391664">
+        <ele>518.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461882" lon="1.392958">
+        <ele>516.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

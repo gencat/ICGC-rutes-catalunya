@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.995370" lon="3.149350">
+    <ele>4.1</ele>
+    <time>2016-12-30T17:23:45Z</time>
+    <name>Travessia perillosa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.974100" lon="3.180100">
+    <ele>63.1</ele>
+    <time>2016-12-30T17:23:45Z</time>
+    <name>Tram sorrenc i erosionat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.998958" lon="3.189189">
+    <ele>2.0</ele>
+    <time>2014-04-25T18:32:38Z</time>
+    <name>Centre d'informació de les Basses d'en Coll</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.969288" lon="3.146932">
+    <ele>23.0</ele>
+    <time>2014-04-25T18:32:41Z</time>
+    <name>Pals. Plaça de Catalunya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.001473" lon="3.196873">
+    <ele>1.0</ele>
+    <time>2016-11-29T17:38:56Z</time>
+    <name>Platja de Pals</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.998074" lon="3.151077">
+    <ele>5.5</ele>
+    <time>2016-11-29T19:05:48Z</time>
+    <name>Molí de Pals</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.006984" lon="3.187811">
+    <ele>1.0</ele>
+    <time>2016-11-29T19:12:46Z</time>
+    <name>Observatori de les Basses d'en Coll</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.969165" lon="3.157006">
+    <ele>37.3</ele>
+    <time>2016-12-02T10:14:13Z</time>
+    <name>GR 92</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.967561" lon="3.163000">
+    <ele>54.7</ele>
+    <time>2016-12-02T10:34:47Z</time>
+    <name>S'abandona el PR</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.969786" lon="3.172168">
+    <ele>81.3</ele>
+    <time>2016-12-02T12:13:08Z</time>
+    <name>Es retroba el PR</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.982575" lon="3.141552">
+    <ele>4.1</ele>
+    <time>2016-12-02T13:42:07Z</time>
+    <name>GR 92</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.960256" lon="3.170166">
+    <ele>220.9</ele>
+    <time>2016-12-03T17:59:00Z</time>
+    <name>Quermany Gros</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.971809" lon="3.143761">
+    <ele>52.2</ele>
+    <time>2016-12-30T16:17:19Z</time>
+    <name>Sant Pere</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.971795" lon="3.144437">
+    <ele>52.3</ele>
+    <time>2016-12-30T16:17:32Z</time>
+    <name>Torre de les Hores</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.971069" lon="3.144978">
+    <ele>38.6</ele>
+    <time>2016-12-30T16:17:45Z</time>
+    <name>Pals</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Pals a les Basses d'en Coll i el molí de Pals pels arrossars</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Pals a les Basses d'en Coll i el molí de Pals pels arrossars&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari assequible, senyalitzat, que permet gaudir d’un patrimoni històric i natural de rellevància. A l’hora de preveure la durada cal tenir en compte que el pas per trams sorrencs pot alentir la marxa. També cal estar alerta al creuament i a la circulació de la carretera C-31, després del Molí de Pals. La ruta és, de fet, una variant del sender de petit recorregut PR-C 108, amb el qual coincideix en tot moment exceptuant la pujada al cim del Quermany Gros, que s’estalvia a causa del mal estat del camí i del desnivell.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se surt de la plaça de Catalunya de Pals. Per arribar a Pals cal prendre la carretera C-31 fins al punt quilomètric 340,5, entre Torroella de Montgrí i Palafrugell. S'entra a Pals pel carrer Enginyer Algarra, es trenca pel de l'Abeurador en direcció O, cap al centre del poble, i, als 100 m i escaig, s'és a la plaça de Catalunya. Hi ha dues zones d'aparcament, una al N i una altra al S. 
+ 
+0,00 km (23 m). Pals, plaça de Catalunya. Se surt de la plaça pel carrer de l'Abeurador (direcció E), es travessa la carretera GI-650a (el carrer Enginyer Algarra), es continua recte pel carrer de Quermany i se surt del poble per una pista asfaltada que passa per sota de la carretera C-31 (km 0,53, 26 m). S’observen les marques blanques i vermelles del GR 92 (sender de gran recorregut) i, més endavant, les blanques i grogues del sender de petit recorregut PR-C 108. 
+ 
+1,47 km (53 m). Bifurcació. Es gira a l’esquerra (NE) seguint els senyals del GR i la pista asfaltada i deixant a la dreta el PR i la pujada al Quermany Gros. Se segueix la pista deixant quatre trencalls a l’esquerra. 
+ 
+La volta al cim del Quermany Gros representa 5,36 km de recorregut i 155 m de desnivell en pujada; si s’hi vol pujar cal tenir en compte que l’ascensió discorre per pistes que es van deteriorant fins a fer-se intransitables, però la vista és magnificent. 
+ 
+2,72 km (81 m). Pista a la dreta provinent del Quermany Gros davant de la masia fortificada de can Pou de ses Garites. Aquí es retroben els senyals del PR, que ja no es deixaran fins al final del recorregut. Es gira a la dreta (E); al cap de 350 m es deixa el GR a la dreta i es continua pel camí de l'esquerra (NE). Es gira lentament al nord; a partir d’aquí es discorre entre boscos de pins i dunes; tot i el suau descens, la sorra dificulta la progressió. Es continua per la pista principal fins a la urbanització de Palsmar, on s'entra pel carrer de la Perdiu havent deixat, a l’esquerra (N) el càmping Neptuno. 
+ 
+5,50 km (31 m). Es creua la carretera GIV-6502 per una rotonda, es gira a l’esquerra i es prossegueix recte (N), baixant suaument pel carrer del Pirineu. Transcorreguts 300 m, es gira a mà esquerra (O) per una pista de terra. Es continua recte fins a sortir a una pista més ampla; ara cal girar a la dreta (NO). Es desemboca a una altra pista, que també es pren a la dreta (E). Poc més endavant s'arriba al carrer del Golf, que se segueix a l'esquerra (NO). 
+ 
+7,74 km (2 m). Caseta del Centre d’Informació de les Basses d'en Coll. Seguint els senyals cap a les basses d’en Coll, es pren la pista a l'esquerra (NO). Si se seguís recte, pel carril bici que voreja el carrer asfaltat, s’arribaria a la platja (750 m). S’arriba a una pista que discorre paral·lela al rec d'en Coll; cal prendre-la a l'esquerra (SO); per la dreta (E), s'accedeix a l’observatori d’aus de les Basses d'en Coll en 175 m. S’entra a la zona d’arrossars; el curs del riu Ter queda a menys de dos quilòmetres al nord on, al fons, sobresurt el massís bessó del Montgrí, coronat pel seu castell. S’arriba al mas Gelabert, es creuen les rieres d'en Caixa Baixa i de la Nova i es continua cap a ponent. 
+ 
+12,04 km (5 m). Se surt en una pista ampla. Es continua per l'esquerra, a migdia. Poc més enllà, abans d'un pont sobre la riera, es deixa a l'esquerra (E) l'accés a la fàbrica del molí de Pals. El molí ofereix la possibilitat de fer-hi visites guiades; cal informar-se’n amb antelació. 
+ 
+12,64 km (5 m). S'arriba a la carretera C-31, que cal creuar parant molt de compte i prendre-la a l'esquerra en direcció a Pals (SE). Passats 300 m, es deixa a la dreta (O) la carretera GI-651, que duu a Peratallada; 50 m més enllà cal girar a la dreta. 
+ 
+13,00 km (5 m). Es deixa la carretera i es pren la pista que surt a la dreta (SO). Es creua en línia recta el que fou l’estany de Pals, ara assecat i ple d’arrossars. Es desemboca en una pista on es retroba el GR 92, es continua cap al sud i es desemboca en una pista asfaltada que, després d’una forta però breu pujada, fa cap a Pals pel carrer de la Font. Es pren el primer carrer de la dreta, el del Raval, fins al de l'Abeurador, i per l'esquerra s’arriba a la plaça Catalunya. 
+ 
+16,24 km (23 m). Plaça de Catalunya de Pals, final de l'itinerari. 
+ 
+A Pals destaquen el castell de Mont-aspre, documentat el 889; el casc antic presidit per la Torre de les Hores, construïda entre els segles XI i XIII, el conjunt de carrers empedrats, la plaça Major, les tombes del carrer Major, l'església de Sant Pere i la muralla. Cal veure-hi, també, el mirador de Josep Pla i, si es disposa de temps, el Museu d'Arqueologia. El nom prové del llatí "palus", que vol dir “pantanós”; el retrocés de l’aigua i la meteorologia han configurat un peculiar paisatge de llacunes i aiguamolls colonitzat per vegetació psammòfila que apareix esplendorosa a l'entorn de les Basses d'en Coll. Una part del recorregut voreja el Parc Natural del Montgrí, les Illes Medes i el Baix Ter on els amants de les aus trobaran possibilitats per a la seva observació, pràcticament en qualsevol època de l'any.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Pals a Les Basses d'en Coll y el molino de Pals por los arrozales&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario asequible, señalizado, que permite disfrutar de un patrimonio histórico y natural de relevancia. Para prever la duración de la ruta hay que tener en cuenta que el paso por tramos arenosos puede ralentizar la marcha. También hay que estar alerta al cruce y la circulación de la carretera C-31, después del Molí de Pals. La ruta es, de hecho, una variante del sendero de pequeño recorrido PR-C 108, con el que coincide en todo momento exceptuando la subida a la cima del Quermany Gros, que se ahorra en esta versión a causa de las dificultades por el desnivel y el mal estado del camino.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se sale de la plaza de Catalunya de Pals. Para llegar a Pals hay que tomar la carretera C-31 hasta el punto kilométrico 340,5, entre Torroella de Montgrí y Palafrugell. Se entra en Pals por la calle Enginyer Algarra, se rompe por el del Abeurador en dirección O, hacia el centro del pueblo, y, a los 100 metros y pico, se es en la plaza de Catalunya. Hay dos zonas de aparcamiento, una al N y otra al S. 
+ 
+0,00 km (23 m). Pals, plaza de Catalunya. Se sale de la plaza por la calle Abeurador (dirección E), se atraviesa la carretera GI-650a (la calle Enginyer Algarra), se sigue recto por la calle de Quermany y se sale del pueblo por una pista asfaltada que pasa por debajo de la carretera C-31 (km 0,53, 26 m). Se observan las marcas blancas y rojas del GR 92 (sendero de gran recorrido) y, más adelante, las blancas y amarillas del sendero de pequeño recorrido PR-C 108. 
+ 
+1,47 km (53 m). Bifurcación. Se gira a la izquierda (NE) siguiendo las señales del GR y la pista asfaltada y dejando a la derecha el PR y la subida al Quermany Gros. Se sigue la pista dejando cuatro desvíos a la izquierda. 
+ 
+La vuelta a la cima del Quermany Gros representa 5,36 km de recorrido y 155 m de desnivell; si se desea subir hay que tenir en cuenta que la ascensión discurre por pistas que se van deteriorando hasta hacerse intransitables, pero la vista es magnificente. 
+ 
+2,72 km (81 m). Pista a la derecha proveniente del Quermany Gros ante la masía fortificada de Can Pou de ses Garites. Aquí se reencuentran las señales del PR, que ya no se dejarán hasta el final del recorrido. Se gira a la derecha (E); al cabo de 350 m se deja el GR a la derecha y se continúa por el camino de la izquierda (NE). Se gira lentamente al norte; a partir de aquí se discurre entre bosques de pinos y dunas; a pesar del suave descenso, la arena dificulta la progresión. Se continúa por la pista principal hasta la urbanización de Palsmar, donde se entra por la calle de la Perdiu habiendo dejado, a la izquierda (N) el camping Neptuno. 
+ 
+5,50 km (31 m). Se cruza la carretera GIV-6502 por una rotonda, se gira a la izquierda y se sigue recto (N), bajando suavemente por la calle Pirineu. Transcurridos 300 m, se gira a la izquierda (O) por una pista de tierra. Se sigue recto hasta salir a una pista más ancha; ahora hay que girar a la derecha (NO). Se desemboca en otra pista, que también se toma a la derecha (E). Poco más adelante se llega a la calle del Golf, que se sigue a la izquierda (NO). 
+ 
+7,74 km (2 m). Caseta del Centre d’Informació de Les Basses d'en Coll. Siguiendo las señales hacia los estanques de En Coll, se toma la pista a la izquierda (NO). De seguir recto, por el carril bici que bordea la calle asfaltada, se llegaría a la playa (750 m). Se llega a una pista que discurre paralela a la acequia de En Coll; hay que tomarla a la izquierda (SO); por la derecha (E), se accede al observatorio de aves de las Basses d'en Coll en 175 m. Se entra en la zona de arrozales; el curso del río Ter queda a menos de dos kilómetros al norte donde, al fondo, sobresale el macizo gemelo del Montgrí, coronado por su castillo. Se llega al Mas Gelabert, se cruzan los arroyos de En Caixa Baixa y de La Nova y se continúa hacia poniente. 
+ 
+12,04 km (5 m). Se sale en una pista ancha. Se continúa por la izquierda, a mediodía. Poco más allá, antes de un puente sobre el arroyo, se deja a la izquierda (E) el acceso a la fábrica del molino de Pals. El molino ofrece la posibilidad de hacer visitas guiadas; hay que informarse con antelación. 
+ 
+12,64 km (5 m). Se llega a la carretera C-31, que hay que cruzar prestando mucho cuidado y tomarla a la izquierda, en dirección a Pals (SE). Pasados ​​300 m, se deja a la derecha (O) la carretera GI-651, que lleva a Peratallada; 50 m más allá hay que girar a la derecha. 
+ 
+13,00 km (5 m). Se deja la carretera y se toma la pista que sale a la derecha (SO). Se cruza en línea recta lo que fue el lago de Pals, ahora seco y lleno de arrozales. Se desemboca en una pista donde se reencuentra el GR 92, se continúa hacia el sur y se desemboca en una pista asfaltada que, tras una breve subida, entra en Pals por la calle De la Font. Se toma la primera calle de la derecha, la del Raval, hasta la del Abeurador, y por la izquierda se llega a la plaza Catalunya. 
+ 
+16,24 km (23 m). Plaza de Catalunya de Pals, final del itinerario. 
+ 
+En Pals destacan el castillo de Mont-aspre, documentado el 889; el casco antiguo presidido por la Torre de les Hores, construida entre los siglos XI y XIII, el conjunto de calles empedradas, la plaza Major, las tumbas de la calle Major, la iglesia de Sant Pere y la muralla. Hay que ver, también, el mirador de Josep Pla y, si se dispone de tiempo, el Museo de Arqueología. El nombre del lugar proviene del latín "palus", que significa "pantanoso"; el retroceso del agua y la meteorología han configurado un peculiar paisaje de lagunas y humedales colonizado por psamófila que aparece esplendorosa en el entorno de las Basses d'en Coll. Una parte del recorrido bordea el Parque Natural del Montgrí, las Illes Medes y el Baix Ter, donde los amantes de las aves encontrarán posibilidades para su observación, prácticamente en cualquier época del año.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Pals to Les Basses d'en Coll and Molí de Pals through the rice fields&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The village of Pals is surrounded by a mixture of woods, dunes, beach and wetlands. This route takes us through the large, lonely rice fields around the town, where we can also see a large number of wetland birds.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.969493" lon="3.146445">
+        <ele>24.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969877" lon="3.150171">
+        <ele>21.7</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969952" lon="3.154093">
+        <ele>30.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970248" lon="3.155481">
+        <ele>34.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970008" lon="3.156205">
+        <ele>35.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969178" lon="3.156975">
+        <ele>37.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.967914" lon="3.159530">
+        <ele>41.6</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.967612" lon="3.162921">
+        <ele>53.6</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.967719" lon="3.163313">
+        <ele>53.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.967971" lon="3.163507">
+        <ele>50.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.968548" lon="3.163647">
+        <ele>47.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969323" lon="3.163336">
+        <ele>51.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969507" lon="3.163553">
+        <ele>53.7</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969564" lon="3.164470">
+        <ele>57.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969014" lon="3.164831">
+        <ele>57.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.968837" lon="3.165579">
+        <ele>60.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.968731" lon="3.167582">
+        <ele>60.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.968326" lon="3.167574">
+        <ele>56.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.967892" lon="3.168327">
+        <ele>61.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.968462" lon="3.169463">
+        <ele>75.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969090" lon="3.169651">
+        <ele>78.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969466" lon="3.169991">
+        <ele>82.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970020" lon="3.170197">
+        <ele>85.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969809" lon="3.172151">
+        <ele>81.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969974" lon="3.173703">
+        <ele>84.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969766" lon="3.174294">
+        <ele>87.6</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970436" lon="3.177397">
+        <ele>81.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.971339" lon="3.179070">
+        <ele>74.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.972239" lon="3.179537">
+        <ele>71.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.973482" lon="3.179758">
+        <ele>66.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.974346" lon="3.180183">
+        <ele>62.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.976111" lon="3.180176">
+        <ele>54.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.976773" lon="3.180329">
+        <ele>51.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.977345" lon="3.180180">
+        <ele>50.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.977863" lon="3.180392">
+        <ele>48.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.979084" lon="3.182707">
+        <ele>46.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.979720" lon="3.183408">
+        <ele>44.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.980785" lon="3.187333">
+        <ele>46.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.981591" lon="3.189102">
+        <ele>47.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.983252" lon="3.194737">
+        <ele>33.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.983716" lon="3.194920">
+        <ele>31.6</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.983924" lon="3.194534">
+        <ele>32.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.985104" lon="3.194363">
+        <ele>26.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.986289" lon="3.193926">
+        <ele>25.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.986543" lon="3.190499">
+        <ele>26.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.990644" lon="3.189316">
+        <ele>14.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.994401" lon="3.187355">
+        <ele>7.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.997001" lon="3.186426">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.997503" lon="3.189620">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.997809" lon="3.189663">
+        <ele>2.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.998661" lon="3.189406">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.000679" lon="3.187444">
+        <ele>1.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.001311" lon="3.187047">
+        <ele>1.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003694" lon="3.186366">
+        <ele>0.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004005" lon="3.186083">
+        <ele>1.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004316" lon="3.186192">
+        <ele>1.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.006951" lon="3.185602">
+        <ele>0.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.005762" lon="3.183020">
+        <ele>0.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004274" lon="3.181694">
+        <ele>1.7</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004018" lon="3.180950">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003227" lon="3.173913">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004412" lon="3.167563">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004395" lon="3.166972">
+        <ele>2.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003811" lon="3.165720">
+        <ele>3.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.004087" lon="3.165171">
+        <ele>2.7</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.003743" lon="3.163202">
+        <ele>1.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.002680" lon="3.159153">
+        <ele>2.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.000609" lon="3.148720">
+        <ele>5.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.000050" lon="3.148643">
+        <ele>3.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.998018" lon="3.149513">
+        <ele>4.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.997459" lon="3.149518">
+        <ele>3.7</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.995914" lon="3.149883">
+        <ele>3.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.995406" lon="3.149374">
+        <ele>4.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.992557" lon="3.151070">
+        <ele>5.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.991307" lon="3.149872">
+        <ele>4.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.990911" lon="3.149726">
+        <ele>1.5</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.988184" lon="3.147800">
+        <ele>2.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.983032" lon="3.143467">
+        <ele>4.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.982580" lon="3.141583">
+        <ele>4.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.982072" lon="3.140851">
+        <ele>3.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.980974" lon="3.140155">
+        <ele>4.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.979731" lon="3.139742">
+        <ele>6.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.978332" lon="3.139883">
+        <ele>6.9</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.978098" lon="3.140015">
+        <ele>6.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.977392" lon="3.142536">
+        <ele>6.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.977292" lon="3.143472">
+        <ele>5.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.976093" lon="3.144066">
+        <ele>8.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.975808" lon="3.144543">
+        <ele>10.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.973921" lon="3.144472">
+        <ele>22.1</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.973101" lon="3.145092">
+        <ele>25.4</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.972406" lon="3.145977">
+        <ele>23.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.971352" lon="3.145576">
+        <ele>31.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.971050" lon="3.145684">
+        <ele>28.2</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970560" lon="3.145575">
+        <ele>28.8</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.970190" lon="3.146085">
+        <ele>25.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969937" lon="3.145911">
+        <ele>26.0</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.969533" lon="3.146388">
+        <ele>24.3</ele>
+        <time>2016-11-30T10:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

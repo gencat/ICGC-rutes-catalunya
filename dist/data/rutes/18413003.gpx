@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.102625" lon="1.646838">
+    <ele>1374.0</ele>
+    <time>2014-04-25T15:20:55Z</time>
+    <name>Sant Cristòfol de Busa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.108356" lon="1.625824">
+    <ele>1357.9</ele>
+    <time>2014-04-25T15:20:55Z</time>
+    <name>El Capolat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.108444" lon="1.627742">
+    <ele>1339.0</ele>
+    <time>2014-04-25T15:20:56Z</time>
+    <name>Coll</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.104147" lon="1.640813">
+    <ele>1360.3</ele>
+    <time>2014-04-25T15:20:56Z</time>
+    <name>Casa Vila</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.100963" lon="1.640125">
+    <ele>1325.0</ele>
+    <time>2014-04-25T15:20:59Z</time>
+    <name>El Rial de Busa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.107391" lon="1.621648">
+    <ele>1299.7</ele>
+    <time>2014-04-25T15:21:00Z</time>
+    <name>Passarel·la</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.107887" lon="1.620102">
+    <ele>1310.0</ele>
+    <time>2014-04-25T15:21:02Z</time>
+    <name>Presó de Busa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.109801" lon="1.633559">
+    <ele>1481.6</ele>
+    <time>2014-04-25T15:21:03Z</time>
+    <name>La Llebre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.110057" lon="1.639487">
+    <ele>1531.9</ele>
+    <time>2014-04-25T15:21:03Z</time>
+    <name>El Cogul</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.108649" lon="1.628887">
+    <ele>1351.8</ele>
+    <time>2014-04-25T15:21:06Z</time>
+    <name>Creu del Capotat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.108078" lon="1.618770">
+    <ele>1242.7</ele>
+    <time>2014-04-25T15:21:07Z</time>
+    <name>El Capolatell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.110030" lon="1.635903">
+    <ele>1510.3</ele>
+    <time>2017-02-27T17:24:41Z</time>
+    <name>Cingle del Moro</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.101888" lon="1.663851">
+    <ele>1349.3</ele>
+    <time>2017-02-27T17:25:05Z</time>
+    <name>Grau de Vilamala</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.106354" lon="1.654367">
+    <ele>1431.0</ele>
+    <time>2017-02-27T17:25:21Z</time>
+    <name>Cinglera de Busa</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Pel pla de Busa. Des del Rial al Capolatell i Sant Cristòfol</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Pel pla de Busa. Des del Rial al Capolatell i Sant Cristòfol&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El pla de Busa és un altiplà aixecat sobre la vall de Lord, al Solsonès, estès entre els rius d'Aigua d’Ora, a llevant, i el Cardener, a ponent. En els seus punts més amples mesura uns 4 x 2 quilòmetres i està totalment envoltat per cingleres que atenyen fins a 200 m de desnivell. Els pocs graus que permeten el pas dels penya-segats han mantingut Busa aïllat fins ben entrat el segle XX, quan s’hi va obrir un accés per a vehicles. Força poblat fins a l’arribada de la industrialització, allotjava una parròquia establerta a l'església de Sant Cristòfol. 
+ 
+L'itinerari recorre el pla de Busa i les vores dels penya-segats septentrionals travessant els lloms coberts de vegetació arbustiva, prats i rodals de pins, roures i alzines. El sector nord del recorregut gaudeix d'una bellíssima i àmplia panoràmica que abasta, d’oest a est, les serres de Montsec, Aubenç, Querol, sobre Canalda, Port del Comte, Cadí, del Verd, Pedraforca, Ensija i Rasos de Peguera. La visita al Capolatell, o Presó de Busa, amb un passat ple de ressonàncies històriques, completa l’interès de la sortida.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L’itinerari a peu comença al Pi Gros, prop de la masia del Rial de Busa. S’hi accedeix amb vehicle per la pista asfaltada que, des del punt quilomètric 114,2 de la carretera C-26 (Solsona-Berga) passa pel nucli de Besora (municipi de Navès) i pel coll d’Arques (amb un total de 14,8 km). Una altra opció és utilitzar la carretera d’Aigua d’Ora, que surt del punt quilomètric 119,4 de la C-26, passat Navès en direcció a Berga, i, un cop arribats a la Vall d’Ora, continuar a l’esquerra seguint les indicacions fins que, sota el grau de la Creu, es troba amb l’anterior accés (un total de 15,30 km, dels quals 3,5 de pujada final forta sense asfaltar). En ambdós casos, superat el grau de la Creu, s’arriba al pla de Busa. Un ampli espai d’estacionament amb plafons indicadors permet aparcar el vehicle; 700 m més amunt, havent deixat el trencall a Sant Cristòfol i la Bertolina a la dreta (E), hi ha el Pi Gros, en realitat, un parell d’exemplars de pins notables situats a la dreta de la pista. 
+ 
+0,00 km (1.324 m). El Pi Gros. Se surt en direcció al nord, cap a la masia, deixant a l’esquerra dues grans basses d’abeuratge. Al cap de 4 minuts (300 m), quan la pista gira a la dreta (E) per entrar a la masia, es deixa i es pren al davant el camí herbat que surt en direcció nord a frec d’un mur de pedra, que es deixarà a mà esquerra. Es passa un vailet amb una tanca, es gira a l’esquerra (O), a ponent, després a la dreta (NO) i se surt a un camí que du a la masia de Casa Vila (0,58 km, 1.337 m), que se segueix a la dreta. 
+ 
+0,80 km (1.355 m), 13 min. Trencall davant de la masia de Casa Vila. Es pren el brancal de l’esquerre (NO) i es passa per davant del mas. El ramal de la dreta, que du a Sant Cristòfol, és per on es tornarà després. El camí discorre planer; se segueix el traçat principal. A mesura que s’avança cap a ponent, el pla s’estreny estrangulat, a banda i banda, per les cingleres que l’envolten. 
+ 
+2,04 km (1.352 m), 30 min. La Creu del Capolat. Esplèndid mirador amb un plafó indicatiu de la panoràmica que s’hi albira i una bústia amb una llibreta on es poden anotar impressions. Per la dreta hi conflueix un corriol que després es prendrà. Es baixa cap al coll del Capolat (O), a 1.340 m, estret, i després d’una curta pujada s’arriba al Capolat. Es continua carenejant, de baixada, en direcció SO fins que s’arriba a la passarel·la metàl·lica que permet el pas al Capolatell (2,70 km, 1.300 m) o Presó de Busa, separat del Capolat per una profunda escletxa. Es travessa el pont, es passa pel costat de l’avenc de la cova del Diable i s’arriba al cim del Capolatell. 
+ 
+2,90 km (1.316 m), 43 min. Cim del Capolatell. Ara la vista s’estén sobre la vall del Cardener i l’embassament de la Llosa del Cavall. Enfront, sota el Port del Comte, destaca la Mola de Lord i el seu santuari; a la dreta, Sant Llorenç de Morunys. Es torna enrere fins a la Creu del Capolat. 
+ 
+&lt;i&gt;La singular configuració del Capolatell, que permetia aïllar-lo retirant la passera d’entrada, el va convertir en una eficaç presó durant la guerra del Francès (inicis del segle XIX), quan el pla de Busa es va utilitzar com a campament militar espanyol sota el comandament del tinent coronel solsoní Francesc Xavier de Cabanes. Durant l’habilitació de Busa com a bossa resistent es van fortificar els punts febles i es van construir un miler de cases de fusta per a l’allotjament dels soldats. Tot i els intents de Napoleó de guanyar-se els catalans, el 1814 es va donar per acabada l’ocupació i la guerra. En aquest lapse de temps, el Principat va ser un complex escenari de moviments estratègics de tota mena: el 1809, el mariscal Augereau va proclamar a Barcelona el Govern de Catalunya i incorporava el català com a llengua oficial; el gener de 1812, un decret declarava l’annexió del Principat a França, dividint-lo en departaments, seguint el model francès. En aquest període, Busa va resistir incòlume, fins al punt de ser, després de Cadis, el segon indret de l’Estat espanyol a proclamar la Constitució de 1812, en un acte presenciat per 8.000 soldats.&lt;/i&gt; 
+ 
+3,75 km (1.354 m), 59 min. Creu del Capolat. Ara es continua pel senderó de l’esquerra, en pujada; cal seguir les traces ajudats de fites i de marques blaves. Aquest camí voreja la cinglera nord de Busa passant, successivament per sota del roc del Migdia (4,20 km, 1.478 m), pel cim del Cogul (4,80 km, 1.526 m), pel coll de la canal de Casa Vila (5,20 km, 1.467 m), on es deixa, a la dreta, una drecera que porta a aquest mas i a l’esquerra el corriol de la canal del mateix nom), pel cim del serrat de les Llebres (5,65 km, 1.521 m) i pel Cavall Bernat. Àmplies vistes al nord acompanyen tot el recorregut; darrera de la serra d’Ensija destaca la blanquinosa paret sud del Pedraforca, a sota, la peculiar serra de Valielles i la vall del mateix nom. 
+ 
+7,46 km (1.349 m), 2 h 6 min. Grau de Vilamala. Es gira totalment a la dreta (O) deixant, a mà esquerra, el camí que travessa l’escletxa de roca i, baixant pel grau, s’endinsa en l’esponerosa fageda de Busa. El camí continua cap a ponent deixant, més enllà, a mà esquerre els trencalls de les Collades (8,04 km, 1.327 m) i, havent passat un cadenat, el de la Bertolina (8,57 km, 1.317 m). 
+ 
+9,24 km (1.334 m), 2 h 32 min. Cruïlla dels Colls. Es tomba a la dreta (NE) per anar a l’església de Sant Cristòfol (si es continués recte s’arribaria al Rial; per l’esquerra, a l’estacionament inicial del pla). El camí arriba a un trencall (9,45 km, 1.343 m) que es pren cap a la dreta. 
+ 
+9,77 km (1.373 m), 2 h 41 min. Sant Cristòfol, cap de l’antiga parròquia de Busa, església originària del segle XI i transformada el XVIII. Es torna enrere fins a la cruïlla on, ara, es girarà a la dreta, cap a Casa Vila i, des d’allà, cap al Rial i al Pi Gros. 
+ 
+11,32 km (1.325 m), 3 h 5 min. El Pi Gros. Final del recorregut. 
+ 
+&lt;i&gt;La Vall de Lord és una contrada de forta personalitat paisatgística i cultural que ocupa la capçalera del riu Cardener, compartida amb el Berguedà. Els seus aproximadament 277 km2 s’estenen entre la serra de Port del Comte (de 2 386 m, al NO), la serra del Verd (2 282 m, al N) i el Cap Llitzet (2 321 m, NE). Per l’E i el SE s’estén fins a l’aigua de Llinars, després anomenada aigua d’Ora, pel SO fins al Cardener i, per ponent, fins a la serra d’Encies. Enmig d’aquest perímetre s’alça un intricat conjunt de serres de fisonomia espectacular formades per materials on alternen les margues, les calcàries i el conglomerat pinyolenc de morfologia montserratina (pla de Busa, serra dels Bastets, mola de Lord, cints d’Aigua d’Ora i de les Valls i altres). La tenacitat persistent dels seus habitants manté dempeus i vives moltes masies situades ben lluny dels vials i assentaments principals de la vall&lt;/i&gt;.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Por el llano de Busa. Des de El Rial al Capolatell y Sant Cristòfol&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El llano de Busa es una meseta levantada sobre el valle de Lord, en el Solsonès, extendida entre los ríos de Aigua d’Ora, al este, y el Cardener, a poniente. En sus puntos más anchos mide unos 4 x 2 kilómetros y está totalmente rodeada por riscos que alcanzan hasta 200 m de desnivel. Los pocos grados que permiten el paso de los acantilados han mantenido Busa aislada hasta bien entrado el siglo XX, cuando se abrió un acceso para vehículos. Bien poblada hasta la llegada de la industrialización, alojaba una parroquia establecida en la iglesia de San Cristóbal. 
+ 
+El itinerario recorre el llano de Busa y los bordes de los acantilados septentrionales atravesando los lomos cubiertos de vegetación arbustiva, prados y bosques de pinos, robles i encinas. El sector norte del recorrido goza de una amplia y bellísima panorámica que abarca, de oeste a este, las sierras de Montsec, Aubenç, Querol, sobre Canalda, Port del Comte, Cadí, del Verd, Pedraforca, Ensija y Rasos de Peguera. La visita al Capolatell, con un pasado lleno de resonancias históricas, completa el interés de esta salida.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El itinerario a pie empieza en el Pi Gros, cerca de la masía del Rial de Busa. Se accede con vehículo por la pista asfaltada que, desde el punto kilométrico 114,2 de la carretera C-26 (Solsona-Berga) pasa por el núcleo de Besora (municipio de Navès) y por el collado de Arques (con un total de 14,8 km). Otra opción es utilizar la carretera de Aigua d’Ora, que sale del punto kilométrico 119,4 de la C-26, pasado Navès en dirección a Berga, y, una vez llegados a La Vall d'Ora, continuar a la izquierda siguiendo las indicaciones hasta que, bajo el grado de la Creu, se encuentra con el anterior acceso (un total de 15,30 km, de los que 3,5 finales son de fuerte subida y sin asfaltar). En ambos casos, superado el grado de la Creu, se llega al Pla de Busa. Un amplio espacio de estacionamiento con paneles indicadores permite aparcar el vehículo; 700 metros más arriba, habiendo dejado el desvío a Sant Cristófor y a la Bertolina a la derecha (E), está el Pi Gros, en realidad, un par de ejemplares de pinos notables situados a la derecha de la pista. 
+ 
+0,00 km (1.324 m). El Pi Gros. Se sale en dirección al norte, hacia la masía, dejando a la izquierda dos grandes balsas de abrevadero. Al cabo de 4 minutos (300 m), cuando la pista gira a la derecha (E) para entrar en la masía, se toma delante un camino herboso que sale en dirección norte ladeando un muro de piedra, que se dejará a mano izquierda. Se pasa una alambrada, se gira a la izquierda (O), a poniente, luego a la derecha (NO) y se sale a un camino que lleva a la masía de Casa Vila (0,58 km, 1.337 m), que se sigue a la derecha. 
+ 
+0,80 km (1.355 m), 13 min. Desvío delante de la masía de Casa Vila. Se toma el ramal de la izquierda (NO) y se pasa por delante de la casa. El ramal de la derecha, que lleva a Sant Cristòfor, es por donde se volverá después. El camino discurre horizontalmente; se sigue el trazado principal. A medida que se avanza hacia el oeste, el llano se estrecha estrangulado, a ambos lados, por los riscos que lo rodean. 
+ 
+2,04 km (1.352 m), 30 min. La Creu del Capolat. Espléndido mirador con un panel indicativo de la panorámica que se divisa y un buzón con una libreta donde se pueden anotar impresiones. Por la derecha confluye un sendero que luego se tomará. Se baja hacia el cuello del Capolat (O), a 1.340 m, estrecho, y tras una corta subida se llega al Capolat. Se continúa por la cresta, de bajada, en dirección SO hasta que se llega a la pasarela metálica que permite el paso al Capolatell (2,70 km, 1.300 m) o Prisión de Busa, separado del Capolat por una profunda brecha. Se atraviesa el puente, se pasa al lado de la sima de la cueva del Diablo y se llega a la cima del Capolatell. 
+ 
+2,90 km (1.316 m), 43 min. Cumbre del Capolatell. Ahora la vista se extiende sobre el valle del Cardener y el embalse de la Llosa del Cavall. Frente, bajo el Port del Comte, destaca la Mola de Lord y su santuario; a la derecha, Sant Llorenç de Morunys. Se vuelve atrás hasta la Creu del Capolat. 
+ 
+&lt;i&gt;La singular configuración del Capolatell, que permitía aislarlo retirando la pasarela de entrada, lo convirtió en una eficaz prisión durante la guerra del Francés (inicios del siglo XIX), cuando el llano de Busa se utilizó como campamento militar español bajo el mando del teniente coronel solsonés Francesc Xavier de Cabanes. Durante la habilitación de Busa como bolsa resistente se fortificaron los puntos débiles y se construyeron un millar de casas de madera para el alojamiento de los soldados. A pesar de los intentos de Napoleón de ganarse a los catalanes, en 1814 se dio por terminada la ocupación y la guerra. En este lapso de tiempo, el Principado fue un complejo escenario de movimientos estratégicos de todo tipo: en 1809, el mariscal Augereau proclamó en Barcelona el Gobierno de Cataluña y incorporaba el catalán como lengua oficial; en enero de 1812, un decreto declaraba la anexión del Principado a Francia, dividiéndolo en departamentos, siguiendo el modelo francés. En este periodo, Busa resistió incólume, hasta el punto de ser, después de Cádiz, el segundo lugar de España en proclamar la Constitución de 1812, en un acto presenciado por 8.000 soldados.&lt;/i&gt; 
+ 
+3,75 km (1.354 m), 59 min. Creu del Capolat. Ahora se continúa por el sendero de la izquierda, en subida; se seguirán los rastros ayudados de hitos y de marcas azules. Este camino bordea el risco norte de Busa pasando, sucesivamente por debajo del Roc del Migdia (4,20 km, 1.478 m), por la cima del Cogul (4,80 km, 1.526 m), por el cuello de la canal de Casa Vila (5,20 km, 1.467 m), donde se deja, a la derecha, un atajo que lleva a esta casa y, a la izquierda, el sendero de la canal del mismo nombre), por la cima de la loma de las Llebres (5,65 km, 1.521 m) y por el Cavall Bernat. Amplias vistas al norte acompañan todo el recorrido; detrás de la sierra de Ensija destaca la blanquecina pared sur del Pedraforca, abajo, la peculiar sierra de Valielles y el valle del mismo nombre. 
+ 
+7,46 km (1.349 m), 2 h 6 min. Grado de Vilamala. Se gira totalmente a la derecha (O) dejando, a mano izquierda, el camino que atraviesa la brecha de roca y, bajando por el grado, se adentra en el lozano hayedo de Busa. El camino sigue hacia poniente dejando, más allá, a mano izquierda los desvíos de Les Collades (8,04 km, 1.327 m) y, después de haber pasado una cadena, el de la Bertolina (8,57 km, 1.317 m). 
+ 
+9,24 km (1.334 m), 2 h 32 min. Cruce de Els Colls. Se gira a la derecha (NE) para ir a la iglesia de Sant Cristòfor (si se continuara recto se llegaría al Rial y, por la izquierda, al estacionamiento inicial del llano). El camino llega a un cruce (9,45 km, 1.343 m) que se toma hacia la derecha. 
+ 
+9,77 km (1.373 m), 2 h 41 min. Sant Cristòfor, sede de la antigua parroquia de Busa, iglesia originaria del siglo XI y transformada en el XVIII. Se vuelve atrás hasta el cruce, donde ahora se girará a la derecha, hacia Casa Vila y, desde allí, hacia el Rial y el Pi Gros. 
+ 
+11,32 km (1.325 m), 3 h 5 min. El Pi Gros. Final del recorrido. 
+ 
+&lt;i&gt;El valle de Lord es una región de fuerte personalidad paisajística y cultural que ocupa la cabecera del río Cardener, compartida con el Berguedà. Sus aproximadamente 277 km2 se extienden entre la sierra de Port del Comte (de 2 386 m, en el NO), la sierra del Verd (2 282 m, en el N) y Cap Llitzet (2 321 m, NE). Por el E y el SE se extiende hasta el río Aigua de Llinars, después llamado Aigua d’Ora, por el SO hasta el Cardener y, hacia poniente, hasta la sierra de Encies. En medio de este perímetro se alza un intrincado conjunto de sierras de fisonomía espectacular formadas por materiales donde alternan las margas, las calizas y el conglomerado “pinyolenc” de morfología montserratina (Pla de Busa, sierra de Bastets, Mola de Lord, riscos de Aigua d’Ora y de Les Valls y otros). La tenacidad persistente de sus habitantes mantiene en pie y vivas muchas masías situadas lejos de los viales y asentamientos principales del valle.&lt;/i&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Sant Cristòfol de Busa to El Capolatell through Busa plain&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The route crosses Busa plain, in the sierra of the same name, through meadows and thick pine woods. From the Capolat viewpoint we can enjoy a splendid panorama from east to west of the Ensija and Cadí sierras, Pedraforca, Guixers, and the closer massifs of El Verd and El Port del Comte sierras. The Romanesque church of Sant Cristòfol de Busa, in the centre of Busa plain, provides the cultural interest of the route.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.101011" lon="1.640095">
+        <ele>1324.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101442" lon="1.640017">
+        <ele>1324.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101981" lon="1.640576">
+        <ele>1327.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102292" lon="1.640618">
+        <ele>1330.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102811" lon="1.639168">
+        <ele>1336.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103187" lon="1.639728">
+        <ele>1341.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103810" lon="1.639836">
+        <ele>1348.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103740" lon="1.640787">
+        <ele>1353.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103873" lon="1.640996">
+        <ele>1356.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.104083" lon="1.640363">
+        <ele>1357.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.105019" lon="1.639575">
+        <ele>1364.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.106229" lon="1.632928">
+        <ele>1352.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.106805" lon="1.631579">
+        <ele>1351.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107185" lon="1.630216">
+        <ele>1351.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107427" lon="1.629921">
+        <ele>1349.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108213" lon="1.629771">
+        <ele>1349.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108595" lon="1.629015">
+        <ele>1351.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108375" lon="1.627361">
+        <ele>1333.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107926" lon="1.626645">
+        <ele>1337.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107438" lon="1.626177">
+        <ele>1330.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107038" lon="1.624656">
+        <ele>1318.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107147" lon="1.622391">
+        <ele>1311.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107694" lon="1.620856">
+        <ele>1306.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107563" lon="1.620586">
+        <ele>1301.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107867" lon="1.620096">
+        <ele>1291.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107563" lon="1.620586">
+        <ele>1301.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107694" lon="1.620856">
+        <ele>1306.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107147" lon="1.622391">
+        <ele>1311.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.106999" lon="1.624077">
+        <ele>1316.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107085" lon="1.625108">
+        <ele>1320.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107438" lon="1.626177">
+        <ele>1330.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107926" lon="1.626645">
+        <ele>1337.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108423" lon="1.627565">
+        <ele>1328.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108661" lon="1.629172">
+        <ele>1346.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108603" lon="1.629609">
+        <ele>1360.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108772" lon="1.630198">
+        <ele>1358.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108734" lon="1.630773">
+        <ele>1382.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108461" lon="1.631307">
+        <ele>1397.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108867" lon="1.632107">
+        <ele>1421.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.109156" lon="1.632198">
+        <ele>1432.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.109454" lon="1.633010">
+        <ele>1450.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108909" lon="1.634568">
+        <ele>1457.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.109080" lon="1.634838">
+        <ele>1471.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.109576" lon="1.634971">
+        <ele>1480.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.110040" lon="1.639468">
+        <ele>1513.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107963" lon="1.640957">
+        <ele>1475.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107204" lon="1.642214">
+        <ele>1463.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107136" lon="1.642965">
+        <ele>1470.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107456" lon="1.644156">
+        <ele>1482.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108526" lon="1.645161">
+        <ele>1500.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108845" lon="1.646329">
+        <ele>1514.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.108316" lon="1.646885">
+        <ele>1511.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107895" lon="1.647105">
+        <ele>1502.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107504" lon="1.647567">
+        <ele>1494.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107365" lon="1.647994">
+        <ele>1492.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107683" lon="1.648936">
+        <ele>1503.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107646" lon="1.649675">
+        <ele>1502.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107904" lon="1.650540">
+        <ele>1492.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107315" lon="1.651726">
+        <ele>1487.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.107028" lon="1.652670">
+        <ele>1471.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.105853" lon="1.655011">
+        <ele>1448.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.105800" lon="1.655423">
+        <ele>1429.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.105323" lon="1.655869">
+        <ele>1442.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.104390" lon="1.657787">
+        <ele>1431.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.104079" lon="1.658530">
+        <ele>1425.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103971" lon="1.659232">
+        <ele>1420.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103213" lon="1.660690">
+        <ele>1398.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102767" lon="1.662229">
+        <ele>1373.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102129" lon="1.663077">
+        <ele>1356.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101981" lon="1.663866">
+        <ele>1348.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101807" lon="1.664057">
+        <ele>1345.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101735" lon="1.657836">
+        <ele>1328.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101431" lon="1.656482">
+        <ele>1330.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101972" lon="1.653489">
+        <ele>1329.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101344" lon="1.652196">
+        <ele>1322.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101508" lon="1.651600">
+        <ele>1319.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101129" lon="1.651124">
+        <ele>1319.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.100318" lon="1.648365">
+        <ele>1325.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.100361" lon="1.647808">
+        <ele>1326.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.100725" lon="1.647026">
+        <ele>1328.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.100246" lon="1.646111">
+        <ele>1330.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.099831" lon="1.644275">
+        <ele>1332.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.100601" lon="1.645038">
+        <ele>1339.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101354" lon="1.644714">
+        <ele>1342.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101456" lon="1.645146">
+        <ele>1346.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101684" lon="1.645395">
+        <ele>1351.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101695" lon="1.645951">
+        <ele>1355.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102436" lon="1.645806">
+        <ele>1362.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102772" lon="1.646850">
+        <ele>1373.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102668" lon="1.646837">
+        <ele>1372.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102780" lon="1.646819">
+        <ele>1373.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102732" lon="1.646502">
+        <ele>1371.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102436" lon="1.645806">
+        <ele>1362.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101695" lon="1.645951">
+        <ele>1355.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101684" lon="1.645395">
+        <ele>1351.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101456" lon="1.645146">
+        <ele>1346.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101354" lon="1.644714">
+        <ele>1342.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102585" lon="1.643702">
+        <ele>1347.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102699" lon="1.643047">
+        <ele>1347.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103806" lon="1.641045">
+        <ele>1355.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103843" lon="1.639968">
+        <ele>1350.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103728" lon="1.639753">
+        <ele>1347.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.103187" lon="1.639728">
+        <ele>1341.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102779" lon="1.639162">
+        <ele>1336.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.102292" lon="1.640618">
+        <ele>1330.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101981" lon="1.640576">
+        <ele>1327.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101442" lon="1.640017">
+        <ele>1324.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.101011" lon="1.640095">
+        <ele>1324.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.202210" lon="1.364650">
+    <ele>812.5</ele>
+    <time>2014-04-28T11:18:30Z</time>
+    <name>Bifurcació</name>
+    <desc>Bifurcació</desc>
+  </wpt>
+  <wpt lat="42.202190" lon="1.360890">
+    <ele>749.0</ele>
+    <time>2014-04-28T11:18:32Z</time>
+    <name>Font de Codonyes</name>
+    <desc>Font de Codonyes</desc>
+  </wpt>
+  <wpt lat="42.191390" lon="1.387351">
+    <ele>950.3</ele>
+    <time>2014-04-28T11:18:33Z</time>
+    <name>Roc del Picot Petit</name>
+    <desc>Roc del Picot Petit</desc>
+  </wpt>
+  <wpt lat="42.178515" lon="1.394090">
+    <ele>799.0</ele>
+    <time>2014-04-28T11:18:35Z</time>
+    <name>Perles</name>
+    <desc>Perles</desc>
+  </wpt>
+  <wpt lat="42.185954" lon="1.388508">
+    <ele>778.8</ele>
+    <time>2014-04-28T11:18:36Z</time>
+    <name>Cal Penya</name>
+    <desc>Cal Penya</desc>
+  </wpt>
+  <wpt lat="42.193012" lon="1.384984">
+    <ele>1055.0</ele>
+    <time>2014-04-28T11:18:38Z</time>
+    <name>El Grauet</name>
+    <desc>El Grauet</desc>
+  </wpt>
+  <wpt lat="42.193636" lon="1.385057">
+    <ele>1076.8</ele>
+    <time>2014-04-28T11:18:39Z</time>
+    <name>Bifurcació</name>
+    <desc>Bifurcació</desc>
+  </wpt>
+  <wpt lat="42.192965" lon="1.374556">
+    <ele>1147.6</ele>
+    <time>2014-04-28T11:18:41Z</time>
+    <name>Collada dels Collars</name>
+    <desc>Collada dels Collars</desc>
+  </wpt>
+  <wpt lat="42.194028" lon="1.361244">
+    <ele>1043.2</ele>
+    <time>2014-04-28T11:18:42Z</time>
+    <name>Collet de la Canal del Joan</name>
+    <desc>Collet de la Canal del Joan</desc>
+  </wpt>
+  <wpt lat="42.197295" lon="1.364478">
+    <ele>972.7</ele>
+    <time>2014-04-28T11:18:44Z</time>
+    <name>Roca d'Espatllagossos</name>
+    <desc>Roca d'Espatllagossos</desc>
+  </wpt>
+  <wpt lat="42.198795" lon="1.366692">
+    <ele>897.9</ele>
+    <time>2014-04-28T11:18:45Z</time>
+    <name>Torrent de les Tines</name>
+    <desc>Torrent de les Tines</desc>
+  </wpt>
+  <wpt lat="42.202207" lon="1.338411">
+    <ele>602.0</ele>
+    <time>2014-04-28T11:18:47Z</time>
+    <name>Fígols d'Organyà</name>
+    <desc>Fígols d'Organyà</desc>
+  </wpt>
+  <wpt lat="42.180933" lon="1.387320">
+    <ele>899.8</ele>
+    <time>2014-04-28T11:18:48Z</time>
+    <name>El Coll</name>
+    <desc>El Coll</desc>
+  </wpt>
+  <wpt lat="42.192157" lon="1.386634">
+    <ele>994.0</ele>
+    <time>2014-04-28T11:18:50Z</time>
+    <name>Balma</name>
+    <desc>Balma</desc>
+  </wpt>
+  <trk>
+    <name>De Perles a Fígols d'Organyà per la collada dels Collars</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Perles a Fígols d'Organyà per la collada dels Collars&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;La vall d'Alinyà ocupa una extensa àrea del municipi de Fígols i Alinyà, a la comarca de l'Alt Urgell. S'estén entre el Port del Comte (2.382 m) i el riu Segre (518 m). La seva notable dimensió i desnivell propicien la presència de paisatges, espècies i hàbitats naturals ben diversos. La major part de la vall s'integra en l'anomenada Finca d'Alinyà, propietat de l'Obra Social de Caixa Catalunya i gestionada per la Fundació Catalunya-La Pedrera. Aquest espai, de 53,52 km2, està inclòs a la Xarxa Natura 2000 i, parcialment, en l'Espai d'Interès Natural (EIN) de les serres d'Odèn-Port del Comte, la Reserva Nacional de Caça del Cadí i la Zona d'Especial Protecció per a les Aus (ZEPA). 
+ 
+Itinerari lineal molt variat, a trams espectacular, envoltat per un paisatge on la geologia i les extenses panoràmiques prenen rellevància i interès. Es discorre de la vall de Perles a la del Segre a través del Grauet i de la collada dels Collars saltant les carenes del Roc de Galliner. Es visita la font de Codonyes, situada en un racó profund i ombrívol, i es baixa a Fígols d'Organyà per un camí inèdit que travessa el torrent de les Tines, sota el cingle. El recorregut es pot ampliar amb l'ascensió als tossals de Balinyó, des d'on es gaudeixen d'extenses vistes. Cal seguir pel camí sense fer dreceres, ja que és fràgil i ha costat molt d'obrir-lo. S'haurà de disposar d'un vehicle al final de la ruta per a la tornada (si no, caldrà desfer el camí).&lt;/i&gt; 
+Ruta senyalitzada. 
+ 
+Cal situar-se al llogarret de Perles, ubicat al km 10,70 de la carretera local L-401. Aquesta carretera neix al pont d'Espia, al km 159 de la C-14 entre Coll de Nargó i Organyà, uns quilòmetres al sud de la Seu d'Urgell. 
+ 
+0,00 km (802 m). Perles. Des de la plaça de Perles, es deixa l'església de Sant Romà a la dreta i se surt a la carretera, que travessem per prendre un camí que puja al N entre marges de pedra i bancals d'oliveres. Davant tenim la Roca del Solà (esquerra), a la dreta, la Roca de Perles i, enmig, una roca foradada: el Pont del Coll o el Forat. El camí, que conserva trams empedrats, s'orienta a l'oest i després al NO. Comença la pujada. 
+ 
+0,60 km (864 m), 0 h 16 min. Esperó rocós. El camí fa dues llaçades i la panoràmica s'amplia. Enfront, hi ha la Roca del Solà (O), el Cogulló de Turp (SO) i el torrent de Colldeboix (S). Una mica més enllà (km 0,65, 877 m, 0 h 20 min), en un revolt tancat, deixem a l'esquerra un camí que duu a la Roca del Solà, on hi ha vies d'escalada, i continuem pel principal, que gira a la dreta i es dirigeix al NE. Remuntem fent unes llaçades curtes. 
+ 
+0,78 km (896 m), 0 h 29 min. El Coll. Collada entre les carenes de la Roca del Solà (O) i la de Perles (E). Bones vistes sobre la vall de Sant Pere i del vessant S del Roc de Galliner fins a la Roca dels Collars. Un corriol que es dirigeix al SE mena al Pont del Coll. Seguim cap al N pel camí que passa als peus d'un marge de pedra (dreta) i aviat arribem a un llom del vessant. El camí fa un revolt a l'esquerra, baixa uns metres pel vessant occidental del llom i, aviat, torna a creuar-lo (869 m, 0 h 39 min). Es gira a la dreta (NE) i es travessa el llom entre dos estrats rocosos. Una mica més avall, es fa una llaçada al N, es torna a tombar a la dreta (E) i es davalla de flanc. 
+ 
+1,12 km (841 m), 0 h 41 min. Creuem un petit barranc, travessem un llom i avancem cap al NE fins a uns camps abandonats que resseguim pel marge esquerre. Anem descendint pel cantó O del llom. Una mica més avall, fem unes ziga-zagues molt curtes i, abans d'arribar a unes roques amb uns arbres al mig de la carena, el camí gira a la dreta i s'inclina a llevant per baixar a un altre barranc (812 m, 0 h 47 min): cal creuar-lo i baixar en direcció N entre el rierol (dreta) i els antics camps del fons (esquerra). 
+ 
+1,68 km (781 m), 0 h 53 min. Riu de Canelles. El travessem i prosseguim pel camí que passa entre dos camps de cirerers en direcció al mas de cal Penya (786 m, 0 h 56 min), que queda separat al S. Hi arriba una pista procedent de Canelles. Agafem un corriol al NO, que fa algunes llaçades i, més enllà, s'inclina al vessant O de la carena i s'endinsa per un bosc de pinassa i carrasques. 
+ 
+2,35 km (890 m), 1 h 15 min. Sortim del bosc i continuem ascendint orientats al N. El camí s'enfila i més amunt entra de nou al bosc. Més endavant, s'és al Roc del Picot Petit (km 2,64, 954 m). Pugem cap al NO en direcció al grau deixant, ja prop del cingle, una balma a la dreta (km 2,76, 975 m). 
+ 
+3,03 km (1.055 m), 1 h 40 min. El Grauet. Es planeja per dins d'un alzinar i, en sortir del bosc, el camí excavat al rocam volta un esperó de roca. Seguim a la dreta (NE) fins a un petit barranc que hi ha a tocar, on el camí remunta fent tres llaçades fins a situar-se al costat d'un esperó rocós. 
+ 
+3,12 km (1.075 m), 1 h 43 min. Bifurcació de camins. Cal parar atenció i no continuar ascendint, ja que el camí ens duria a la collada de Cal Penya, sota el Roc de Galliner. Es flanqueja l'esperó cap al N i, tot seguit, el vessant rocós i estimbat, ara descendint en llaçades curtes cap al NO tot vorejant unes roques fins al fons del barranc. 
+ 
+3,22 km (1.064 m), 1 h 46 min. Clot Pregó, engorjat entre roques. Seguim 10 m barranc amunt pel llit fins que es bifurca. Deixem a la dreta el barranc principal, que fa un ressalt de 4 m que hauríem d'escalar, i seguim pel petit barranc de l'esquerra. El corriol puja a ponent fent múltiples giragonses. 
+ 
+3,35 km (1.117 m), 1 h 52 min. Replà sobre el cingle, des de la vora del qual tenim una bona panoràmica del Roc de Galliner (NE), el tossal de l'Àliga, el Cap de Montaner (E), el Port del Comte, la Roca de la Pena, la tossa de Cambrils (SE), cal Penya, mas situat a sota, al fons de la vall, Colldeboix i Santa Pelaia (S). Més a la dreta, encara veiem el Turp, la serra d'Aubenç, el Montsec d'Ares i la Roca dels Collars. 
+ 
+Continuem pel camí en suau baixada cap a l'oest per una clotada que forma un ventall de torrents. Travessem un torrent poc marcat (1.060 m, 1 h 59 min) i el camí puja fent llaçades curtes. Es creua un segon barranc (1.115 m, 2 h 08 min) i seguim enfilant-nos, ara cap al S/SO, fent llaçades curtes fins a un coll. 
+ 
+4,14 km (1.146 m), 2 h 12 min. Collada dels Collars, molt ampla i planera, sota la Roca de l'Espada, que queda al N. Més a la dreta, al cim de la carena, tenim la Roca de Pinyalda. Davant veiem la muntanya de Santa Fe, amb la vall de Montanissell a l'esquerra i la de Cabó a la dreta. Més a la dreta (NO), hi ha les serres de Prada i d'Ares. Sortim del coll en direcció N per un tram molt rocós sense gaire vegetació planejant i travessant petits barrancs. 
+ 
+4,72 km (1.099 m), 2 h 26 min. Carena ampla i suau que uneix el tossal de Balinyó amb la Roca de Pinyalda. Enfront tenim el clot del Grau, per on flueix el torrent de les Tines. Més a l'esquerra, veiem Organyà i la vall de Cabó, amb les serres de Prada i d'Ares a la dreta i la muntanya de Santa Fe a l'esquerra. Al fons de l'horitzó, veiem la Torreta de l'Orri. Continuem carena avall (O) pel corriol, que es decanta una mica a la dreta. 
+ 
+5,38 km (1.050 m), 2 h 38 min. Cap de la Canal de Joan. Anem a parar a una pista que travessa el coll, on es bifurca. Al S veiem el tossal de Cambrils, la Collada (Colldeboix), Santa Pelaia i el Turp. Sota nostre, la cresta dentada de la Roca del Solà, que cau a pic sobre la vall de Perles. Al NO, la muntanya de Santa Fe amb la vall de Montanissell a l'esquerra i la de Cabó a la dreta. Al fons de la vall, Organyà i, darrere, tancant l'horitzó, les serres de Prada i d'Ares. Prenem un ramal de pista que baixa a la dreta (NE) i una mica més avall gira també a la dreta sobtadament. Aviat s'acaba davant d'una torre metàl·lica de la línia d'alta tensió. Continuem per un marcat corriol que baixa al NE primer fent una ziga-zaga al voltant d'una torre d'alta tensió i després davallant de flanc fins a arribar al peu d'una roca singular. 
+ 
+5,90 km (927 m), 2 h 50 min. Es voreja per sota la Roca d'Espatllagossos, se segueix descendint cap a l'est per dins del bosc, es travessa un petit còrrec, una clariana i, més avall, se surt a una pista al costat del torrent de les Tines (km 6,15, 903 m, 2 h 55 min): la creuem i prenem un camí que ascendeix suaument en direcció NO per un bosc poc dens. 
+ 
+6,45 km (914 m), 3 h. Coll de la Guixera de la Serra, en una carena rocosa. Fites de pedres. Caminem per la carena ampla uns 10 m a l'esquerra i continuem a la dreta per un camí que baixa al N. De seguida fa una llaçada, s'orienta al NE i aviat travessa un portell de roca. Prosseguim davallant fent petites llaçades, però desplaçant-nos en general cap al NE, a les envistes del mas de la Serra, a l'altre vessant. 
+ 
+6,85 km (810 m), 3 h 08 min. Bifurcació sobre uns camps. Deixem el camí que seguíem i n'agafem un altre a l'esquerra (O) que planeja per sobre dels camps i aviat s'endinsa al bosc. Més enllà, deixem un petit camp a l'esquerra i seguim pel camí vorejat de marges de pedra per dins d'un alzinar. Creuem un antic rec al costat d'un server gros (esquerra; 794 m, 3 h 13 min) i continuem a l'oest discorrent entre camps. Entrem al bosc i anem baixant fent llaçades curtes cap a ponent fins a una pista (765 m, 3 h 16 min), al costat del barranc de Codonyes, que seguim a l'esquerra. 
+ 
+7,22 km (755 m), 3 h 17 min. Surgència de les Codonyes, que es troba a l'esquerra. A la dreta, hi ha la font de Codonyes, arranjada amb una taula, bancs i barbacoes metàl·liques. Continuem per la pista, que mor en un hort uns metres més endavant. Voregem l'hort per l'esquerra, pel costat d'un marge de pedres, i seguim pel camí ample i planer que tenim al davant i que ens porta fins a un camp envoltat de bosc (751 m, 3 h 23 min). El voregem pel marge esquerre i prenem un corriol que baixa cobert de pedruscall per sota d'una línia elèctrica d'alta tensió i anem flanquejant el vessant. 
+ 
+7,90 km (695 m), 3 h 33 min. Roques despreses de la cinglera. Prosseguim planejant per dins del bosc i travessem una petita tartera de pedruscall a partir de la qual el camí remunta una mica. Creuem una altra tartera, deixem un corriol que davalla a la dreta i continuem pel que s'enfila a l'esquerra. Més endavant, en travessem una altra, des d'on veiem el mas de la Costa a la dreta, a mig vessant. Desemboquem a un vessant amb molt poca vegetació i sortim a una carena margosa (3 h 37 min), que resseguim cap al NO en descens. Travessem un torrent (3 h 43 min) i seguim pel camí planerament cap a l'oest. Es gira progressivament a l'esquerra i es creuen uns antics camps avui emboscats. Davant tenim la Canal, un estret engorjat en un cingle pel qual s'escola el barranc del Tinter. Ens acostem a la cinglera baixant fins al barranc tot travessant una petita tartera. 
+ 
+8,50 km (648 m), 3 h 47 min. Barranc del Tinter. Molt estret, abrupte i ben cobert de vegetació. El creuem i continuem planejant per un bosc de roures i pinassa cap a l'oest. Més enllà, voregem uns antics camps de conreu, que deixem a la dreta, i pugem lleugerament. A l'altre vessant del torrent de Codonyes, tenim el veïnat de Romanins i, al fons de la vall, Fígols d'Organyà. Ens unim a un camí de la dreta (4 h 01 min), continuem endavant (O) travessant un bosc, sortim a uns camps de conreu i desemboquem a una pista. 
+ 
+9,18 km (612 m), 4 h 07 min. Sortim a un revolt tancat d'una pista que puja a uns camps. La seguim a la dreta davallant a l'oest i sortim a una altra pista que en molt pocs metres ens deixa a la carretera del pont d'Espia a Fígols d'Organyà (4 h 09 min). La prenem a la dreta (N) en direcció a Fígols d'Organyà, on entrem pel carrer del Roser remuntant a mà dreta. 
+ 
+9,79 km (614 m), 4 h 15 min. Plaça Major de Fígols d'Organyà. Fi del recorregut. Al poble, cal contemplar la magnífica església romànica de Sant Víctor i les cases velles amb balconades de fusta del nucli antic.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Perles a Fígols d'Organyà por el collado de Els Collars&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;El valle de Alinyà está situado en la comarca de L'Alt Urgell, dentro del término municipal de Fígols i Alinyà, a poniente del macizo prepirenaico de Port del Comte (2.382 m) y a la izquierda orográfica del Segre (518 m). La gran extensión y el fuerte desnivel de la cuenca de Alinyà propician la presencia de una notable diversidad de paisajes, especies y hábitats biológicos. Buena parte del valle forma parte de la llamada Finca d'Alinyà, propiedad de L'Obra Social de Caixa Catalunya y gestionada por la Fundació Catalunya-La Pedrera. Este espacio de 53,52 km2 está incluido en la Red Natura 2000 y, parcialmente, en el Espacio de Interés Natural (EIN) de las sierras de Odèn-Port del Comte, la Reserva Nacional de Caza del Cadí y la Zona de Especial Protección para las Aves (ZEPA). 
+ 
+Itinerario lineal muy variado, con algunos tramos espectaculares, rodeado por un paisaje donde la geología y las extensas panorámicas toman relevancia e interés. Se discurre del valle de Perles al del Segre a través del Grauet y el collado de Els Collars saltando los cordales del Roc de Galliner. Se visita la fuente de Codonyes, situada en un rincón profundo y sombrío, y se baja a Fígols d'Organyà por un camino inédito que atraviesa el torrente de Les Tines, bajo el risco. El recorrido se puede ampliar con la ascensión a las colinas de Balinyó, desde donde se disfrutan de extensas vistas. Hay que seguir por el camino sin hacer atajos, ya que es frágil y ha costado mucho abrirlo. Se deberá disponer de un vehículo al final de la ruta para la vuelta (si no, se deberá desandar el camino).&lt;/i&gt; 
+Ruta señalizada. 
+ 
+Hay que situarse en la aldea de Perles, ubicada en el km 10,70 de la carretera local L-401. Esta carretera nace en el puente de Espia, en el km 159 de la C-14 entre Coll de Nargó y Organyà, unos kilómetros al sur de la Seu d'Urgell. 
+ 
+0,00 km (802 m). Perles. Desde la plaza de Perles, se deja la iglesia de Sant Romà a la derecha y se sale a la carretera, que atravesamos para tomar un camino que sube al N entre márgenes de piedra y bancales de olivos. Delante tenemos la Roca del Solà (izquierda), a la derecha, la Roca de Perles y, en medio, una roca agujereada: el Pont del Coll o el Forat. El camino, que conserva tramos empedrados, se orienta al oeste y luego al NO. Comienza la subida. 
+ 
+0,60 km (864 m), 0 h 16 min. Espolón rocoso. El camino hace dos lazadas y la panorámica se amplía. Enfrente, está la Roca del Solà (O), el Cogulló de Turp (SO) y el torrente de Colldeboix (S). Un poco más allá (km 0,65, 877 m, 0 h 20 min), en una curva cerrada, dejamos a la izquierda un camino que lleva a la Roca del Solà, donde hay vías de escalada, y continuamos por el principal, que gira a la derecha y se dirige al NE. Remontamos haciendo unas lazadas cortas. 
+ 
+0,78 km (896 m), 0 h 29 min. El Coll. Collado entre los cordales de la Roca del Solà (O) y la de Perles (E). Buenas vistas sobre el valle de Sant Pere y de la vertiente S del Roc de Galliner hasta la Roca dels Collars. Un sendero que se dirige al SE conduce al Pont del Coll. Seguimos hacia el N por el camino que pasa a los pies de un margen de piedra (derecha) y pronto llegamos a un lomo de la ladera. El camino hace una curva a la izquierda, baja unos metros por la ladera occidental del lomo y, en seguida, vuelve a cruzarlo (869 m, 0 h 39 min). Se gira a la derecha (NE) y se atraviesa el lomo entre dos estratos rocosos. Un poco más abajo, se hace una lazada al N, se vuelve a girar a la derecha (E) y se baja de flanco. 
+ 
+1,12 km (841 m), 0 h 41 min. Cruzamos un pequeño barranco, atravesamos un lomo y avanzamos hacia el NE hasta unos campos abandonados que seguimos por el margen izquierdo. Vamos descendiendo por el lado O del lomo. Un poco más abajo, hacemos unas eses muy cortas y, antes de llegar a unas rocas con unos árboles en medio del cordal, el camino gira a la derecha y se inclina a levante para bajar a otro barranco (812 m, 0 h 47 min): hay que cruzarlo y bajar en dirección N entre el arroyo (derecha) y los antiguos campos del fondo (izquierda). 
+ 
+1,68 km (781 m), 0 h 53 min. Río de Canelles. Lo cruzamos y seguimos por el camino que pasa entre dos campos de cerezos en dirección a la masía de Cal Penya (786 m, 0 h 56 min), que queda separada al S, donde llega una pista procedente de Canelles. Tomamos un sendero en dirección NO, que hace algunas lazadas y, más allá, se inclina hacia la vertiente O del cordal y se adentra por un bosque de pinos y encinas. 
+ 
+2,35 km (890 m), 1 h 15 min. Salimos del bosque y continuamos ascendiendo orientados al N. El camino sube y más arriba entra de nuevo en el bosque. Más adelante, se llega al Roc del Picot Petit (km 2,64, 954 m). Subimos hacia el NO en dirección al grado dejando, ya cerca del risco, una cueva a la derecha (km 2,76, 975 m). 
+ 
+3,03 km (1.055 m), 1 h 40 min. El Grauet. Se llanea por dentro de un encinar y, al salir del bosque, el camino excavado en la roca rodea un espolón de roca. Seguimos a la derecha (NE) hasta un pequeño barranco que hay cerca, donde el camino remonta haciendo tres lazadas hasta situarse junto a un espolón rocoso. 
+ 
+3,12 km (1.075 m), 1 h 43 min. Bifurcación de caminos. Hay que prestar atención y no continuar ascendiendo, ya que el camino nos llevaría al collado de Cal Penya, bajo el Roc de Galliner. Se flanquea el espolón hacia el norte y, a continuación, la ladera rocosa y despeñada, ahora descendiendo en lazadas cortas hacia el NO bordeando unas rocas hasta el fondo del barranco. 
+ 
+3,22 km (1.064 m), 1 h 46 min. Clot Pregó, desfiladero entre rocas. Seguimos 10 m barranco arriba por el cauce hasta que se bifurca. Dejamos a la derecha el barranco principal, que hace un resalte de 4 m que deberíamos escalar, y seguimos por el pequeño barranco de la izquierda. El sendero sube a poniente haciendo múltiples curvas. 
+ 
+3,35 km (1.117 m), 1 h 52 min. Rellano sobre el risco, desde cuyo borde tenemos una buena panorámica del Roc de Galliner (NE), el cerro de L'Àliga, el Cap de Montaner (E), el Port del Comte, la Roca de la Pena, el cerro de Cambrils (SE), Cal Penya, masía situada debajo, al fondo del valle, Colldeboix y Santa Pelaia (S). Más a la derecha, también vemos el Turp, la sierra de Aubenç, el Montsec d'Ares y la Roca dels Collars. 
+ 
+Continuamos por el camino en suave descenso hacia el oeste por una hondonada que forma un abanico de torrentes. Cruzamos un torrente poco marcado (1.060 m, 1 h 59 min) y el camino sube haciendo lazadas cortas. Se cruza un segundo barranco (1.115 m, 2 h 08 min) y seguimos subiendo, ahora hacia el S/SO, haciendo lazadas cortas hasta un collado. 
+ 
+4,14 km (1.146 m), 2 h 12 min. Collado de Els Collars, muy ancho y llano, bajo la Roca de l'Espada, que queda al N. Más a la derecha, en la cima del cordal, tenemos la Roca de Pinyalda. Delante vemos la montaña de Santa Fe, con el valle de Montanissell a la izquierda y el de Cabó a la derecha. Más a la derecha (NO), están las sierras de Prada y de Ares. Salimos del collado en dirección N por un tramo muy rocoso sin mucha vegetación llaneando y atravesando pequeños barrancos. 
+ 
+4,72 km (1.099 m), 2 h 26 min. Cordal ancho y suave que une el cerro de Balinyó con la Roca de Pinyalda. Enfrente tenemos el hoyo del Grau, por donde fluye el torrente de Les Tines. Más a la izquierda, vemos Organyà y el valle de Cabó, con las sierras de Prada y de Ares a la derecha y la montaña de Santa Fe a la izquierda. Al fondo del horizonte, vemos la Torreta de l'Orri. Continuamos cordal abajo (O) por el sendero, que se decanta un poco a la derecha. 
+ 
+5,38 km (1.050 m), 2 h 38 min. Cap de la Canal de Joan. Llegamos a una pista que atraviesa el collado, donde se bifurca. Al S vemos el cerro de Cambrils, la Collada (Colldeboix), Santa Pelaia y el Turp. Debajo nuestro, la cresta dentada de la Roca del Solà, que cae a pico sobre el valle de Perles. Al NO, la montaña de Santa Fe con el valle de Montanissell a la izquierda y el de Cabó a la derecha. Al fondo del valle, Organyà y, detrás, cerrando el horizonte, las sierras de Prada y de Ares. Tomamos un ramal de pista que desciende a la derecha (NE) y un poco más abajo gira a la derecha repentinamente. Pronto se acaba delante de una torre metálica de la línea de alta tensión. Continuamos por un marcado sendero que baja al NE hasta llegar al pie de una roca singular. 
+ 
+5,90 km (927 m), 2 h 50 min. Se bordea por debajo la Roca d'Espatllagossos, se sigue descendiendo hacia el este por dentro del bosque, se cruza una pequeña arroyada, un claro y, más abajo, se sale a una pista junto al torrente de Les Tines (km 6,15, 903 m, 2 h 55 min): la cruzamos y tomamos un camino que asciende suavemente en dirección NO por un bosque poco denso. 
+ 
+6,45 km (914 m), 3 h. Collado de la Guixera de la Serra, situado en un cordal rocoso. Hitos de piedras. Caminamos por el ancho cordal unos 10 m a la izquierda y continuamos a la derecha por un camino que baja al N. Enseguida el camino hace una lazada, se orienta al NE y pronto atraviesa un paso de roca. Proseguimos descendiendo haciendo pequeñas lazadas, pero desplazándonos en general hacia el NE, viendo la masía de la Serra en la otra vertiente. 
+ 
+6,85 km (810 m), 3 h 08 min. Bifurcación sobre unos campos. Dejamos el camino que seguíamos y cogemos otro a la izquierda (O) que llanea por encima de los campos y pronto se adentra en el bosque. Más allá, dejamos un pequeño campo a la izquierda y seguimos por el camino bordeado de muros de piedra por dentro de un encinar. Cruzamos un antiguo canal junto a un serbal grande (izquierda; 794 m, 3 h 13 min) y continuamos hacia el oeste discurriendo entre campos. Entramos en el bosque y vamos bajando haciendo lazadas cortas hacia poniente hasta una pista (765 m, 3 h 16 min), junto al barranco de Codonyes, que seguimos a la izquierda. 
+ 
+7,22 km (755 m), 3 h 17 min. Surgencia de Les Codonyes, que se encuentra a la izquierda. A la derecha, está la fuente de Codonyes, arreglada con una mesa, bancos y barbacoas metálicas. Continuamos por la pista, que acaba en un huerto unos metros más adelante. Bordeamos el huerto por la izquierda, junto a un margen de piedras, y seguimos por el camino ancho y llano que tenemos delante y que nos lleva hasta un campo rodeado de bosque (751 m, 3 h 23 min). Lo bordeamos por su margen izquierdo y tomamos un sendero que baja cubierto de pedruscos por debajo de una línea eléctrica de alta tensión y vamos flanqueando la ladera. 
+ 
+7,90 km (695 m), 3 h 33 min. Rocas desprendidas del riscal. Proseguimos llaneando por dentro del bosque y atravesamos un pequeño canchal de rocalla a partir del cual el camino remonta un poco. Cruzamos otro canchal, dejamos un sendero que baja a la derecha y continuamos por el que sube a la izquierda. Más adelante, atravesamos otro canchal, desde donde vemos la masía de la Costa a la derecha, a media ladera. Desembocamos en una ladera con muy poca vegetación y salimos a un cordal margoso (3 h 37 min), que seguimos hacia el NO en descenso. Cruzamos un torrente (3 h 43 min) y seguimos por el camino llano hacia el oeste. Se gira progresivamente a la izquierda y se cruzan unos antiguos campos hoy cubiertos de bosque. Delante tenemos la Canal, un estrecho desfiladero en un risco por el que fluye el barranco del Tinter. Nos acercamos al riscal bajando hasta el barranco y atravesando un pequeño canchal. 
+ 
+8,50 km (648 m), 3 h 47 min. Barranco del Tinter. Muy estrecho, abrupto y bien cubierto de vegetación. Lo cruzamos y continuamos llaneando por un bosque de robles y pino hacia el oeste. Más allá, bordeamos unos antiguos campos de cultivo, que dejamos a la derecha, y subimos ligeramente. En la otra vertiente del torrente de Codonyes, tenemos el vecindario de Romanins y, al fondo del valle, Fígols d'Organyà. Nos unimos a un camino de la derecha (4 h 01 min), segui&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.178552" lon="1.394125">
+        <ele>799.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179299" lon="1.393538">
+        <ele>803.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179547" lon="1.392605">
+        <ele>808.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179608" lon="1.391478">
+        <ele>803.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180249" lon="1.390318">
+        <ele>827.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180129" lon="1.388745">
+        <ele>851.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179941" lon="1.388151">
+        <ele>859.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180132" lon="1.387329">
+        <ele>876.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180327" lon="1.387420">
+        <ele>883.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180394" lon="1.387721">
+        <ele>888.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180740" lon="1.387362">
+        <ele>899.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181336" lon="1.387486">
+        <ele>900.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181722" lon="1.387379">
+        <ele>891.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182540" lon="1.387915">
+        <ele>874.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182673" lon="1.387718">
+        <ele>868.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182891" lon="1.387906">
+        <ele>861.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.183030" lon="1.387818">
+        <ele>854.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182946" lon="1.388595">
+        <ele>843.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.183542" lon="1.388713">
+        <ele>842.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184060" lon="1.389100">
+        <ele>831.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184582" lon="1.388990">
+        <ele>819.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184667" lon="1.389903">
+        <ele>807.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185386" lon="1.389447">
+        <ele>799.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186411" lon="1.390009">
+        <ele>803.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186614" lon="1.389998">
+        <ele>793.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186627" lon="1.389047">
+        <ele>781.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186370" lon="1.388490">
+        <ele>786.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186742" lon="1.387887">
+        <ele>797.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186937" lon="1.387973">
+        <ele>801.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187055" lon="1.388382">
+        <ele>807.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187461" lon="1.388462">
+        <ele>815.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187757" lon="1.388709">
+        <ele>821.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188083" lon="1.388713">
+        <ele>827.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188260" lon="1.389240">
+        <ele>833.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188931" lon="1.389406">
+        <ele>857.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.189195" lon="1.389920">
+        <ele>870.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190478" lon="1.389905">
+        <ele>894.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190589" lon="1.389775">
+        <ele>902.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190494" lon="1.389469">
+        <ele>908.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190769" lon="1.389480">
+        <ele>916.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191437" lon="1.388640">
+        <ele>934.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191410" lon="1.387363">
+        <ele>950.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191694" lon="1.386732">
+        <ele>956.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191996" lon="1.386432">
+        <ele>968.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192128" lon="1.386472">
+        <ele>984.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192350" lon="1.385720">
+        <ele>996.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192546" lon="1.385807">
+        <ele>1009.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192801" lon="1.386309">
+        <ele>1027.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192971" lon="1.384997">
+        <ele>1053.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193342" lon="1.384775">
+        <ele>1059.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193625" lon="1.385041">
+        <ele>1076.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193840" lon="1.384932">
+        <ele>1080.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194043" lon="1.384025">
+        <ele>1062.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193841" lon="1.383776">
+        <ele>1086.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193364" lon="1.381523">
+        <ele>1105.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193389" lon="1.381068">
+        <ele>1096.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193705" lon="1.380473">
+        <ele>1078.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193530" lon="1.379878">
+        <ele>1074.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193652" lon="1.379621">
+        <ele>1066.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193477" lon="1.379316">
+        <ele>1058.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193534" lon="1.378921">
+        <ele>1066.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193344" lon="1.378811">
+        <ele>1072.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193064" lon="1.378164">
+        <ele>1093.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193214" lon="1.377942">
+        <ele>1098.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193085" lon="1.376099">
+        <ele>1114.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192861" lon="1.375899">
+        <ele>1118.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192633" lon="1.375033">
+        <ele>1136.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193619" lon="1.373772">
+        <ele>1143.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193943" lon="1.372498">
+        <ele>1129.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194214" lon="1.372195">
+        <ele>1123.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194280" lon="1.371496">
+        <ele>1112.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195039" lon="1.370090">
+        <ele>1095.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195483" lon="1.368668">
+        <ele>1095.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195000" lon="1.364490">
+        <ele>1095.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194711" lon="1.363123">
+        <ele>1071.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194055" lon="1.361656">
+        <ele>1046.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194107" lon="1.361225">
+        <ele>1041.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194187" lon="1.361126">
+        <ele>1037.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195237" lon="1.361826">
+        <ele>1014.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195700" lon="1.361790">
+        <ele>994.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196167" lon="1.362304">
+        <ele>984.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196345" lon="1.362778">
+        <ele>976.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197010" lon="1.363336">
+        <ele>956.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197118" lon="1.363951">
+        <ele>947.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197529" lon="1.364490">
+        <ele>928.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197822" lon="1.365314">
+        <ele>913.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197908" lon="1.366262">
+        <ele>910.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198436" lon="1.366691">
+        <ele>907.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198800" lon="1.366639">
+        <ele>896.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199608" lon="1.363923">
+        <ele>912.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199855" lon="1.363511">
+        <ele>916.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200510" lon="1.364300">
+        <ele>897.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200633" lon="1.364097">
+        <ele>879.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201330" lon="1.364054">
+        <ele>858.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201424" lon="1.363701">
+        <ele>843.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201705" lon="1.363500">
+        <ele>831.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201980" lon="1.364455">
+        <ele>821.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202195" lon="1.364662">
+        <ele>813.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202104" lon="1.363980">
+        <ele>808.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202410" lon="1.362694">
+        <ele>793.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202425" lon="1.361888">
+        <ele>777.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202211" lon="1.361379">
+        <ele>763.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202418" lon="1.361343">
+        <ele>753.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201875" lon="1.360540">
+        <ele>747.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201783" lon="1.359761">
+        <ele>744.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201111" lon="1.358155">
+        <ele>739.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201003" lon="1.357504">
+        <ele>737.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201795" lon="1.355631">
+        <ele>689.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201613" lon="1.354425">
+        <ele>690.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201703" lon="1.353762">
+        <ele>678.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201383" lon="1.353122">
+        <ele>694.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201321" lon="1.352264">
+        <ele>694.8</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202006" lon="1.351338">
+        <ele>674.6</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202158" lon="1.350698">
+        <ele>663.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201891" lon="1.349912">
+        <ele>649.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201452" lon="1.349481">
+        <ele>646.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200942" lon="1.349391">
+        <ele>644.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200139" lon="1.349790">
+        <ele>645.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199925" lon="1.349703">
+        <ele>640.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199971" lon="1.349168">
+        <ele>645.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200393" lon="1.348419">
+        <ele>640.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200213" lon="1.347806">
+        <ele>653.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200309" lon="1.346665">
+        <ele>655.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200148" lon="1.345827">
+        <ele>649.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200355" lon="1.345152">
+        <ele>639.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200306" lon="1.343978">
+        <ele>626.5</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200092" lon="1.343221">
+        <ele>619.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199901" lon="1.341206">
+        <ele>592.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.199932" lon="1.340890">
+        <ele>588.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200220" lon="1.341186">
+        <ele>581.0</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.200749" lon="1.341051">
+        <ele>581.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201226" lon="1.340693">
+        <ele>585.1</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.201552" lon="1.340218">
+        <ele>587.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202328" lon="1.340301">
+        <ele>606.2</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202409" lon="1.339760">
+        <ele>606.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202789" lon="1.339508">
+        <ele>607.3</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202816" lon="1.339271">
+        <ele>604.4</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202425" lon="1.338960">
+        <ele>602.7</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.202181" lon="1.338521">
+        <ele>601.9</ele>
+        <time>2008-08-08T22:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

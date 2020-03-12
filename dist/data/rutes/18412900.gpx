@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.138021" lon="0.909211">
+    <ele>337.4</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>L'Argentera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.137074" lon="0.912015">
+    <ele>307.9</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Camí vell de l'Argentera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.142997" lon="0.926808">
+    <ele>250.4</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>PR-C 28</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.143540" lon="0.927647">
+    <ele>248.3</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Els Rentadors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.143884" lon="0.928251">
+    <ele>245.1</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Barranc Reial o de l'Argentera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.146140" lon="0.930772">
+    <ele>269.2</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Duesaigües</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.134387" lon="0.923808">
+    <ele>341.2</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Font de Vilamanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.127197" lon="0.922684">
+    <ele>499.9</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Coll dels Pins Vens</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.126767" lon="0.918839">
+    <ele>514.1</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Coll de les Alzines Sureres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.127459" lon="0.916337">
+    <ele>586.7</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Castell d'Escornalbou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.127051" lon="0.914950">
+    <ele>637.3</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Santa Bàrbara</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.128261" lon="0.915864">
+    <ele>551.9</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>PR-C 88/Camí dels Frares</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.126726" lon="0.913244">
+    <ele>533.2</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Font del Sarraï</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.126791" lon="0.915500">
+    <ele>586.3</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Passeig dels Frares</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.147848" lon="0.929986">
+    <ele>271.7</ele>
+    <time>2017-05-11T12:04:06Z</time>
+    <name>Viaducte dels Masos</name>
+    <desc>&lt;img src="https://lh3.googleusercontent.com/8LrtFfC7r4o2LYWpzvCnGrnTmumcmG4lR_au9YmdBZCjhLiQKY7w-MYGOM84CKCHLhN9KsWp96tKEFgf29MWxeOD679I-N_wJObTKJvZA6pKo8ZsXRXbt6khIxfODio5" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Horaris tren Borges del Camp-Duesaigües-Argentera&lt;br&gt; 8.06-8.12-8.18&lt;br&gt;10.36-X-X-X-10.57 (Marçà/Falset)&lt;br&gt;15.10-15.17-15.23&lt;br&gt;17.40-17.46-X-17.58 (Pradell)&lt;br&gt; 21.39-21.45-21.51&lt;br&gt;&lt;br&gt;Horaris tren Argentera-Duesaigües-Borges del Camp&lt;br&gt; 7.13-7.21-7.27&lt;br&gt;(Marçà/Falset) 8.35-X-X-X-8.58&lt;br&gt;12.47-12.55-13.01&lt;br&gt;(Marçà/Falset) 14.29-X-X-X-14.51&lt;br&gt;18.17-18.23-18.29&lt;br&gt;(Marçà/Falset) 19.37-X-X-X-19.59&lt;br&gt;&lt;br&gt;http://rodalies.gencat.cat/web/.content/pdf/horaris/R15.pdf</desc>
+  </wpt>
+  <wpt lat="41.146169" lon="0.926116">
+    <ele>258.5</ele>
+    <time>2017-05-11T12:04:07Z</time>
+    <name>Viaducte d'en Seula</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.129211" lon="0.917365">
+    <ele>578.4</ele>
+    <time>2017-05-19T16:59:05Z</time>
+    <name>Puig Ferrós</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.137438" lon="0.909593">
+    <ele>345.7</ele>
+    <time>2017-05-30T10:58:51Z</time>
+    <name>Sant Bartomeu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.145935" lon="0.930921">
+    <ele>268.4</ele>
+    <time>2017-05-30T12:02:47Z</time>
+    <name>Santa Maria</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De l'Argentera a Duesaigües i al castell d'Escornalbou</name>
+    <desc>&lt;iframe height="315" src="https://www.youtube.com/embed/z7GEvnzYXjg"&gt;&lt;/iframe&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[CA] &lt;b&gt;De l'Argentera a Duesaigües i al castell d'Escornalbou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Amb vistes al Mediterrani i a la serra de Llaberia, situat sobre l’Argentera i Duesaigües, s’alça el castell d’Escornalbou. Aquest antic monestir fou reconvertit en mansió senyorial romàntica segons els desitjos del prohom i filantrop Eduard Toda. La seva visita complementa un itinerari fàcil que permet descobrir racons frescos i tranquils del Baix Camp.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta s’inicia a l’Argentera, on s’accedeix per la carretera T-343. Aquesta s’agafa a Montbrió del Camp, on s’hi arriba per la carretera T-310 entre Reus i Mont-roig del Camp. Al capdamunt del carrer Deumera, a la intersecció amb el carrer Major, s’hi troba una font, inici de la ruta. 
+ 
+0,00 km (338 m). L’Argentera, font del carrer Major. Un dels assentaments de més antiguitat del Baix Camp per les mines d’argent, destaca pel color terrós típic de la regió. Es puja per les escales que hi ha a l’esquerra, i seguint el carrer d’Eduard Toda es passa per davant l’ajuntament i l’església de Sant Bartomeu (1750, d’estil barroc). Tornant al carrer Major, per l’esquerra de l’església, s’arriba a la plaça de l’Abeurador, on hi ha un monòlit en memòria del filantrop que revitalitzà el país; a l’extrem sud de la plaça hi ha unes escales que baixen al carrer dels Bous, que s’agafa en baixada cap a l’esquerra. 
+ 
+Es passa pel costat d’una granja i el carrer es transforma, després d’una ziga-zaga, en el Camí Vell o Camí Reial que porta fins a Duesaigües (NE). L’ampla pista deixa trencalls a dreta i esquerra, circulant entre feixes florides i en paral·lel al barranc Reial. Es passa el trencall del PR-C 28, que s’agafarà després per pujar a Escornalbou, i els Rentadors, i es puja fins Duesaigües. 
+ 
+2,49 km (269 m), 40 min. Duesaigües. Antigament integrat a la baronia d’Escornalbou, juga un paper important en la Guerra Civil (s. XV) a favor del rei Joan II. L’església de Santa Maria és d’estil renaixentista (s. XVIII), també dedicada a Sant Cosme i Sant Damià. 
+ 
+El ferrocarril és un dels elements més distintius d’aquesta contrada: la línia fèrria Barcelona-Saragossa la creua amb dos viaductes i un llarg túnel. El viaducte dels Masos conta amb 14 arcades repartides en dos nivells, una llargada de 218 m i una alçada màxima de 36 m. Durant la Guerra de 1936, part de les seves poderoses estructures fou volada i reconstruïda posteriorment; actualment està protegit com a Element del Patrimoni Industrial de Catalunya. El viaducte d’en Seula, de dimensions més reduïdes, té 9 arcades disposades en dos pisos. Els dos es poden veure des de l’itinerari i també val la pena d’acostar-s’hi. 
+ 
+El túnel ferroviari després dels viaductes (dit de la Torreta o de la foradada de l'Argentera) és una de les obres d’enginyeria més destacables del s. XIX a l’Estat. S’estén més de 4.000 m, fet sota la direcció d’Eduard Maristany, nomenat Marquès de l'Argentera a l'any 1918 després de la construcció. 
+ 
+Es desfà el camí fins el trencall del PR-C 28 (3,02 km (252 m), 45 min), que ara s’agafa en pujada cap a l’esquerra. Es tracta d’una pista asfaltada a segments que s’enfila ràpidament seguint la rasa de Vilamanya, entrant en un bosc d’alzines. Es passa la font de Vilamanya i de seguida es deixa la pista per un sender a l’esquerra (4,55 km (403 m), 1 h 15 min) que permet retallar alguns revolts. Es reprèn la pista abans d’arribar al coll dels Pins Bens. 
+ 
+5,04 km (500 m), 1 h 30 min. Coll dels Pins Bens. Es troba la carretera TP-3211 i es segueix cap a la dreta fins al castell d’Escornalbou. 
+ 
+5,94 km (578 m), 1 h 50 min. Castell Monestir d'Escornalbou. S’arriba al pàrquing: a la dreta (N) hi ha el Puig Ferrós, que ofereix una panoràmica destacada sobre el Baix Camp, tant de la seva costa com de les muntanyes, i el mateix castell coronat per l’ermita de Santa Bàrbara. A NE i NO es veuen les poblacions de Duesaigües, amb els seus dos viaductes característics, i l’Argentera, sota els molins de la serra de Pradell, respectivament; entremig treu el cap la inconfusible serra de Montsant. Cap al S del pàrquing s’accedeix al castell per l’antiga porta formada per un doble arc que culmina la pujada empedrada. 
+ 
+Escornalbou és una peculiar mansió senyorial de principis del segle XX formada per les restes de dos edificis medievals: el monestir de Sant Miquel (1153) i el castell construït al damunt de les restes d’una fortalesa romana. El diplomàtic, egiptòleg i filantrop Eduard Toda, propietari a partir de 1911, ho va restaurar seguint una interpretació molt personal i va convertir-ho en la seva residència: obviant les recomanacions i indicacions de l’arquitecte modernista Puig i Cadafalch es van enderrocar construccions, es van aixecar torres d’un exòtic estil medieval i es van reconvertir espais per adaptar-los a les necessitats i gustos de l’excèntric propietari. De l’antic monestir només se’n conserva l’església romànica, algunes restes de la sala capitular i l’estructura del claustre, que es va convertir en un mirador-jardí amb vistes sobre Cambrils, Mont-Roig i l’Hospitalet de l’Infant i les seves platges (SE/S), i la serra de Pradell, la Mola de Colldejou i la Miranda (SO). Del castell, convertit en casa senyorial i escenari de trobades de les principals figures de la Renaixença catalana, en destaca la biblioteca i la rica col·lecció de gravats, ceràmica, mobles i peces de la col·lecció que Toda havia reunit en els seus viatges. 
+ 
+A l’interior del recinte es pot visitar, fent el circuit marcat, la font del Sarraï, el Passeig dels Frares amb l’ermita de les Tres Verges, i l’ermita de Santa Bàrbara, antiga torre romana al cim d’Escornalbou reconvertida al s. XIX. L’interior de l’antic monestir que Toda reconvertí en la seva residència es pot veure amb visita guiada. 
+ 
+Es baixa a l’Argentera per l’antic camí dels Frares (PR-C 88), sender empedrat en molt bon estat que fent algunes ziga-zagues salva els més de 250 m de desnivell fins la bassa del Mèlich. Des d’aquesta es puja per l’esquerra de la granja que s’ha passat a l’inici de l’itinerari i es desfà el camí fins la font del carrer Major. 
+ 
+7,84 km (338 m), 2 h 40 min. L’Argentera. Fi de l’itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt; Desde L'Argentera a Duesaigües y al castillo de Escornalbou&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Con vistas al Mediterráneo y a la sierra de Llaberia, situado sobre L’Argentera y Duesaigües, se alza el castillo de Escornalbou. Este antiguo monasterio fue reconvertido en mansión señorial romántica según los deseos del prohombre y filántropo Eduard Toda. Su visita complementa un itinerario fácil que permite descubrir rincones frescos y tranquilos del Baix Camp.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta se inicia en L’Argentera, donde se accede por la carretera T-343. Esta se toma en Montbrió del Camp, donde se llega por la carretera T-310 entre Reus y Mont-roig del Camp. En lo alto de la calle Deumera, en la intersección con la calle Major, se encuentra una fuente, inicio de la ruta. 
+ 
+0,00 km (338 m). L'Argentera, fuente de la calle Major. Uno de los asentamientos de más antigüedad del Baix Camp debido a las minas de plata, destaca por el color pardo típico de la región. Se sube por las escaleras que hay a la izquierda, y siguiendo la calle de Eduard Toda se pasa por delante del ayuntamiento y la iglesia de Sant Bartomeu (1750, de estilo barroco). Volviendo a la calle Major, por la izquierda de la iglesia, se llega a la plaza del Abeurador, donde hay un monolito en memoria del filántropo que revitalizó el país; en el extremo sur de la plaza hay unas escaleras que bajan a la calle de los Bous, que se toma en bajada hacia la izquierda. 
+ 
+Se pasa junto a una granja y la calle se transforma, tras un zigzag, en el Camí Vell o Camí Reial que lleva hasta Duesaigües (NE). La ancha pista deja desvíos a derecha e izquierda, circulando entre bancales floridos y en paralelo al barranco Reial. Se pasa el desvío del PR-C 28, que se tomará después para subir a Escornalbou, y los Rentadors (lavaderos), y se sube hasta Duesaigües. 
+ 
+2,49 km (269 m), 40 min. Duesaigües. Antiguamente integrado en la baronía de Escornalbou, juega un papel importante en la Guerra Civil (s. XV) a favor del rey Juan II. La iglesia de Santa Maria es de estilo renacentista (s. XVIII), también dedicada a Sant Cosme y Sant Damià. 
+ 
+El ferrocarril es uno de los elementos más distintivos de esta región: la línea férrea Barcelona-Zaragoza la cruza con dos viaductos y un largo túnel. El viaducto de los Masos cuenta con 14 arcadas repartidas en dos niveles, una longitud de 218 m y una altura máxima de 36 m. Durante la Guerra de 1936, parte de sus poderosas estructuras fue volada y reconstruida posteriormente; actualmente está protegido como Elemento del Patrimonio Industrial de Catalunya. El viaducto de En Seula, de dimensiones más reducidas, tiene 9 arcadas dispuestas en dos pisos. Los dos se pueden ver desde el itinerario y también vale la pena de acercarse. 
+ 
+El túnel ferroviario después de los viaductos (dicho de la Torreta o de la Foradada de l'Argentera) es una de las obras de ingeniería más destacables del s. XIX en el Estado. Se extiende más de 4.000 m, construido bajo la dirección de Eduard Maristany, nombrado Marqués de L'Argentera en 1918 después de la construcción. 
+ 
+Se deshace el camino hasta el desvío del PR-C 28 (3,02 km (252 m), 45 min), que ahora se toma en subida hacia la izquierda. Se trata de una pista asfaltada a segmentos que trepa rápidamente siguiendo la Rasa de Vilamanya, entrando en un bosque de encinas. Se pasa la fuente de Vilamanya y enseguida se deja la pista por un sendero a la izquierda (4,55 km (403 m), 1 h 15 min) que permite recortar algunas curvas. Se retoma la pista antes de llegar al collado de los Pins Bens. 
+ 
+5,04 km (500 m), 1 h 30 min. Collado de los Pins Bens. Se encuentra la carretera TP-3211 y se sigue hacia la derecha hasta el castillo de Escornalbou. 
+ 
+5,94 km (578 m), 1 h 50 min. Castillo Monasterio de Escornalbou. Se llega al parking: a la derecha (N) está el Puig Ferrós, que ofrece una panorámica destacada sobre el Baix Camp, tanto de su costa como de las montañas, y el mismo castillo coronado por la ermita de Santa Bàrbara. A NE y NO se ven las poblaciones de Duesaigües, con sus dos viaductos característicos, y L’Argentera, bajo los molinos de la sierra de Pradell, respectivamente; medio asoma la inconfundible sierra de Montsant. Hacia el S del parking se accede al castillo por la antigua puerta formada por un doble arco que culmina la subida adoquinada. 
+ 
+Escornalbou es una peculiar mansión señorial de principios del siglo XX formada por los restos de dos edificios medievales: el monasterio de Sant Miquel (1153) y el castillo construido encima de los restos de una fortaleza romana. El diplomático, egiptólogo y filántropo Eduard Toda, propietario a partir de 1911, lo restauró siguiendo una interpretación muy personal y lo convirtió en su residencia: obviando las recomendaciones e indicaciones del arquitecto modernista Puig i Cadafalch se derribaron construcciones, se levantaron torres de un exótico estilo medieval y se reconvirtieron espacios para adaptarlos a las necesidades y gustos del excéntrico propietario. Del antiguo monasterio sólo se conserva la iglesia románica, algunos restos de la sala capitular y la estructura del claustro, que se convirtió en un mirador-jardín con vistas sobre Cambrils, Mont-Roig y L'Hospitalet de l’Infant y sus playas (SE / S), y la sierra de Pradell, la Mola de Colldejou y la Miranda (SO). Del castillo, convertido en casa señorial y escenario de encuentros de las principales figuras de la Renaixença catalana, destaca la biblioteca y la rica colección de grabados, cerámica, muebles y piezas de la colección que Toda había reunido en sus viajes. 
+ 
+En el interior del recinto se puede visitar, haciendo el circuito marcado, la fuente del Sarraï, el Passeig dels Frares con la ermita de las Tres Verges, y la ermita de Santa Bàrbara, antigua torre romana en la cima de Escornalbou reconvertida el s. XIX. El interior del antiguo monasterio que Toda reconvirtió en su residencia se puede ver con visita guiada. 
+ 
+Se baja a L’Argentera por el antiguo camino de los Frares (PR-C 88), sendero empedrado en muy buen estado que haciendo algunos zigzags salva los más de 250 metros de desnivel hasta la balsa del Mèlich. Desde esta se sube por la izquierda de la granja que se ha pasado al inicio del itinerario y se deshace el camino hasta la fuente de la calle Major. 
+ 
+7,84 km (338 m), 2 h 40 min. L'Argentera. Fin del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.137944" lon="0.909207">
+        <ele>338.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137680" lon="0.909049">
+        <ele>347.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137483" lon="0.909347">
+        <ele>347.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137561" lon="0.909648">
+        <ele>342.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137421" lon="0.909861">
+        <ele>342.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136895" lon="0.909908">
+        <ele>332.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136824" lon="0.911238">
+        <ele>316.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137095" lon="0.911754">
+        <ele>313.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136925" lon="0.911849">
+        <ele>310.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137673" lon="0.912868">
+        <ele>298.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138655" lon="0.913402">
+        <ele>301.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139051" lon="0.913890">
+        <ele>299.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139754" lon="0.915393">
+        <ele>294.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139770" lon="0.916549">
+        <ele>295.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140428" lon="0.918821">
+        <ele>283.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141007" lon="0.919488">
+        <ele>280.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141445" lon="0.919540">
+        <ele>277.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141925" lon="0.919972">
+        <ele>274.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142538" lon="0.920995">
+        <ele>277.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142662" lon="0.921634">
+        <ele>278.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142556" lon="0.922740">
+        <ele>269.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142784" lon="0.923430">
+        <ele>267.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142491" lon="0.924404">
+        <ele>264.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142677" lon="0.924708">
+        <ele>259.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143099" lon="0.927138">
+        <ele>251.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143668" lon="0.927745">
+        <ele>247.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143892" lon="0.928203">
+        <ele>245.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144389" lon="0.928306">
+        <ele>249.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144696" lon="0.928869">
+        <ele>254.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144847" lon="0.929734">
+        <ele>255.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145443" lon="0.930108">
+        <ele>263.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145621" lon="0.930454">
+        <ele>267.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.146146" lon="0.930855">
+        <ele>268.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145621" lon="0.930454">
+        <ele>267.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145443" lon="0.930108">
+        <ele>263.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144847" lon="0.929734">
+        <ele>255.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144696" lon="0.928869">
+        <ele>254.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144389" lon="0.928306">
+        <ele>249.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143855" lon="0.928168">
+        <ele>245.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142866" lon="0.926716">
+        <ele>252.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142283" lon="0.926597">
+        <ele>263.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142041" lon="0.926402">
+        <ele>266.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141723" lon="0.926496">
+        <ele>269.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141154" lon="0.926365">
+        <ele>281.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140876" lon="0.926928">
+        <ele>289.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139683" lon="0.925923">
+        <ele>302.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138178" lon="0.925619">
+        <ele>308.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137603" lon="0.924946">
+        <ele>313.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136098" lon="0.925112">
+        <ele>330.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135541" lon="0.924903">
+        <ele>334.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133970" lon="0.923910">
+        <ele>354.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133182" lon="0.924138">
+        <ele>364.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132695" lon="0.924123">
+        <ele>370.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130661" lon="0.923389">
+        <ele>395.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130271" lon="0.923479">
+        <ele>406.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130165" lon="0.923834">
+        <ele>415.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.129924" lon="0.923436">
+        <ele>425.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.129319" lon="0.923855">
+        <ele>445.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128336" lon="0.923772">
+        <ele>477.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127662" lon="0.923365">
+        <ele>486.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126910" lon="0.922054">
+        <ele>500.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126921" lon="0.921697">
+        <ele>502.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127384" lon="0.920914">
+        <ele>512.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126820" lon="0.919859">
+        <ele>512.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126859" lon="0.919030">
+        <ele>512.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126617" lon="0.918293">
+        <ele>517.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126784" lon="0.918115">
+        <ele>518.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127434" lon="0.917946">
+        <ele>530.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127377" lon="0.917787">
+        <ele>535.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126910" lon="0.917617">
+        <ele>539.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.126908" lon="0.917474">
+        <ele>541.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127463" lon="0.917563">
+        <ele>545.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127982" lon="0.917136">
+        <ele>558.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127835" lon="0.916736">
+        <ele>566.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128084" lon="0.916287">
+        <ele>568.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127801" lon="0.916308">
+        <ele>576.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127568" lon="0.915886">
+        <ele>584.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127801" lon="0.916308">
+        <ele>576.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128084" lon="0.916287">
+        <ele>568.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127835" lon="0.916736">
+        <ele>566.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.127991" lon="0.916892">
+        <ele>561.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128310" lon="0.916363">
+        <ele>556.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128214" lon="0.915771">
+        <ele>551.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128522" lon="0.915886">
+        <ele>539.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128425" lon="0.914495">
+        <ele>521.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128827" lon="0.915042">
+        <ele>504.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128763" lon="0.914514">
+        <ele>497.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128892" lon="0.914671">
+        <ele>491.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.128975" lon="0.914311">
+        <ele>485.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.129133" lon="0.914568">
+        <ele>478.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.129153" lon="0.914168">
+        <ele>477.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.129444" lon="0.913831">
+        <ele>473.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130604" lon="0.913294">
+        <ele>443.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131169" lon="0.912265">
+        <ele>424.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131521" lon="0.912181">
+        <ele>410.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131940" lon="0.911733">
+        <ele>402.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132383" lon="0.911582">
+        <ele>392.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132848" lon="0.911633">
+        <ele>383.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132977" lon="0.911479">
+        <ele>378.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133459" lon="0.911613">
+        <ele>369.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133930" lon="0.911479">
+        <ele>362.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134149" lon="0.911186">
+        <ele>354.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134519" lon="0.911222">
+        <ele>343.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134699" lon="0.910972">
+        <ele>336.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134897" lon="0.910978">
+        <ele>328.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134803" lon="0.910760">
+        <ele>323.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135303" lon="0.910268">
+        <ele>314.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135643" lon="0.910370">
+        <ele>313.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136239" lon="0.909970">
+        <ele>311.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136560" lon="0.910073">
+        <ele>317.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136791" lon="0.910417">
+        <ele>326.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136912" lon="0.909865">
+        <ele>332.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137310" lon="0.909948">
+        <ele>343.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137513" lon="0.909751">
+        <ele>342.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137483" lon="0.909347">
+        <ele>347.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137680" lon="0.909049">
+        <ele>347.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137944" lon="0.909207">
+        <ele>338.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

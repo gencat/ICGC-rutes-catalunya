@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.146169" lon="0.926116">
+    <ele>258.5</ele>
+    <time>2016-03-07T10:57:01Z</time>
+    <name>Viaducte d'en Seula</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.130949" lon="0.936408">
+    <ele>346.6</ele>
+    <time>2016-03-07T11:40:13Z</time>
+    <name>Carrilet de Vilamanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.133607" lon="0.935526">
+    <ele>349.9</ele>
+    <time>2016-03-07T11:40:17Z</time>
+    <name>Carrilet de Vilamanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.148143" lon="0.931016">
+    <ele>251.2</ele>
+    <time>2016-09-16T19:52:23Z</time>
+    <name>Viaducte dels Masos</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.140641" lon="0.943007">
+    <ele>221.9</ele>
+    <time>2016-09-16T19:53:03Z</time>
+    <name>Al Molí del Siurana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.130334" lon="0.959802">
+    <ele>191.4</ele>
+    <time>2016-09-16T19:54:28Z</time>
+    <name>Riudecanyes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.132909" lon="0.953830">
+    <ele>220.1</ele>
+    <time>2016-11-08T12:28:10Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.142683" lon="0.934728">
+    <ele>253.0</ele>
+    <time>2016-11-08T13:01:37Z</time>
+    <name>La Candieta. Pou i sínia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.144674" lon="0.928769">
+    <ele>254.8</ele>
+    <time>2016-11-08T14:40:36Z</time>
+    <name>Indicadors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.143572" lon="0.927689">
+    <ele>247.8</ele>
+    <time>2016-11-08T14:44:51Z</time>
+    <name>Els Rentadors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.142945" lon="0.926677">
+    <ele>250.2</ele>
+    <time>2016-11-08T14:47:45Z</time>
+    <name>Camí d'Escornalbou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.139073" lon="0.925829">
+    <ele>303.9</ele>
+    <time>2016-11-08T14:56:33Z</time>
+    <name>Desviació a Vilamanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.134929" lon="0.931895">
+    <ele>369.1</ele>
+    <time>2016-11-08T15:14:06Z</time>
+    <name>Al mas del Mà Gran</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.132221" lon="0.933795">
+    <ele>355.7</ele>
+    <time>2016-11-08T15:21:40Z</time>
+    <name>Mas de la Palmera</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Riudecanyes a Duesaigües per l'embassament i tornant pel camí de Vilamanya</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Riudecanyes a Duesaigües per l'embassament i tornant pel camí de Vilamanya&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Curt, plàcid i molt bonic itinerari, especialment recomanat per a infants, que discorre pràcticament tot sota bosc, a la vora de l'embassament de Riudecanyes. Aquesta població està ubicada al nord del Camp de Tarragona, rodejada de muntanyes, entre les quals destaquen, a ponent, encerclant el castell i el monestir d'Escornalbou, els cims de Santa Bàrbara, Puigferrós i Puigpedregós. El conjunt arquitectònic d’Escornalbou forma part de la Xarxa de Museus d’Història i Monuments de Catalunya; mereix de sobres una visita tot aprofitant l’estada, encara que sigui pernoctant en algun allotjament dels voltants. Un dels altres atractius de l’excursió és el “carrilet de Vilamanya”, un petit tren turístic gestionat per l’Associació de Modelistes Ferroviaris que permet una suggestiva passejada a nens i a adults. Per a ambdues visites cal informar-se abans dels horaris i condicions. Per la seva banda, l’embassament va ser projectat a principis del segle passat per proveir d'aigua la ciutat de Reus, actualment s’empra per al regadiu i per al subministrament d'aigua d'alguns pobles de la comarca. Una empresa local de serveis ofereix activitats d’esbarjo aquàtiques de vela i rem.&lt;/i&gt; 
+Ruta senyalitzada. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Se surt de Riudecanyes. Per arribar a aquesta població des de Reus cal prendre la T-310 cap al SO, fins a Montbrió del Camp, des d'on es trenca per la T-313 (NO). Un cop a Riudecanyes, creuat el pont, cal anar a buscar el parc de les Glaneres i el seu ampli aparcament de vehicles girant immediatament a la dreta (NO), anant cap a l'extrem oest del poble en direcció a la presa de l’embassament. Sigui per baix o per dalt, cal voltar la població per no haver de creuar els estrets carrers del centre. 
+ 
+0,00 km (190 m). Riudecanyes. Parc de les Glaneres, xamfrà amb el carrer del Dimecres, sota l’església parroquial de Sant Mateu (els carrers del poble duen nom de dies de la setmana). Se surt cap al NO, deixant el parc i l’aparcament a l’esquerra i el complex esportiu a la dreta, en direcció a la presa. Fins a Duesaigües se seguirà el camí de Velles, senyalitzat amb indicadors i marques blanques i grogues del sender PR-C 28. Als cent metres, ja en pujada, es pren a la dreta el carrer asfaltat que puja en direcció NO; cap a la presa. 
+ 
+0,34 km (218 m), 0 h 06 min. Presa de Riudecanyes. Val la pena d’anar fins al centre de la presa per veure el paisatge i l’obra. Es continua per la pista asfaltada que voreja l'aigua. 
+ 
+0,71 km (219 m), 0 h 12 min. Bifurcació senyalitzada. Es continua recte, arran d’aigua, seguint la pista de servei asfaltada. A la tornada es vindrà pel vial de l’esquerra, que prové de la urbanització El Mar de Riudecanyes. 
+ 
+2,10 km (222 m), 0 h 32 min. Bifurcació i fi de la pista de servei. Cal prendre el primer camí de l’esquerra (O), en pujada; per la dreta s’arribaria a les restes del desaparegut molí de Siurana. Se segueix el camí principal, senyalitzat pel PR, deixant alguns trencalls a l’esquerra. Poc abans dels tres quarts d’hora de camí s’és al davant de Duesaigües; cal fixar-se en l’esplèndid viaducte ferroviari del barranc dels Masos i, just al costat de la petita edificació de la Candieta, en el pou i restes d’una antiga sínia. 
+ 
+3,14 km (242 m), 0 h 49 min. Se surt en una pista cimentada. Se segueix en baixada, recte, seguint els senyals, travessant el barranc de l’Argentera i remuntant per l’altra banda. Al capdamunt se surt a la carretera T-343, ja s'és a Duesaigües. Es gira a la dreta seguint uns metres la carretera; cal tombar a l’esquerra i travessar l’asfalt. S’entra al poble vorejant un xalet i, més amunt, torçant pels carrers cap a l’esquerra. 
+ 
+3,65 km (269 m), 0 h 58 min. Ajuntament de Duesaigües, es continua cap a l’església de Santa Maria i la plaça de Sant Cosme i Sant Damià, on hi ha un centre social amb servei de bar-restaurant. Se surt del poble en direcció a ponent. Seguint encara els senyals del PR-C 28, es pren un altre cop la carretera i, quan s’és davant del Cementiri, es creua i es pren el camí d’Escornalbou i l’Argentera, senyalitzat. Cal fixar-se, mirant cap al N, en el segon i espectacular pont de tren del Duesaigües, el viaducte d’en Seula. Una mica més enllà (punt 4,20 km), es deixen a l’esquerra els Rentadors. S’arriba a una bifurcació. 
+ 
+4,31 km (252 m), 1 h 8 min. Bifurcació. Es gira a l’esquerra, seguint els indicadors a Escornalbou i Vilanova d’Escornalbou i deixant el camí a l’Argentera; la pista puja. Atenció, 500 m més endavant (4,81 km, 304 m) hi torna a haver una bifurcació: cal deixar la pista d’Escornalbou i, amb ella, el sender PR-C 28 i girar pronunciadament a l’esquerra, pel camí de Vilamanya, que descriu una àmplia ziga-zaga i s’encara al SO. 
+ 
+6,03 km (370 m), 1 h 38 min. Trencall a l’esquerra que du al mas del Mà Gran. Aquest és el punt més alt del recorregut i, a partir d’ara, tot serà pràcticament baixada. Es continua recte, camí enllà. Després d’una ziga-zaga s’arriba al mas de la Palmera (km 6,42, 352 m). A mà esquerra s’observen les vies del Carrilet de Vilamanya. Es passa per sota el viaducte del trenet i, més enllà, es deixa a la dreta l’accés a can Tomàs, on hi ha l’entrada dels visitants (km 6,74). 
+ 
+El camí esdevé una pista ampla, apta per a vehicles. Seguint-la en baixada s’entra als carrers asfaltats de la urbanització El Mar de Riudecanyes; es pren el primer carrer cap avall durant 120 m; torçant pel carrer dels Infermers a l’esquerra s’arriba a la bifurcació de la pista de servei de la presa per on s’havia passat abans (km 8,69, 219 m). Es desfà el camí fins al punt de sortida. 
+ 
+9,40 km (190 m), 2 h 25 min. Riudecanyes, final del recorregut.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Riudecanyes a Duesaigües por el embalse y volviendo por el camino de Vilamanya&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Corto, apacible y muy bonito itinerario, especialmente recomendado para niños, que discurre prácticamente todo bajo bosque, a orillas del embalse de Riudecanyes. Esta población está ubicada en el norte del Camp de Tarragona, cercada de montañas, entre las que destacan, a poniente, rodeando el castillo y el monasterio de Escornalbou, las cumbres de Santa Bàrbara, Puigferrós y Puigpedregós. El conjunto arquitectónico de Escornalbou forma parte de la Xarxa de Museus d’Història i Monuments de Catalunya; merece de sobra una visita aprovechando la estancia, aunque sea pernoctando en algún alojamiento de los alrededores. Otro de los atractivos de la excursión es el "tren de Vilamanya", un pequeño tren turístico gestionado por la Associació de Modelistes Ferroviaris que permite un sugestivo paseo a niños y adultos. Para ambas visitas hay que informarse antes de los horarios y condiciones. Por su parte, el embalse fue proyectado a principios del siglo pasado para abastecer de agua la ciudad de Reus, actualmente se emplea para el regadío y para el suministro de agua de algunos pueblos de la comarca. Una empresa local de servicios ofrece actividades de recreo acuáticas de vela y remo.&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se sale de Riudecanyes. Para llegar a esta población desde Reus hay que tomar la T-310 hacia el SO, hasta Montbrió del Camp, desde donde se gira por la T-313 (NO). Una vez en Riudecanyes, cruzado el puente, hay que ir a buscar el parque de las Glaneres y su amplio aparcamiento de vehículos girando inmediatamente a la derecha (NO), yendo hacia el extremo oeste del pueblo en dirección a la presa del embalse. Sea por abajo o por arriba, hay que girar la población para no tener que cruzar las estrechas calles del centro. 
+ 
+0,00 km (190 m). Riudecanyes. Parque de las Glaneres, chaflán con la calle del Dimecres, bajo la iglesia parroquial de Sant Mateu (las calles del pueblo llevan nombre de días de la semana). Se sale hacia el NO, dejando el parque y el aparcamiento a la izquierda y el complejo deportivo a la derecha, en dirección a la presa. Hasta Duesaigües se seguirá el camino de Velles, señalizado con indicadores y marcas blancas y amarillas del sendero PR-C 28. A los cien metros, ya en subida, se toma a la derecha la calle asfaltada que sube en dirección NO; hacia la presa. 
+ 
+0,34 km (218 m), 0 h 06 min. Presa de Riudecanyes. Vale la pena ir hasta el centro de la toma para ver el paisaje y la obra. Se continúa por la pista asfaltada que bordea el agua. 
+ 
+0,71 km (219 m), 0 h 12 min. Bifurcación señalizada. Se continúa recto, junto al agua, siguiendo la pista de servicio asfaltada. A la vuelta se vendrá por el vial de la izquierda, que proviene de la urbanización El Mar de Riudecanyes. 
+ 
+2,10 km (222 m), 0 h 32 min. Bifurcación y fin de la pista de servicio. Hay que tomar el primer camino de la izquierda (O), en subida; por la derecha se llegaría a los restos del desaparecido molino de Siurana. Se sigue el camino principal, señalizado por el PR, dejando algunos desvíos a la izquierda. Poco antes de los tres cuartos de hora de camino se está en frente de Duesaigües; hay que fijarse en el espléndido viaducto ferroviario del barranco de los Masos y, justo al lado de la pequeña edificación de la Candieta, en el pozo y restos de una antigua noria. 
+ 
+3,14 km (242 m), 0 h 49 min. Se sale en una pista de cemento. Se sigue en bajada, recto, siguiendo las señales, atravesando el barranco de la Argentera y remontando por el otro lado. En lo alto se sale a la carretera T-343, ya se ha llegado a Duesaigües. Se gira a la derecha siguiendo unos metros la carretera; hay que girar a la izquierda y cruzar el asfalto. Se entra en el pueblo bordeando un chalet y, más arriba, torciendo por las calles hacia la izquierda. 
+ 
+3,65 km (269 m), 0 h 58 min. Ayuntamiento de Duesaigües, se continúa hacia la iglesia de Santa Maria y la plaza de Sant Cosme y Sant Damià, donde hay un centro social con servicio de bar-restaurante. Se sale del pueblo en dirección a poniente. Siguiendo todavía las señales del PR-C 28, se toma de nuevo la carretera y, cuando se está delante del Cementerio, se cruza y se toma el camino de Escornalbou y Argentera, señalizado. Hay que fijarse, mirando hacia el N, en el segundo y espectacular puente de tren del Duesaigües, el viaducto d’En Seula. Un poco más allá (punto 4,20 km), se dejan a la izquierda los Rentadors. Se llega a una bifurcación. 
+ 
+4,31 km (252 m), 1 h 8 min. Bifurcación. Se gira a la izquierda, siguiendo los indicadores a Escornalbou y Vilanova d'Escornalbou y dejando el camino a Argentera; la pista sube. Atención, 500 m más adelante (4,81 km, 304 m) vuelve a haber una bifurcación: hay que dejar la pista de Escornalbou y, con ella, el sendero PR-C 28 y girar pronunciadamente a la izquierda, por el camino de Vilamanya, que describe una amplio zigzag y se encara el SO. 
+ 
+6,03 km (370 m), 1 h 38 min. Desvío a la izquierda que lleva al Mas del Mà Gran. Este es el punto más alto del recorrido y, a partir de ahora, todo será prácticamente en bajada. Se sigue recto por el camino. Después de un zigzag se llega al Mas de la Palmera (km 6,42, 352 m). A mano izquierda se observan las vías del pequeño “Ferrocarril de Vilamanya”. Se pasa por debajo del viaducto del tren y, más allá, se deja a la derecha el acceso a Can Tomás, donde está la entrada de los visitantes (km 6,74). 
+ 
+El camino se convierte en una pista ancha, apta para vehículos. Siguiéndola en bajada se entra en las calles asfaltadas de la urbanización El Mar de Riudecanyes; se toma la primera calle hacia abajo durante 120 m; torciendo por la calle de los Infermers a la izquierda se llega a la bifurcación de la pista de servicio de la presa por donde se había pasado antes (km 8,69, 219 m). Se deshace el camino hasta el punto de salida. 
+ 
+9,40 km (190 m), 2 h 25 min. Riudecanyes, final del recorrido.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.130339" lon="0.959796">
+        <ele>191.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131042" lon="0.959088">
+        <ele>198.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131629" lon="0.959165">
+        <ele>205.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132088" lon="0.959062">
+        <ele>207.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132810" lon="0.957860">
+        <ele>218.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133041" lon="0.956989">
+        <ele>224.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132549" lon="0.954627">
+        <ele>218.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133486" lon="0.952614">
+        <ele>218.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134298" lon="0.952183">
+        <ele>219.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134785" lon="0.951173">
+        <ele>220.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135096" lon="0.950908">
+        <ele>220.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135157" lon="0.950584">
+        <ele>219.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134976" lon="0.950029">
+        <ele>218.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135359" lon="0.949493">
+        <ele>219.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135994" lon="0.947996">
+        <ele>219.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136458" lon="0.947457">
+        <ele>219.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137170" lon="0.947495">
+        <ele>218.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137365" lon="0.946762">
+        <ele>217.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137583" lon="0.946624">
+        <ele>217.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138069" lon="0.946615">
+        <ele>219.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139803" lon="0.945029">
+        <ele>219.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140295" lon="0.943310">
+        <ele>223.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140583" lon="0.943039">
+        <ele>221.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140560" lon="0.942056">
+        <ele>231.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140888" lon="0.941474">
+        <ele>241.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140875" lon="0.940503">
+        <ele>252.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140660" lon="0.939586">
+        <ele>247.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140920" lon="0.939209">
+        <ele>254.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140732" lon="0.938792">
+        <ele>258.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140826" lon="0.937984">
+        <ele>255.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141111" lon="0.937308">
+        <ele>248.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141440" lon="0.937322">
+        <ele>253.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142159" lon="0.936509">
+        <ele>254.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142114" lon="0.935480">
+        <ele>258.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141839" lon="0.934708">
+        <ele>254.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143067" lon="0.934670">
+        <ele>249.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143624" lon="0.934116">
+        <ele>241.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144332" lon="0.932944">
+        <ele>240.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144845" lon="0.932898">
+        <ele>247.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144933" lon="0.932746">
+        <ele>250.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145687" lon="0.932621">
+        <ele>256.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145944" lon="0.932431">
+        <ele>257.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.146398" lon="0.931365">
+        <ele>260.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145905" lon="0.930720">
+        <ele>269.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145228" lon="0.931128">
+        <ele>268.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145351" lon="0.930975">
+        <ele>267.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145214" lon="0.930598">
+        <ele>262.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145442" lon="0.930520">
+        <ele>264.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.145528" lon="0.930308">
+        <ele>264.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144874" lon="0.929709">
+        <ele>255.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144746" lon="0.928922">
+        <ele>255.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.144357" lon="0.928254">
+        <ele>248.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.143842" lon="0.928181">
+        <ele>245.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142916" lon="0.926732">
+        <ele>251.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142261" lon="0.926598">
+        <ele>265.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.142059" lon="0.926402">
+        <ele>265.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141746" lon="0.926507">
+        <ele>269.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141100" lon="0.926402">
+        <ele>281.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.141001" lon="0.926870">
+        <ele>287.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140826" lon="0.926917">
+        <ele>289.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139746" lon="0.925956">
+        <ele>300.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139101" lon="0.925864">
+        <ele>304.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139077" lon="0.926031">
+        <ele>308.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139753" lon="0.926355">
+        <ele>315.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140199" lon="0.927372">
+        <ele>315.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140120" lon="0.927476">
+        <ele>317.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.140049" lon="0.927269">
+        <ele>320.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139487" lon="0.926828">
+        <ele>331.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.139137" lon="0.927596">
+        <ele>335.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138808" lon="0.927845">
+        <ele>333.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138884" lon="0.928837">
+        <ele>332.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.138608" lon="0.929722">
+        <ele>337.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137575" lon="0.929355">
+        <ele>333.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.137215" lon="0.929366">
+        <ele>334.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136798" lon="0.929469">
+        <ele>332.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136781" lon="0.929785">
+        <ele>332.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.136605" lon="0.930011">
+        <ele>335.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135846" lon="0.930351">
+        <ele>346.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134960" lon="0.930146">
+        <ele>358.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.135061" lon="0.930763">
+        <ele>361.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134923" lon="0.931839">
+        <ele>368.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134242" lon="0.932796">
+        <ele>355.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.134129" lon="0.933508">
+        <ele>356.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133789" lon="0.933865">
+        <ele>360.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133449" lon="0.933988">
+        <ele>360.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133030" lon="0.933489">
+        <ele>358.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132431" lon="0.934217">
+        <ele>351.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132270" lon="0.934264">
+        <ele>350.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132001" lon="0.934088">
+        <ele>347.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131750" lon="0.935126">
+        <ele>344.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131301" lon="0.935730">
+        <ele>341.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131603" lon="0.936233">
+        <ele>338.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131745" lon="0.937139">
+        <ele>331.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131434" lon="0.937626">
+        <ele>324.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131299" lon="0.938593">
+        <ele>318.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131051" lon="0.938827">
+        <ele>318.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131171" lon="0.939216">
+        <ele>319.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131041" lon="0.939798">
+        <ele>320.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131100" lon="0.941047">
+        <ele>320.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130830" lon="0.941598">
+        <ele>311.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131650" lon="0.942085">
+        <ele>300.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131785" lon="0.943332">
+        <ele>285.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132059" lon="0.944294">
+        <ele>279.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131683" lon="0.944455">
+        <ele>277.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131679" lon="0.945706">
+        <ele>272.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131211" lon="0.946257">
+        <ele>267.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131136" lon="0.946593">
+        <ele>263.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130763" lon="0.946938">
+        <ele>259.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130676" lon="0.947834">
+        <ele>268.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130926" lon="0.948488">
+        <ele>266.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131337" lon="0.948523">
+        <ele>267.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131562" lon="0.948766">
+        <ele>266.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131833" lon="0.949300">
+        <ele>267.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131956" lon="0.950193">
+        <ele>266.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132202" lon="0.950289">
+        <ele>264.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132839" lon="0.949888">
+        <ele>263.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133110" lon="0.950177">
+        <ele>258.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133123" lon="0.950397">
+        <ele>255.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132804" lon="0.950955">
+        <ele>251.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132419" lon="0.951360">
+        <ele>241.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133270" lon="0.952621">
+        <ele>222.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132516" lon="0.954765">
+        <ele>219.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132798" lon="0.955471">
+        <ele>221.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.133030" lon="0.956870">
+        <ele>224.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132871" lon="0.957727">
+        <ele>219.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.132088" lon="0.959062">
+        <ele>207.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131629" lon="0.959165">
+        <ele>205.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.131042" lon="0.959088">
+        <ele>198.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.130339" lon="0.959796">
+        <ele>191.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.325079" lon="1.828766">
+    <ele>1511.2</ele>
+    <time>2007-06-28T16:55:39Z</time>
+    <name>Refugi del Serrat de les Esposes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.309601" lon="1.790458">
+    <ele>1603.4</ele>
+    <time>2007-06-28T23:00:00Z</time>
+    <name>Refugi dels Cortals de l'Ingla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.297164" lon="1.714147">
+    <ele>1996.2</ele>
+    <time>2007-06-28T23:00:00Z</time>
+    <name>Refugi de Prat d'Aguiló</name>
+    <desc>Arribant al refugi de Prat d'Aguiló</desc>
+  </wpt>
+  <wpt lat="42.296975" lon="1.714994">
+    <ele>1980.4</ele>
+    <time>2007-06-28T23:00:00Z</time>
+    <name>Prat d'Aguiló</name>
+    <desc>Serrat dels Terrers des de prat d'Aguiló</desc>
+  </wpt>
+  <wpt lat="42.297148" lon="1.796888">
+    <ele>1779.0</ele>
+    <time>2013-07-01T22:00:00Z</time>
+    <name>Coll de Pendís</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.294087" lon="1.794096">
+    <ele>1792.0</ele>
+    <time>2013-07-01T22:00:00Z</time>
+    <name>Coll de Vimboca</name>
+    <desc>TP - 29/07/2014 19:57:41</desc>
+  </wpt>
+  <trk>
+    <name>Cavalls del Vent 2. Serrat de les Esposes-Prat d'Aguiló</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Cavalls del Vent 2. Serrat de les Esposes-Prat d'Aguiló&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;L'estiu del 2003, els guardes dels vuit refugis del Parc Natural del Cadí-Moixeró van idear un itinerari circular que els enllacés recorrent indrets de gran bellesa natural i paisatgística de les serres de la Tosa, el Moixeró, el Cadí i el massís del Pedraforca (a les comarques del Berguedà, la Cerdanya i l'Alt Urgell). Van batejar-lo com a Cavalls del Vent fent referència a la traducció catalana del mot tibetà que designa les banderoles d'oració budistes (Iungta) que es posen en els cims i els colls de l'Himàlaia per enviar als quatre vents pregàries de pau i germanor. La travessa, que ha estat un èxit en nombre de participants i molt ben valorada des del primer any, es presenta en tres modalitats no excloents entre si segons si es planteja amb una finalitat esportiva, competitiva o bé lúdica: en menys de 24 h, en menys de 36 i sense límit de temps dins la temporada (quan els refugis resten oberts, de mitjan juny a finals de setembre). Nosaltres l'hem dividida en cinc etapes sortint des del refugi de Rebost en el sentit contrari al de les agulles del rellotge tenint en compte la longitud i el desnivell acumulat de cadascuna, essent perfectament assumible per a un senderista mitjà habituat a la muntanya. Tanmateix, si no es pot o no es vol fer-la tota seguida, hi ha la possibilitat d'escurçar-la o dividir-la en dues visites (per exemple, dos caps de setmana), ja que la proximitat entre els refugis dels Cortals de l'Ingla (Cerdanya) i el de Sant Jordi (Berguedà) -connectats pel GR 107 pel coll de Pendís i fàcilment accessibles des de Bellver i Riu de Cerdanya, ambdós, i des de cal Cerdanyola, el darrer- permet tenir-los com a punt d'inici i final del recorregut occidental o oriental de la travessa. 
+ 
+El trajecte està senyalitzat amb marques de color taronja (excepte del prat d'Aguiló al pas de Gosolans, on només es troben les del PR C-124), que sovint comparteixen protagonisme amb les dels senders de gran recorregut (blanques i vermelles), petit recorregut (blanques i grogues) i d'altres d'àmbit local (blanques i verdes) que solquen el parc natural. Són més de 70 km d'itinerari que discorren entre els 902 m -a la vall del riu Bastareny- i els 2.513 m d'altitud (al refugi de Niu d'Àliga; 2.536 si s'ascendeix, com es proposa, a la Tosa) acumulant un desnivell positiu de 4.800 m que deixen a l'abast del caminant variats ecosistemes i racons tan emblemàtics i espectaculars com els cims de la Tosa i de les Penyes Altes de Moixeró, la cara nord del Cadí, les serres Pedregosa i de Gisclareny, el Pedraforca, la baga de Gresolet, els Empedrats i les valls del Bastareny i de Gréixer. També es contemplen diversos masos disseminats i antics edificis plens d'història com el santuari de Gresolet, l'ermita de Sant Martí del Puig i l'església de Sant Andreu de Gréixer. 
+ 
+Qualsevol dels vuit refugis protagonistes de la Cavalls del Vent pot ser-ne el punt de partida: excepte el de Niu d'Àliga, tots estan situats al costat o a prop d'alguna pista forestal fins a on es pot arribar amb vehicle. Ofereixen serveis de pernoctació i de restauració. Es pot accedir a les poblacions pròximes en transport públic amb autocar o bé amb tren fins a Manresa (FGC i RENFE), la Molina i Puigcerdà (RENFE; línia Barcelona-Puigcerdà). 
+ 
+El principal atractiu d'aquesta segona etapa de la Cavalls del Vent és sens dubte paisatgístic, ja que es contemplen algunes de les panoràmiques més espectaculars i identificatives del Parc Natural del Cadí-Moixeró com les verticals parets de la cara nord de la serra del Cadí, amb el Comabona com a cim més rellevant, baixant al refugi de Prat d'Aguiló, i els imponents relleus del massís del Pedraforca, el puig dels Terrers i el pas de Tancalaporta -punt divisori natural de les serres del Cadí i del Moixeró- des de la carena de les serres de la Moixa i de la Muga. Aquest tram de la ruta tan aeri i feréstec contrasta fortament amb els espessos boscos per on es discorre del refugi del Serrat de les Esposes al coll de Vimboca, d'ambient fresc i ombrívol, especialment a l'avetosa de la Mata Negra, i amb els bucòlics prats de la pleta dels Cortals i d'Aguiló. Per una altra banda, el coll de Pendís esdevé un punt estratègic de la travessa, ja que permet escurçar-la o dividir-la accedint al refugi de Sant Jordi pel GR 107, per on discorre el seu trajecte meridional.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (1.511 m). Refugi del Serrat de les Esposes. Es parteix prenent a l'esquerra (NO), de pujada, la pista que ve de Riu de Cerdanya. Tot seguit, als 80 m, cal deixar-la i trencar a l'esquerra (NO) per un senderó que s'endinsa primer entre bàlecs i més endavant al bosc. 
+ 
+0,62 km (1.597 m), 0 h 15 min. Se surt a la mateixa pista, que s'agafa a l'esquerra (SO). Es recorren els plans de Pi, dins la serra de Sarset, entre frondosos boscos de pi roig. Es deixen sengles pistes a l'esquerra (SE; km 1,50, 1.638 m i S/SO; km 1,65, 1.648 m) -la primera mena al torrent del Grau de l'Ós i la següent ascendeix a la serra de Moixeró- i de seguida es pren una drecera de l'esquerra (SO; km 1,67, 1.652 m) que remunta lleugerament pel boscam (marques blanques i verdes). A mesura que s'avança, l'entorn esdevé més ombrívol, humit, fresc, amb poc sotabosc i hi predomina l'avet: s'és a la Mata Negra, al sud dels plans de Bor. 
+ 
+3,15 km (1.709 m), 0 h 56 min. Es desemboca de nou a la pista: cal seguir-la a l'esquerra (SO) uns metres -per la dreta (NO) s'aniria al mirador del Cap del Ras, amb excepcionals vistes de la vall de l'Ingla i la Cerdanya- i abandonar-la seguidament al collet de Font Freda per continuar per un desviament indicat de la dreta (SO; km 3,26, 1.707 m) que davalla cap a la font homònima seguint els senyals del GR 107 o Camí dels Bons Homes. Zona fresca i obaga, amb una àrea de lleure amb bancs i taules de pedra. Quan la vegetació ho permet, es gaudeixen de bones vistes a ponent i al sud de la serra de Gavarret, el pic de Roca Foradada, el Cap del Pradell i el Cadí. Més avall, el camí s'estreteja i es prossegueix fent llaçades del SE al SO successivament. A mesura que es baixa, es tornen a trobar força avets, es travessen dos rierols que disten pocs metres l'un de l'altre (km 4,52, 1.622 m) i són tributaris del torrent de la Moixa, i s'arriba a la pleta dels Cortals tenint a migdia el Cadí i les serres de la Muga i de la Moixa de rerefons. S'hi observa també el pas de Tancalaporta, divisió natural dels massissos del Moixeró, per on es transcorre des del coll de Jou (primera etapa), i el Cadí. 
+ 
+5,10 km (1.604 m), 1 h 22 min. Refugi dels Cortals de l'Ingla. Està situat en un bell paratge de la vall de l'Ingla a l'est de la serra de Gavarret i compta amb bones perspectives de les serres circumdants. Es continua a llevant (SE) per una pista que de seguida, davant d'una font i un abeurador, es bifurca (km 5,29, 1.612 m): cal descendir per la dreta (SE) seguint els senyals del GR 107 per l'interior d'una esplèndida i ombrívola avetosa. 
+ 
+5,81 km (1.610 m), 1 h 32 min. Nova bifurcació: es deixa la pista, que davalla al prat de les Estelles i la vall de Vimboca (SO), i es puja a mà esquerra (E/NE) per un sender seguint les marques del GR 107. De seguida, després d'un revolt a la dreta, es canvia de direcció i es continua remuntant en direcció SO i després SE per l'interior d'un espès bosc de pi roig. 
+ 
+6,94 km (1.780 m), 1 h 58 min. Cruïlla al coll de Pendís. Es deixa davant el GR 107, que, en uns 800 m, descendeix en direcció SE fins al refugi de Sant Jordi, i es gira a la dreta (SO) prenent el GR 150-1, provinent del coll del Moixeró, flanquejant el vessant occidental del Cap del Pinosell. 
+ 
+7,36 km (1.792 m), 2 h 06 min. Coll de Vimboca, ubicat a ponent del Cap del Pinosell i al nord del Cap de la Boixassa. Bones vistes al sud de les valls de Monnell i de Pendís. Cal continuar a ponent (O/NO) pel GR 150-1 remuntant, suaument al principi, cap a la serra de la Moixa pel vessant nord de la muntanya a través d'un frondós bosc de pi negre. Més amunt, es passa per sota del cim de la Roca de la Moixa (S) i es prossegueix pel seu contrafort septentrional. 
+ 
+9,45 km (2.022 m), 2 h 54 min. Coll de la Moixa. Es tenen unes amplíssimes i espectaculars panoràmiques de l'entorn muntanyenc d'ambdues valls (la cerdana -N- i la berguedana -S) que es perllongaran fins al pas del Bou. S'albira el puig dels Terrers, el pas de Tancalaporta, el serrat dels Terrers, la cara E del Pedraforca, les serres del Verd, d'Ensija i de Gisclareny, el Moixeró, les Penyes Altes, la Tosa, el refugi Niu d'Àliga, el Puigllançada i les valls del Bastareny i del Llobregat. S'ascendeix per la carena de la serra de la Moixa (NO) fins al Cap del Pradell (km 10,63, 2.195 m), des d'on es continua davallant lleugerament (SO) per, 200 m més endavant, seguir carenejant pel vessant N del serrat de la Muga. Després del pic d'Estalabars (km 11,06, 2.191 m), s'arriba al collet de les Vaques (km 11,40, 2.179 m): a partir d'aquí, s'ha de remuntar (SO) fins al pas del Bou. 
+ 
+11,89 km (2.221 m), 3 h 43 min. Pas del Bou. Bifurcació: es deixa a l'esquerra (O) el GR 150-1, que puja al pas de Tancalaporta per carenejar després a ponent la serra del Cadí fins al pic de les Tres Canaletes (a la següent etapa -la tercera- es creuarà aquest mateix sender de gran recorregut al pas dels Gosolans), i se segueix descendint per la dreta (NO) per la cara nord del serrat dels Terrers. Excel•lents vistes a l'oest del Cadí i, al nord, de la serra de Gavarret i la plana cerdana. Es creua una torrentera (km 11,97, 2.206 m) i es prossegueix (N/NE) per un entorn pedregós i de nua vegetació. Més endavant es contempla, també al nord, Roques Blanques i el serrat de l'Avetosa, i s'entra al bosc. Es continua a ponent per un sender fressat i es davalla suaument pel boscam (O/SO) amb espectaculars panoràmiques a migdia i a ponent de les verticals parets septentrionals de la serra del Cadí, destacant-ne el puig dels Terrers, el Comabona, el puig de la Font Tordera i el pic d'Aguiló. Després d'un tram de bosc malmès amb força arbres caiguts per les allaus, es travessa un rierol (km 14,11, 1.935 m), afluent del torrent de les Eres, i es planeja (O) als peus del Comabona. 
+ 
+14,83 km (1.955 m), 4 h 25 min. Es creua el barranc de les Toselletes i se segueix per una tartera en direcció NO. Es flanqueja el pic d'Aguiló i, en sortir del bosc, es travessa el prat homònim en el mateix sentit de la marxa (NO) fent cap al refugi. 
+ 
+16,04 km (1.995 m), 4 h 45 min. Refugi de Prat d'Aguiló. Situat entre els pics del Blancor (N; 2.091 m) i el d'Aguiló (S; 2.494 m), i a l'extrem occidental del bell i extens prat al qual deu el nom, és una magnífica talaia de la Cerdanya, la Tosa, el Moixeró i la cara N del Cadí. Fi del recorregut.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Cavalls del Vent 2. Serrat de les Esposes - Prat d'Aguiló&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;En verano de 2003, los guardas de los ocho refugios del Parque Natural del Cadí-Moixeró idearon un itinerario circular que los uniera recorriendo lugares de gran belleza natural y paisajística de las sierras de la Tosa, el Moixeró, el Cadí y el macizo del Pedraforca (en las comarcas del Berguedà, la Cerdanya y L'Alt Urgell). Lo bautizaron como Cavalls del Vent en referencia a la traducción catalana de la palabra tibetana que designa las banderolas de oración budistas (Iungta) que se ponen en las cumbres y los collados del Himalaya para enviar a los cuatro vientos plegarias de paz y hermandad. La travesía, que ha sido un éxito en número de participantes y muy bien valorada desde el primer año, se presenta en tres modalidades no excluyentes entre sí según si se plantea con una finalidad deportiva, competitiva o lúdica: en menos de 24 h, en menos de 36 y sin límite de tiempo dentro de la temporada (cuando los refugios están abiertos, de mediados de junio a finales de septiembre). Nosotros la hemos dividido en cinco etapas saliendo desde el refugio de Rebost en el sentido contrario al de las agujas del reloj teniendo en cuenta la longitud y el desnivel acumulado de cada una, siendo perfectamente asumible para un senderista medio habituado a la montaña. Sin embargo, si no se puede o no se quiere hacerla toda seguida, existe la posibilidad de acortar o dividirla en dos visitas (por ejemplo, dos fines de semana), ya que la proximidad entre los refugios de Els Cortals de l'Ingla (Cerdanya) y el de Sant Jordi (Berguedà) -conectados por el GR 107 por el collado de Pendís y fácilmente accesibles desde Bellver y Riu de Cerdanya, ambos, y desde Cal Cerdanyola, el último- permite tenerlos como punto de inicio y final del recorrido occidental u oriental de la travesía. 
+ 
+El trayecto está señalizado con marcas de color naranja (excepto del prado de Aguiló al paso de Gosolans, donde sólo se encuentran las del PR C-124), que a menudo comparten protagonismo con las de los senderos de gran recorrido (blancas y rojas), de pequeño recorrido (blancas y amarillas) y de otros de ámbito local (blancas y verdes) que surcan el parque natural. Son más de 70 km de itinerario que discurren entre los 902 m -en el valle del río Bastareny- y los 2.513 m de altitud (el refugio de Niu d'Àliga; 2.536 m si se asciende, como se propone, a la Tosa) acumulando un desnivel positivo de 4.800 m que dejan al alcance del caminante variados ecosistemas y rincones tan emblemáticos y espectaculares como las cumbres de la Tosa y de Les Penyes Altes del Moixeró, la cara N del Cadí, las sierras Pedregosa y de Gisclareny, el Pedraforca, la umbría de Gresolet, Els Empedrats y los valles del Bastareny y de Gréixer. También se contemplan diversas masías diseminadas y antiguos edificios llenos de historia como el santuario de Gresolet, la ermita de Sant Martí del Puig y la iglesia de Sant Andreu de Gréixer. 
+ 
+Cualquiera de los ocho refugios protagonistas de la Cavalls del Vent puede ser el punto de partida: excepto el de Niu d'Àliga, todos están situados al lado o cerca de alguna pista forestal hasta donde se puede llegar en vehículo. Ofrecen servicios de pernoctación y de restauración (si se necesita algo más -duchas de agua caliente, sábanas, cargar pilas, etc.- hay que consultar a los guardas previamente). Se puede acceder a las poblaciones próximas con transporte público en autocar o en tren hasta Manresa (FGC y RENFE), la Molina y Puigcerdà (RENFE, línea Barcelona-Puigcerdà). 
+ 
+El principal atractivo de esta segunda etapa de la travesía Cavalls del Vent es sin duda paisajístico, ya que se contemplan algunas de las panorámicas más espectaculares e identificativas del Parque Natural del Cadí-Moixeró como las verticales paredes de la cara N de la sierra del Cadí, con el Comabona como cumbre más relevante, bajando al refugio de Prat d'Aguiló, y los imponentes relieves del macizo del Pedraforca, el monte de Els Terrers y el paso de Tancalaporta -punto divisorio natural de las sierras del Cadí y del Moixeró- desde el cordal de las sierras de la Moixa y de la Muga. Este tramo de la ruta tan aéreo y salvaje contrasta fuertemente con los espesos bosques por donde se discurre del refugio del Serrat de les Esposes al collado de Vimboca, de ambiente fresco y sombrío, especialmente en el abetal de la Mata Negra, y con los bucólicos prados del aprisco de Els Cortals y de Aguiló. Por otra parte, el collado de Pendís es un punto estratégico de la travesía, ya que permite acortarla o dividirla accediendo al refugio de Sant Jordi por el GR 107, por donde discurre su trayecto meridional.&lt;/i&gt; 
+Ruta señalizada. 
+ 
+0,00 km (1.511 m). Refugio del Serrat de les Esposes. Se parte tomando a la izquierda (NO), en subida, la pista que viene de Riu de Cerdanya. A continuación, a los 80 m, hay que dejarla y girar a la izquierda (NO) por un sendero que se adentra primero entre codesos y más adelante en el bosque. 
+ 
+0,62 km (1.597 m), 0 h 15 min. Se sale a la misma pista, que se toma a la izquierda (SO). Se recorren los llanos de Pi, en la sierra de Sarset, entre frondosos bosques de pino silvestre. Se dejan sendas pistas a la izquierda (SE; km 1,50, 1.638 m y S/SO; km 1,65, 1.648 m) -la primera lleva al torrente del Grau de l'Ós y la siguiente asciende a la sierra de Moixeró- y enseguida se toma un atajo de la izquierda (SO; km 1,67, 1.652 m) que remonta ligeramente por el bosque (marcas blancas y verdes). A medida que se avanza, el entorno se vuelve más sombrío, húmedo, fresco, con poco sotobosque y predomina el abeto: se discurre por la Mata Negra, al sur de los llanos de Bor. 
+ 
+3,15 km (1.709 m), 0 h 56 min. Se desemboca de nuevo en la pista: hay que seguirla a la izquierda (SO) unos metros -por la derecha (NO) se iría al mirador del Cap del Ras, con excepcionales vistas del valle de L'Ingla y la Cerdanya- y abandonarla seguidamente en el collado de Font Freda para continuar por un desvío indicado de la derecha (SO; km 3,26, 1.707 m) que baja hacia la fuente homónima siguiendo las señales del GR 107 o Camí dels Bons Homes (camino de los cátaros). Zona fresca y sombría, con un área recreativa con bancos y mesas de piedra. Cuando la vegetación lo permite, se disfrutan de buenas vistas a poniente y al sur de la sierra de Gavarret, el pico de Roca Foradada, el Cap del Pradell y el Cadí. Más abajo, el camino se estrecha y se prosigue haciendo lazadas del SE al SO sucesivamente. A medida que se baja, vuelven a predominar los abetos, se atraviesan dos arroyos que distan pocos metros el uno del otro (km 4,52, 1.622 m) y son tributarios del torrente de la Moixa, y se llega al aprisco de Els Cortals teniendo a mediodía el Cadí y las sierras de la Muga y de la Moixa de fondo. Se observa también el paso de Tancalaporta, división natural de los macizos del Moixeró, por donde se transcurre desde el collado de Jou (primera etapa), y el Cadí. 
+ 
+5,10 km (1.604 m), 1 h 22 min. Refugio de Els Cortals de l'Ingla. Está situado en un bello paraje del valle de L'Ingla al este de la sierra de Gavarret y cuenta con buenas perspectivas de las sierras circundantes. Se continúa a levante (SE) por una pista que enseguida, delante de una fuente y un abrevadero, se bifurca (km 5,29, 1.612 m): hay que descender por la derecha (SE) siguiendo las señales del GR 107 por el interior de un espléndido y sombrío abetal. 
+ 
+5,81 km (1.610 m), 1 h 32 min. Nueva bifurcación: se deja la pista, que desciende al prado de Les Estelles y al valle de Vimboca (SO), y se sube a mano izquierda (E/NE) por un sendero siguiendo las marcas del GR 107. Enseguida, tras una curva a la derecha, se cambia de dirección y se sigue remontando en dirección SO y luego SE por el interior de un espeso bosque de pino silvestre. 
+ 
+6,94 km (1.780 m), 1 h 58 min. Cruce en el collado de Pendís. Se deja delante el GR 107, que, en unos 800 m, desciende en dirección SE hasta el refugio de Sant Jordi, y se gira a la derecha (SO) tomando el GR 150-1, proveniente del collado del Moixeró, flanqueando la vertiente occidental del Cap del Pinosell. 
+ 
+7,36 km (1.792 m), 2 h 07 min. Collado de Vimboca, ubicado al oeste del Cap del Pinosell y al norte del Cap de la Boixassa. Buenas vistas al sur de los valles de Monnell y de Pendís. Hay que seguir a poniente (O/NO) por el GR 150-1 remontando, suavemente al principio, hacia la sierra de la Moixa por la vertiente norte de la montaña a través de un frondoso bosque de pino negro. Más arriba, se pasa por debajo de la cima de la Roca de la Moixa (S) y se prosigue por su ladera septentrional. 
+ 
+9,45 km (2.022 m), 2 h 54 min. Collado de la Moixa. Se tienen unas amplísimas y espectaculares panorámicas del entorno montañoso de ambos valles (el de la Cerdanya al norte y el del Berguedà al sur) que se prolongarán hasta el paso del Bou. Se vislumbra el monte de Els Terrers, el paso de Tancalaporta, la loma de Els Terrers, la cara E del Pedraforca, las sierras del Verd, de Ensija y de Gisclareny, el Moixeró, Les Penyes Altes, la Tosa, el refugio Niu d'Àliga, el Puigllançada y los valles del Bastareny y del Llobregat. Se asciende por el cordal de la sierra de la Moixa (NO) hasta el Cap del Pradell (km 10,63, 2.195 m), desde donde se continúa descendiendo ligeramente (SO) para, 200 m más adelante, seguir cresteando por la vertiente N de la sierra de la Muga. Después del pico de Estalabars (km 11,06, 2.191 m), se llega al collado de Les Vaques (km 11,40, 2.179 m): a partir de aquí, se ha de remontar (SO) hasta el paso del Bou. 
+ 
+11,89 km (2.221 m), 3 h 43 min. Paso del Bou. Bifurcación: se deja a la izquierda (O) el GR 150-1, que sube al paso de Tancalaporta para crestear después a poniente la sierra del Cadí hasta el pico de Les Tres Canaletes (en la siguiente etapa -la tercera- se cruzará este mismo sendero de gran recorrido en el paso de Els Gosolans), y se sigue descendiendo por la derecha (NO) por la cara norte de la loma de Els Terrers. Excelentes vistas al oeste del Cadí y, al norte, de la sierra de Gavarret y la llanura de la Cerdanya. Se cruza una torrentera (km 11,97, 2.206 m) y se prosigue (N/NE) por un entorno pedregoso y carente de vegetación. Más adelante se contempla, también al norte, Roques Blanques y la loma de L'Avetosa, y se entra en el bosque. Se continúa a poniente por un sendero trillado y se baja suavemente (O/SO) con espectaculares panorámicas a mediodía y a poniente de las verticales paredes septentrionales de la sierra del Cadí, destacando el monte de Els Terrers, el Comabona, el monte de la Font Tordera y el pico de Aguiló. Después de un tramo de bosque dañado con bastantes árboles caídos por las avalanchas, se cruza un arroyo (km 14,11, 1.935 m), afluente del torrente de Les Eres, y se llanea (O) a los pies del Comabona. 
+ 
+14,83 km (1.955 m), 4 h 25 min. Se cruza el barranco de Les Toselletes y se sigue por un canchal en dirección NO. Se flanquea el pico de Aguiló y, al salir del bosque, se cruza el prado homónimo en el mismo sentido de la marcha (NO) en dirección al refugio. 
+ 
+16,04 km (1.995 m), 4 h 45 min. Refugio de Prat d'Aguiló. Situado entre los picos del Blancor (N; 2.091 m) y el de Aguiló (S; 2.494 m), y en el extremo occidental del bello y extenso prado al que debe su nombre, es una magnífica atalaya de la Cerdanya, la Tosa, el Moixeró y la cara N del Cadí. Fin del recorrido.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/07/13&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.325132" lon="1.828668">
+        <ele>1511.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325307" lon="1.828573">
+        <ele>1510.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325430" lon="1.827861">
+        <ele>1513.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.326004" lon="1.827110">
+        <ele>1524.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.326712" lon="1.825453">
+        <ele>1569.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.326551" lon="1.822932">
+        <ele>1595.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.326214" lon="1.821676">
+        <ele>1598.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325331" lon="1.819976">
+        <ele>1592.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325025" lon="1.818186">
+        <ele>1591.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324982" lon="1.817525">
+        <ele>1594.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325272" lon="1.816852">
+        <ele>1600.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325270" lon="1.816179">
+        <ele>1604.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325110" lon="1.816006">
+        <ele>1608.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324217" lon="1.816284">
+        <ele>1620.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324296" lon="1.815245">
+        <ele>1628.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.323878" lon="1.814373">
+        <ele>1636.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322228" lon="1.814695">
+        <ele>1647.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321755" lon="1.813824">
+        <ele>1664.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321417" lon="1.811304">
+        <ele>1687.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320836" lon="1.810029">
+        <ele>1705.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320722" lon="1.809000">
+        <ele>1705.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320292" lon="1.807921">
+        <ele>1698.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320042" lon="1.806810">
+        <ele>1704.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319613" lon="1.806278">
+        <ele>1712.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319366" lon="1.805530">
+        <ele>1726.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319404" lon="1.804771">
+        <ele>1717.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320021" lon="1.803539">
+        <ele>1710.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320161" lon="1.802657">
+        <ele>1714.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320488" lon="1.802050">
+        <ele>1713.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320510" lon="1.801040">
+        <ele>1713.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320032" lon="1.800275">
+        <ele>1715.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319322" lon="1.798286">
+        <ele>1707.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.318720" lon="1.798024">
+        <ele>1709.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.318433" lon="1.798139">
+        <ele>1705.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.317903" lon="1.797852">
+        <ele>1701.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.317418" lon="1.796690">
+        <ele>1689.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.316491" lon="1.795931">
+        <ele>1681.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315569" lon="1.794783">
+        <ele>1676.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315400" lon="1.794119">
+        <ele>1672.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315465" lon="1.793056">
+        <ele>1652.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315641" lon="1.792640">
+        <ele>1643.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315580" lon="1.791925">
+        <ele>1629.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315247" lon="1.791962">
+        <ele>1617.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315075" lon="1.792360">
+        <ele>1625.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314760" lon="1.792660">
+        <ele>1632.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314524" lon="1.792649">
+        <ele>1625.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314068" lon="1.793350">
+        <ele>1631.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313647" lon="1.793176">
+        <ele>1631.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313477" lon="1.793252">
+        <ele>1630.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313315" lon="1.793692">
+        <ele>1628.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313228" lon="1.794810">
+        <ele>1626.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312714" lon="1.794832">
+        <ele>1618.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312158" lon="1.795461">
+        <ele>1621.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311781" lon="1.793893">
+        <ele>1611.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311547" lon="1.793497">
+        <ele>1618.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310537" lon="1.792564">
+        <ele>1614.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309898" lon="1.792546">
+        <ele>1615.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309528" lon="1.792092">
+        <ele>1614.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309609" lon="1.790792">
+        <ele>1605.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309466" lon="1.790418">
+        <ele>1603.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309159" lon="1.790770">
+        <ele>1607.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308937" lon="1.792388">
+        <ele>1611.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307715" lon="1.792624">
+        <ele>1612.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307420" lon="1.792429">
+        <ele>1606.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306443" lon="1.792454">
+        <ele>1608.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305874" lon="1.793527">
+        <ele>1604.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304864" lon="1.794042">
+        <ele>1608.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304970" lon="1.794539">
+        <ele>1623.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304554" lon="1.794365">
+        <ele>1622.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303749" lon="1.793629">
+        <ele>1649.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303093" lon="1.793258">
+        <ele>1653.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302634" lon="1.793764">
+        <ele>1657.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302115" lon="1.794005">
+        <ele>1661.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301302" lon="1.794669">
+        <ele>1678.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300547" lon="1.794381">
+        <ele>1718.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300035" lon="1.794481">
+        <ele>1736.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299621" lon="1.795079">
+        <ele>1727.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299237" lon="1.795231">
+        <ele>1731.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.298940" lon="1.795728">
+        <ele>1745.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297510" lon="1.795592">
+        <ele>1765.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297112" lon="1.796931">
+        <ele>1779.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295831" lon="1.795907">
+        <ele>1781.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295394" lon="1.794987">
+        <ele>1785.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294866" lon="1.794888">
+        <ele>1786.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294221" lon="1.794367">
+        <ele>1789.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294087" lon="1.794096">
+        <ele>1792.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294249" lon="1.791510">
+        <ele>1825.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294677" lon="1.789803">
+        <ele>1846.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294591" lon="1.787640">
+        <ele>1875.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293653" lon="1.786250">
+        <ele>1876.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293325" lon="1.785438">
+        <ele>1891.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293144" lon="1.781947">
+        <ele>1920.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292638" lon="1.778779">
+        <ele>1901.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292431" lon="1.778370">
+        <ele>1906.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292200" lon="1.778310">
+        <ele>1920.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292462" lon="1.779619">
+        <ele>1925.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292425" lon="1.780384">
+        <ele>1941.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291667" lon="1.777681">
+        <ele>1959.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291146" lon="1.776509">
+        <ele>1989.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291050" lon="1.775558">
+        <ele>2001.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290589" lon="1.774646">
+        <ele>2023.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291115" lon="1.772901">
+        <ele>2073.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291486" lon="1.772275">
+        <ele>2097.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291788" lon="1.771014">
+        <ele>2112.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291615" lon="1.768890">
+        <ele>2125.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292123" lon="1.766978">
+        <ele>2132.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292743" lon="1.763700">
+        <ele>2169.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292958" lon="1.761015">
+        <ele>2195.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292600" lon="1.759410">
+        <ele>2192.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292308" lon="1.755730">
+        <ele>2189.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291721" lon="1.752936">
+        <ele>2175.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291392" lon="1.752370">
+        <ele>2178.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291074" lon="1.751266">
+        <ele>2180.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291018" lon="1.748617">
+        <ele>2191.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290768" lon="1.746742">
+        <ele>2222.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291183" lon="1.746029">
+        <ele>2207.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291602" lon="1.746033">
+        <ele>2196.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292003" lon="1.746444">
+        <ele>2183.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291864" lon="1.746889">
+        <ele>2160.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292683" lon="1.747883">
+        <ele>2126.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293178" lon="1.748230">
+        <ele>2114.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293970" lon="1.746498">
+        <ele>2119.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294162" lon="1.745499">
+        <ele>2125.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294966" lon="1.744094">
+        <ele>2150.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295126" lon="1.743133">
+        <ele>2159.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294591" lon="1.741942">
+        <ele>2144.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294451" lon="1.741078">
+        <ele>2133.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294232" lon="1.740827">
+        <ele>2134.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293784" lon="1.738616">
+        <ele>2120.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293989" lon="1.737605">
+        <ele>2113.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293726" lon="1.736555">
+        <ele>2108.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293853" lon="1.735467">
+        <ele>2089.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293662" lon="1.734858">
+        <ele>2075.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294013" lon="1.734402">
+        <ele>2055.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293507" lon="1.733466">
+        <ele>2027.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293927" lon="1.732754">
+        <ele>1999.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293590" lon="1.732434">
+        <ele>1988.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293729" lon="1.732352">
+        <ele>1987.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293583" lon="1.732179">
+        <ele>1982.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293733" lon="1.731927">
+        <ele>1976.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293395" lon="1.731443">
+        <ele>1965.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292961" lon="1.731366">
+        <ele>1952.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292692" lon="1.731469">
+        <ele>1950.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292216" lon="1.730781">
+        <ele>1937.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292076" lon="1.728800">
+        <ele>1943.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292660" lon="1.728242">
+        <ele>1946.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292688" lon="1.727975">
+        <ele>1948.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292418" lon="1.727604">
+        <ele>1948.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291806" lon="1.727241">
+        <ele>1943.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291495" lon="1.726738">
+        <ele>1941.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291259" lon="1.725857">
+        <ele>1944.4</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290615" lon="1.725051">
+        <ele>1949.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290617" lon="1.724390">
+        <ele>1946.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290413" lon="1.723891">
+        <ele>1954.3</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290951" lon="1.723280">
+        <ele>1966.1</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291503" lon="1.723050">
+        <ele>1966.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292131" lon="1.722419">
+        <ele>1976.5</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292833" lon="1.722320">
+        <ele>1989.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293790" lon="1.721706">
+        <ele>2016.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293931" lon="1.720623">
+        <ele>2031.2</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294326" lon="1.720106">
+        <ele>2037.8</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294295" lon="1.718985">
+        <ele>2037.0</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295233" lon="1.717862">
+        <ele>2021.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295713" lon="1.716493">
+        <ele>2010.6</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.296056" lon="1.714940">
+        <ele>2001.9</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.296597" lon="1.714146">
+        <ele>1998.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.296857" lon="1.714050">
+        <ele>1997.7</ele>
+        <time>2013-07-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297147" lon="1.714190">
+        <ele>1995.1</ele>
+        <time>2013-07-02T00:45:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

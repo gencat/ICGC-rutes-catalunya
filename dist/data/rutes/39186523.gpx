@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.624228" lon="1.122597">
+    <ele>947.9</ele>
+    <time>2019-06-24T21:37:40Z</time>
+    <name>Esterri d'Àneu. Zona esportiva</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.614918" lon="1.124038">
+    <ele>944.0</ele>
+    <time>2019-06-24T21:38:23Z</time>
+    <name>Càmping La Pressalla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.615430" lon="1.129180">
+    <ele>943.1</ele>
+    <time>2019-06-24T21:41:03Z</time>
+    <name>Santa Maria d'Àneu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.616142" lon="1.139717">
+    <ele>989.0</ele>
+    <time>2019-06-24T21:41:28Z</time>
+    <name>Escalarre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.593623" lon="1.133250">
+    <ele>935.1</ele>
+    <time>2019-06-24T21:41:51Z</time>
+    <name>Pont de Poldo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.589208" lon="1.134600">
+    <ele>935.1</ele>
+    <time>2019-06-24T21:42:06Z</time>
+    <name>Pont de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.582888" lon="1.139139">
+    <ele>939.1</ele>
+    <time>2019-06-24T21:42:29Z</time>
+    <name>Àrea d'esbarjo de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.584638" lon="1.137438">
+    <ele>954.9</ele>
+    <time>2019-06-24T21:43:08Z</time>
+    <name>Bordes de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.594305" lon="1.131591">
+    <ele>942.1</ele>
+    <time>2019-06-24T21:43:32Z</time>
+    <name>La Guingueta d'Àneu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.609029" lon="1.131779">
+    <ele>939.1</ele>
+    <time>2019-06-24T21:43:59Z</time>
+    <name>Mollera d'Escalarre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.596021" lon="1.128566">
+    <ele>982.1</ele>
+    <time>2019-06-24T22:27:42Z</time>
+    <name>Mirador de la Vinyeta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.614906" lon="1.139023">
+    <ele>983.9</ele>
+    <time>2019-06-24T20:46:12Z</time>
+    <name>Sant Martí</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.612384" lon="1.135684">
+    <ele>961.9</ele>
+    <time>2019-06-24T20:46:32Z</time>
+    <name>Pla del Salito</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.607046" lon="1.127554">
+    <ele>939.1</ele>
+    <time>2019-06-24T20:47:48Z</time>
+    <name>Borda de Salito</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.610165" lon="1.135482">
+    <ele>940.9</ele>
+    <time>2019-07-10T12:46:04Z</time>
+    <name>Mollera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.598907" lon="1.133632">
+    <ele>936.0</ele>
+    <time>2019-07-10T12:59:45Z</time>
+    <name>Àrea d'esbarjo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.597256" lon="1.133551">
+    <ele>937.9</ele>
+    <time>2019-07-10T13:03:05Z</time>
+    <name>Torre de guaita</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.594543" lon="1.134189">
+    <ele>940.9</ele>
+    <time>2019-07-10T13:12:17Z</time>
+    <name>Àrea d'esbarjo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.599508" lon="1.130853">
+    <ele>937.0</ele>
+    <time>2019-07-10T14:15:40Z</time>
+    <name>Punt de guaita</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.626242" lon="1.126198">
+    <ele>951.9</ele>
+    <time>2019-07-25T11:38:25Z</time>
+    <name>Pont de la Central</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>D'Esterri d'Àneu a la Guingueta d'Àneu</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;D'Esterri d'Àneu a la Guingueta d'Àneu&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari a peu, també ideal per a ser fet en bicicleta, en família o en grup, per gaudir del patrimoni artístic i cultural de la capçalera de la Noguera Pallaresa, de la Mollera d’Escalarre i la seva natura, de l’observació de la vegetació de mollera i de la seva fauna, peixos, ocells i mamífers, on la llúdriga és protagonista. Cal visitar el nucli d’Esterri, amb el seu Ecomuseu de les Valls d’Àneu, l’antic monestir de Santa Maria d’Àneu i l’església de Sant Martí d’Escalarre. Part del recorregut està inclòs en el projecte local d’itineraris adaptats a persones amb mobilitat reduïda; un altre segment coincideix amb el recorregut del Camí del Búnquer, que visita els vestigis d’instal·lacions de defensa militar pertanyents al període de postguerra de 1940.&lt;/i&gt; 
+Ruta senyalitzada. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L’inici de la ruta se situa a l’aparcament de la Zona Esportiva Municipal d’Esterri d’Àneu, la població més important de la capçalera del Pallars Sobirà. S’hi arriba des de Sort per la carretera C-13 que, a continuació i com a C-28, comunica el Pallars amb la Vall d’Aran pel port de la Bonaigua. 
+ 
+0,00 km (949 m). Aparcament de la Zona Esportiva Municipal d’Esterri d’Àneu, al carrer dels Esports. Prenent aquest carrer, es va cap a l’interior de la població, es creua la carretera i es continua recte fins al carrer de la Carrerada, on hi ha el Parc de Bombers. Es gira a l’esquerra (N) i es va a trobar el pont de la Central, que servirà per travessar la Noguera Pallaresa. Un cop a l’altra banda, als 0,52 km de la sortida, es gira al sud i es pren el camí asfaltat que es dirigeix a Escalarre. 
+ 
+1,30 km (947 m), 19 min. Trencall de Santa Maria d’Àneu. Es pren aquesta desviació per anar a veure el que va ser un important monestir pallarès, que ja apareix documentat l’any 839. L'edifici actual data de mitjans del segle XI, consta de planta de tres naus amb absis central i dues absidioles laterals. La façana va ser reformada per complet al segle XX. A l’interior (cal concertar la visita anteriorment) destaquen les pintures murals del presbiteri, parcialment deteriorades, de les que s’ha conservat una sèrie extraordinària d’àngels amb les ales plenes d'ulls atribuïdes al Mestre de Pedret. Els originals es troben al Museu Nacional d'Art de Catalunya. Es torna al trencall d’accés (ara 2,65 km) i es continua cap a la dreta, al sud. 
+ 
+3,54 km (986 m), 52 min. Escalarre, petita població del municipi de la Guingueta d’Àneu. Es gira a la dreta seguint la pista i es passa pel costat de l’església de Sant Martí, un edifici romànic de boniques proporcions de planta basilical. Tenia tres naus, de les quals es conserven la central i la septentrional, amb els respectius absis semicirculars a llevant. A destacar la portalada, formada per dues arcades esculpides, de finals del segle XII. Remata la façana un campanar d’espadanya de dos ulls. Es continua cap avall, ara sobre camí de terra, i aviat s’arriba a la mollera o pla de Salito. Salito o salita és el nom pirinenc de l’arbre de ribera vern (Alnus glutinosa); salitar és, doncs, un lloc de verns. 
+ 
+5,70 km (938 m), 1 h 23 min. Àrea d’esbarjo de la Mollera d’Escalarre. Bancs, taules i, una mica més al sud, torre d’aguait. S’és al bell mig de la principal zona humida del Parc Natural de l'Alt Pirineu, un extens bosc de ribera, canyissars i aiguamolls recer d’ocells i espècies de ribera integrada a la Xarxa Natura 2000 i catalogada a l'inventari de Zones humides de Catalunya. Es continua camí avall. 
+ 
+6,35 km (938 m), 1 h 32 min. Pont de Poldo. Es deixa aquest pas a mà dreta (O) i es continua pel costat de la cua de l’embassament de la Torrassa. Al cap de mig quilòmetre s’arriba al pont de Badia (6,91 km) que, de moment, es deixa a la dreta (O). 
+ 
+7,83 km (938 m), 1 h 53 min. Àrea de la Torrassa, sobre mateix de l’embassament de la Torrassa. Es torna enrere fins al pont de Badia, que ara s’ha de creuar cap a l’oest (esquerra). A l’altra banda el camí remunta, ara cap al nord, passant pel costat de la carretera C-13. 
+ 
+9,40 km (940 m), 2 h 15 min. Pont de Poldo i la Guingueta d’Àneu. Des d’aquest punt surt l’itinerari adaptat de la Mollera d’Escalarre. Es continua cap al nord. Més amunt, al punt 10,12 km es troba un aguait de fauna sobre la mollera. Aquí acaba el tram adaptat. El camí, ara de terra, continua ribera amunt. Es passa el mas de la Borda de Salito (11,03 km), que es voreja deixant-lo a l’esquerra (O). 
+ 
+11,97 km (942 m), 2 h 52 min. Cal creuar la carretera C-13 i seguir per l’altra banda tot deixant el càmping La Presalla a l’esquerra. Es creua la riera del Tinter per un pont (13,05 km) i de seguida s’arriba als afores d’Esterri, a tocar de l’àrea esportiva. 
+ 
+13,42 km (949 m), 3 h 13 min. Aparcament de la Zona Esportiva Municipal d’Esterri d’Àneu. Final de l’excursió. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Desde Esterri d'Àneu hasta la Guingueta d'Àneu&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario a pie, también ideal para ser hecho en bicicleta, en familia o en grupo, para disfrutar del patrimonio artístico y cultural de la cabecera de la Noguera Pallaresa, de la Mollera de Escalarre y de su naturaleza, de la observación de la vegetación de ciénaga y de su fauna, peces, aves y mamíferos, donde la nutria es protagonista. Hay que visitar el núcleo de Esterri, con su Ecomuseo de las Valls d'Àneu, el antiguo monasterio de Santa Maria de Àneu y la iglesia de Sant Martí d’Escalarre. Parte del recorrido está incluido en el proyecto local de itinerarios adaptados a personas con movilidad reducida; otro segmento coincide con el recorrido del Camino del Búnker, que visita los vestigios de instalaciones de defensa militar pertenecientes al período de posguerra de 1940.&lt;/i&gt; 
+Ruta señalizada. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El inicio de la ruta se sitúa en el aparcamiento de la Zona Deportiva Municipal de Esterri d'Àneu, la población más importante de la cabecera del Pallars Sobirà. Se llega desde Sort por la carretera C-13 que, a continuación i bajo la denominación de C-28, comunica el Pallars con el Valle de Arán por el puerto de la Bonaigua. 
+ 
+0,00 km (949 m). Aparcamiento de la Zona Deportiva Municipal de Esterri d'Àneu, en la calle dels Esports. Se sale tomando esta calle hacia el interior de la población, se cruza la carretera y se sigue recto hasta la calle de la Carrerada, donde se encuentra el parque de bomberos. Se gira a la izquierda (N) y se va a encontrar el puente de la Central, que servirá para atravesar la Noguera Pallaresa. Una vez al otro lado, a 0,52 km de la salida, se gira al sur y se toma el camino asfaltado que se dirige a Escalarre. 
+ 
+1,30 km (947 m), 19 min. Desvío de Santa Maria d'Àneu. Se toma esta desviación para ir a ver lo que fue un importante monasterio, que ya aparece documentado en el año 839. El edificio actual data de mediados del siglo XI, consta de planta de tres naves con ábside central y dos absidiolos laterales. La fachada fue reformada por completo en el siglo XX. En el interior (hay que concretar la visita anteriormente) destacan las pinturas murales del presbiterio, parcialmente deterioradas, de las que se ha conservado una serie extraordinaria de ángeles con las alas llenas de ojos atribuidas al Maestro de Pedret. Los originales se encuentran en el Museo Nacional de Arte de Cataluña. Se vuelve al desvío de acceso (ahora 2,65 km) y se continúa hacia la derecha, al sur. 
+ 
+3,54 km (986 m), 52 min. Escalarre, pequeña población del municipio de la Guingueta d'Àneu. Se gira a la derecha siguiendo la pista y se pasa por el lado de la iglesia de Sant Martí, un edificio románico de hermosas proporciones de planta basilical. Tenía tres naves, de las que se conservan la central y la septentrional, con los respectivos ábsides semicirculares. A destacar la portada, formada por dos arcadas esculpidas, de finales del siglo XII. Remata la fachada un campanario de espadaña de dos ojos. Se continúa hacia abajo, ahora por camino de tierra, y pronto se llega a la mollera o Pla del Salito. Salito o salita es un nombre pirenaico del árbol de ribera denominado aliso (Alnus glutinosa); salitar es un lugar de alisos. 
+ 
+5,70 km (938 m), 1 h 23 min. Área de recreo de la Mollera de Escalarre. Bancos, mesas y, un poco más al sur, torre de acecho. Se está en el corazón de la principal zona húmeda del Parque Natural del Alt Pirineu, un extenso bosque de ribera, carrizales y humedales cobijo de aves y especies de ribera integrada en la Red Natura 2000 y catalogada en el inventario de zonas húmedas de Cataluña. Se continúa camino abajo. 
+ 
+6,35 km (938 m), 1 h 32 min. Puente de Poldo. Se deja este paso a mano derecha (O) y se continúa arrimados a la cola del embalse de la Torrassa. Al cabo de medio kilómetro se llega al puente de Badia (6,91 km) que, de momento, se deja a la derecha (O). 
+ 
+7,83 km (938 m), 1 h 53 min. Área de la Torrassa, sobre el mismo embalse de la Torrassa. Se vuelve atrás hasta el puente de Badia, que ahora se debe cruzar hacia el oeste (izquierda). Al otro lado el camino remonta, ahora hacia el norte, pasando por el lado de la carretera C-13. 
+ 
+9,40 km (940 m), 2 h 15 min. Puente de Poldo y la Guingueta d'Àneu. Desde este punto sale el itinerario adaptado de la Mollera de Escalarre. Se continúa hacia el norte. Más arriba, en el punto 10,12 km se encuentra un observatorio de fauna sobre la mollera. Aquí termina el tramo adaptado. El camino, ahora de tierra, continúa ribera arriba. Se pasa el caserío de la Borda de Salito (11,03 km), que se bordea dejándola a la izquierda (O). 
+ 
+11,97 km (942 m), 2 h 52 min. Hay que cruzar la carretera C-13 y seguir por el otro lado dejando el camping La Presalla a la izquierda. Se cruza el arroyo del Tinter por un puente (13,05 km) y enseguida se llega a las afueras de Esterri, junto al área deportiva. 
+ 
+13,42 km (949 m), 3 h 13 min. Aparcamiento de la Zona Deportiva Municipal de Esterri d'Àneu. Final de la excursión.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.624242" lon="1.122617">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624350" lon="1.122614">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624657" lon="1.126184">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.625918" lon="1.125981">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.626485" lon="1.126483">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.625983" lon="1.126882">
+        <ele>952.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624991" lon="1.127088">
+        <ele>950.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.622183" lon="1.129154">
+        <ele>947.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.621304" lon="1.130223">
+        <ele>945.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.620798" lon="1.131171">
+        <ele>947.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.620658" lon="1.131169">
+        <ele>947.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.620385" lon="1.130696">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.618870" lon="1.130845">
+        <ele>947.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.617500" lon="1.130215">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.616777" lon="1.130060">
+        <ele>945.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615534" lon="1.129488">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615452" lon="1.128917">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615340" lon="1.128920">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615452" lon="1.128917">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615534" lon="1.129488">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.616459" lon="1.129923">
+        <ele>945.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.618515" lon="1.130599">
+        <ele>947.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.618870" lon="1.130845">
+        <ele>947.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.620385" lon="1.130696">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.620732" lon="1.131283">
+        <ele>947.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.618840" lon="1.134272">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.617919" lon="1.136323">
+        <ele>961.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.617571" lon="1.137925">
+        <ele>964.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.616474" lon="1.138573">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615906" lon="1.139370">
+        <ele>985.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615529" lon="1.138976">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.614810" lon="1.139232">
+        <ele>989.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.614196" lon="1.138885">
+        <ele>983.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.612932" lon="1.136435">
+        <ele>969.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.612667" lon="1.136230">
+        <ele>968.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.612094" lon="1.136107">
+        <ele>963.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.611708" lon="1.135673">
+        <ele>957.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.610179" lon="1.135553">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.608943" lon="1.135896">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.608041" lon="1.135508">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.607621" lon="1.135484">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.606954" lon="1.134584">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.606135" lon="1.134072">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.605457" lon="1.134470">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604905" lon="1.134029">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.604143" lon="1.133967">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602183" lon="1.134481">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601801" lon="1.134828">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601487" lon="1.134886">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601251" lon="1.134765">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600615" lon="1.133882">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599574" lon="1.133596">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598328" lon="1.133932">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597868" lon="1.133635">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597371" lon="1.133528">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596927" lon="1.133657">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596270" lon="1.134481">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595935" lon="1.134674">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595031" lon="1.134518">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593617" lon="1.133695">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592604" lon="1.134017">
+        <ele>945.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591514" lon="1.133983">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591166" lon="1.134176">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590759" lon="1.134669">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589715" lon="1.135243">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.588930" lon="1.135157">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587088" lon="1.135681">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586534" lon="1.135399">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585639" lon="1.135212">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585214" lon="1.135371">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583855" lon="1.135436">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583229" lon="1.136540">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.582839" lon="1.139279">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583176" lon="1.136746">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583783" lon="1.135493">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.584141" lon="1.135354">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585214" lon="1.135371">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585639" lon="1.135212">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586534" lon="1.135399">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587088" lon="1.135681">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.588930" lon="1.135157">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589175" lon="1.134985">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589344" lon="1.134005">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589995" lon="1.132828">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591521" lon="1.132502">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591836" lon="1.132730">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593467" lon="1.132773">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594060" lon="1.133005">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594456" lon="1.132981">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595656" lon="1.132281">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596625" lon="1.131180">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597620" lon="1.130553">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598388" lon="1.130451">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599395" lon="1.130890">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.600920" lon="1.130247">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.601531" lon="1.130143">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602183" lon="1.130362">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.602664" lon="1.130286">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.603711" lon="1.129329">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.605708" lon="1.128855">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.606159" lon="1.128342">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.606371" lon="1.128372">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.606829" lon="1.127743">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.607070" lon="1.127882">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.607308" lon="1.127832">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.607640" lon="1.127255">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.608157" lon="1.126910">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.608949" lon="1.127179">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.610184" lon="1.126972">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.611742" lon="1.126998">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.612195" lon="1.127430">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.613026" lon="1.126478">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.613455" lon="1.126240">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.614239" lon="1.125223">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.614607" lon="1.125138">
+        <ele>938.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615096" lon="1.124167">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.615498" lon="1.123740">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.616101" lon="1.123698">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.617311" lon="1.121686">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.618185" lon="1.120892">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.619742" lon="1.120845">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.622472" lon="1.120128">
+        <ele>947.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624178" lon="1.120637">
+        <ele>947.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624345" lon="1.122583">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.624241" lon="1.122587">
+        <ele>949.0</ele>
+        <time>2019-07-30T11:13:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
