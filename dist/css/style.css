@@ -12,6 +12,9 @@ html body {
   width: 100%;
 }
 
+.h3 {
+  font-size:1.2em !important;
+ }
 #controls2 {
   position: absolute;
   z-index: 100;
@@ -21,7 +24,7 @@ html body {
   padding: 14px;
   border-radius: 18px;
   font-weight: bolder;
-  font-size: 1.3em;
+  font-size: 1.2em;
   display: none;
 }
 
@@ -32,81 +35,196 @@ i {
 i:hover {
   background-color: orange;
 }
-
 #pausa {
   float: left;
   margin-right: 10px;
   display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #playpausa {
-  float: left;
-  margin-right: 10px;
+  /*float: left;*/
+  /*margin-right: 10px;*/
   display: none;
+  padding-top: 10px;
+ 
 }
 
 #loading {
-  float: left;
-  margin-right: 10px;
+  /*float: left;*/
+  /*margin-right: 10px;*/
   display: none;
- 
+  
   position: absolute;
 }
 
 #play{
-  float: left;
-  margin-right: 10px;
+  *float: left;
+  *margin-right: 10px;
  
 }
 
 #home {
-  float: right;
+  /*float: right;*/
+  
+  padding-bottom: 5px;
 }
-
 
 #controls {
   position: absolute;
   z-index: 100;
-  bottom: 20px;
-  left: 45%;
+  bottom: 50%;
+  right: 0%;
   background-color: rgba(255, 255, 255, 0.6);
-  padding: 14px;
+  padding: 10px;
   border-radius: 18px;
   font-weight: bolder;
-  font-size: 1.3em;
- 
+  font-size: 1.15em;
+  text-align: center;
   display: none;
 }
 
 #controls:hover {
 
-background-color: rgba(255, 255, 255, 1) !important;
+background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
 
 
 .select:hover {
 
-background-color: rgba(255, 255, 255, 1) !important;
+background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
 
 #panellRutes {
   position: absolute;
-  z-index: 1000;
-  top: 2px;
-  left: 2px;
-  width: 392px;
-  background-color: white;
-  height: 64px;
-  padding-top: 11px;
-  border-radius: 4px;
+  z-index: 1200;
+  /*top: 2px;
+  left: 2px;*/
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: 50px;
+  padding-top: 6px;
+ /* border-radius: 40px;
   padding-left: 5px;
   padding-right: 5px;
-  -webkit-box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);
+ /* -webkit-box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);
-  box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);*/
 }
+
+
+.downloadIcon{
+  
+  padding-right: 30px;
+}
+
+
+/* Shrinking the sidebar from 250px to 80px and center aligining its content*/
+#sidebar.active {
+  min-width: 80px;
+  max-width: 80px;
+  text-align: center;
+  
+}
+
+/* Toggling the sidebar header content, hide the big heading [h3] and showing the small heading [strong] and vice versa*/
+#sidebar .sidebar-header strong {
+  display: none;
+}
+#sidebar.active .sidebar-header h3 {
+  display: none;
+  font-size: 1em !important;
+}
+#sidebar.active .sidebar-header strong {
+  display: block;
+}
+
+/*orotofoto topo*/
+.ui.vertical.menu .menu .item {
+  background: 0 0;
+  padding: .5em 1.33333333em;
+  font-size: 0.93em !important;
+  color: rgba(0,0,0,.5);
+}
+/*heads*/
+ .ui.vertical.menu .item {
+  background:0 0;
+  padding:.5em 1.33333333em;
+  font-size:1.3em !important; 
+  color:rgba(0,0,0,.5) 
+ }
+ 
+ /*dropdown info*/
+ .ui.menu .ui.dropdown.item .menu .item {
+  display:block !important;
+ }
+
+.ui.vertical.menu.item.titol{
+
+  font-size: 1.4em !important;
+}
+
+ .ui.inverted.menu .active.item {
+  background:rgba(255,255,255,.55) !important;
+  color:rgb(178, 177, 233)!important
+ }
+
+ /*RUTES DE CAT*/
+ .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+  font-size: 1.28571429em;
+  color: #e9e9f7 !important;
+}
+.ui.segment {
+  position:relative;
+  background: rgba(50, 50, 50, 0.61) !important;
+  -webkit-box-shadow:0 1px 2px 0 rgba(34,36,38,.15);
+  box-shadow:0 1px 2px 0 rgba(34,36,38,.15);
+  margin:1rem 0;
+  padding:1em 1em;
+  border-radius:.28571429rem;
+  border:1px solid rgba(43, 120, 197, 0.15)
+ }
+/*FIN RUTES CAT*/
+
+#sidebar ul li a {
+  text-align: left;
+  font-size: 1em !important;
+}
+
+#sidebar.active ul li a {
+  padding: 20px 10px;
+  text-align: center;
+  
+}
+
+#sidebar.active ul li a i {
+  margin-right:  0;
+  display: block;
+  font-size: 2em;
+  margin-bottom: 5px;
+}
+
+/* Same dropdown links padding*/
+#sidebar.active ul ul a {
+  padding: 10px !important;
+}
+
+/* Changing the arrow position to bottom center position, 
+ translateX(50%) works with right: 50% 
+ to accurately  center the arrow */
+#sidebar.active .dropdown-toggle::after {
+  top: auto;
+  bottom: 10px;
+  right: 50%;
+  -webkit-transform: translateX(50%);
+  -ms-transform: translateX(50%);
+  transform: translateX(50%);
+}
+
+
 
 
 #menuIcon {
@@ -118,8 +236,9 @@ background-color: rgba(255, 255, 255, 1) !important;
 }
 
 #menuSearch{
-  float: right;
-  width: 85%;
+  float: left;
+  width: 50%;
+  z-index: 1200;
 
 }
 
@@ -216,19 +335,25 @@ small {
   display: block;
   bottom: 5px;
   z-index: 10000;
-  /* width: 100%; */
-  left: 42%;
+    /* width: 100%; */
+  left: 2%;
   /* float: left; */
-  opacity: 0.5;
+  opacity: 0.8;
 
 }
 
-.vermell {
+/*.vermell {
 
   color:red;
   background-color: red;
 
 }
+.vermello {
+
+  color:green;
+  background-color: green;
+
+}*/
 
 .icgclogo {
   
@@ -243,7 +368,8 @@ small {
 
 #sideBarOptions{
 
-z-index:1000;
+z-index:100000;
+
 
 }
 
@@ -413,12 +539,11 @@ z-index:1000;
   #controls {
     position: absolute;
     z-index: 100;
-    bottom: 5px;
-    right: 5px;
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 14px;
-    border-radius: 18px;
-    font-weight: bolder;
+    right: 0;
+    /*background-color: rgba(255, 255, 255, 0.15);*/
+    padding: 5px;
+    border-radius: 10px;
+    /*font-weight: bolder;*/
     font-size: -0.7em;
     width: 68px;
     left: auto;
@@ -426,7 +551,7 @@ z-index:1000;
 }
 
 #controls div {
-padding-bottom: 5px;
+padding-bottom: 50%;
 
 } 
 
@@ -500,9 +625,11 @@ padding-bottom: 5px;
   }
 
   h3.ui.header .sub.header {
-    font-size: 0.7rem;
+    font-size: 1em;
   }
 
-
+  h3 {
+    font-size:1.2em !important;
+   }
 
 }

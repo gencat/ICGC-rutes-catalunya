@@ -28,72 +28,90 @@
 </head>
 
 <body>
-  <div id="sideBarOptions" class="ui left vertical sidebar labeled menu overlay">
+<!--START SIDEBAR-->
+  <div id="sideBarOptions" class="ui left vertical sidebar menu inverted">
     <div class="ui placeholder1 segment">
       <div class="ui header">
         Rutes de Catalunya
       </div>
     </div>
-    <div class="ui divided list">
       <div class="item">
-        <i class="large globe middle aligned icon"></i>
-        <div class="content">
-          <a class="ui header">Foto</a>
-         
+        Mapa Base <i class="map icon"></i> 
+        <div class="menu">
+          <a class="item" id="ortofotoMenu">Ortofoto</a>
+          <a class="item topographicMenu" >Topogràfic</a>
+          <a class="item" id="hibridMenu">Hibrid</a>
+          <a class="item" id="relleuMenu">Relleu</a>
+          <a class="item" id="geologicMenu">Geològic</a>
         </div>
       </div>
-      <div class="item">
-        <i class="large image middle aligned icon"></i>
-        <div class="content">
-          <a class="header">Hibrida</a>
-         
-        </div>
-      </div>
-      <div class="item">
-        <i class="large map middle aligned icon"></i>
-        <div class="content">
-          <a class="header">Mapa</a>
-        
-        </div>
+    
+      <a class="item ">
+        <i class="upload icon"></i> Puja la teva ruta
+      </a>
+
+      <a class="item" href="http://betaserver.icgc.cat" >Informació <i class="info icon"></i> 
+       <!--<div class="menu">
+          <a class="item">Font de dades Rutes</a>
+          <a class="item"> Font de dades Mapes</a>
+                 
+      </div>-->
+    </a>
+      <div>  </div>
+      <div><a class="item">Contactan's! <i class="mail icon"></i> </a>
       </div>
     </div>
-  </div>
+  
+  <!--END SIDEBAR-->
+  <!--START CONTROL ANIMACIO-->
   <div id="controls">
     <div id="aturar">
+
       <div id="play">
         <i class="circular play icon"></i><span class="spnText">Anima</span>
       </div>
+
       <div id="loading">
         <i class="circular orange spinner loading icon"></i>
       </div>
-      <div id="pausa">
-        <i class="circular pause icon"></i> <span class="spnText">Pausa</span>
-      </div>
+
       <div id="home">
         <i class="circular sync icon"></i><span class="spnText"> Inici</span>
       </div>
+      
     </div>
   </div>
+  <!--END CONTROL ANIMACIO-->
+  <!--START BARRA SUP RUTES-->
   <div id="panellRutes">
-    <div id="menuIcon"><i class="large bars icon"></i> </div>
+    <div id="menuIcon"><i class=" large caret square left icon "></i></div>
     <div id="menuSearch" class="ui fluid search">
       <div class="ui icon input">
         <input class="prompt" type="text" placeholder="Cercar rutes...">
         <i class="search icon"></i>
       </div>
-      <div class="results"></div>
+    <div class="results"></div>
     </div>
+    <i class="download large icon"></i>
   </div>
-
+<!--END BARRA SUP RUTES-->
+<!--START MAPA-->
   <div id="map"></div>
+<!--END MAPA-->
+<!--START ICGC LOGO-->
   <div class="icgcLogoPosition">
     <a href="https://icgc.cat" alt="{textLogo}" target="_blank">
       <div class="icgclogo"></div>
     </a>
   </div>
+<!--END ICGC LOGO-->
+  </div>
+</div>
+
+
   <script type="text/javascript" src="./dist/data/rutes.js"></script>
   <script type="text/javascript" src="./dist/bundle-dev.js"></script>
-
+  
 </body>
 
 </html>

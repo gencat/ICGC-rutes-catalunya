@@ -6,16 +6,26 @@ const south = 42.0;
 const east = 2.1;
 const north = 42.2;
 let trackDataSource = null;
+let trackDataSourced = null;
 let trackGeoJSON = null;
-const URL_ORTO = "https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.png";
-const URL_HIBRID = "https://tilemaps.icgc.cat/tileserver/tileserver.php/Hibrida_total/{z}/{x}/{y}.png";
+const URL_ORTO = "https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.jpeg";
+const URL_HIBRID = "https://tilemaps.icgc.cat/mapfactory/wmts/hibrida_total/CAT3857/{z}/{x}/{y}.png";
+const URL_TOPO =  "https://tilemaps.icgc.cat/mapfactory/wmts/topo_suau/CAT3857/{z}/{x}/{y}.png";
+const URL_GEOL = "https://tilemaps.icgc.cat/mapfactory/wmts/geologia/MON3857NW/{z}/{x}/{y}.png";
+const URL_RELLEU = "";
 let URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
-let imPro;
-let imBase;
+
+var imPro;
+var imBase;
 const dev = true;
+let viewer;
+
+
 
 let rutaIniciada = false;
+let isInPause = true;
 let labelsDatasource;
+
 
 
 $(window.document).ready(() => {
@@ -24,22 +34,26 @@ $(window.document).ready(() => {
 
 	if (dev) {
 
-		/*
-		imBase = new Cesium.ArcGisMapServerImageryProvider({
-			url: "//services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/",
-			maximumLevel: 14,
-			enablePickFeatures: false,
-			credit: "ESRI"
-		});
-*/
 		imPro = new Cesium.UrlTemplateImageryProvider({
 			url: URL_ORTO,
 			enablePickFeatures: false,
 			maximumLevel: 18,
 			credit: "Institut Cartogràfic i Geològic de Catalunya"
 		});
+		
+		/*imBase = layers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({
+		url: "http://localhost/mapcache/wmts/?",
+		layer: "orto",
+		style: "default",
+		format: "image/png",
+		tileMatrixSetID: "GMTOT",
+		maximumLevel: 18,
+		credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya")
+		}));*/
 
 		URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
+
+	
 
 	} else {
 
@@ -53,18 +67,17 @@ $(window.document).ready(() => {
 			credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya")
 		});
 
-		URL_TERRENY = "/terrenys/demextes";
+		URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
 
 	}
 
-
-	const viewer = new Cesium.Viewer("map", {
+	viewer = new Cesium.Viewer("map", {
 
 		imageryProvider: imPro,
 		timeline: false,
+		fullscreenElement:true,
 		navigationHelpButton: false,
 		scene3DOnly: true,
-		fullscreenButton: false,
 		baseLayerPicker: false,
 		homeButton: false,
 		infoBox: true,
@@ -76,6 +89,7 @@ $(window.document).ready(() => {
 		vrButton: false,
 		showRenderLoopErrors: false,
 		useDefaultRenderLoop: true,
+		orderIndependentTranslucency: true,
 		sceneMode: Cesium.SceneMode.SCENE3D,
 
 		terrainProvider: new Cesium.CesiumTerrainProvider({
@@ -83,21 +97,18 @@ $(window.document).ready(() => {
 		})
 	});
 
-	const scene = viewer.scene;
+	let scene = viewer.scene;
 	scene.globe.depthTestingAgainstTerrain = true;
-	const camera = viewer.scene.camera;
+	let camera = viewer.scene.camera;
 	viewer.scene.globe.enableLighting = true;
 	viewer.scene.fog.enabled = true;
 	viewer.scene.fog.density = 0.0002;
 	viewer.scene.fog.screenSpaceErrorFactor = 2;
 
-	//const layers = viewer.scene.imageryLayers;
-
-	//	layers.addImageryProvider(imPro);
-
+	
 	vistaInicial();
 	initEvents();
-
+	setupLayers();
 
 	function showEntitiesLabels(value) {
 
@@ -251,12 +262,16 @@ $(window.document).ready(() => {
 
 	function initEvents() {
 
+
+
+
 		$("#selectRutes").on("change", function () {
 
 			if (this.value != null) {
 
 				resetPlay();
 				$("#controls").show();
+				$("#pausa").hide();
 				$("#loading").hide();
 				showEntitiesLabels(false);
 				rutaIniciada = false;
@@ -265,55 +280,70 @@ $(window.document).ready(() => {
 			}
 
 		});
+		
 
 		jQuery("#menuIcon").on("click", () => {
 
 
-			$("#sideBarOptions").sidebar("toggle");
+	//		$("#sideBarOptions").sidebar("toggle");
+
+
+			$("#sideBarOptions").first()
+			.sidebar("toggle");
+
+			$("toggle")
+			.removeClass('disabled')
+;
 
 		});
+	
+	
 
 		jQuery("#play").on("click", () => {
+			
+			if (rutaIniciada){
+				//canvia valor al contrari. SI està en pausa (false), al fer clic canvia a noPausa(true) i al reves. 
+				//De manera que si està en pause(false), l enterPauseMode serà false i llavors animarà.
+				//Si està en play(NoPause, true), el enterPause mode serà true i llavors pausarà.
+				
+				isInPause = !isInPause
+				enterPauseMode(isInPause);
 
-
-			if (rutaIniciada) {
-
-				enterPauseMode(true);
-
-			} else {
-
+			//Si no està en pausa ni està en play farà el ELSE (que es començar l'animació desde el principi (startPlaying))
+			}else{
 				showEntitiesLabels(true);
 
-				jQuery("#loading").show(1000, (e) => {
-
-					rutaIniciada = true;
-					startPlaying();
-					$("#loading").hide();
-
-				});
-
+					jQuery("#loading").show(1000, (e) => {
+	
+						rutaIniciada = true;
+						console.log("comença")
+						startPlaying();
+						$("#loading").hide();
+						jQuery("#play i").removeClass("circular play icon");
+    					jQuery("#play i").addClass("circular pause icon")
+	
+					});
+					isInPause = false
 			}
-			//
-
-
+		
 		});
 
 
-		$("#pausa").on("click", () => {
+		/*$("#pausa").on("click", () => {
 
 			// console.info("pausa");
 			if (rutaIniciada) {
 
-				enterPauseMode(false);
+				enterPauseMode(true);
 
 			}
 
-		});
+		});*/
 
 		$("#playpausa").on("click", () => {
 
 			//console.info("playpausa");
-			enterPauseMode(true);
+			enterPauseMode(false);
 			$("#pausa").show();
 			$("#loading").hide();
 			//  $("#playpausa").hide();
@@ -326,6 +356,9 @@ $(window.document).ready(() => {
 			if (rutaIniciada) {
 
 				initAnimation();
+				jQuery("#play i").removeClass("circular play icon");
+				jQuery("#play i").addClass("circular pause icon");
+				
 
 			}
 
@@ -344,15 +377,18 @@ $(window.document).ready(() => {
 				maxResults: 7,
 				fullTextSearch: "exact",
 				onSelect: function (result) {
-
+				console.log("search")
 					if (result.id != null) {
 
 						resetPlay();
 						$("#controls").show();
+						$("#pausa").hide();
 						$("#loading").hide();
 						showEntitiesLabels(false);
 						rutaIniciada = false;
 						loadGPX(result.id);
+						
+						
 
 					}
 
@@ -366,11 +402,13 @@ $(window.document).ready(() => {
 
 	function loadGPX(gpx) {
 
-		jQuery("#menuSearch").addClass("vermell");
+		/*jQuery("#menuSearch").addClass("vermell");*/
 
 		// const id1 = gpx.split("_");
 		// const id = id1[0].startsWith("00") ? id1[0].substring(2, id1[0].length) : id1[0].substring(1, id1[0].length);
 		const ruta = `dist/data/rutes/${gpx}`;
+		const rutaStatic = `dist/data/rutes/${gpx}`;
+
 		const lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
 
 
@@ -388,8 +426,10 @@ $(window.document).ready(() => {
 
 
 			viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then((ds) => {
-
+// trackDataSource segueix el track amb animació
 				trackDataSource = ds;
+				
+
 
 				if (fly) {
 
@@ -421,28 +461,138 @@ $(window.document).ready(() => {
 
 	}
 
+
+	function setupLayers(){
+		
+	
+		$("#topograficMenu").on("click", () => {
+			console.log("entrotopo")
+			imPro = new Cesium.UrlTemplateImageryProvider({
+				url: URL_TOPO,
+				enablePickFeatures: false,
+				maximumLevel: 18,
+				credit: "Institut Cartogràfic i Geològic de Catalunya"
+			})
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(0);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+			
+			
+		})
+
+		$("#ortofotoMenu").on("click", () => {
+			console.log("entroorto")
+			imPro = new Cesium.UrlTemplateImageryProvider({
+				url: URL_ORTO,
+				enablePickFeatures: false,
+				maximumLevel: 18,
+				credit: "Institut Cartogràfic i Geològic de Catalunya"
+			})
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(0);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+			
+		})
+		$("#hibridMenu").on("click", () => {
+			console.log("entrohibrid")
+	
+			imPro = new Cesium.UrlTemplateImageryProvider({
+				url: URL_HIBRID,
+				enablePickFeatures: false,
+				maximumLevel: 18,
+				credit: "Institut Cartogràfic i Geològic de Catalunya"
+			})
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(1);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+			
+		})
+		$("#relleuMenu").on("click", () => {
+			console.log("entrorelleu")
+			imPro = new Cesium.UrlTemplateImageryProvider({
+				url: URL_RELLEU,
+				enablePickFeatures: false,
+				maximumLevel: 18,
+				credit: "Institut Cartogràfic i Geològic de Catalunya"
+			})
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(0);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+			
+		})
+		$("#geologicMenu").on("click", () => {
+			console.log("entrogeo")
+			imPro = new Cesium.UrlTemplateImageryProvider({
+				url: URL_GEOL,
+				enablePickFeatures: false,
+				maximumLevel: 18,
+				credit: "Institut Cartogràfic i Geològic de Catalunya"
+			})
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(0);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+			
+		})
+
+
+}
+	
+	function setupPause(){
+		
+		jQuery("#play i").removeClass("circular pause icon")
+    	jQuery("#play i").addClass("circular play icon")
+		animate(false);
+	
+	}
+
+	function setupRunning(){
+
+		jQuery("#play i").removeClass("circular play icon")
+    	jQuery("#play i").addClass("circular pause icon")
+		animate();
+		
+	}
+
 	function startPlaying() {
 
 
 		console.info("entro");
 
 		//$("#playicon").addClass("loading");
+		//FIXME SAME VALUE ALWAYS
 		const event = "play";
+		
+
 		if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || (event === "play")) {
-
+			//Resetea la ruta
 			viewer.clock.currentTime = Cesium.JulianDate.fromIso8601(trackGeoJSON.features[0].properties.coordTimes[0]);
-
-
 		}
 
-
+		
 		viewer.trackedEntity = trackDataSource.entities.getById("track");
+		
+		/*viewer.trackedEntity = trackDataSourced.entities.getById("track");*/
 
-
+		// fa que e simbol del hiker es mogui
 		trackDataSource.entities.getById("track").billboard.show = true;
+		/*trackDataSourced.entities.getById("track").billboard.show = true;*/
 		viewer.clock.shouldAnimate = true;
 
 
+	}
+
+	function animate(animate = true){
+		viewer.clock.shouldAnimate = animate;
 	}
 
 	function endLoading() {
@@ -460,6 +610,7 @@ $(window.document).ready(() => {
 
 		viewer.clock.shouldAnimate = false;
 		viewer.trackedEntity = undefined;
+		viewer.trackedEntity = undefined;
 		//trackDataSource.entities.getById('track').billboard.show = false;
 		//readyToPlayButtonState();
 		//viewer.clock.onTick.removeEventListener(clockTracker);
@@ -468,15 +619,21 @@ $(window.document).ready(() => {
 
 	function initAnimation() {
 
+		isInPause = false
 		viewer.clock.currentTime = viewer.clock.startTime;
 		viewer.clock.shouldAnimate = true;
 
 	}
 
-	function enterPauseMode(mode) {
+	function enterPauseMode(isInPause) {
 
 		//viewer.clock.onTick.removeEventListener(clockTracker);
-		viewer.clock.shouldAnimate = mode;
+		if (isInPause){
+			setupPause()
+		} else {
+			setupRunning()
+		}
+		//viewer.clock.shouldAnimate = !isInPause;
 		//pausedButtonState();
 
 	}
