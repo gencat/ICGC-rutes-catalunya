@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="40.922486" lon="0.400407">
+    <ele>353.0</ele>
+    <time>2017-01-30T11:30:31Z</time>
+    <name>Paüls</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.943406" lon="0.382408">
+    <ele>1044.5</ele>
+    <time>2017-01-30T11:30:35Z</time>
+    <name>Mola Grossa de Montsagre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.925573" lon="0.386446">
+    <ele>364.8</ele>
+    <time>2014-06-15T20:08:11Z</time>
+    <name>Barranc de Morellà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.934649" lon="0.364534">
+    <ele>938.5</ele>
+    <time>2014-06-15T20:08:16Z</time>
+    <name>Font del Montsagre d'Horta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.931203" lon="0.361714">
+    <ele>1023.5</ele>
+    <time>2014-06-15T20:08:16Z</time>
+    <name>Coll dels Atans</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.930131" lon="0.366447">
+    <ele>939.4</ele>
+    <time>2014-06-15T20:08:17Z</time>
+    <name>Coll de la Gilaberta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.920310" lon="0.368634">
+    <ele>956.5</ele>
+    <time>2014-06-15T20:08:20Z</time>
+    <name>Avenc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.921394" lon="0.374707">
+    <ele>742.2</ele>
+    <time>2014-06-15T20:08:24Z</time>
+    <name>Cova del Llop</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.930289" lon="0.387686">
+    <ele>346.6</ele>
+    <time>2014-06-15T20:46:04Z</time>
+    <name>Coves Roges</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.930962" lon="0.384630">
+    <ele>465.7</ele>
+    <time>2014-06-15T20:46:04Z</time>
+    <name>Cingles de lo Tormassal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.941817" lon="0.377943">
+    <ele>841.9</ele>
+    <time>2014-06-15T20:46:07Z</time>
+    <name>Font del Montsagre de Paüls</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.920775" lon="0.366629">
+    <ele>902.8</ele>
+    <time>2014-06-15T20:46:09Z</time>
+    <name>Pou del Vacarissal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.919358" lon="0.367366">
+    <ele>931.8</ele>
+    <time>2014-06-15T20:46:12Z</time>
+    <name>Coll de l'Avenc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.922319" lon="0.392535">
+    <ele>395.9</ele>
+    <time>2014-06-15T20:46:15Z</time>
+    <name>La Fonteta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.910913" lon="0.382849">
+    <ele>450.8</ele>
+    <time>2017-01-30T12:13:46Z</time>
+    <name>Sant Roc. Àrea recreativa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.929069" lon="0.384290">
+    <ele>412.1</ele>
+    <time>2012-10-13T06:50:14Z</time>
+    <name>Tarteram</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.931623" lon="0.382971">
+    <ele>463.0</ele>
+    <time>2012-10-13T07:00:03Z</time>
+    <name>Barranc de l'Escudelleta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.941611" lon="0.380968">
+    <ele>950.7</ele>
+    <time>2012-10-13T09:26:50Z</time>
+    <name>Forat de la Finella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.927767" lon="0.368841">
+    <ele>1090.3</ele>
+    <time>2012-10-13T11:13:01Z</time>
+    <name>Punta de l'Aigua</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.922955" lon="0.397628">
+    <ele>378.3</ele>
+    <time>2017-04-06T13:42:22Z</time>
+    <name>Cementiri</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="40.935495" lon="0.382023">
+    <ele>611.4</ele>
+    <time>2017-04-06T13:45:17Z</time>
+    <name>Barranc de Montsagre</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Paüls al Montsagre de Paüls i al Montsagre d’Horta</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Paüls al Montsagre de Paüls i al Montsagre d’Horta&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Sobre Paüls s’alça un dels indrets més imponents i interessants del massís dels Ports: el Montsagre de Paüls i el Montsagre d’Horta. Al llarg del temps l’aigua, que encara raja als seus punts més alts, i el vent ha anat marcant uns barrancs drets i escarpats, amb cingleres formidables i desnivells notoris. Al capdamunt, pinedes mediterrànies resguarden una flora i fauna de gran bellesa i els seus cims ofereixen una talaia impagable sobre les comarques ebrenques del sud del Principat.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;A Paüls s’hi arriba per la carretera TV-3541, que cal agafar a Xerta, on comunica amb la carretera C-12. Abans d’entrar al poble, en una placeta amb un cartell amb el nom del poble, cal seguir les indicacions cap a l’ajuntament, per pujar pel carrer de la Creu fins a la plaça Major. 
+ 
+Paüls s'alça en un turó, i als seus carrers, que es dibuixen seguint les corbes de nivell, cada casa és un mirador. A les parts baixes del terme, en espais escrupolosament abancalats, s'arrengleren els cirerers; al fons, el Montsagre, el Montaspre i altres puntes, moles i moletes, tanquen l'escenari. 
+ 
+0,00 km (353 m). Paüls. Des de la plaça Major s’agafa el carrer del Montsagre, que surt per la dreta de l’ajuntament i puja fins al cementiri (NO). Passant pel costat del cementiri es pren el GR-171 continuant per la pista (pal indicador, petit tram compartit amb la travessa Estels del Sud de Paüls a Arnes). Seguint la senyalització del parc es va remuntant l’encara ampla vall del barranc de Montsagre per pista i senders en direcció NO fins que s’arriba al barranc de Morellà. Quan es creua el rierol es torça cap al N. Després d’un breu tros de pista s’arriba al trencall cap a les coves Roges. 
+ 
+1,74 km (390 m), 25 min. Trencall a les coves Roges. Seguint les fites pel sender que descendeix cap a l’esquerra (NE) es podria visitar, sumant gairebé 1 quilòmetre més al recorregut, les coves Roges: unes balmes grosses usades antigament com a refugi, de pedra vermella. 
+ 
+Des del trencall es continua pel sender principal sempre en pujada. Es passa una tartera i, una mica més endavant, pel peu dels impressionants cingles de lo Tomassal, cinglera amb les formes característiques dels Ports. Es continua remuntant, ara seguint el curs del barranc de Montsagre, feréstec i costerut, generalment sec. Girant la vista enrere es va veient com s’obre la vall de Paüls als peus i, al fons, els meandres de l’Ebre al seu pas per la serra de Cardó i del Boix, sobre Xerta. 
+ 
+3,96 km (842 m), 1 h 45 min. Montsagre de Paüls. Després de tanta pujada (els últims metres són més plans) s’arriba finalment a la font del Montsagre de Paüls. Es poden carregar cantimplores i contemplar l’indret florit, una plana tancada entre muntanyes: a garbí es veuen los Llambrars; a ponent, el Tossal d’Engrills, on hi mena una pista; i a gregal, la Mola Grossa del Montsagre de Paüls, on cal dirigir-se ara. Des de la font es segueix el sender cap al NE; 140 m més endavant es deixa el GR-171, que se’n va cap a l’esquerra, i es continua pujant per la dreta directe cap a la Mola Grossa. Aviat cal grimpar una mica (tram sense dificultat tècnica però que requereix d’experiència en terrenys abruptes), seguint les fites que porten al forat de la Finella, una petita obertura entre les pedres que permet passar a l’altre costat de la serra. Atravessat el forat, es segueix pujant cap a l’esquerra seguint l’espadat per coronar el Montsagre de Paüls 
+ 
+4,65 km (1.045 m), 2 h 20 min. Mola Grossa. Des dels seus poc més de 1.000 m d’alçada es divisen tots els Ports i el delta de l’Ebre, la Terra Alta, el Matarranya i, en dies clars, els Pirineus. Es desfà el camí fins la font i des d’allà es continua pel corriol fressat (SO) que remunta entre les carenes de les Puntes de Raus i d’Atans fins un collet ample sota la Punta dels Llambrars. Per boscos de pineda mediterrània es torna a baixar fins una altra font. 
+ 
+6,76 km (938 m), 3 h 00 min. Font del Montsagre d’Horta. Més modesta que l’anterior, desaigua cap al vessant oriental dels Ports. Es segueix el corriol (SO), que puja de nou entrant en pinedes amb balconades extraordinàries sobre Horta de Sant Joan, Arnes, Lledó d’Algars i Cretes (ja al Matarranya). Al coll dels Atans (7,63 km, 3 h 20 min) es vira cap al E i de seguida s’inicia el descens al coll de de la Gilaberta. 
+ 
+8,09 km (939 m), 3 h 30 min. Coll de de la Gilaberta. Racó fresc sota la Punta de l’Aigua, terme mig entre la vall de Paüls i les rieres d’Horta de Sant Joan i Arnes. Es creua de nou el recorregut la travessa Estels del Sud de Paüls a Arnes. Es continua pujant per l’altra banda del coll (SO), amb un ascens més pronunciat com més a prop del cim. Quan s’arriba a un collet rocós, es pren el camí marcat amb fites cap a l’esquerra (NO), que per sobre els arbres puja fins la Punta de l’Aigua. 
+ 
+8,72 km (1.089 m), 3 h 55 min. Punta de l’Aigua. Un dels cims del massís dels Ports amb millors vistes: als peus, a ponent, la vall de Paüls i de l’Ebre, franquejada per la Serra de Montsià; a migdia, les moletes de les Canals i del Camp i, al fons, el Caro; a garbí, les característiques Roques de Benet; i a ponent i tramuntana, el camí que s’ha fet fins aquí per la Mola dels Atans, la Punta de Raus i la Mola Grossa. 
+ 
+Es desfà el camí fins l’últim collet (reculant uns 20 m) i s’inicia el descens en direcció S per un terreny més abrupte. Es retroba el bosc i s’arriba a la fondalada del Vacarissal, amb un antic pou. Es torna a remuntar breument fins al coll de l’Avenc. 
+ 
+9,91 km (932 m), 4 h 15 min. Coll de l’Avenc. Últim mirador sobre Paüls abans de descendir-hi per un corriol molt marcat dins el bosc espès. Es comencen a intuir antics conreus, feixes i camins de bestiar. Es troba un trencall (10,88 km, 4 h 35 min) cap a la cova del Llop, un altra balma que es pot visitar afegint 300 m al recorregut. El sender continua baixant suaument fins que desemboca a una pista a l’alçada de la caseta del Pubill. 
+ 
+11,76 km (596 m), 4 h 50 min. Pista. Es continua el descens per la pista, que serpenteja pel límit dels conreus. Passada la caseta del Martó, la més gran, 110 m més avall es troba un trencall amb tres camins: es deixa la pista principal a la dreta i una altra a l’esquerra, i s’agafa el sender que surt recte més pla. (Cal parar atenció, és un sender a primera vista poc evident i sense senyalitzar.) Aquest sender baixa entre els arbres fins al corral del Carlet i voreja les seves oliveres abans de tornar a descendir pel bosc fins l’àrea recreativa de la Fonteta, ja a la pista que retorna a Paüls. 
+ 
+13,68 km (353 m), 5 h 20 min. Paüls. L’últim tros de pista asfaltat porta fins l’altra banda del cementiri i, pel carrer del Montsagre, s’arriba de nou a la plaça Major, punt d’inici. Fi de l’itinerari. 
+ 
+&lt;i&gt;El recorregut ha permès conèixer una zona espectacular del Parc Natural dels Ports. Aquest parc va ser creat el 2001 per la Generalitat de Catalunya amb la finalitat de gestionar l’àmbit propi del Principat d’aquest extens massís muntanyós situat entre Catalunya, el País Valencià i la Franja de Ponent. Massís calcari, de relleu escarpat i abrupte, ha estat humanitzat des de temps prehistòrics però perdura com un espai feréstec i ple de vida salvatge. S’estén sobre 35.050 hectàrees de les comarques del Baix Ebre, Montsià i Terra Alta pertanyents a 9 municipis. L’inventari actual de la seva biodiversitat recull 1.370 tàxons de flora vascular i més de 200 espècies de vertebrats.&lt;/i&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Paüls al Montsagre de Paüls y al Montsagre d’Horta&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Sobre Paüls se alza uno de los lugares más impresionantes e interesantes del macizo de los Ports: el Montsagre de Paüls y el Montsagre d’Horta. A lo largo del tiempo el agua, que todavía mana de sus puntos más altos, ha ido marcando unos barrancos empinados y escarpados, con riscos imponentes y desniveles notorios. En sus cimas, pinares mediterráneos resguardan una flora y fauna de belleza única, y sus montañas ofrecen una atalaya impagable sobre las comarcas del Ebro y del sur del Principado.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;A Paüls se llega por la carretera TV-3541, que hay que tomar en Xerta, donde comunica con la carretera C-12. Antes de entrar en el pueblo, en una plazoleta con un cartel con el nombre del pueblo, hay que seguir las indicaciones hacia el ayuntamiento, para subir por la calle de la Creu hasta la plaza Major. 
+ 
+Paüls se alza en una colina, y en sus calles, que se dibujan siguiendo las curvas de nivel, cada casa es un mirador. En las partes bajas del término, en espacios escrupulosamente abancalados, se alinean los cerezos; al fondo, el Montsagre, el Montaspre y otras puntas, cierran el escenario. 
+ 
+0,00 km (353 m). Paüls. Desde la plaza Major se toma la calle del Montsagre, que sale por la derecha del ayuntamiento y sube hasta el cementerio (NO). Pasando junto al cementerio se toma el GR-171 continuando por la pista (poste indicador, pequeño tramo compartido con la travesía Estels del Sud de Paüls a Arnes). Siguiendo la señalización del parque se va remontando el aún ancho valle del barranco de Montsagre por pista y senderos en dirección NO hasta que se llega al barranco de Morellà. Cuando se cruza el arroyo se tuerce hacia el N. Después de un breve trozo de pista llega al desvío hacia las cuevas Roges. 
+ 
+1,74 km (390 m), 25 min. Bifurcación a las cuevas Roges. Siguiendo los hitos por el sendero que desciende hacia la izquierda (NE) se podría visitar, sumando casi 1 kilómetro más al recorrido, las cuevas Roges: unas grutas superficiales grandes usadas antiguamente como refugio, de piedra roja. 
+ 
+Desde el desvío se continúa por el sendero principal siempre en subida. Se pasa una tartera y, un poco más adelante, por el pie de los impresionantes riscos del Tomassal, risco con las formas características de los Ports. Se sigue remontando, ahora siguiendo el curso del barranco de Montsagre, salvaje y empinado, generalmente seco. Girando la vista atrás se va viendo cómo se abre el valle de Paüls a los pies y, al fondo, los meandros del Ebro a su paso por la sierra de Cardó y del Boix, sobre Xerta. 
+ 
+3,96 km (842 m), 1 h 45 min. Montsagre de Paüls. Después de tanta subida (los últimos metros son más planos) se llega finalmente a la fuente del Montsagre de Paüls. Se pueden cargar cantimploras y contemplar el lugar florido, una plana cerrada entre montañas: a ábrego se ven los Llambrars; a poniente, el Tossal d’Engrills, donde sube una pista; y a gregal, la Mola Grossa del Montsagre de Paüls, donde hay que dirigirse ahora. Desde la fuente se sigue el sendero hacia el NE; 140 m más adelante se deja el GR-171, que se va hacia la izquierda, y se continúa subiendo por la derecha directo hacia la Mola Grossa. Pronto hay que trepar un poco (tramo sin dificultad técnica pero que requiere de experiencia en terrenos abruptos), siguiendo los hitos que llevan al agujero de la Finella, una pequeña abertura entre las piedras que permite pasar al otro lado de la sierra. Pasado el agujero, se sigue subiendo hacia la izquierda siguiendo el acantilado para coronar el Montsagre de Paüls 
+ 
+4,65 km (1.045 m), 2 h 20 min. Mola Grossa. Desde sus poco más de 1.000 m de altura se divisan todos los Ports y el delta del Ebro, la Terra Alta, el Matarraña y, en días claros, los Pirineos. Se deshace el camino hasta la fuente y desde allí se continúa por el sendero trillado (SO) que remonta entre las crestas de las Puntes de Raus y d’Atans hasta un collado ancho bajo la Punta dels Llambrars. Por bosques de pinar mediterráneo se vuelve a bajar hasta otra fuente. 
+ 
+6,76 km (938 m), 3 h 00 min. Fuente del Montsagre d’Horta. Más modesta que la anterior, desagua hacia la vertiente oriental de los Ports. Se sigue el sendero (SO), que sube de nuevo entrando en pinares con balcones extraordinarios sobre Horta, Arnes, Lledó d’Algars y Cretes (ya en el Matarraña). En el cuello de los Atans (7,63 km, 3 h 20 min) se vira hacia el E y enseguida se inicia el descenso al collado de la Gilaberta. 
+ 
+8,09 km (939 m), 3 h 30 min. Collado de la Gilaberta. Rincón fresco bajo la Punta de l’Aigua, término medio entre el valle de Paüls y los arroyos de Horta de Sant Joan y Arnes. Se cruza de nuevo el recorrido la travesía Estels del Sud de Paüls a Arnes. Se continúa subiendo por el otro lado del collado (SO), con un ascenso más pronunciado cuanto más se cerca a la cima. Cuando se llega a un collado rocoso, se toma el camino marcado con hitos hacia la izquierda (NO), que por sobre los árboles sube hasta la Punta de l’Aigua. 
+ 
+8,72 km (1.089 m), 3 h 55 min. Punta de l’Aigua. Una de las cimas del macizo de los Ports con mejores vistas: a los pies, a poniente, el valle de Paüls y del Ebro, franqueada por la Sierra de Montsià; a mediodía, las Moletes de les Canals y del Camp y, al fondo, el Caro; a ábrego, las características Roques de Benet; y a poniente y tramontana, el camino que se ha hecho hasta aquí por la Mola dels Atans, la Punta de Raus y la Mola Grossa. 
+ 
+Se deshace el camino hasta el último collado (retrocediendo unos 20 m) y se inicia el descenso en dirección S por un terreno más abrupto. Se reencuentra el bosque y se llega a la hondonada del Vacarissal, con un antiguo pozo. Se vuelve a remontar brevemente hasta el cuello del Avenc. 
+ 
+9,91 km (932 m), 4 h 15 min. Collado del Avenc. Último mirador sobre Paüls antes de descender al pueblo por un sendero muy marcado dentro del bosque espeso. Se empiezan a intuir antiguos cultivos, bancales y caminos de ganado. Se encuentra un desvío (10,88 km, 4 h 35 min) hacia la cueva del Llop, otra gruta abierta que se puede visitar añadiendo 300 m al recorrido. El sendero continúa bajando suavemente hasta que desemboca en una pista a la altura de la caseta del Pubill. 
+ 
+11,76 km (596 m), 4 h 50 min. Pista. Se continúa el descenso por la pista, que serpentea por el límite de los cultivos. Pasada la caseta del Martó, la más grande, 110 m más abajo se encuentra un desvío con tres caminos: se deja la pista principal a la derecha y otra a la izquierda, y se toma el sendero que sale recto más plano. (Hay que tener cuidado, es un sendero a primera vista poco evidente y sin señalizar.) Este sendero baja entre los árboles hasta el corral del Carlet y bordea sus olivos antes de volver a descender por el bosque hasta el área recreativa de la Fonteta, ya en la pista que vuelve a Paüls. 
+ 
+13,68 km (353 m), 5 h 20 min. Paüls. El último trozo de pista asfaltado lleva hasta el otro lado del cementerio y, por la calle del Montsagre, se llega de nuevo a la plaza Major, punto de inicio. Fin del itinerario. 
+ 
+&lt;i&gt;El recorrido ha permitido conocer una zona espectacular del Parque Natural de los Puertos. Este parque fue creado en 2001 por la Generalitat de Catalunya con el fin de gestionar el ámbito propio del Principado de este extenso macizo montañoso situado entre Cataluña, País Valencià y Franja de Ponent. Macizo calcáreo, de relieve escarpado y abrupto, ha sido humanizado desde tiempos prehistóricos, pero perdura como un espacio salvaje y lleno de vida. Se extiende sobre 35.050 hectáreas de las comarcas del Baix Ebre, Montsià y Terra Alta pertenecientes a 9 municipios. El inventario actual de su biodiversidad recoge 1.370 taxones de flora vascular y más de 200 especies de vertebrados.&lt;/i&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="40.922475" lon="0.400319">
+        <ele>353.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922714" lon="0.399778">
+        <ele>362.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922914" lon="0.398022">
+        <ele>376.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923145" lon="0.397645">
+        <ele>374.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923212" lon="0.397025">
+        <ele>375.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923801" lon="0.396422">
+        <ele>373.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923845" lon="0.395093">
+        <ele>369.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924176" lon="0.393400">
+        <ele>378.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924786" lon="0.392480">
+        <ele>390.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924968" lon="0.391345">
+        <ele>393.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924741" lon="0.389686">
+        <ele>390.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924995" lon="0.388167">
+        <ele>389.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925172" lon="0.388035">
+        <ele>390.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925686" lon="0.388080">
+        <ele>387.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925932" lon="0.387382">
+        <ele>377.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925551" lon="0.386459">
+        <ele>365.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.926230" lon="0.386634">
+        <ele>373.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.926845" lon="0.386521">
+        <ele>380.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927688" lon="0.385567">
+        <ele>379.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928354" lon="0.386123">
+        <ele>389.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928393" lon="0.385658">
+        <ele>400.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928702" lon="0.385385">
+        <ele>402.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928856" lon="0.385005">
+        <ele>405.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928979" lon="0.384281">
+        <ele>412.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.929239" lon="0.384045">
+        <ele>428.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.929974" lon="0.385079">
+        <ele>460.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930273" lon="0.384949">
+        <ele>455.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930527" lon="0.385028">
+        <ele>450.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931070" lon="0.384519">
+        <ele>461.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931343" lon="0.384467">
+        <ele>449.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931330" lon="0.383666">
+        <ele>478.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931505" lon="0.383047">
+        <ele>474.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931704" lon="0.382891">
+        <ele>473.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.932277" lon="0.383308">
+        <ele>476.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.932908" lon="0.383550">
+        <ele>484.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.933696" lon="0.382913">
+        <ele>523.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934291" lon="0.382742">
+        <ele>545.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934338" lon="0.382455">
+        <ele>560.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934574" lon="0.382517">
+        <ele>570.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934561" lon="0.382131">
+        <ele>583.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934702" lon="0.382179">
+        <ele>587.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.935097" lon="0.381938">
+        <ele>604.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.935410" lon="0.382020">
+        <ele>613.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.935574" lon="0.381723">
+        <ele>619.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.936229" lon="0.381394">
+        <ele>642.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.936470" lon="0.381509">
+        <ele>643.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.936835" lon="0.381317">
+        <ele>636.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.936906" lon="0.381462">
+        <ele>637.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.937160" lon="0.381340">
+        <ele>648.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.937588" lon="0.380904">
+        <ele>660.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.937517" lon="0.380589">
+        <ele>667.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938304" lon="0.380104">
+        <ele>692.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938491" lon="0.379799">
+        <ele>705.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938597" lon="0.379932">
+        <ele>716.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938790" lon="0.379681">
+        <ele>726.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938921" lon="0.379895">
+        <ele>734.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939140" lon="0.379447">
+        <ele>741.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939246" lon="0.379550">
+        <ele>748.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939463" lon="0.379363">
+        <ele>761.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939560" lon="0.379068">
+        <ele>763.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939313" lon="0.378537">
+        <ele>782.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939449" lon="0.378348">
+        <ele>791.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939979" lon="0.378291">
+        <ele>805.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.940460" lon="0.378433">
+        <ele>812.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.940540" lon="0.378590">
+        <ele>816.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941322" lon="0.377929">
+        <ele>836.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941855" lon="0.377986">
+        <ele>841.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942384" lon="0.379271">
+        <ele>860.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942449" lon="0.380522">
+        <ele>887.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942288" lon="0.380795">
+        <ele>903.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941554" lon="0.380973">
+        <ele>947.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941606" lon="0.381280">
+        <ele>943.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941722" lon="0.381430">
+        <ele>947.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942354" lon="0.381523">
+        <ele>990.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942684" lon="0.381944">
+        <ele>1008.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.943466" lon="0.382269">
+        <ele>1036.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.943510" lon="0.382422">
+        <ele>1042.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.943402" lon="0.382414">
+        <ele>1044.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.943510" lon="0.382422">
+        <ele>1042.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.943466" lon="0.382269">
+        <ele>1036.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942684" lon="0.381944">
+        <ele>1008.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942354" lon="0.381523">
+        <ele>990.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941722" lon="0.381430">
+        <ele>947.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941606" lon="0.381280">
+        <ele>943.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941554" lon="0.380973">
+        <ele>947.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942221" lon="0.380828">
+        <ele>906.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942424" lon="0.380606">
+        <ele>891.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.942384" lon="0.379271">
+        <ele>860.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.941503" lon="0.377156">
+        <ele>844.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.940849" lon="0.376321">
+        <ele>858.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.940416" lon="0.375120">
+        <ele>864.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.940077" lon="0.374700">
+        <ele>868.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939735" lon="0.373906">
+        <ele>884.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939622" lon="0.373305">
+        <ele>896.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.939333" lon="0.372895">
+        <ele>902.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.938484" lon="0.369430">
+        <ele>942.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.937722" lon="0.368633">
+        <ele>944.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.936222" lon="0.365687">
+        <ele>955.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.935655" lon="0.365129">
+        <ele>955.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934602" lon="0.364577">
+        <ele>938.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934803" lon="0.363752">
+        <ele>953.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.934432" lon="0.362274">
+        <ele>974.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.933785" lon="0.361943">
+        <ele>969.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.933252" lon="0.361876">
+        <ele>970.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.933220" lon="0.360873">
+        <ele>990.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.932737" lon="0.360483">
+        <ele>999.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.932079" lon="0.359446">
+        <ele>1004.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931407" lon="0.359782">
+        <ele>1009.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931134" lon="0.360285">
+        <ele>1014.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931380" lon="0.362965">
+        <ele>1002.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.931115" lon="0.363582">
+        <ele>997.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930842" lon="0.363842">
+        <ele>992.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930764" lon="0.364391">
+        <ele>977.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930435" lon="0.364951">
+        <ele>958.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.930375" lon="0.366259">
+        <ele>941.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928898" lon="0.367280">
+        <ele>970.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928651" lon="0.367723">
+        <ele>985.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.928339" lon="0.367456">
+        <ele>996.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927534" lon="0.367316">
+        <ele>1010.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927343" lon="0.367436">
+        <ele>1022.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927067" lon="0.367174">
+        <ele>1033.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927115" lon="0.367903">
+        <ele>1049.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927456" lon="0.368851">
+        <ele>1080.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927735" lon="0.369208">
+        <ele>1086.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927777" lon="0.368880">
+        <ele>1090.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927708" lon="0.369209">
+        <ele>1084.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927115" lon="0.367903">
+        <ele>1049.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.927054" lon="0.367199">
+        <ele>1032.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.926837" lon="0.366999">
+        <ele>1018.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925641" lon="0.367480">
+        <ele>983.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925432" lon="0.367785">
+        <ele>978.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.925151" lon="0.367909">
+        <ele>972.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924736" lon="0.367671">
+        <ele>962.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.924353" lon="0.367876">
+        <ele>959.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923605" lon="0.367478">
+        <ele>929.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923150" lon="0.367461">
+        <ele>927.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922714" lon="0.367145">
+        <ele>907.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922393" lon="0.367253">
+        <ele>905.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922003" lon="0.367150">
+        <ele>905.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921400" lon="0.366592">
+        <ele>905.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921068" lon="0.366463">
+        <ele>899.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919891" lon="0.366593">
+        <ele>913.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919389" lon="0.367205">
+        <ele>929.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919433" lon="0.367466">
+        <ele>933.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920885" lon="0.368886">
+        <ele>942.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920511" lon="0.369471">
+        <ele>912.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920148" lon="0.369557">
+        <ele>903.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919834" lon="0.369836">
+        <ele>898.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919518" lon="0.370407">
+        <ele>887.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919583" lon="0.370487">
+        <ele>884.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919805" lon="0.370348">
+        <ele>876.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919956" lon="0.370633">
+        <ele>861.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920136" lon="0.370608">
+        <ele>857.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920589" lon="0.371314">
+        <ele>828.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920445" lon="0.371735">
+        <ele>817.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920724" lon="0.371926">
+        <ele>811.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920517" lon="0.372332">
+        <ele>793.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920753" lon="0.372786">
+        <ele>782.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920225" lon="0.373127">
+        <ele>777.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920230" lon="0.374344">
+        <ele>749.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919729" lon="0.376092">
+        <ele>732.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919371" lon="0.376800">
+        <ele>718.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919460" lon="0.377129">
+        <ele>707.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919996" lon="0.377518">
+        <ele>692.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920241" lon="0.379378">
+        <ele>662.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920559" lon="0.379478">
+        <ele>654.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920823" lon="0.379818">
+        <ele>650.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921079" lon="0.381981">
+        <ele>621.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920116" lon="0.382417">
+        <ele>597.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919551" lon="0.382920">
+        <ele>586.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919412" lon="0.383531">
+        <ele>582.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919597" lon="0.383951">
+        <ele>576.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919222" lon="0.384304">
+        <ele>569.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919552" lon="0.385164">
+        <ele>557.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919884" lon="0.385477">
+        <ele>553.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919778" lon="0.385570">
+        <ele>551.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919501" lon="0.385486">
+        <ele>547.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919462" lon="0.385761">
+        <ele>545.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919186" lon="0.386092">
+        <ele>542.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919655" lon="0.386288">
+        <ele>534.0</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.919945" lon="0.386769">
+        <ele>528.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920106" lon="0.386739">
+        <ele>527.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.920880" lon="0.388489">
+        <ele>500.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921297" lon="0.389007">
+        <ele>491.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921750" lon="0.389298">
+        <ele>481.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921604" lon="0.389808">
+        <ele>470.1</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921789" lon="0.390223">
+        <ele>462.9</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.921948" lon="0.390276">
+        <ele>461.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922767" lon="0.393444">
+        <ele>381.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922762" lon="0.394031">
+        <ele>382.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923014" lon="0.394799">
+        <ele>383.6</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922872" lon="0.395280">
+        <ele>381.7</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.923001" lon="0.395881">
+        <ele>383.5</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922773" lon="0.396561">
+        <ele>381.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922775" lon="0.397659">
+        <ele>377.8</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922914" lon="0.398022">
+        <ele>376.3</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922718" lon="0.399760">
+        <ele>362.2</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="40.922475" lon="0.400319">
+        <ele>353.4</ele>
+        <time>2017-06-29T20:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

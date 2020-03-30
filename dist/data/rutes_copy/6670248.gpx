@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.441830" lon="1.754752">
+    <ele>2000.1</ele>
+    <time>2014-04-25T15:13:48Z</time>
+    <name>BASSA</name>
+    <desc>BASSA</desc>
+  </wpt>
+  <wpt lat="42.447979" lon="1.746708">
+    <ele>2140.0</ele>
+    <time>2014-04-25T15:13:48Z</time>
+    <name>FONT BERENELLA</name>
+    <desc>FONT BERENELLA</desc>
+  </wpt>
+  <wpt lat="42.448798" lon="1.745817">
+    <ele>2144.9</ele>
+    <time>2014-04-25T15:13:49Z</time>
+    <name>BARRACA</name>
+    <desc>BARRACA</desc>
+  </wpt>
+  <wpt lat="42.445779" lon="1.786882">
+    <ele>1539.8</ele>
+    <time>2014-04-25T15:13:49Z</time>
+    <name>MERANGES</name>
+    <desc>23-SEP-05 12:18:33</desc>
+  </wpt>
+  <wpt lat="42.431060" lon="1.782060">
+    <ele>1652.0</ele>
+    <time>2014-04-25T15:13:50Z</time>
+    <name>PLA 1652</name>
+    <desc>23-SEP-05 13:08:28</desc>
+  </wpt>
+  <wpt lat="42.428522" lon="1.769025">
+    <ele>1901.0</ele>
+    <time>2014-04-25T15:13:51Z</time>
+    <name>PLA DE ROCA ESCORXADA</name>
+    <desc>23-SEP-05 13:33:44</desc>
+  </wpt>
+  <wpt lat="42.445474" lon="1.749853">
+    <ele>2090.0</ele>
+    <time>2014-04-25T15:13:52Z</time>
+    <name>TORRENTET</name>
+    <desc>23-SEP-05 14:14:43</desc>
+  </wpt>
+  <wpt lat="42.449555" lon="1.742950">
+    <ele>2215.9</ele>
+    <time>2014-04-25T15:13:52Z</time>
+    <name>RUNES BARRACA</name>
+    <desc>23-SEP-05 14:40:43</desc>
+  </wpt>
+  <wpt lat="42.452849" lon="1.727033">
+    <ele>2738.0</ele>
+    <time>2014-04-25T15:13:53Z</time>
+    <name>CIM SUD DE LA CARABASSA</name>
+    <desc>23-SEP-05 15:55:37</desc>
+  </wpt>
+  <wpt lat="42.457997" lon="1.727178">
+    <ele>2741.1</ele>
+    <time>2014-04-25T15:13:53Z</time>
+    <name>CIM NORD DE LA CARABASSA</name>
+    <desc>23-SEP-05 16:02:30</desc>
+  </wpt>
+  <wpt lat="42.461662" lon="1.726381">
+    <ele>2657.9</ele>
+    <time>2014-04-25T15:13:54Z</time>
+    <name>PORTELLA DEL TORER</name>
+    <desc>23-SEP-05 16:15:11</desc>
+  </wpt>
+  <wpt lat="42.462309" lon="1.747286">
+    <ele>2093.1</ele>
+    <time>2014-04-25T15:13:54Z</time>
+    <name>FI DE LA PISTA FORESTAL</name>
+    <desc>23-SEP-05 17:26:36</desc>
+  </wpt>
+  <wpt lat="42.458084" lon="1.752417">
+    <ele>2057.1</ele>
+    <time>2014-04-25T15:13:55Z</time>
+    <name>DESVIAMENT</name>
+    <desc>DESVIAMENT</desc>
+  </wpt>
+  <wpt lat="42.442683" lon="1.782436">
+    <ele>1480.1</ele>
+    <time>2014-04-25T15:13:55Z</time>
+    <name>MOLÍ DE MERANGES</name>
+    <desc>MOLÍ DE MERANGES</desc>
+  </wpt>
+  <wpt lat="42.430466" lon="1.788233">
+    <ele>1549.9</ele>
+    <time>2014-04-25T15:13:55Z</time>
+    <name>DESVIAMENT</name>
+    <desc>DESVIAMENT</desc>
+  </wpt>
+  <wpt lat="42.452424" lon="1.762416">
+    <ele>1730.0</ele>
+    <time>2014-04-25T15:13:56Z</time>
+    <name>BIFURCACIÓ AMB CAMPLLONG</name>
+    <desc>BIFURCACIÓ AMB CAMPLLONG</desc>
+  </wpt>
+  <wpt lat="42.449597" lon="1.777078">
+    <ele>1580.1</ele>
+    <time>2014-04-25T15:13:56Z</time>
+    <name>GIRUL</name>
+    <desc>GIRUL</desc>
+  </wpt>
+  <wpt lat="42.454398" lon="1.760066">
+    <ele>1772.1</ele>
+    <time>2014-04-25T15:13:57Z</time>
+    <name>RUNES PONT CIMENT</name>
+    <desc>RUNES PONT CIMENT</desc>
+  </wpt>
+  <wpt lat="42.453258" lon="1.760071">
+    <ele>1762.0</ele>
+    <time>2014-04-25T15:13:57Z</time>
+    <name>RUNES PONT CIMENT</name>
+    <desc>RUNES PONT CIMENT</desc>
+  </wpt>
+  <wpt lat="42.455327" lon="1.727183">
+    <ele>2724.0</ele>
+    <time>2014-04-25T15:13:58Z</time>
+    <name>COLL 2724</name>
+    <desc>COLL 2724</desc>
+  </wpt>
+  <trk>
+    <name>De Meranges a la Carbassa</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Meranges a la Carbassa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;La Carbassa és un cim voluminós i de formes arrodonides molt poc freqüentat. Durant la seva ascensió, es gaudeixen de bones panoràmiques i de l'atractiu dels canvis de vegetació que es troben en anar guanyant alçada. Es passen petits boscos de ribera, pinedes, prats de dall, prats alpins, pedruscalls i tarteres, on es descobreixen flors arrapades a la poca terra que hi ha. El retorn per Campllong afegeix, a més a més, un canvi: dels espais oberts de l'anada es passa als impressionants desnivells de l'alta muntanya.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L'excursió té com a punt de partida la població de Meranges, on s'accedeix per la carretera local GIV-4031 des de la N-260 (entre la Seu d'Urgell i Puigcerdà). Cal mirar d'estacionar el cotxe a la sortida en direcció al molí per on s'ha de passar o cap a Malniu. 
+ 
+0,00 km (1.539 m). Meranges. Se surt del mig del poble, en una placeta on s'arriba en passar la font. Tot recte, continua la pista que puja cap a Malniu. Tanmateix, s'ha de prendre a l'esquerra (O/SO) el carrer del Molí, que baixa a migdia amb molt pendent. 
+ 
+0,53 km (1.479 m), 0 h 10 min. El molí. És un vell edifici situat al costat de la pista. Es creua el riu Duran i es continua pujant per la pista forestal. 
+ 
+0,63 km (1.493 m), 0 h 11 min. Bifurcació. S'ha de seguir per la dreta (NO) fent un gran revolt. Tot seguit, se'n fa un altre (km 0,86, 1.520 m) i la ruta continua en direcció SE (es pot fer drecera prenent el camí que del primer revolt surt a l'esquerra per pujar directament a la pista que va per sobre). La vegetació d'aquests vessants secs es limita a mates de bàlec i gavarreres. La pista planeja seguint la vall cap al sud. Davant, s'observa la Tosa i les Penyes Altes de Moixeró. 
+ 
+2,52 km (1.550 m), 0 h 35 min. Tanca i indicador del bosc de la Pinetella. Es deixa la pista i s'avança cap a la dreta ascendint per un corriol que segueix un tallafocs a ponent fins a la cota 1.900 m. 
+ 
+3,03 km (1.654 m), 0 h 50 min. Prat. Sempre cap a ponent, cal travessar un filat i creuar un canal a l'extrem del prat. A la dreta, es veuen els cims que limiten el circ d'Engorgs i el Puigpedrós. El camí s'enfila per uns roquissers i cal tornar a pujar per dins del tallafocs. Al final d'aquesta pujada, s'arriba a una pista forestal. 
+ 
+4,21 km (1.902 m), 1 h 20 min. Final de la pista forestal que ve del pla de Campllong. Es gaudeix d'una bona vista del Cadí. Cal seguir per la pista de cara al Puigpedrós en direcció N girant a la dreta tal com es pujava pel tallafocs. Al km 4,61 (1.907 m), es gira una mica al NO i es veu el cim de la Carbassa. La pista remunta una mica rodejada d'abundants gerds. 
+ 
+6,30 km (2.000 m), 1 h 40 min. Pla herbat. Es troba una petita bassa per al ramat a la dreta de la pista, que comença a baixar suaument. Es veu Meranges, el cim de la Carbassa, que forma una llarga carena herbada, i una coma situada més a la dreta. Cal deixar la pista i passar pel pla inclinat que hi ha a l'esquerra, on desemboquen uns camins de desemboscar. Es pren el de més a la dreta seguint, com fins ara, cap al NO i s'entra al bosc. La pujada no és complicada, ja que no hi ha sotabosc i només es poden trobar restes de les tales efectuades. 
+ 
+6,56 km (2.031 m), 1 h 42 min. Es travessa el torrent Bo, un rierol (km 6,93, 2.090 m) i se surt del bosc: hi ha un vessant herbat amb pins escadussers i una font. 
+ 
+7,31 km (2.141 m), 2 h. Font Berenella. Cal proveir-se d'aigua. Flanquejant pel mig del clot homònim, es veu a 150 m una curiosa barraca circular de pedra i herba (km 7,45, 2.145 m), com la de Tirapits entre Núria i Ull de Ter, però més petita. Pujant pel clot en direcció O es troben les runes d'una altra (km 7,70, 2.215 m). Es continua en la mateixa direcció amb el pendís progressivament més fort fins a arribar al llom del cim. 
+ 
+8,60 km (2.500 m), 2 h 45 min. S'és al capdamunt del llom. Encara es puja una petita clotada. A l'esquerra es veu la plana cerdana i els pobles de Meranges i Girul. Cal continuar remuntant, ara en direcció N, cap al cim, que és doble i amb un coll gairebé imperceptible al mig. 
+ 
+9,65 km (2.710 m), 3 h 10 min. Cim de la Carbassa. Uns plànols donen més alt el cim S (2.728 m), el del vèrtex geodèsic, i d'altres el N (km 10,25, 2.734 m, 3 h 20 min). Es pot tornar pel mateix camí, però és més curt i variat fer-ho per Campllong (tram descrit i georeferenciat). Es baixa cap al N fins a la portella del Torer. 
+ 
+10,68 km (2.658 m), 3 h 27 min. Portella del Torer, entre les valls de la Llosa i de Meranges. Si fa vent, cosa freqüent en aquests paratges, aquí s'està més arrecerat. Des d'aquest punt, cal baixar a la dreta (E) pel clot del Torer, entrar al bosc i seguir per un caminet entre els barrancs del Clot fins a la pista forestal que mor al mateix barranc de la dreta, a la cota 2.092 m (km 12,61, 2.072 m). Cal parar compte, ja que, de no desviar-se pel barranc de l'esquerra, es pot deixar enrere la pista sense adonar-se'n, tot i que no seria un problema perquè es davallaria igualment fins a Campllong. 
+ 
+13,26 km (2.057 m), 4 h 17 min. Un cop a la pista, cal prendre-la en direcció SE durant 700 m, des d'on gira lleugerament cap a migdia. En aquest punt, a l'esquerra (E), baixa un caminet pel mig del bosc que va directe a Campllong, on s'arriba en trobar la pista que davalla per la dreta del riu Duran (km 13,71, 1.800 m). Campllong està encaixonat pel cim de la Carbassa, del qual es ve, i pel Puigpedrós, amb desnivells que superen els 1.000 m. Per sobre, a mig camí del Puigpedrós, passa el GR 11 (es pot consultar la ruta &lt;i&gt;Del refugi de Malniu al Puigpedrós passant pel refugi Folch i Girona&lt;/i&gt;). 
+ 
+Només resta seguir pista avall recorrent Pratllong, deixar enrere les runes de dos ponts de ciment i ajuntar-se amb la pista que baixa de Malniu. Abans de Girul, passat un primer revolt, es pot escurçar el segon revolt. A Girul (km 16,01, 1.604 m), hi ha una zona tranquil·la amb una font i taules de pedra. 900 m després, es torna a Meranges. 
+ 
+16,94 km (1.539 m), 5 h 30 min. Meranges, punt de partida i final de l'itinerari. 
+ 
+Una alternativa per allargar aquesta ruta és, a la portella del Torer, seguir per la carena cap al N fins al Bony del Manyer (2.788 m), ben visible i prou fàcil. Des d'aquí, es baixa fins al refugi Joaquim Folch i Girona (2.395 m), on es poden veure marmotes. Per aquí passa el GR 11 que, des del refugi de Malniu, va fins a Esparvers flanquejant el Puigpedrós. Des d'aquest refugi, la tornada a Meranges es fa sense pèrdua possible descendint pel costat del riu Duran.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Meranges a la Carbassa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;La Carbassa es una cumbre voluminosa y de formas redondeadas muy poco frecuentada. Durante su ascensión, se disfrutan de buenas panorámicas y del atractivo de los cambios de vegetación que se encuentran al ir ganando altura. Se pasan pequeños bosques de ribera, pinares, prados de hierba, prados alpinos, pedregales y canchales, donde se descubren flores aferradas a la poca tierra que hay. El retorno por Campllong añade, además, un cambio: de los espacios abiertos de la ida se pasa a los impresionantes desniveles de la alta montaña.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La excursión tiene como punto de partida la población de Meranges, adonde se accede por la carretera local GIV-4031 desde la N-260 (entre la Seu d'Urgell y Puigcerdà). Hay que tratar de estacionar el coche en la salida en dirección al molino, por donde se ha de pasar, o hacia Malniu. 
+ 
+0,00 km (1.539 m). Meranges. Se sale del centro del pueblo, de una pequeña plaza donde se llega al pasar la fuente. Todo recto, sigue la pista que sube hacia Malniu. Sin embargo, se debe tomar a la izquierda (O/SO) la calle del Molí, que baja a mediodía con mucha pendiente. 
+ 
+0,53 km (1.479 m), 0 h 10 min. El molino. Es un viejo edificio situado junto a la pista. Se cruza el río Duran y se sigue subiendo por la pista forestal. 
+ 
+0,63 km (1.493 m), 0 h 11 min. Bifurcación. Hay que seguir por la derecha (NO) haciendo una gran curva. A continuación, se realiza otra (km 0,86, 1.520 m) y la ruta continúa en dirección SE (se puede atajar tomando el camino que de la primera curva sale a la izquierda para subir directamente a la pista que va por encima). La vegetación de estas vertientes secas se limita a matas de piorno y escaramujos. La pista llanea siguiendo el valle hacia el sur. Delante, se observa la Tosa y Les Penyes Altes de Moixeró. 
+ 
+2,52 km (1.550 m), 0 h 35 min. Valla e indicador del bosque de la Pinetella. Se deja la pista y se avanza a la derecha ascendiendo por un sendero que sigue un cortafuegos a poniente hasta la cota 1.900 m. 
+ 
+3,03 km (1.654 m), 0 h 50 min. Prado. Siempre hacia poniente, hay que atravesar una alambrada y cruzar un canal en el extremo del prado. A la derecha, se ven las cumbres que limitan el circo de Engorgs y el Puigpedrós. El camino asciende por unos roquedales y hay que volver a subir por dentro del cortafuegos. Al final de esta subida, se llega a una pista forestal. 
+ 
+4,21 km (1.902 m), 1 h 20 min. Final de la pista forestal que viene del llano de Campllong. Se disfruta de una buena vista del Cadí. Hay que seguir por la pista de cara al Puigpedrós en dirección N girando a la derecha tal como se subía por el cortafuegos. En el km 4,61 (1.907 m), se gira un poco al NO y se ve la cima de la Carbassa. La pista remonta un poco rodeada de abundantes frambuesos. 
+ 
+6,30 km (2.000 m), 1 h 40 min. Llano herboso. Se encuentra una pequeña balsa para el ganado a la derecha de la pista, que comienza a bajar suavemente. Se ve Meranges, la cima de la Carbassa, que forma un largo cordal herboso, y un valle situado más a la derecha. Hay que dejar la pista y pasar por el llano inclinado que hay a la izquierda, donde desembocan unos caminos para talar el bosque. Se toma el de más a la derecha siguiendo, como hasta ahora, hacia el NO y se entra en el bosque. La subida no es complicada, ya que no hay sotobosque y sólo se pueden encontrar restos de las talas efectuadas. 
+ 
+6,56 km (2.031 m), 1 h 42 min. Se cruza el torrente Bo, un arroyo (km 6,93, 2.090 m) y se sale del bosque: hay una vertiente herbosa con algunos pinos y una fuente. 
+ 
+7,31 km (2.141 m), 2 h. Fuente Berenella. Hay que proveerse de agua. Flanqueando por medio de la hondonada homónima, se ve a 150 m una curiosa barraca circular de piedra y hierba (km 7,45, 2.145 m), como la de Tirapits entre Núria y Ull de Ter, pero más pequeña. Subiendo por la hondonada en dirección O se encuentran las ruinas de otra (km 7,70, 2.215 m). Se continúa en la misma dirección con la pendiente progresivamente más fuerte hasta llegar al lomo de la cima. 
+ 
+8,60 km (2.500 m), 2 h 45 min. Se llega arriba del lomo. Aún se sube una pequeña hondonada. A la izquierda, se ve la llanura de la Cerdanya y los pueblos de Meranges y Girul. Hay que seguir remontando, ahora en dirección N, hacia la cima, que es doble y con un collado casi imperceptible en medio. 
+ 
+9,65 km (2.710 m), 3 h 10 min. Cima de la Carbassa. Algunos planos dan más alto la cima S (2.728 m), la del vértice geodésico, y otros la N (km 10,25, 2.734 m, 3 h 20 min). Se puede volver por el mismo camino, pero es más corto y variado hacerlo por Campllong (tramo descrito y georreferenciado). Se baja hacia el N hasta la Portella del Torer. 
+ 
+10,68 km (2.658 m), 3 h 27 min. Portella del Torer, entre los valles de la Llosa y de Meranges. Si hace viento, algo frecuente en estos parajes, aquí se está más resguardado. Desde este punto, hay que bajar a la derecha (E) por la hondonada del Torer, entrar en el bosque y seguir por un camino entre los barrancos del Clot hasta la pista forestal que muere en el mismo barranco de la derecha, en la cota 2.092 m (km 12,61, 2.072 m). Hay que tener cuidado, ya que si no nos desviamos por el barranco de la izquierda, se puede dejar atrás la pista sin darnos cuenta, aunque no sería un problema porque se descendería igualmente hasta Campllong. 
+ 
+13,26 km (2.057 m), 4 h 17 min. Una vez en la pista, hay que tomarla en dirección SE durante 700 m, desde donde gira ligeramente hacia mediodía. En este punto, a la izquierda (E), baja un camino por el bosque que va directo a Campllong, donde se llega al encontrar la pista que baja por la derecha del río Duran (km 13,71, 1.800 m). Campllong está encajonado por la cima de la Carbassa, de donde se viene, y por el Puigpedrós, con desniveles que superan los 1.000 m. Por encima, a medio camino del Puigpedrós, pasa el GR 11 (se puede consultar la ruta &lt;i&gt;Del refugio de Malniu al Puigpedrós pasando por el refugio Folch i Girona&lt;/i&gt;). 
+ 
+Sólo queda seguir pista abajo recorriendo Pratllong, dejar atrás las ruinas de dos puentes de cemento y juntarse con la pista que baja de Malniu. Antes de Girul, pasada una primera curva, se puede acortar la segunda curva. En Girul (km 16,01, 1.604 m), hay una zona tranquila con una fuente y mesas de piedra. 900 m después, se vuelve a Meranges. 
+ 
+16,94 km (1.539 m), 5 h 30 min. Meranges, punto de partida y final del itinerario. 
+ 
+Una alternativa para alargar esta ruta es, desde la Portella del Torer, seguir por el cordal hacia el N hasta el Bony del Manyer (2.788 m), bien visible y bastante fácil. Desde aquí, se baja hasta el refugio Joaquim Folch i Girona (2.395 m), donde se pueden ver marmotas. Por aquí pasa el GR 11 que, desde el refugio de Malniu, va hasta Esparvers flanqueando el Puigpedrós. Desde este refugio, la vuelta a Meranges se hace sin pérdida posible descendiendo junto al río Duran.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Meranges to Carbassa summit&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The Cim de la Carbassa is a great, rounded summit which is not often climbed. If you do you will have great panoramic views and the added interest of changing vegetation as you climb small riverside copses, pine woods, cornfields, alpine meadows and scree slopes with tiny flowers gripping to the scant soil available.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.445738" lon="1.786864">
+        <ele>1524.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.445295" lon="1.785012">
+        <ele>1497.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.443594" lon="1.783860">
+        <ele>1470.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442913" lon="1.782857">
+        <ele>1463.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442426" lon="1.782417">
+        <ele>1459.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.441697" lon="1.782437">
+        <ele>1473.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.441834" lon="1.781735">
+        <ele>1483.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442485" lon="1.780318">
+        <ele>1501.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442509" lon="1.780008">
+        <ele>1506.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.440726" lon="1.782572">
+        <ele>1516.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.440253" lon="1.782958">
+        <ele>1519.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.438584" lon="1.783526">
+        <ele>1530.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.437702" lon="1.784868">
+        <ele>1537.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.437110" lon="1.784697">
+        <ele>1531.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.436851" lon="1.785268">
+        <ele>1533.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.436394" lon="1.785578">
+        <ele>1534.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.435225" lon="1.786968">
+        <ele>1537.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.434716" lon="1.787361">
+        <ele>1537.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.434089" lon="1.787737">
+        <ele>1539.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.433120" lon="1.787999">
+        <ele>1541.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.432264" lon="1.787080">
+        <ele>1536.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.431608" lon="1.787603">
+        <ele>1534.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.430466" lon="1.788220">
+        <ele>1535.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.431105" lon="1.782689">
+        <ele>1646.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.431107" lon="1.781559">
+        <ele>1648.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.430668" lon="1.780905">
+        <ele>1657.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.431021" lon="1.779433">
+        <ele>1689.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.430866" lon="1.776677">
+        <ele>1744.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.430583" lon="1.775436">
+        <ele>1770.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.428563" lon="1.770361">
+        <ele>1890.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.428331" lon="1.769296">
+        <ele>1908.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.428522" lon="1.769074">
+        <ele>1912.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.429324" lon="1.769550">
+        <ele>1911.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.430131" lon="1.769516">
+        <ele>1911.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.431861" lon="1.769227">
+        <ele>1911.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.432418" lon="1.768712">
+        <ele>1915.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.433054" lon="1.767508">
+        <ele>1924.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.433241" lon="1.765627">
+        <ele>1936.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.434384" lon="1.763489">
+        <ele>1949.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.434906" lon="1.761880">
+        <ele>1961.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.435912" lon="1.760742">
+        <ele>1972.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.436593" lon="1.759629">
+        <ele>1981.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.438203" lon="1.758667">
+        <ele>1993.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.439046" lon="1.757530">
+        <ele>1992.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.440092" lon="1.755637">
+        <ele>2003.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.440977" lon="1.755000">
+        <ele>2007.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.441775" lon="1.754656">
+        <ele>2008.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442380" lon="1.753951">
+        <ele>2015.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.442769" lon="1.753335">
+        <ele>2024.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.443045" lon="1.752162">
+        <ele>2038.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.444508" lon="1.751720">
+        <ele>2062.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.444718" lon="1.751521">
+        <ele>2067.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.445565" lon="1.749547">
+        <ele>2104.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.446194" lon="1.748604">
+        <ele>2124.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.446653" lon="1.748090">
+        <ele>2136.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447431" lon="1.747589">
+        <ele>2146.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447961" lon="1.746648">
+        <ele>2153.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448940" lon="1.745600">
+        <ele>2150.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449303" lon="1.744572">
+        <ele>2192.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449390" lon="1.743241">
+        <ele>2224.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449894" lon="1.742262">
+        <ele>2242.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449991" lon="1.740806">
+        <ele>2292.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450156" lon="1.740286">
+        <ele>2306.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448878" lon="1.738719">
+        <ele>2362.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449058" lon="1.737913">
+        <ele>2387.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448888" lon="1.737126">
+        <ele>2406.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448926" lon="1.736505">
+        <ele>2426.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448706" lon="1.735737">
+        <ele>2455.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448379" lon="1.735543">
+        <ele>2476.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448330" lon="1.735192">
+        <ele>2493.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447878" lon="1.735389">
+        <ele>2506.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447664" lon="1.735248">
+        <ele>2514.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447830" lon="1.734345">
+        <ele>2527.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447765" lon="1.731756">
+        <ele>2591.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448149" lon="1.730283">
+        <ele>2612.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448237" lon="1.729248">
+        <ele>2632.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448610" lon="1.728460">
+        <ele>2659.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.451228" lon="1.726670">
+        <ele>2723.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.452487" lon="1.726888">
+        <ele>2732.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.452768" lon="1.727071">
+        <ele>2734.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.453592" lon="1.727072">
+        <ele>2731.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.454148" lon="1.727250">
+        <ele>2725.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.455390" lon="1.727188">
+        <ele>2718.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.456697" lon="1.727727">
+        <ele>2725.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.457079" lon="1.727646">
+        <ele>2729.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.457431" lon="1.727280">
+        <ele>2737.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.458580" lon="1.726923">
+        <ele>2727.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.460240" lon="1.726811">
+        <ele>2685.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461580" lon="1.726350">
+        <ele>2657.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461719" lon="1.726629">
+        <ele>2654.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461462" lon="1.726999">
+        <ele>2645.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461421" lon="1.727353">
+        <ele>2632.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462008" lon="1.728990">
+        <ele>2572.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461721" lon="1.731111">
+        <ele>2525.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461880" lon="1.731692">
+        <ele>2506.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462229" lon="1.731819">
+        <ele>2493.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462024" lon="1.733264">
+        <ele>2470.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462354" lon="1.733804">
+        <ele>2447.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462500" lon="1.735240">
+        <ele>2429.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462330" lon="1.736210">
+        <ele>2412.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462487" lon="1.736429">
+        <ele>2403.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462468" lon="1.736757">
+        <ele>2385.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462259" lon="1.737023">
+        <ele>2371.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461971" lon="1.738640">
+        <ele>2335.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462361" lon="1.739313">
+        <ele>2313.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462269" lon="1.739947">
+        <ele>2297.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462673" lon="1.741089">
+        <ele>2266.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462445" lon="1.742042">
+        <ele>2245.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462486" lon="1.742533">
+        <ele>2231.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462138" lon="1.743623">
+        <ele>2188.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462454" lon="1.744510">
+        <ele>2171.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462052" lon="1.746069">
+        <ele>2118.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462375" lon="1.746792">
+        <ele>2087.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462393" lon="1.747157">
+        <ele>2073.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.462018" lon="1.747529">
+        <ele>2073.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.461552" lon="1.747696">
+        <ele>2070.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.460703" lon="1.748321">
+        <ele>2064.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.459950" lon="1.749844">
+        <ele>2059.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.459049" lon="1.751067">
+        <ele>2051.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.458700" lon="1.751955">
+        <ele>2045.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.458093" lon="1.752441">
+        <ele>2042.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.458391" lon="1.757908">
+        <ele>1795.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.455141" lon="1.759279">
+        <ele>1759.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.454259" lon="1.760130">
+        <ele>1738.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.453709" lon="1.760098">
+        <ele>1735.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.453269" lon="1.760271">
+        <ele>1733.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.452985" lon="1.760605">
+        <ele>1734.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.452903" lon="1.761360">
+        <ele>1730.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.451805" lon="1.763546">
+        <ele>1717.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450915" lon="1.764549">
+        <ele>1706.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450425" lon="1.765440">
+        <ele>1696.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449785" lon="1.767423">
+        <ele>1679.3</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449993" lon="1.767552">
+        <ele>1677.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450673" lon="1.767557">
+        <ele>1670.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450778" lon="1.767719">
+        <ele>1667.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450435" lon="1.768054">
+        <ele>1656.8</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450604" lon="1.768665">
+        <ele>1635.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450319" lon="1.769376">
+        <ele>1627.4</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450462" lon="1.769683">
+        <ele>1623.0</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450505" lon="1.771172">
+        <ele>1612.5</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.450244" lon="1.771953">
+        <ele>1608.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449696" lon="1.774992">
+        <ele>1590.2</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449610" lon="1.777049">
+        <ele>1573.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.449263" lon="1.777469">
+        <ele>1568.1</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.448823" lon="1.779277">
+        <ele>1559.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447328" lon="1.782687">
+        <ele>1546.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.447154" lon="1.784064">
+        <ele>1544.6</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.446851" lon="1.784362">
+        <ele>1544.9</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.445761" lon="1.786858">
+        <ele>1524.7</ele>
+        <time>2005-09-22T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

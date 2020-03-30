@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.266082" lon="0.973756">
+    <ele>596.0</ele>
+    <time>2015-04-03T08:54:14Z</time>
+    <name>RIU DEL GORG</name>
+    <desc>03-ABR-15 10:54:15</desc>
+  </wpt>
+  <wpt lat="41.259759" lon="0.976065">
+    <ele>685.0</ele>
+    <time>2015-04-03T09:26:15Z</time>
+    <name>GORG DEL MAS DELS FRARES</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.254492" lon="0.958538">
+    <ele>859.0</ele>
+    <time>2015-04-03T10:23:06Z</time>
+    <name>GALLICANT</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.264887" lon="0.904727">
+    <ele>515.0</ele>
+    <time>2015-04-03T05:43:10Z</time>
+    <name>LO REFUGI</name>
+    <desc>TP - 30/05/2015 01:18:19</desc>
+  </wpt>
+  <wpt lat="41.257979" lon="0.932995">
+    <ele>732.0</ele>
+    <time>2015-05-19T21:58:19Z</time>
+    <name>SIURANA</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.253845" lon="1.030997">
+    <ele>959.0</ele>
+    <time>2015-04-03T16:34:46Z</time>
+    <name>REFUGI DE LA MUSSARA</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.252357" lon="1.028272">
+    <ele>972.0</ele>
+    <time>2015-04-03T16:20:17Z</time>
+    <name>ESGLESIA DE SANT SALVADOR</name>
+    <desc>TP - 30/05/2015 01:23:06</desc>
+  </wpt>
+  <wpt lat="41.229011" lon="1.032206">
+    <ele>367.0</ele>
+    <time>2015-04-03T14:01:41Z</time>
+    <name>VILAPLANA</name>
+    <desc>TP - 30/05/2015 01:23:52</desc>
+  </wpt>
+  <wpt lat="41.257686" lon="0.932264">
+    <ele>733.0</ele>
+    <time>2015-04-03T07:19:06Z</time>
+    <name>ESGLESIA DE SANTA MARIA</name>
+    <desc>TP - 30/05/2015 01:24:54</desc>
+  </wpt>
+  <wpt lat="41.251402" lon="1.028730">
+    <ele>983.0</ele>
+    <time>2015-04-03T16:14:33Z</time>
+    <name>PUNTA DE LES AIRASSES</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.265098" lon="0.904654">
+    <ele>520.0</ele>
+    <time>2015-04-03T05:44:02Z</time>
+    <name>CORNUDELLA DE MONTSANT</name>
+    <desc>TP - 06/06/2015 01:28:10</desc>
+  </wpt>
+  <wpt lat="41.257711" lon="0.915139">
+    <ele>470.0</ele>
+    <time>2015-04-03T06:19:18Z</time>
+    <name>EMBASSAMENT DE SIURANA</name>
+    <desc>TP - 06/06/2015 01:29:06</desc>
+  </wpt>
+  <wpt lat="41.252343" lon="1.027944">
+    <ele>972.0</ele>
+    <time>2015-05-29T21:34:37Z</time>
+    <name>LA MUSSARA</name>
+    <desc>TP - 06/06/2015 01:34:34</desc>
+  </wpt>
+  <wpt lat="41.227869" lon="1.033421">
+    <ele>366.0</ele>
+    <time>2015-04-03T14:09:24Z</time>
+    <name>CARRER MAJOR DE VILAPLANA</name>
+    <desc>TP - 06/06/2015 01:36:12</desc>
+  </wpt>
+  <wpt lat="41.228514" lon="1.033420">
+    <ele>370.0</ele>
+    <time>2015-04-03T14:10:08Z</time>
+    <name>ESGLESIA DE LA NATIVITAT</name>
+    <desc>TP - 06/06/2015 01:36:31</desc>
+  </wpt>
+  <wpt lat="41.241531" lon="1.013224">
+    <ele>621.0</ele>
+    <time>2015-05-26T22:52:48Z</time>
+    <name>BARRANC DELS GARRIGOTS</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Ruta dels Refugis. 1 Cornudella de Montsant-La Mussara</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Ruta dels Refugis. 1 Cornudella de Montsant-La Mussara&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;La Ruta dels Refugis és un magnífic itinerari circular per terres tarragonines de 90 km i uns 4.000 m de desnivell positiu que trepitja alguns dels espais naturals muntanyencs de major valor natural i ecològic de la Catalunya meridional com el Parc Natural de la Serra de Montsant, les muntanyes de Prades, els cingles de la Mussara i la vall del riu Glorieta. Als punts d'interès més representatius i concorreguts com els encimbellats pobles de pedra de Siurana, d’Albarca i de la Mussara, la vila de Prades, el Tossal de la Baltasana o les fonts de Glorieta, cal afegir-ne d’altres força desconeguts, feréstecs i salvatges però d'excepcional bellesa com el serrat de l’Avenc, els Motllats i les valls de Siurana, dels Garrigots i de les Tosques, on es troben salts d'aigua i peculiars formacions rocoses com la Foradada, el pont de Goi o les coves del Pere. La vegetació és, a més, molt variada: frondosa, ombrívola, humida i amb alzines, roures, boix i molsa a les valls i la cara nord de la muntanya i de pinassa, garriga i matolls al solell. Són també destacables els boscos de pi roig de les muntanyes de Prades, més presents i extensos a major altitud. 
+ 
+La travessa compta amb senyalització pròpia –marques de pintura de color blau i groc– que comparteix amb la dels PR i els GR que es troben. Per fer aquest recorregut, cal estar en forma, ja que són etapes llargues i algunes amb un fort desnivell (sobretot la primera), i tenir bon sentit de l’orientació. Cal dur cartografia actualitzada i és molt recomanable portar GPS amb el track del trajecte carregat. 
+ 
+Aquesta és, amb diferència, l’etapa més exigent, de major distància i desnivell, de la Ruta dels Refugis, tot i que pot escurçar-se fent nit a Siurana. Tanmateix, també és una de les més atractives, ja que es visiten punts d’interès extraordinaris com l’encimbellat i bellíssim nucli de pedra de Siurana, l’embassament homònim, les gorgues i salts d’aigua del riu del Gorg i els cingles i poble abandonat de la Mussara. Durant la ruta, s’albiren extenses panoràmiques, especialment del Montsant i les muntanyes de Prades des de Siurana i dels cingles de la Mussara i el mar Mediterrani des del Camí de les Campanilles. La vegetació que es troba és molt contrastada: ombrívola, humida, amb alzines, roures, falgueres i molsa a l’obaga, com a les valls dels rius Siurana i del Gorg, i més seca i escassa, amb pinassa, garriga i matolls al solell, sobretot al tram que baixa de la Trona i al que ascendeix a Gallicant i arriba fins al barranc dels Garrigots. També es trepitja el característic terra rogenc omnipresent a les comarques tarragonines per on transcorre la travessa.&lt;/i&gt; 
+Ruta senyalitzada. 
+ 
+L’etapa i la travessa s’inicien a Cornudella de Montsant. Per accedir-hi des de Falset, es pren a llevant la carretera N-420 en direcció a Reus i Tarragona i es trenca a l’esquerra (N) per la C-242, que passa per les Borges del Camp i Alforja. 
+ 
+0,00 km (528 m). Cornudella de Montsant. Es parteix de Lo Refugi pujant a l’esquerra (NE) per la C-242, davant de l’església es gira a mà esquerra (N) pel carrer del Pla de l’Església i se surt al Major, que se segueix a la dreta (E). Es travessa la plaça de la Vila i es baixa pel carrer del Tou fins a una cruïlla: es deixen sengles trencalls a dreta i a esquerra i es pren un camí que surt a la dreta (NE) del carrer Corbatera. Es travessa la C-242, es continua a la dreta (SE) per la carretera que duu a l’embassament de Siurana (rètol indicador; senyals dels PR C-84 i C-7) i es trenca a l’esquerra (SE) per una pista de terra que passa pel costat d’un camp d’oliveres. 
+ 
+0,92 km (529 m), 0 h 14 min. Bifurcació de pistes (pal indicador). Cal davallar a la dreta (S) pel camí ral de Cornudella a Siurana. Bones vistes a ponent de Cornudella i, darrere, de la serra Major de Montsant. Es voreja l’embassament de Siurana i es creua el barranc de Carboneres deixant a l’esquerra el PR C-84. 
+ 
+2,53 km (477 m), 0 h 38 min. Bifurcació. S’abandona la pista i es remunta a l’esquerra (SE/NE) fortament per un fressat sender que discorre entre alzines, matolls i garriga. Es travessa el barranc de l’Estopinyà i es continua l’ascensió per un corriol empedrat contemplant al N la serra de la Gritella i els cingles del pic de Siuranella, que compta amb vies d’escalada famoses internacionalment. A mesura que es puja, l’entorn és més frondós i ombrívol. Es deixa a l’esquerra el camí que mena a la Font Vella i s’accedeix a Siurana, on es pot pernoctar al refugi Ciríac Bonet (CEC) fent menys dura la ruta. 
+ 
+4,66 km (734 m), 1 h 30 min. Siurana. Poblet de pedra que compta amb un bell nucli urbà on trobem edificis destacats com l’església romànica de Santa Maria (s. XII), les runes d’un castell àrab (s. IX), últim reducte del domini musulmà a Catalunya, i el Salt de la Reina Mora, cingle que compta amb una marca al rocam situat arran del precipici que la llegenda atribueix a la ferradura del cavall d’Abdelazia, que intentà frenar quan la filla del valí de Siurana es llançà a l’abisme amb ell abans de caure presonera de les tropes cristianes que l’assetjaven. Se surt d’aquesta localitat prenent cap a llevant un caminoi que passa per sota del castell i surt a l’aparcament de la població, que es creua fins a un pal indicador, des d’on es continua planerament pel sender dels Gorgs seguint les indicacions del PR C-7 (NE). 
+ 
+5,77 km (722 m), 1 h 46 min. La Trona, formació rocosa que, com el seu nom indica, té forma de seient reial. Des d’aquest punt, es contemplen àmplies vistes a migdia de la vall i l’embassament de Siurana i a llevant de les muntanyes de Prades. Ara es prossegueix descendint amb força arran de la cinglera fent ziga-zagues per un corriol empedrat a trams entre roques i sòl rogenc fins a desembocar a una pista (km 6,41, 531 m; pal indicador), que es pren a l’esquerra (NE) vorejant el Siurana. Uns metres després, s’ajunta per la dreta el PR C-87 provinent d’Arbolí i, després del mas d’en Candi, la pista esdevé un sender que s’endinsa al bosc. 
+ 
+7,55 km (537 m), 2 h 13 min. Bifurcació al costat del molí de l’Esquirola. El PR C-87 se’n va a l’esquerra resseguint el barranc de Prades de la Gritella i es continua en direcció SE travessant tot seguit el Siurana (cal descalçar-se i anar-hi amb compte en cas de cabal abundant). Un cop a l’altra riba, es puja pel sender dels Gorgs entremig d’una frondosa vegetació de ribera en què prolifera la molsa. Tram bucòlic, ombrívol i de gran encant. Se surt a un camí ample, que s’agafa a l’esquerra (NE) canviant el sentit de la marxa fins que es trenca a mà dreta (NE) per un corriol que flanqueja la muntanya per sobre del barranc, que queda al N. De seguida es contemplen a l’esquerra salts d’aigua del riu del Gorg, que es creua una mica més endavant en un congost remuntant per l’altra riba cap a llevant. 
+ 
+9,54 km (639 m), 2 h 47 min. Es desemboca al revolt d’una pista, que es pren a l’esquerra (S) uns metres pujant en el mateix sentit de la marxa fins a agafar un camí senyalitzat de la dreta (SO). S’accedeix al gorg del Mas dels Frares, ubicat en un frondós i enclotat paratge amb una bella cascada. Es creua el riu grimpant pel rocam fins a un pal indicador, on conflueix el GR 7, que cal seguir ascendint en direcció a la Mussara (O/SO) juntament amb les marques del PR C-88. Tot seguit, es deixa a la dreta un corriol que duu a un altre gorg de dimensions més reduïdes i se surt de l’engorjat prenent un camí que remunta per dins del bosc. L’entorn, molt salvatge, canvia radicalment i ara és sec, pedregós i cobert de pins i matolls. 
+ 
+11,96 km (871 m), 3 h 35 min. Gallicant, poble abandonat a la dècada dels anys 50 de la passada centúria. Es continua cap a llevant per la pista que passa vora les seves runes, que queden elevades a mà dreta (S), es deixa una desviació a l’esquerra, el GR 7 i el PR C-88 a la dreta i es flanqueja el vessant septentrional i oriental del puig de Gallicant. 
+ 
+12,92 km (917 m), 3 h 52 min. Els Colls, cruïlla de pistes. Es pren la que puja a l’esquerra (SE) fins a sortir de nou a la pista per on s’anava, que se segueix també a mà esquerra (SE). Més endavant, s’agafa una pista a la dreta en el mateix sentit de la marxa (SE) i, a lo Collet Alt (km 13,94, 961 m), es travessa la carretera TV-7092. Es continua sempre cap al SE creuant un altiplà boscós on es distingeixen restes d’instal·lacions del desaparegut camp d’entrenament militar de Los Castillejos. Al final del pla, es prossegueix per un corriol que descendeix pronunciadament per les Costes de les Cingles fent giragonses pel solell de la muntanya. 
+ 
+15,16 km (794 m), 4 h 22 min. Masos de Dalt i d’en Rei. Cal seguir a l’esquerra (NE) per una ampla pista. Es deixen desviaments secundaris a ambdues bandes, les runes del mas d’en Blai i del d’en Roig i s’arriba a una bifurcació de pistes (km 17,65, 831 m; pal indicador): es tomba per la de la dreta (S) en direcció a Vilaplana pel Camí dels Garrigots. Al km 18,10 (821 m), cal abandonar-la i baixar suaument per un sender senyalitzat de l’esquerra (NE). Bones vistes del cingle del Poniol, el Cantacorbs, Vilaplana, la costa i el mar. 
+ 
+19,03 km (766 m), 5 h 18 min. Bifurcació de senders. Es gira a la dreta (SE) davallant per l’interior del bosc per la riba occidental del riu dels Garrigots. Camí molt bonic, ombrívol, empedrat a trams, amb boix i molsa arreu. Es deixen a dreta i a esquerra sengles corriols que duen a les fonts del Pistol i de la Teula. Més avall, augmenta la presència d’alzines i es continua en direcció SE per una pista. Es deixen trencalls secundaris a ambdues bandes i, entre camps de conreu i murs de pedra, s’accedeix als afores de Vilaplana. 
+ 
+22,61 km (360 m), 6 h 11 min. Es tomba a l’esquerra (E; pal indicador) travessant la riera de la Mussara per un pont i s’entra a Vilaplana pel carrer del Doctor Mallafré. Just abans de la plaça de Pau Casals, es gira a la dreta (S) fins a sortir al carrer Major, empedrat, que es pren a l’esquerra (N) passant per davant de l'església de la Nativitat de la Mare de Déu. De nou a la plaça de Pau Casals, es reprèn a la dreta (NE) el carrer Doctor Mallafré, se segueix a l’esquerra (N/NE) pel d’Àngel Guimerà i, davant del dipòsit vell, on hi ha una font, es trenca a l’esquerra (NE) sortint de la població pel de Santiago Rusiñol (marques del PR C-88). Es passa pel costat de la font de les Creus. 
+ 
+24,11 km (415 m), 6 h 35 min. Bifurcació de pistes (pal indicador). Ambdues opcions porten a la Mussara: es deixa el Camí de les Tosques a la dreta (NE), per on se’n va el PR C-88, i es continua a l’esquerra (NO) pel de les Campanilles. Transcorreguts 300 m, s’abandona la pista i es remunta per un sender de la dreta (NO) que s’endinsa al bosc. Es deixen desviaments secundaris i es voreja la Roca Caiguda, de grans dimensions. S’observen antics bancals de camps de conreu avui desapareguts. A mesura que s’ascendeix, el camí esdevé empedrat en alguns trams, la vegetació més espessa i s’avança entre cingles imponents grimpant a estones. Grans vistes a migdia de Vilaplana, la planúria que l’envolta i dóna nom i la costa mediterrània. 
+ 
+26,33 km (863 m), 7 h 50 min. Es creua una pista i se segueix pujant pel boscam en el mateix sentit de la marxa (NE/N) per un sender fressat que duu a la Mussara (pal indicador). Se surt a la Punta de les Airasses, on finalitza l’ascensió i des d’on es gaudeix d’amplíssimes panoràmiques. Es deixen a l’esquerra les restes d’un antic refugi i es prossegueix planerament cap al N per l’altiplà fins al poble enrunat de la Mussara, abandonat als anys seixanta del segle passat, on destaca el campanar de l’església de Sant Salvador, que encara es manté dempeus. Davant del temple, s’agafa un sender ben marcat que surt a la dreta (E/NE) de la carretera TV-7093 i que hi discorre paral·lel. 
+ 
+27,10 km (968 m), 8 h 10 min. Refugi de la Mussara, final de la primera etapa. Bell entorn natural poblat d’alzines, pins, garriga i roquissar.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt; Ruta dels Refugis. 1 Cornudella de Montsant-La Mussara &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;i&gt;La Ruta dels Refugis es un magnífico itinerario circular por tierras tarraconenses de 90 km y unos 4.000 m de desnivel positivo que discurre por algunos de los espacios naturales montañosos de mayor valor natural y ecológico de la Catalunya meridional como el Parque Natural de la Serra de Montsant, las montañas de Prades, los riscos de la Mussara y el valle del río Glorieta. A los puntos de interés más representativos y concurridos, como los encumbrados pueblos de piedra de Siurana, Albarca y la Mussara, la villa de Prades, el Tossal de la Baltasana o las fuentes de Glorieta, hay que añadir otros más desconocidos y salvajes pero de excepcional belleza como la loma de L'Avenc, Els Motllats y los valles de Siurana, de Els Garrigots y de Les Tosques, donde se encuentran cascadas y peculiares formaciones rocosas como la Foradada, el puente de Goi o las cuevas del Pere. La vegetación es, además, muy variada: frondosa, sombría, húmeda y con encinas, robles, boj y musgo en los valles y la cara norte de la montaña y de pino, chaparral y matorrales en la solana. Son también destacables los bosques de pino silvestre de las montañas de Prades, más presentes y extensos a mayor altitud. 
+ 
+La travesía cuenta con señalización propia –marcas de pintura de color azul y amarillo– que comparte con la de los PR y los GR que se encuentran. Para hacer este recorrido, hay que estar en forma, ya que son etapas largas y algunas con un fuerte desnivel (sobre todo la primera), y tener buen sentido de la orientación. Se debe llevar cartografía actualizada y es muy recomendable disponer de GPS con el track del trayecto cargado. 
+ 
+Esta es, con diferencia, la etapa más exigente, de mayor distancia y desnivel, de la Ruta dels Refugis, aunque puede acortarse pernoctando en Siurana. Sin embargo, también es una de las más atractivas, ya que se visitan puntos de interés extraordinarios como el encumbrado y bellísimo núcleo de piedra de Siurana, el embalse homónimo, las pozas y cascadas del río del Gorg y los riscos y pueblo abandonado de la Mussara. Durante la ruta, se vislumbran extensas panorámicas, especialmente del Montsant y las montañas de Prades desde Siurana y los riscos de la Mussara y el mar Mediterráneo desde el Camí de les Campanilles. La vegetación que se encuentra es muy contrastada: sombría, húmeda, con encinas, robles, helechos y musgo en la umbría, como en los valles de los ríos Siurana y del Gorg, y más seca y escasa, con pinos, arbustos y matorrales en la solana, sobre todo en el tramo que baja de la Trona y al que asciende a Gallicant y llega hasta el barranco de Els Garrigots. También se pisa el característico suelo rojizo omnipresente en las comarcas tarraconenses por donde transcurre la travesía.&lt;/i&gt; 
+Ruta señalizada. 
+ 
+La etapa y la travesía se inician en Cornudella de Montsant. Para acceder a esta población desde Falset, se toma a levante la carretera N-420 en dirección a Reus y Tarragona y se gira a la izquierda (N) por la C-242, que pasa por Les Borges del Camp y Alforja. 
+ 
+0,00 km (528 m). Cornudella de Montsant. Se parte de Lo Refugi subiendo a la izquierda (NE) por la C-242, frente a la iglesia se gira a mano izquierda (N) por la calle del Pla de l'Església y se sale a la Major, que se sigue a la derecha (E). Se cruza la plaza de la Vila y se baja por la calle del Tou hasta un cruce: se dejan sendos desvíos a derecha e izquierda y se toma un camino que sale a la derecha (NE) de la calle Corbatera. Se cruza la C-242, se continúa a la derecha (SE) por la carretera que lleva al embalse de Siurana y se gira a la izquierda (SE ) por una pista de tierra. 
+ 
+0,92 km (529 m), 0 h 14 min. Bifurcación de pistas (poste indicador). Hay que bajar a la derecha (S) por el camino real de Cornudella a Siurana. Se bordea el embalse de Siurana y se cruza un barranco dejando a la izquierda el PR C-84. 
+ 
+2,53 km (477 m), 0 h 38 min. Bifurcación. Se abandona la pista y se remonta a la izquierda (SE/NE) fuertemente por un trillado sendero entre encinas y matorrales. Se cruza un barranco y se continúa la ascensión por un sendero empedrado contemplando al N la sierra de la Gritella y los riscos del pico de Siuranella, que cuenta con vías de escalada famosas internacionalmente. Se accede a Siurana, donde se puede pernoctar en el refugio Ciríac Bonet (CEC) haciendo menos dura la ruta. 
+ 
+4,66 km (734 m), 1 h 30 min. Siurana. Pueblecito de piedra que cuenta con un bello casco urbano donde encontramos edificios destacados como la iglesia románica de Santa Maria (s. XII), las ruinas de un castillo árabe (s. IX), último reducto del dominio musulmán en Catalunya, y el Salt de la Reina Mora, risco que cuenta con una marca en el roquedal situada al borde del precipicio que la leyenda atribuye a la herradura del caballo de Abdelazia, que intentó frenar cuando la hija del valí de Siurana se lanzó al abismo con él antes de caer prisionera de las tropas cristianas que la asediaban. Se sale de esta localidad tomando hacia levante un sendero que lleva al aparcamiento de la población, que se cruza hasta un poste indicador, desde donde se continúa llanamente por el camino de Els Gorgs siguiendo las indicaciones del PR C-7 (NE). 
+ 
+5,77 km (722 m), 1 h 46 min. La Trona, formación rocosa que, como su nombre indica, tiene forma de asiento real. Desde este punto, se contemplan amplias vistas a mediodía del valle y el embalse de Siurana y a levante de las montañas de Prades. Ahora se prosigue descendiendo junto al risco en zigzag por un sendero empedrado a tramos entre rocas y suelo rojizo hasta desembocar en una pista, que se toma a la izquierda (NE) bordeando el río Siurana. Unos metros después, se junta por la derecha el PR C-87 proveniente de Arbolí y, después de una masía, la pista se convierte en un sendero que se adentra en el bosque. 
+ 
+7,55 km (537 m), 2 h 13 min. Bifurcación junto al molino de L'Esquirola. El PR C-87 se va a la izquierda (N) y se continúa en dirección SE atravesando el Siurana (hay que descalzarse e ir con cuidado en caso de caudal abundante). Una vez en la otra orilla, se sube por el sendero de Els Gorgs entre una frondosa vegetación de ribera. Tramo bucólico, umbrío y de gran encanto. Se sale a un camino ancho, que se toma a la izquierda (NE) cambiando el sentido de la marcha hasta que nos desviamos a mano derecha (NE) por un sendero que flanquea la montaña por encima del barranco. Enseguida se contemplan a la izquierda saltos de agua del río del Gorg, que se cruza un poco más adelante en un desfiladero remontando por la otra orilla hacia levante. 
+ 
+9,54 km (639 m), 2 h 47 min. Se desemboca en la curva de una pista, que se sigue a la izquierda (S) unos metros subiendo en el mismo sentido de la marcha hasta tomar un camino señalizado de la derecha (SO). Se accede a la poza del Mas dels Frares, ubicada en un frondoso y encajonado paraje con una hermosa cascada. Se cruza el río trepando por las rocas hasta un poste indicador, donde confluye el GR 7, que se sigue ascendiendo hacia el O/SO junto con las marcas del PR C-88. A continuación, se deja a la derecha un sendero que lleva a otra poza más pequeña y se sale del desfiladero tomando un camino que remonta por el bosque. El entorno, muy salvaje, cambia radicalmente y ahora es seco, pedregoso y cubierto de pinos y matorrales. 
+ 
+11,96 km (871 m), 3 h 35 min. Gallicant, pueblo abandonado en los años 50 de la pasada centuria. Se continúa hacia levante por la pista que pasa cerca de sus ruinas, que quedan elevadas a mano derecha (S), se deja un desvío a la izquierda, el GR 7 y el PR C-88 a la derecha y se flanquea la ladera septentrional y oriental del monte de Gallicant. 
+ 
+12,92 km (917 m), 3 h 52 min. Els Colls, cruce de pistas. Se toma la que sube a la izquierda en dirección SE hasta salir de nuevo a la pista por donde se iba, que se sigue también a la izquierda (SE). Más adelante, se toma una pista a la derecha en el mismo sentido de la marcha (SE) y, en Lo Collet Alt (km 13,94, 961 m), se atraviesa la carretera TV-7092. Se continúa siempre hacia el SE cruzando una meseta boscosa donde se distinguen restos de instalaciones del desaparecido campo de entrenamiento militar de Los Castillejos. Al final de la llanura, se prosigue por un sendero que desciende pronunciadamente haciendo eses por la solana de la montaña. 
+ 
+15,16 km (794 m), 4 h 22 min. Masías de Dalt y de En Rei. Hay que seguir a la izquierda (NE) por una ancha pista. Se dejan desvíos secundarios a ambos lados, las ruinas de dos masías y se llega a una bifurcación de pistas (km 17,65, 831 m; poste indicador): se gira por la de la derecha (S) en dirección a Vilaplana por el Camí dels Garrigots. En el km 18,10 (821 m), hay que abandonarla y bajar suavemente por un sendero señalizado de la izquierda (NE). Buenas vistas del risco del Poniol, el Cantacorbs, Vilaplana, la costa y el mar. 
+ 
+19,03 km (766 m), 5 h 18 min. Bifurcación de senderos. Se gira a la derecha (SE) descendiendo por el interior del bosque por la orilla occidental del barranco. Camino empedrado a tramos, con mucho boj y musgo. Más abajo, aumenta la presencia de encinas y se continúa en dirección SE por una pista. Se dejan desvíos secundarios a ambos lados y, entre campos de cultivo y muros de piedra, se accede a las afueras de Vilaplana. 
+ 
+22,61 km (360 m), 6 h 11 min. Se gira a la izquierda (E; poste indicador) atravesando el arroyo de la Mussara por un puente y se entra a Vilaplana por la calle del Doctor Mallafré. Justo antes de la plaza de Pau Casals, se gira a la derecha (S) hasta salir a la calle Major, empedrada, que se toma a la izquierda (N) pasando por delante de la iglesia de la Nativitat de la Mare de Déu. De nuevo en la plaza de Pau Casals, se retoma a la derecha (NE) la calle Doctor Mallafré, se sigue a la izquierda (N/NE) por la de Àngel Guimerà y, enfrente del depósito viejo, se gira a la izquierda (NE) saliendo de la población por la de Santiago Rusiñol (marcas del PR C-88). Se pasa junto a la fuente de Les Creus. 
+ 
+24,11 km (415 m), 6 h 35 min. Bifurcación de pistas (poste indicador). Se deja el Camí de les Tosques a la derecha (NE), por donde se va el PR C-88, y se continúa a la izquierda (NO) por el de Les Campanilles. Transcurridos 300 m, se abandona la pista y se remonta por un sendero de la derecha (NO) que se adentra en el bosque. Se dejan desvíos secundarios y se bordea la Roca Caiguda, de grandes dimensiones. A medida que se asciende, el camino se convierte en empedrado en algunos tramos, la vegetación es más espesa y se avanza entre riscos imponentes trepando algunas veces. Grandes vistas a mediodía de Vilaplana, la llanura que lo rodea y da nombre y la costa mediterránea. 
+ 
+26,33 km (863 m), 7 h 50 min. Se cruza una pista y se sigue subiendo por el bosque en el mismo sentido de la marcha (NE/N) por un sendero trillado hacia la Mussara (poste indicador). Se sale a la Punta de les Airasses, donde finaliza la ascensión y desde donde se disfruta de amplísimas panorámicas. Se prosigue llanamente hacia el N por la meseta hasta el pueblo en ruinas de la Mussara, abandonado en la década de los sesenta del siglo pasado, donde destaca el campanario de la iglesia de Sant Salvador, que aún se mantiene en pie. Frente al templo, se coge un sendero bien marcado de la derecha (E/NE) que discurre paralelo a la carretera TV-7093. 
+ 
+27,10 km (968 m), 8 h 10 min. Refugio de la Mussara, final de la primera etapa. Bello entorno natural poblado de encinas, pinos, chaparral y roquedal.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/15&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.264767" lon="0.904808">
+        <ele>528.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265028" lon="0.905289">
+        <ele>530.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265491" lon="0.905209">
+        <ele>528.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265594" lon="0.906429">
+        <ele>528.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265883" lon="0.906975">
+        <ele>521.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266125" lon="0.907135">
+        <ele>520.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265630" lon="0.907443">
+        <ele>526.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265358" lon="0.907840">
+        <ele>526.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265683" lon="0.909095">
+        <ele>521.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265683" lon="0.909608">
+        <ele>521.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265165" lon="0.910072">
+        <ele>520.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264782" lon="0.911099">
+        <ele>520.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264404" lon="0.911577">
+        <ele>522.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263431" lon="0.912342">
+        <ele>528.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262754" lon="0.912304">
+        <ele>519.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262197" lon="0.912608">
+        <ele>509.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259551" lon="0.915504">
+        <ele>472.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259934" lon="0.916495">
+        <ele>475.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260238" lon="0.916616">
+        <ele>472.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260142" lon="0.917061">
+        <ele>476.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260980" lon="0.918819">
+        <ele>476.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262066" lon="0.919292">
+        <ele>472.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262146" lon="0.919731">
+        <ele>473.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261515" lon="0.920008">
+        <ele>478.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260482" lon="0.919635">
+        <ele>478.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259915" lon="0.919187">
+        <ele>485.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259728" lon="0.918328">
+        <ele>475.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259200" lon="0.917515">
+        <ele>473.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259119" lon="0.916795">
+        <ele>475.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258730" lon="0.916449">
+        <ele>475.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258564" lon="0.916711">
+        <ele>479.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258853" lon="0.917251">
+        <ele>487.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259291" lon="0.919064">
+        <ele>508.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259734" lon="0.919897">
+        <ele>521.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259769" lon="0.920828">
+        <ele>536.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259333" lon="0.921373">
+        <ele>550.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258982" lon="0.922649">
+        <ele>541.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259321" lon="0.922943">
+        <ele>535.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259379" lon="0.923430">
+        <ele>528.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259637" lon="0.923757">
+        <ele>525.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259401" lon="0.924409">
+        <ele>518.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259783" lon="0.926098">
+        <ele>502.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259653" lon="0.926162">
+        <ele>508.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259708" lon="0.926715">
+        <ele>520.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260301" lon="0.928087">
+        <ele>543.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260716" lon="0.928617">
+        <ele>549.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260719" lon="0.929280">
+        <ele>562.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260505" lon="0.930450">
+        <ele>582.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260312" lon="0.929973">
+        <ele>591.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260198" lon="0.930400">
+        <ele>600.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260115" lon="0.930039">
+        <ele>606.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259942" lon="0.930426">
+        <ele>617.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259887" lon="0.930147">
+        <ele>624.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259729" lon="0.930845">
+        <ele>634.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259287" lon="0.931354">
+        <ele>650.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259228" lon="0.932830">
+        <ele>672.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258957" lon="0.933549">
+        <ele>678.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258832" lon="0.933613">
+        <ele>680.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258736" lon="0.933497">
+        <ele>699.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258588" lon="0.933812">
+        <ele>696.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258489" lon="0.933295">
+        <ele>712.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258321" lon="0.933510">
+        <ele>719.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258347" lon="0.933181">
+        <ele>721.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258179" lon="0.933377">
+        <ele>727.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258023" lon="0.933203">
+        <ele>733.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258057" lon="0.932838">
+        <ele>734.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257853" lon="0.932283">
+        <ele>734.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257673" lon="0.932533">
+        <ele>735.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257961" lon="0.933754">
+        <ele>744.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258666" lon="0.935128">
+        <ele>732.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258576" lon="0.936653">
+        <ele>747.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258836" lon="0.937320">
+        <ele>745.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259075" lon="0.938515">
+        <ele>730.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259005" lon="0.938870">
+        <ele>743.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259257" lon="0.939357">
+        <ele>738.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259270" lon="0.939870">
+        <ele>727.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259799" lon="0.940987">
+        <ele>725.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260319" lon="0.941598">
+        <ele>738.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260628" lon="0.942740">
+        <ele>726.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260628" lon="0.943002">
+        <ele>721.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260487" lon="0.942917">
+        <ele>718.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260648" lon="0.943384">
+        <ele>700.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260496" lon="0.943436">
+        <ele>684.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260471" lon="0.944088">
+        <ele>670.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260323" lon="0.944068">
+        <ele>664.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260240" lon="0.944244">
+        <ele>655.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260385" lon="0.944556">
+        <ele>650.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260294" lon="0.945006">
+        <ele>642.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260479" lon="0.946511">
+        <ele>607.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260809" lon="0.947354">
+        <ele>587.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260645" lon="0.947490">
+        <ele>575.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260905" lon="0.947959">
+        <ele>567.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260776" lon="0.948507">
+        <ele>553.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260554" lon="0.948484">
+        <ele>544.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260379" lon="0.948722">
+        <ele>529.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261664" lon="0.951391">
+        <ele>530.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261825" lon="0.952037">
+        <ele>533.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262888" lon="0.953580">
+        <ele>537.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263420" lon="0.954870">
+        <ele>545.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263813" lon="0.955222">
+        <ele>541.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264725" lon="0.957145">
+        <ele>538.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265013" lon="0.960180">
+        <ele>536.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264498" lon="0.961062">
+        <ele>540.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264276" lon="0.961015">
+        <ele>546.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263952" lon="0.961521">
+        <ele>548.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263640" lon="0.963745">
+        <ele>568.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262747" lon="0.964411">
+        <ele>596.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263463" lon="0.964663">
+        <ele>608.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263588" lon="0.965125">
+        <ele>610.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263822" lon="0.965398">
+        <ele>612.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263937" lon="0.966016">
+        <ele>621.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264414" lon="0.966281">
+        <ele>623.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264251" lon="0.966728">
+        <ele>628.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264349" lon="0.967179">
+        <ele>629.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265432" lon="0.967802">
+        <ele>633.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265613" lon="0.968124">
+        <ele>635.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265509" lon="0.969363">
+        <ele>656.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265810" lon="0.969843">
+        <ele>634.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265923" lon="0.971666">
+        <ele>622.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266168" lon="0.973020">
+        <ele>614.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265735" lon="0.974543">
+        <ele>613.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266249" lon="0.974581">
+        <ele>630.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266236" lon="0.974814">
+        <ele>644.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266157" lon="0.974936">
+        <ele>639.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265840" lon="0.974880">
+        <ele>637.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265290" lon="0.975343">
+        <ele>622.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264910" lon="0.975983">
+        <ele>634.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264408" lon="0.976417">
+        <ele>640.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264135" lon="0.976473">
+        <ele>640.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263685" lon="0.976236">
+        <ele>642.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263021" lon="0.976394">
+        <ele>646.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262205" lon="0.976114">
+        <ele>652.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261723" lon="0.976326">
+        <ele>660.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261235" lon="0.977523">
+        <ele>685.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260938" lon="0.976267">
+        <ele>703.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260736" lon="0.976029">
+        <ele>709.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260496" lon="0.975929">
+        <ele>721.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259615" lon="0.976033">
+        <ele>710.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259615" lon="0.975257">
+        <ele>713.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259296" lon="0.974306">
+        <ele>721.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259562" lon="0.973570">
+        <ele>733.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259630" lon="0.971783">
+        <ele>745.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259539" lon="0.971721">
+        <ele>745.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259184" lon="0.972048">
+        <ele>754.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259050" lon="0.970047">
+        <ele>775.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258805" lon="0.969253">
+        <ele>781.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258782" lon="0.968652">
+        <ele>782.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257328" lon="0.965624">
+        <ele>799.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257486" lon="0.965398">
+        <ele>805.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257455" lon="0.964928">
+        <ele>813.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256858" lon="0.963735">
+        <ele>827.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256696" lon="0.962964">
+        <ele>837.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256772" lon="0.962466">
+        <ele>845.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256078" lon="0.960649">
+        <ele>858.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255939" lon="0.959633">
+        <ele>864.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255614" lon="0.959076">
+        <ele>865.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254923" lon="0.958495">
+        <ele>872.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254205" lon="0.959132">
+        <ele>868.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254220" lon="0.960200">
+        <ele>879.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254076" lon="0.960497">
+        <ele>883.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253798" lon="0.960780">
+        <ele>885.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253260" lon="0.960928">
+        <ele>884.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253044" lon="0.961203">
+        <ele>884.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252522" lon="0.961476">
+        <ele>884.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251997" lon="0.962358">
+        <ele>889.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251589" lon="0.962693">
+        <ele>892.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251481" lon="0.963466">
+        <ele>900.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250666" lon="0.963999">
+        <ele>907.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.249902" lon="0.964100">
+        <ele>913.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248989" lon="0.964554">
+        <ele>916.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248536" lon="0.965964">
+        <ele>927.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248297" lon="0.968227">
+        <ele>945.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247753" lon="0.970063">
+        <ele>955.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247512" lon="0.972982">
+        <ele>955.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247266" lon="0.973837">
+        <ele>950.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246573" lon="0.974622">
+        <ele>953.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245183" lon="0.975482">
+        <ele>961.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244698" lon="0.976344">
+        <ele>965.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244705" lon="0.976756">
+        <ele>963.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244569" lon="0.976939">
+        <ele>961.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243035" lon="0.977565">
+        <ele>956.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242776" lon="0.977418">
+        <ele>950.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242632" lon="0.977697">
+        <ele>941.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242432" lon="0.977554">
+        <ele>931.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242237" lon="0.976975">
+        <ele>922.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242188" lon="0.978044">
+        <ele>905.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242022" lon="0.978348">
+        <ele>892.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241703" lon="0.977588">
+        <ele>880.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241208" lon="0.977860">
+        <ele>865.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241051" lon="0.978658">
+        <ele>857.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240363" lon="0.979753">
+        <ele>837.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239906" lon="0.980101">
+        <ele>827.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239711" lon="0.980799">
+        <ele>816.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238876" lon="0.980956">
+        <ele>797.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238646" lon="0.981476">
+        <ele>793.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238946" lon="0.983150">
+        <ele>799.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239418" lon="0.983648">
+        <ele>800.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239892" lon="0.985244">
+        <ele>792.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239920" lon="0.986049">
+        <ele>789.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241242" lon="0.986724">
+        <ele>783.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241307" lon="0.987104">
+        <ele>785.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240993" lon="0.988462">
+        <ele>783.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241094" lon="0.988817">
+        <ele>783.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241706" lon="0.989604">
+        <ele>781.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242207" lon="0.989887">
+        <ele>781.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243632" lon="0.990291">
+        <ele>777.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244230" lon="0.990744">
+        <ele>776.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244134" lon="0.991212">
+        <ele>773.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243839" lon="0.991579">
+        <ele>774.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243957" lon="0.992160">
+        <ele>774.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243530" lon="0.993456">
+        <ele>780.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243658" lon="0.993870">
+        <ele>779.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244044" lon="0.994007">
+        <ele>778.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244062" lon="0.994555">
+        <ele>780.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244809" lon="0.996066">
+        <ele>794.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244951" lon="0.996724">
+        <ele>795.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244791" lon="0.997648">
+        <ele>798.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244323" lon="0.997930">
+        <ele>802.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243803" lon="0.998024">
+        <ele>802.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243548" lon="0.998414">
+        <ele>806.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242816" lon="1.001377">
+        <ele>824.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242670" lon="1.003852">
+        <ele>831.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241910" lon="1.003905">
+        <ele>830.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241500" lon="1.004407">
+        <ele>826.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240589" lon="1.005097">
+        <ele>827.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239781" lon="1.006255">
+        <ele>823.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239631" lon="1.007232">
+        <ele>819.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239845" lon="1.007601">
+        <ele>816.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240751" lon="1.008182">
+        <ele>803.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241612" lon="1.009015">
+        <ele>796.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242033" lon="1.008901">
+        <ele>793.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242271" lon="1.008357">
+        <ele>795.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242552" lon="1.008199">
+        <ele>791.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243278" lon="1.008499">
+        <ele>786.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243570" lon="1.009284">
+        <ele>786.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244109" lon="1.009709">
+        <ele>785.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244387" lon="1.010160">
+        <ele>782.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244768" lon="1.009784">
+        <ele>778.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245365" lon="1.009719">
+        <ele>770.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245653" lon="1.009429">
+        <ele>768.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246038" lon="1.009555">
+        <ele>765.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245841" lon="1.009871">
+        <ele>752.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246114" lon="1.010066">
+        <ele>743.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244500" lon="1.011242">
+        <ele>720.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244423" lon="1.011472">
+        <ele>709.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244710" lon="1.011892">
+        <ele>703.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244535" lon="1.012190">
+        <ele>696.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243981" lon="1.012201">
+        <ele>684.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243504" lon="1.011977">
+        <ele>672.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243724" lon="1.012423">
+        <ele>659.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243191" lon="1.012577">
+        <ele>640.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242575" lon="1.011886">
+        <ele>632.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242141" lon="1.012794">
+        <ele>619.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241590" lon="1.012995">
+        <ele>614.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241429" lon="1.013591">
+        <ele>610.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241040" lon="1.013967">
+        <ele>606.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240630" lon="1.013705">
+        <ele>604.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240329" lon="1.013755">
+        <ele>605.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239911" lon="1.015117">
+        <ele>591.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239513" lon="1.015498">
+        <ele>583.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239175" lon="1.015491">
+        <ele>580.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238312" lon="1.015857">
+        <ele>568.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237502" lon="1.015607">
+        <ele>559.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237437" lon="1.016277">
+        <ele>547.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237691" lon="1.016920">
+        <ele>539.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237581" lon="1.017066">
+        <ele>535.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236970" lon="1.016906">
+        <ele>525.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236878" lon="1.017028">
+        <ele>520.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237540" lon="1.017819">
+        <ele>510.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237856" lon="1.017857">
+        <ele>505.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238191" lon="1.018223">
+        <ele>503.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237803" lon="1.018438">
+        <ele>495.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237518" lon="1.018363">
+        <ele>490.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237477" lon="1.018853">
+        <ele>483.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237029" lon="1.019022">
+        <ele>483.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236638" lon="1.019571">
+        <ele>484.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236443" lon="1.020251">
+        <ele>477.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235988" lon="1.021040">
+        <ele>472.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235988" lon="1.022073">
+        <ele>466.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235613" lon="1.022233">
+        <ele>464.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235191" lon="1.023642">
+        <ele>461.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234581" lon="1.024847">
+        <ele>456.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233692" lon="1.025560">
+        <ele>446.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233267" lon="1.025728">
+        <ele>442.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233156" lon="1.026316">
+        <ele>437.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232619" lon="1.026792">
+        <ele>429.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232622" lon="1.027233">
+        <ele>423.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232296" lon="1.027911">
+        <ele>411.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230968" lon="1.029538">
+        <ele>389.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230692" lon="1.030542">
+        <ele>382.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229858" lon="1.031522">
+        <ele>372.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228966" lon="1.031757">
+        <ele>360.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228954" lon="1.032676">
+        <ele>366.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228642" lon="1.032515">
+        <ele>364.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228147" lon="1.032781">
+        <ele>363.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.227477" lon="1.032861">
+        <ele>358.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226630" lon="1.033381">
+        <ele>355.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226539" lon="1.033575">
+        <ele>356.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226639" lon="1.033655">
+        <ele>358.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228229" lon="1.033369">
+        <ele>365.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228973" lon="1.032887">
+        <ele>366.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229207" lon="1.033697">
+        <ele>374.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229835" lon="1.034368">
+        <ele>377.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230152" lon="1.034496">
+        <ele>379.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231739" lon="1.034567">
+        <ele>379.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231967" lon="1.034197">
+        <ele>385.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232582" lon="1.033850">
+        <ele>394.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235484" lon="1.033143">
+        <ele>415.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235781" lon="1.032304">
+        <ele>419.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236886" lon="1.031872">
+        <ele>430.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237098" lon="1.030600">
+        <ele>438.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237389" lon="1.030466">
+        <ele>445.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237548" lon="1.030551">
+        <ele>449.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237615" lon="1.030257">
+        <ele>452.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237709" lon="1.030493">
+        <ele>456.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237805" lon="1.030275">
+        <ele>460.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238475" lon="1.029951">
+        <ele>471.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238994" lon="1.029481">
+        <ele>482.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239808" lon="1.029433">
+        <ele>521.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240474" lon="1.030165">
+        <ele>561.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240832" lon="1.030822">
+        <ele>571.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241322" lon="1.031046">
+        <ele>574.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241674" lon="1.030547">
+        <ele>587.2</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242003" lon="1.029516">
+        <ele>598.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242939" lon="1.028677">
+        <ele>618.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243336" lon="1.028689">
+        <ele>635.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243178" lon="1.028962">
+        <ele>641.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243747" lon="1.028766">
+        <ele>650.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243979" lon="1.028896">
+        <ele>661.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244155" lon="1.028414">
+        <ele>662.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244239" lon="1.028853">
+        <ele>674.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243824" lon="1.029318">
+        <ele>684.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244302" lon="1.029340">
+        <ele>696.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244831" lon="1.028930">
+        <ele>703.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245292" lon="1.029310">
+        <ele>718.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245776" lon="1.029451">
+        <ele>722.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246225" lon="1.029378">
+        <ele>729.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246841" lon="1.028506">
+        <ele>758.6</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246828" lon="1.027766">
+        <ele>783.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247027" lon="1.027567">
+        <ele>797.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247371" lon="1.027630">
+        <ele>814.3</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247904" lon="1.028235">
+        <ele>844.4</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248735" lon="1.028359">
+        <ele>863.5</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248884" lon="1.028677">
+        <ele>866.7</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.249793" lon="1.028584">
+        <ele>894.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250584" lon="1.028833">
+        <ele>929.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251009" lon="1.028665">
+        <ele>950.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251184" lon="1.028355">
+        <ele>954.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251228" lon="1.028813">
+        <ele>984.1</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251359" lon="1.028863">
+        <ele>988.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251895" lon="1.028364">
+        <ele>985.0</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252134" lon="1.028350">
+        <ele>979.9</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252396" lon="1.029506">
+        <ele>968.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253795" lon="1.031010">
+        <ele>967.8</ele>
+        <time>2015-04-01T20:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

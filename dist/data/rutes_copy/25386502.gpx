@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.504502" lon="1.186579">
+    <ele>774.5</ele>
+    <time>2018-05-30T17:02:41Z</time>
+    <name>Belltall</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.494057" lon="1.238227">
+    <ele>871.7</ele>
+    <time>2018-05-30T17:03:25Z</time>
+    <name>Forés</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.492417" lon="1.231180">
+    <ele>792.8</ele>
+    <time>2018-05-30T17:03:54Z</time>
+    <name>Bassa i creu de terme del Pla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.493763" lon="1.237852">
+    <ele>861.7</ele>
+    <time>2018-05-30T17:04:25Z</time>
+    <name>Mirador de la Conca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.492981" lon="1.242113">
+    <ele>813.2</ele>
+    <time>2018-05-30T17:04:57Z</time>
+    <name>Creu de Rocafort</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.478898" lon="1.281547">
+    <ele>575.5</ele>
+    <time>2018-05-30T17:05:31Z</time>
+    <name>Castell de Rocafort</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.477697" lon="1.281269">
+    <ele>562.1</ele>
+    <time>2018-05-30T17:05:49Z</time>
+    <name>Rocafort de Queralt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.469994" lon="1.287747">
+    <ele>608.7</ele>
+    <time>2018-04-17T17:02:08Z</time>
+    <name>Confluència amb el recorregut amb BTT</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.477697" lon="1.281269">
+    <ele>562.1</ele>
+    <time>2018-05-30T18:42:21Z</time>
+    <name>Rocafort de Queralt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.474515" lon="1.284838">
+    <ele>545.6</ele>
+    <time>2018-05-30T18:46:40Z</time>
+    <name>Variant a peu GR 175</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.463268" lon="1.296538">
+    <ele>610.5</ele>
+    <time>2018-05-30T18:47:17Z</time>
+    <name>Montbrió de la Marca</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.448310" lon="1.321132">
+    <ele>901.6</ele>
+    <time>2018-05-30T18:49:46Z</time>
+    <name>Puig de Comaverd</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.446727" lon="1.320131">
+    <ele>878.1</ele>
+    <time>2018-05-30T18:50:03Z</time>
+    <name>Coll de Maldà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.429059" lon="1.305777">
+    <ele>880.6</ele>
+    <time>2018-05-30T18:50:46Z</time>
+    <name>El Cogulló</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.413402" lon="1.309803">
+    <ele>661.7</ele>
+    <time>2018-05-30T18:51:27Z</time>
+    <name>Coll del Sarrià</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.400211" lon="1.324742">
+    <ele>567.8</ele>
+    <time>2018-05-30T18:52:17Z</time>
+    <name>Urbanització Mas del Plata</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.383043" lon="1.362862">
+    <ele>346.9</ele>
+    <time>2018-05-30T18:53:45Z</time>
+    <name>El Pont d'Armentera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.346452" lon="1.363414">
+    <ele>315.2</ele>
+    <time>2018-05-30T18:54:22Z</time>
+    <name>Santes Creus</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.469994" lon="1.287747">
+    <ele>608.7</ele>
+    <time>2018-04-17T17:02:08Z</time>
+    <name>Confluència amb el recorregut a peu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.383198" lon="1.357553">
+    <ele>414.8</ele>
+    <time>2018-04-17T17:05:58Z</time>
+    <name>Per l'esquerra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.445420" lon="1.320020">
+    <ele>869.0</ele>
+    <time>2018-05-31T21:15:00Z</time>
+    <name>Variant a peu del GR 175</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.434474" lon="1.332980">
+    <ele>743.7</ele>
+    <time>2018-05-31T21:16:32Z</time>
+    <name>Coll de Valls</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.412793" lon="1.313394">
+    <ele>640.7</ele>
+    <time>2018-05-31T21:19:14Z</time>
+    <name>Confluència amb la variant a peu</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>La Ruta del Cister en BTT. 3 Belltall-Santes Creus</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; La Ruta del Cister en BTT. 3 Belltall-Santes Creus &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; La Ruta del Cister uneix Santes Creus, Montblanc, Poblet i Vallbona de les Monges, un conjunt històric i monumental del màxim interès relacionat amb l'esplendor medieval de Catalunya. El recorregut circular en bicicleta, senyalitzat com a GR 175, es proposa en tres etapes que sumen 111 km i un desnivell acumulat en pujada de 2.400 m. Discorre per les comarques de l'Alt Camp, la Conca de Barberà i l'Urgell. Es disposa de la possibilitat d’utilitzar l'estació de tren de Montblanc (línia Barcelona-Picamoixons-Lleida) com a punt de sortida i d'arribada del recorregut. 
+ 
+L'orde del Cister és una branca de l'orde benedictí fundada l'any 1098 a Cistaux, Borgonya, que es va estendre per Europa mercès a l'impuls de Bernat de Claravall. Amb la finalitat d'estabilitzar l'economia i la població de les terres conquerides a l’Al-Andalus, els sobirans catalans confiaren a l'orde la fundació de centres monàstics. S'alçaven en indrets estratègics, amb aigua abundant i regles constructives: rodejaven el nucli central dependències diverses, estances, hospitals, capelles i obradors d'artesans. Al voltant s'hi estenien explotacions agrícoles i forestals i s'hi fundaven masies i granges. Santes Creus va ser fundat el 1168 per una comunitat procedent del centre d'Europa; Poblet el 1153 per una comunitat procedent de Fontfreda del Llenguadoc i l'abadia de Vallbona de les Monges es transformava, el 1176, en comunitat del Cister. Els tres monestirs són panteons del casal reial català i constitueixen un conjunt patrimonial de magnitud europea. En un moment o altre, la seva visita és inexcusable.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (774 m). Plaça de l'Església de Sant Pere de Belltall. Es pren el carrer de Dalt en direcció S. S'han de pujar unes escales i agafar el camí que discorre durant 100 m paral·lelament a la carretera C-14. Al cap de 250 m de la sortida, cal prendre a mà esquerra la pista que se separa de la carretera en direcció SE. S'arriba a una pista asfaltada que ve de la dreta (als 11 min i 750 m de la sortida). Es continua cap al SE, recte i en suau pujada, deixant trencalls secundaris a banda i banda. En un d'ells, al km 1,97 (831 m), l'itinerari s'uneix al traçat del GR 171. 
+ 
+3,22 km (849 m). Bifurcació de pistes sota el puig de les Forques. Fi de l'asfalt. Es continua pel camí de la dreta (E) vorejant el turó, primer planerament i baixant fortament després per un camí en mal estat. S'accedeix a la carretera T-222, que es pren a l'esquerra (E) per deixar-la seguidament, al cap de 100 m, quan aquesta gira al N bruscament (juntament amb el GR 171). 
+ 
+4,35 km (792 m). Es deixa la carretera T-222 a mà esquerra i es continua recte (E) passant pel costat d'una bassa que queda a l'esquerra. S'és al barri de Ca l'Agustí, als afores de Forès. El poble queda enlairat sobre el pla. Al km 4,70 (799 m), es deixa a l'esquerra l'accés a la població i es continua a la dreta (SE/E) deixant, successivament, dos trencalls més que hi pugen. La pista, asfaltada, gira al SE. 
+ 
+5,35 km (815 m). Bifurcació a la creu de terme i accés oriental a Forés. El GR 171-1 se'n va a l'esquerra i la Ruta del Cister, el GR 175, a la dreta. A 520 m d'aquí, es troba una altra bifurcació. Es continua a l'esquerra. 
+ 
+6,49 km (760 m). Bifurcació. S'acaba l'asfalt. Cal prendre el brancal de la dreta del tot, el Camí de Rocafort. La pista baixa amb força. Cal continuar en direcció SE seguint els senyals i deixant desviaments secundaris a banda i banda. 
+ 
+7,88 km (620 m). Bifurcació. S'ha de continuar per l'esquerra dirigint-se al NE i, després, al SE. 
+ 
+9,21 km (539 m). Rasa o torrent del Cabestany, sota Rocafort de Queralt. A l'esquerra, hi ha una font i un racó amb bancs. Es continua per la pista que puja a la carretera T-230, que es creua, i ja s'és a Rocafort. S'entra a la població pel carrer de Sant Antoni, es deixa l'Ajuntament a mà dreta i s'arriba a la plaça de l'Església. 
+ 
+9,53 km (562 m). Plaça de l'Església de Rocafort de Queralt. Es visita el nucli vell, on cal veure els portals i els carrers estrets, el castell, cal Claret, d'estil colonial, i el celler modernista de la Cooperativa. En acabat, per la banda E de l'església, es prenen els carrers del Doctor J. Barrera i el de Montbrió i se surt de la població travessant la carretera C-241, que ve de Santa Coloma de Queralt. Es continua per la pista que se'n va en direcció S/SE davallant fortament cap a la rasa de Coma d'Heures. Es creua el torrent i es puja. 
+ 
+10,04 km (544 m). Es desemboca a una pista. El camí a peu continua recte, pel corriol del davant; anant en bicicleta, es gira a la dreta (O). La pista es bifurca immediatament i, aleshores, s'agafa el primer trencall de l'esquerra ascendint a migdia. Es deixen dos desviaments a l'esquerra (E) i, al km 10,77 (609 m), es desemboca a una cruïlla on es retroba l'itinerari a peu: es continua recte cap al S seguint els senyals i baixant fins que s'arriba a una altra pista, que se segueix a llevant (km 11,13, 580 m). La pista va tombant al S, es deixa una desviació a l'esquerra i es fa cap a la carretera de Montbrió. 
+ 
+11,60 km (557 m). Se surt a la carretera TV-2333, que se segueix a l'esquerra (NE) en direcció a Montbrió. 150 m després, cal deixar-la i pujar cap al poble pel camí que surt a l'esquerra. 
+ 
+12,20 km (608 m). Montbrió de la Marca, carrer Major. Es visita el petit vilatge i es prossegueix la ruta descendint al S tot passant pel costat d'unes instal·lacions d'esbarjo i prenent el camí que surt a la dreta de l'esplanada. El camí fa una ziga-zaga, es dirigeix a llevant, passa per sota de la masia de les Pallisses (km 12,75, 589 m) i gira al S per creuar el pla del Pallissó. Comença l'ascensió cap a la serra de Comaverd. La pista, molt ampla, es dirigeix al SE amb forts pendents. 
+ 
+14,93 km (784 m). La Collada, inflexió de la carena secundària que es desprèn del puig de Comaverd en direcció O. Bifurcació: es continua a l'esquerra (SE). La pista tomba a l'est i, després, al S (km 15,62, 852 m), en pujada. 
+ 
+16,00 km (870 m). Carena de Comaverd. Bifurcació. La variant en BTT de la ruta se'n va a l'esquerra (E) en direcció al proper coll de Maldà. L'itinerari a peu marxa a la dreta (S i SO) passant pel cim de la serra, el Cogulló; es retrobarà més endavant (tram gens idoni per fer amb bicicleta). Es gira, doncs, a l'esquerra. La pista passa pel coll, tomba de nou cap al S, discorre pel costat d'unes antenes de telecomunicacions i baixa fins al coll de Valls. 
+ 
+18,65 km (745 m). Coll de Valls. Cruïlla de pistes i bifurcació on es conflueix amb el sender GR 7. Cal anar a la dreta (S) en franc descens seguint els senyals dels dos GR sempre pel marge esquerre (O) del torrent. 
+ 
+21,84 km (584 m). Bifurcació: es deixa un trencall a l'esquerra, es creua el torrent de Rupit i es continua recte (O) i en pujada passant pel costat de cal Bella, que queda a mà dreta. 
+ 
+22,67 km (641 m). Bifurcació. Per la dreta conflueix la variant a peu de la Ruta del Cister que ve del Cogulló i del proper coll del Sàrria. Es continua recte. La pista voreja el vessant E de la muntanya de Cabarrà, primer cap a llevant i després a migdia, i s'encara a la plana de l'Alt Camp passant pel bonic indret de les Roques del Migdia (km 24,00, 603 m), enlairades sobre la ufanosa vall del torrent de Rupit. Més avall, es travessa la urbanització del Mas del Plata per can Rui (km 25,00, 563 m). Es deixa a mà dreta (SO) el gruix de la urbanització i es continua davallant suaument per un entorn de fruiters i conreus on es pot tornar a observar la magnífica obra de pedra seca característica d'aquestes terres. 
+ 
+28,57 km (415 m). Bifurcació. Es continua per la pista de la dreta deixant a l'esquerra el camí de la variant a peu, que baixa a la carretera del Pont d'Armentera (C-37) per un corriol estret i en mal estat. 
+ 
+29,01 km (383 m). Carretera C-37, a tocar del Pont d'Armentera. Es creua la carretera, es gira a l'esquerra i s'entra al poble pel primer desviament de la dreta, el carrer del Calvari, fent un fort gir al NE. Se segueix pel de Sant Antoni i s'arriba al centre urbà a l'alçada del carrer Major. Cal continuar a la dreta (E) seguint aquest carrer fins al passeig de Sant Isidre, on es tomba al S. Es travessa el riu Gaià per un pont (km 29,75, 327 m) i, per la barriada de la Planeta, s'agafa la pista que, sempre cap al S, duu a Santes Creus creuant un plàcid entorn de fruiters, vinyes i bosquines. 
+ 
+34,89 km (309 m). Santes Creus, portal d'entrada al recinte murallat del monestir, passat l'arc de cases. Fi del recorregut de l'etapa i de la travessa en BTT.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt; La Ruta del Císter en BTT. 3 Belltall-Santes Creus &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; La Ruta del Císter une Santes Creus, Montblanc, Poblet y Vallbona de les Monges, un conjunto histórico y monumental del máximo interés relacionado con el esplendor medieval de Catalunya. El itinerario circular en bicicleta, señalizado como sendero de gran recorrido GR 175, se propone en tres etapas que suman 111 km y un desnivel acumulado en subida de 2.400 m. Discurre por las comarcas de L'Alt Camp, la Conca de Barberà y L'Urgell. Se dispone de la posibilidad de utilizar la estación de tren de Montblanc (línea Barcelona-Picamoixons-Lleida) como punto de salida y de llegada del recorrido. 
+ 
+La orden del Císter es una rama de la orden benedictina fundada en 1098 en Cistaux, Borgoña que se extendió por Europa gracias al impulso de Bernardo de Claravall. Con el fin de estabilizar la economía y la población de las tierras conquistadas a Al-andalus, los soberanos catalanes confiaron a la orden la fundación de centros monásticos. Se erigían en lugares estratégicos, con agua abundante y reglas constructivas: rodeaban el núcleo central dependencias diversas, aposentos, hospitales, capillas y obradores de artesanos. Alrededor se extendían explotaciones agrícolas y forestales y se fundaban masías y granjas. Santes Creus fue fundado en 1168 por una comunidad monástica procedente del centro de Europa; Poblet, en 1153 por una comunidad procedente de Fontfreda del Languedoc y la abadía de Vallbona de les Monges se transformó, el 1176, en comunidad del Císter. Los tres monasterios son panteones reales de la casa de Barcelona y el reino de Aragón y constituyen un conjunto patrimonial de magnitud europea. Por ello, en un momento u otro, su visita es inexcusable.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (774 m). Plaza de L'Església de Sant Pere de Belltall. Se toma la calle de Dalt en dirección S. Se suben unas escaleras y se toma el camino que discurre durante 100 m paralelamente a la carretera C-14. Al cabo de 250 m de la salida, hay que tomar a mano izquierda la pista que se separa de la carretera en dirección SE. Se llega a una pista asfaltada que viene de la derecha (a los 11 min y 750 m de la salida). Se continúa hacia el SE, recto y en suave subida, dejando desvíos secundarios a ambos lados. En uno de ellos, en el km 1,97 (831 m), el itinerario se une al trazado del GR 171. 
+ 
+3,22 km (849 m). Bifurcación de pistas bajo el monte de Les Forques. Fin del asfalto. Se continúa por el camino de la derecha (E) bordeando el monte, primero llanamente y bajando fuertemente después por un camino en mal estado. Se accede a la carretera T-222, que se toma a la izquierda (E) para dejarla a continuación, al cabo de 100 m, cuando esta gira al N bruscamente (junto con el GR 171). 
+ 
+4,35 km (792 m). Se deja la carretera T-222 a mano izquierda y se sigue recto (E) pasando junto a una balsa que queda a la izquierda. Se entra en el barrio de Ca l'Agustí, en las afueras de Forès. El pueblo queda elevado sobre el llano. En el km 4,70 (799 m), se deja a la izquierda el acceso a la población y se continúa a la derecha (SE/E) dejando, sucesivamente, dos desvíos más que suben. La pista, asfaltada, gira al SE. 
+ 
+5,35 km (815 m). Bifurcación en la cruz de término y acceso oriental a Forés. El GR 171-1 se va a la izquierda y la Ruta del Císter, el GR 175, a la derecha. A 520 m de aquí, se encuentra otra bifurcación. Se continúa a la izquierda. 
+ 
+6,49 km (760 m). Bifurcación. Se acaba el asfalto. Hay que tomar el vial de la derecha del todo, el Camí de Rocafort. La pista baja con fuerza. Hay que continuar en dirección SE siguiendo las señales y dejando desvíos secundarios a ambos lados. 
+ 
+7,88 km (620 m). Bifurcación. Hay que seguir por la izquierda dirigiéndose al NE y, después, al SE. 
+ 
+9,21 km (539 m). Zanja o torrente del Cabestany, bajo Rocafort de Queralt. A la izquierda, hay una fuente y un rincón con bancos. Se continúa por la pista que sube a la carretera T-230, que se cruza, y se llega a Rocafort. Se entra en la población por la calle de Sant Antoni, se deja el Ayuntamiento a mano derecha y se llega a la plaza de L'Església. 
+ 
+9,53 km (562 m). Plaza de L'Església de Rocafort de Queralt. Se visita el núcleo viejo, donde hay que ver los portales y las calles estrechas, el castillo, Cal Claret, de estilo colonial, y la bodega modernista de la Cooperativa. Luego, por el lado oriental de la iglesia, se toman las calles del Doctor J. Barrera y la de Montbrió y se sale de la población atravesando la carretera C-241, que viene de Santa Coloma de Queralt. Se continúa por la pista que va en dirección S/SE descendiendo fuertemente hacia la zanja de Coma d'Heures. Se cruza el torrente y se sube. 
+ 
+10,04 km (544 m). Se desemboca en una pista. El camino a pie sigue recto, por el sendero de delante; yendo en bicicleta, se gira a la derecha (O). La pista se bifurca inmediatamente y, entonces, se toma el primer desvío de la izquierda ascendiendo a mediodía. Se dejan dos desvíos a la izquierda (E) y, en el km 10,77 (609 m), se desemboca en un cruce donde se reencuentra el itinerario a pie: se sigue recto hacia el S siguiendo las señales y bajando hasta que se llega a otra pista, que se sigue a levante (km 11,13, 580 m). La pista va girando al S, se deja un desvío a la izquierda y se llega a la carretera de Montbrió. 
+ 
+11,60 km (557 m). Se sale a la carretera TV-2333, que se sigue a la izquierda (NE) en dirección a Montbrió. 150 m después, hay que dejarla y subir hacia el pueblo por el camino que sale a la izquierda. 
+ 
+12,20 km (608 m). Montbrió de la Marca, calle Major. Se visita esta pequeña aldea y se prosigue la ruta descendiendo al S pasando junto a unas instalaciones de recreo y tomando el camino que sale a la derecha de la explanada. El camino hace un zigzag, se dirige al este, pasa por debajo de la masía de Les Pallisses (km 12,75, 589 m) y gira al S para cruzar el llano del Pallissó. Comienza la ascensión hacia la sierra de Comaverd. La pista, muy ancha, se dirige al SE con fuertes pendientes. 
+ 
+14,93 km (784 m). La Collada, inflexión del cordal secundario que se desprende del monte de Comaverd en dirección O. Bifurcación: se sigue a la izquierda (SE). La pista gira al este y luego al S (km 15,62, 852 m), en subida. 
+ 
+16,00 km (870 m). Cordal de Comaverd. Bifurcación. La variante en BTT de la ruta se va a la izquierda (E) en dirección al próximo collado de Maldà. El itinerario a pie marcha a la derecha (S y SO) pasando por la cima de la sierra, el Cogulló (tramo nada idóneo para hacer en bicicleta). Se gira, pues, a la izquierda. La pista pasa por el collado, gira de nuevo hacia el S, discurre por el lado de unas antenas de telecomunicaciones y baja hasta el collado de Valls. 
+ 
+18,65 km (745 m). Collado de Valls. Cruce de pistas y bifurcación donde se confluye con el sendero GR 7. Hay que ir a la derecha (S) en franco descenso siguiendo las señales de los dos GR siempre por el margen izquierdo (O) del torrente. 
+ 
+21,84 km (584 m). Bifurcación: se deja un desvío a la izquierda, se cruza el torrente de Rupit y se sigue recto (O) y en subida pasando por el lado de Cal Bella, que queda a mano derecha. 
+ 
+22,67 km (641 m). Bifurcación. Por la derecha confluye la variante a pie de la Ruta del Císter que viene del Cogulló y del próximo collado del Sàrria. Se sigue recto. La pista bordea la vertiente E de la montaña de Cabarrà, primero hacia levante y luego a mediodía, y se encara a la llanura de L'Alt Camp pasando por el bonito paraje de Les Roques del Migdia (km 24,00, 603 m ), elevadas sobre el esplendoroso valle del torrente de Rupit. Más abajo, se atraviesa la urbanización del Mas del Plata por Can Rui (km 25,00, 563 m). Se deja a mano derecha (SO) el grueso de la urbanización y se continúa descendiendo suavemente por un entorno de frutales y cultivos donde se puede volver a observar la magnífica obra de piedra seca característica de estas tierras. 
+ 
+28,57 km (415 m). Bifurcación. Se continúa por la pista de la derecha dejando a la izquierda el camino de la variante a pie, que baja a la carretera del Pont d'Armentera (C-37) por un sendero estrecho y en mal estado. 
+ 
+29,01 km (383 m). Carretera C-37, junto al Pont d'Armentera. Se cruza la carretera, se gira a la izquierda y se entra en el pueblo por el primer desvío de la derecha, la calle del Calvari, haciendo un fuerte giro al NE. Se sigue por la de Sant Antoni y se llega al centro urbano a la altura de la calle Major. Hay que continuar a la derecha (E) siguiendo por esta calle hasta el paseo de Sant Isidre, donde se gira al S. Se cruza el río Gaià por un puente (km 29,75, 327 m) y, por la barriada de la Planeta, se toma la pista que, siempre hacia el S, lleva a Santes Creus cruzando un apacible entorno de frutales, viñedos y bosques. 
+ 
+34,89 km (309 m). Santes Creus, portal de entrada al recinto amurallado del monasterio, pasado el arco de casas. Fin del recorrido de la etapa y de la travesía en BTT.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2018&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.504406" lon="1.186449">
+        <ele>773.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.503356" lon="1.186748">
+        <ele>779.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.502318" lon="1.187360">
+        <ele>785.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501666" lon="1.188564">
+        <ele>787.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499943" lon="1.190421">
+        <ele>797.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498028" lon="1.196745">
+        <ele>818.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496881" lon="1.201414">
+        <ele>830.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495648" lon="1.204395">
+        <ele>832.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495343" lon="1.207967">
+        <ele>832.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495188" lon="1.208445">
+        <ele>833.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494651" lon="1.209232">
+        <ele>832.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494453" lon="1.210423">
+        <ele>830.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494798" lon="1.212318">
+        <ele>831.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494512" lon="1.213632">
+        <ele>834.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493716" lon="1.215714">
+        <ele>841.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493079" lon="1.216510">
+        <ele>843.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492412" lon="1.217032">
+        <ele>844.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492375" lon="1.217596">
+        <ele>845.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492764" lon="1.218268">
+        <ele>848.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492943" lon="1.219377">
+        <ele>848.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492351" lon="1.221250">
+        <ele>852.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491563" lon="1.222159">
+        <ele>855.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491135" lon="1.223057">
+        <ele>858.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491591" lon="1.225141">
+        <ele>835.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491455" lon="1.228006">
+        <ele>801.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492304" lon="1.230510">
+        <ele>792.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492183" lon="1.233760">
+        <ele>796.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492396" lon="1.234748">
+        <ele>798.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491957" lon="1.236659">
+        <ele>805.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492709" lon="1.237519">
+        <ele>810.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493190" lon="1.238620">
+        <ele>815.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493097" lon="1.239916">
+        <ele>813.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493309" lon="1.241372">
+        <ele>814.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491636" lon="1.243950">
+        <ele>795.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490913" lon="1.245856">
+        <ele>783.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490203" lon="1.246840">
+        <ele>776.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490203" lon="1.247145">
+        <ele>773.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490610" lon="1.248128">
+        <ele>769.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490515" lon="1.249018">
+        <ele>771.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490635" lon="1.250069">
+        <ele>770.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490379" lon="1.250723">
+        <ele>765.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489824" lon="1.251546">
+        <ele>760.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489819" lon="1.253301">
+        <ele>758.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488892" lon="1.255470">
+        <ele>729.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488833" lon="1.256035">
+        <ele>723.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488359" lon="1.257125">
+        <ele>713.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487919" lon="1.257221">
+        <ele>705.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486439" lon="1.259189">
+        <ele>696.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486265" lon="1.259589">
+        <ele>692.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486233" lon="1.260404">
+        <ele>685.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485914" lon="1.261060">
+        <ele>680.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485343" lon="1.261734">
+        <ele>676.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485712" lon="1.263460">
+        <ele>663.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485651" lon="1.265654">
+        <ele>631.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484968" lon="1.267002">
+        <ele>621.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485290" lon="1.267460">
+        <ele>617.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485330" lon="1.267758">
+        <ele>615.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484985" lon="1.268486">
+        <ele>613.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484621" lon="1.270030">
+        <ele>601.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484216" lon="1.270676">
+        <ele>598.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484057" lon="1.271470">
+        <ele>596.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483523" lon="1.272513">
+        <ele>594.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482552" lon="1.273234">
+        <ele>589.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481495" lon="1.274597">
+        <ele>590.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480017" lon="1.277840">
+        <ele>559.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479283" lon="1.278788">
+        <ele>547.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479488" lon="1.279555">
+        <ele>538.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479152" lon="1.279500">
+        <ele>545.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478917" lon="1.279630">
+        <ele>548.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478801" lon="1.280389">
+        <ele>553.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478072" lon="1.280438">
+        <ele>555.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477746" lon="1.280745">
+        <ele>559.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477493" lon="1.281490">
+        <ele>561.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477629" lon="1.281905">
+        <ele>563.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477258" lon="1.282406">
+        <ele>563.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475776" lon="1.283078">
+        <ele>557.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475622" lon="1.283345">
+        <ele>550.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475634" lon="1.283824">
+        <ele>541.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475031" lon="1.284517">
+        <ele>533.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474690" lon="1.284591">
+        <ele>540.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474546" lon="1.284771">
+        <ele>544.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474376" lon="1.284548">
+        <ele>546.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473420" lon="1.284637">
+        <ele>558.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.472717" lon="1.284508">
+        <ele>565.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471957" lon="1.285540">
+        <ele>582.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471496" lon="1.284940">
+        <ele>585.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470802" lon="1.285983">
+        <ele>590.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470464" lon="1.287063">
+        <ele>603.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469420" lon="1.288342">
+        <ele>610.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468959" lon="1.288204">
+        <ele>602.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468318" lon="1.288730">
+        <ele>591.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468030" lon="1.288779">
+        <ele>585.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467666" lon="1.288549">
+        <ele>584.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467460" lon="1.287974">
+        <ele>581.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467305" lon="1.287888">
+        <ele>580.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467267" lon="1.289584">
+        <ele>573.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466739" lon="1.290400">
+        <ele>566.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465945" lon="1.290917">
+        <ele>560.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465674" lon="1.290901">
+        <ele>557.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464996" lon="1.290134">
+        <ele>557.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464632" lon="1.290515">
+        <ele>558.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464212" lon="1.291352">
+        <ele>565.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464159" lon="1.294467">
+        <ele>596.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463769" lon="1.295506">
+        <ele>607.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463016" lon="1.296838">
+        <ele>603.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462912" lon="1.296547">
+        <ele>600.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462147" lon="1.296286">
+        <ele>591.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462014" lon="1.296738">
+        <ele>591.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462098" lon="1.297358">
+        <ele>591.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461861" lon="1.297490">
+        <ele>591.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461689" lon="1.297111">
+        <ele>590.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461500" lon="1.297104">
+        <ele>591.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461132" lon="1.299658">
+        <ele>590.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461089" lon="1.300415">
+        <ele>590.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461208" lon="1.300837">
+        <ele>586.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460801" lon="1.301039">
+        <ele>590.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460705" lon="1.301562">
+        <ele>595.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460444" lon="1.301557">
+        <ele>599.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460223" lon="1.300952">
+        <ele>609.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459680" lon="1.300793">
+        <ele>616.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459325" lon="1.300850">
+        <ele>621.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459057" lon="1.300695">
+        <ele>624.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.458758" lon="1.299985">
+        <ele>626.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457851" lon="1.300480">
+        <ele>634.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457360" lon="1.301415">
+        <ele>642.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457414" lon="1.301964">
+        <ele>643.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456135" lon="1.303254">
+        <ele>662.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455809" lon="1.304071">
+        <ele>673.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455320" lon="1.304479">
+        <ele>682.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455140" lon="1.305124">
+        <ele>691.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454743" lon="1.305673">
+        <ele>697.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453940" lon="1.306221">
+        <ele>705.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453013" lon="1.308124">
+        <ele>722.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.452088" lon="1.309531">
+        <ele>735.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.451524" lon="1.309785">
+        <ele>740.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450651" lon="1.310783">
+        <ele>755.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.450264" lon="1.310829">
+        <ele>761.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449928" lon="1.310640">
+        <ele>765.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.449515" lon="1.310717">
+        <ele>769.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448503" lon="1.312383">
+        <ele>785.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447976" lon="1.312732">
+        <ele>790.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447571" lon="1.313652">
+        <ele>800.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447754" lon="1.314450">
+        <ele>806.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448111" lon="1.315147">
+        <ele>804.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447888" lon="1.315919">
+        <ele>810.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448373" lon="1.316745">
+        <ele>817.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.448300" lon="1.319416">
+        <ele>848.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447949" lon="1.319461">
+        <ele>855.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447234" lon="1.318977">
+        <ele>863.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446840" lon="1.319705">
+        <ele>865.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445948" lon="1.319728">
+        <ele>867.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445554" lon="1.319927">
+        <ele>868.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445427" lon="1.320175">
+        <ele>870.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445515" lon="1.320622">
+        <ele>872.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445899" lon="1.320109">
+        <ele>880.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.446652" lon="1.320162">
+        <ele>878.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447159" lon="1.320005">
+        <ele>882.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447768" lon="1.320408">
+        <ele>883.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447970" lon="1.321313">
+        <ele>896.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447775" lon="1.322126">
+        <ele>888.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.447368" lon="1.322914">
+        <ele>896.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.445734" lon="1.323620">
+        <ele>884.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444941" lon="1.323557">
+        <ele>884.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444475" lon="1.323737">
+        <ele>882.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.444221" lon="1.323647">
+        <ele>880.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.443472" lon="1.324780">
+        <ele>871.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442600" lon="1.325261">
+        <ele>866.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442080" lon="1.325019">
+        <ele>857.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442393" lon="1.325843">
+        <ele>853.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442362" lon="1.326472">
+        <ele>851.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.442218" lon="1.326763">
+        <ele>852.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441739" lon="1.327060">
+        <ele>855.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.441252" lon="1.327272">
+        <ele>851.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.440815" lon="1.327218">
+        <ele>856.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439988" lon="1.327688">
+        <ele>867.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439408" lon="1.327727">
+        <ele>863.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439087" lon="1.327980">
+        <ele>861.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438588" lon="1.327817">
+        <ele>855.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438260" lon="1.327874">
+        <ele>852.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437271" lon="1.330648">
+        <ele>824.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437147" lon="1.330616">
+        <ele>822.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436987" lon="1.330105">
+        <ele>815.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.436377" lon="1.330905">
+        <ele>795.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435752" lon="1.331422">
+        <ele>774.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435511" lon="1.331435">
+        <ele>770.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435189" lon="1.330995">
+        <ele>762.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435082" lon="1.331039">
+        <ele>760.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434887" lon="1.331594">
+        <ele>753.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435060" lon="1.332319">
+        <ele>749.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434751" lon="1.333039">
+        <ele>745.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433315" lon="1.332454">
+        <ele>739.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.432638" lon="1.332716">
+        <ele>737.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431865" lon="1.332162">
+        <ele>722.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431197" lon="1.331455">
+        <ele>714.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430875" lon="1.331338">
+        <ele>714.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430429" lon="1.330661">
+        <ele>711.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430010" lon="1.330331">
+        <ele>710.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429846" lon="1.329276">
+        <ele>707.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.429189" lon="1.329047">
+        <ele>707.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427821" lon="1.328161">
+        <ele>708.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427038" lon="1.327870">
+        <ele>704.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426650" lon="1.327519">
+        <ele>699.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425595" lon="1.327440">
+        <ele>686.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425372" lon="1.327596">
+        <ele>683.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425106" lon="1.327567">
+        <ele>677.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425157" lon="1.327115">
+        <ele>674.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425712" lon="1.326803">
+        <ele>671.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425624" lon="1.326632">
+        <ele>666.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425091" lon="1.326544">
+        <ele>658.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424149" lon="1.326783">
+        <ele>648.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424262" lon="1.326282">
+        <ele>643.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424130" lon="1.326114">
+        <ele>641.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423622" lon="1.326498">
+        <ele>632.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423296" lon="1.326169">
+        <ele>623.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422963" lon="1.326419">
+        <ele>616.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423030" lon="1.326070">
+        <ele>614.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422767" lon="1.326191">
+        <ele>613.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422675" lon="1.326079">
+        <ele>608.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422739" lon="1.325258">
+        <ele>603.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422604" lon="1.325202">
+        <ele>606.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422135" lon="1.325525">
+        <ele>606.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421367" lon="1.325036">
+        <ele>609.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419611" lon="1.321982">
+        <ele>601.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418820" lon="1.321476">
+        <ele>600.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418556" lon="1.321537">
+        <ele>601.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418121" lon="1.321363">
+        <ele>602.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417352" lon="1.320545">
+        <ele>605.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416362" lon="1.320103">
+        <ele>604.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415871" lon="1.318579">
+        <ele>601.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415944" lon="1.317392">
+        <ele>594.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415720" lon="1.317153">
+        <ele>590.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415219" lon="1.317160">
+        <ele>583.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414869" lon="1.316283">
+        <ele>585.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414728" lon="1.312781">
+        <ele>605.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414881" lon="1.312064">
+        <ele>612.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414724" lon="1.311798">
+        <ele>615.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413795" lon="1.311087">
+        <ele>634.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413658" lon="1.312184">
+        <ele>635.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413108" lon="1.313152">
+        <ele>638.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412833" lon="1.313399">
+        <ele>640.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412115" lon="1.313314">
+        <ele>638.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411561" lon="1.313903">
+        <ele>643.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411568" lon="1.314088">
+        <ele>646.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411978" lon="1.314382">
+        <ele>650.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412316" lon="1.314978">
+        <ele>650.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412464" lon="1.316170">
+        <ele>654.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412124" lon="1.316347">
+        <ele>650.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411282" lon="1.317284">
+        <ele>643.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410610" lon="1.317588">
+        <ele>642.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.409970" lon="1.317539">
+        <ele>638.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.408122" lon="1.318400">
+        <ele>619.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.407739" lon="1.319008">
+        <ele>613.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.407313" lon="1.320406">
+        <ele>617.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.407287" lon="1.321358">
+        <ele>614.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.406209" lon="1.321326">
+        <ele>609.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.405803" lon="1.321564">
+        <ele>601.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404295" lon="1.321973">
+        <ele>605.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403329" lon="1.321795">
+        <ele>601.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402717" lon="1.322182">
+        <ele>601.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401946" lon="1.322082">
+        <ele>597.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401433" lon="1.321521">
+        <ele>595.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401276" lon="1.321543">
+        <ele>592.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401207" lon="1.322065">
+        <ele>586.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.400105" lon="1.324056">
+        <ele>572.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.400225" lon="1.324519">
+        <ele>568.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.400131" lon="1.324863">
+        <ele>567.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397511" lon="1.328082">
+        <ele>524.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397788" lon="1.329187">
+        <ele>523.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396999" lon="1.331372">
+        <ele>518.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396829" lon="1.331400">
+        <ele>517.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396598" lon="1.331047">
+        <ele>515.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.395211" lon="1.333511">
+        <ele>508.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.394989" lon="1.334366">
+        <ele>507.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.395202" lon="1.335455">
+        <ele>505.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.394089" lon="1.339509">
+        <ele>490.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.393359" lon="1.340125">
+        <ele>481.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392035" lon="1.342993">
+        <ele>475.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392097" lon="1.343493">
+        <ele>473.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391436" lon="1.344527">
+        <ele>472.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.389744" lon="1.346579">
+        <ele>463.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.389369" lon="1.346816">
+        <ele>459.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388515" lon="1.348201">
+        <ele>453.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388267" lon="1.349128">
+        <ele>449.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387975" lon="1.349518">
+        <ele>449.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387537" lon="1.351275">
+        <ele>446.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387368" lon="1.352690">
+        <ele>442.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386456" lon="1.353850">
+        <ele>433.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386151" lon="1.354575">
+        <ele>430.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386019" lon="1.355439">
+        <ele>425.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385543" lon="1.355511">
+        <ele>420.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.384684" lon="1.356585">
+        <ele>412.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.384045" lon="1.356649">
+        <ele>415.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383484" lon="1.357105">
+        <ele>414.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382901" lon="1.357891">
+        <ele>415.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381059" lon="1.359504">
+        <ele>400.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380933" lon="1.360152">
+        <ele>395.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380508" lon="1.359972">
+        <ele>391.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380207" lon="1.359417">
+        <ele>383.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380086" lon="1.359462">
+        <ele>382.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380325" lon="1.360084">
+        <ele>385.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380820" lon="1.360478">
+        <ele>384.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381297" lon="1.360406">
+        <ele>375.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381844" lon="1.359931">
+        <ele>370.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381604" lon="1.360478">
+        <ele>364.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381921" lon="1.360590">
+        <ele>360.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382311" lon="1.361064">
+        <ele>351.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383095" lon="1.362641">
+        <ele>347.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382905" lon="1.363860">
+        <ele>342.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382580" lon="1.363832">
+        <ele>340.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381857" lon="1.363366">
+        <ele>341.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381560" lon="1.362721">
+        <ele>344.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381411" lon="1.362719">
+        <ele>344.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381097" lon="1.362165">
+        <ele>343.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.379726" lon="1.363993">
+        <ele>337.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378899" lon="1.365736">
+        <ele>338.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376796" lon="1.367032">
+        <ele>343.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374897" lon="1.367109">
+        <ele>332.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374622" lon="1.366757">
+        <ele>336.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374238" lon="1.367042">
+        <ele>340.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.372934" lon="1.366937">
+        <ele>345.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.372124" lon="1.367332">
+        <ele>349.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371089" lon="1.367322">
+        <ele>362.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370864" lon="1.367710">
+        <ele>364.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370415" lon="1.367757">
+        <ele>370.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369610" lon="1.368501">
+        <ele>379.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369018" lon="1.368678">
+        <ele>379.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368595" lon="1.368987">
+        <ele>374.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368065" lon="1.369078">
+        <ele>372.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367381" lon="1.369588">
+        <ele>369.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365696" lon="1.370262">
+        <ele>356.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364948" lon="1.370948">
+        <ele>347.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364555" lon="1.370498">
+        <ele>342.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364541" lon="1.371403">
+        <ele>335.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364122" lon="1.371102">
+        <ele>339.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.363699" lon="1.371458">
+        <ele>336.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.363430" lon="1.371500">
+        <ele>337.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.362920" lon="1.371144">
+        <ele>341.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.362287" lon="1.370985">
+        <ele>343.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.361460" lon="1.370420">
+        <ele>344.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360570" lon="1.368619">
+        <ele>344.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.359600" lon="1.368195">
+        <ele>345.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.358727" lon="1.367254">
+        <ele>344.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.357902" lon="1.367050">
+        <ele>342.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.357366" lon="1.366722">
+        <ele>337.2</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.355392" lon="1.366037">
+        <ele>331.9</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.354739" lon="1.366129">
+        <ele>331.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.354248" lon="1.365742">
+        <ele>329.0</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.353516" lon="1.365605">
+        <ele>328.7</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.352762" lon="1.365152">
+        <ele>326.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.352377" lon="1.365293">
+        <ele>324.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.351373" lon="1.367613">
+        <ele>321.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.351293" lon="1.365804">
+        <ele>322.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.351536" lon="1.364782">
+        <ele>318.5</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.351451" lon="1.364205">
+        <ele>322.6</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.349556" lon="1.364330">
+        <ele>316.1</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348791" lon="1.363423">
+        <ele>313.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348340" lon="1.363105">
+        <ele>311.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347185" lon="1.362967">
+        <ele>311.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346613" lon="1.362354">
+        <ele>309.4</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346437" lon="1.362310">
+        <ele>307.8</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346371" lon="1.362456">
+        <ele>310.3</ele>
+        <time>2018-07-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.246547" lon="1.865782">
+    <ele>780.9</ele>
+    <time>2014-03-23T10:40:42Z</time>
+    <name>Camí avall</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.261041" lon="1.834650">
+    <ele>930.9</ele>
+    <time>2014-03-23T19:21:55Z</time>
+    <name>Ecomuseu Sant Joan de l'Avellanet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.260717" lon="1.833777">
+    <ele>942.1</ele>
+    <time>2014-03-23T19:22:22Z</time>
+    <name>Ermita Sant Joan de l'Avellanet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.261844" lon="1.832999">
+    <ele>928.1</ele>
+    <time>2014-03-23T19:23:01Z</time>
+    <name>Via del Nicolau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.256436" lon="1.845969">
+    <ele>847.0</ele>
+    <time>2014-03-23T10:04:52Z</time>
+    <name>Mirador de la vall del Bastareny</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.235119" lon="1.875193">
+    <ele>773.0</ele>
+    <time>2014-03-23T19:35:22Z</time>
+    <name>Monestir de Sant Llorenç prop Bagà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.258431" lon="1.844649">
+    <ele>865.9</ele>
+    <time>2014-03-23T09:48:57Z</time>
+    <name>Passarel·la del Nicolau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.250810" lon="1.860987">
+    <ele>786.1</ele>
+    <time>2014-03-23T10:29:54Z</time>
+    <name>Pista asfaltada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.253869" lon="1.846792">
+    <ele>854.1</ele>
+    <time>2014-03-23T19:29:31Z</time>
+    <name>Túnel de dalt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.250976" lon="1.855480">
+    <ele>826.0</ele>
+    <time>2014-03-23T10:21:47Z</time>
+    <name>Túnel del mig</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.249305" lon="1.861202">
+    <ele>787.0</ele>
+    <time>2014-03-23T10:32:54Z</time>
+    <name>Túnel de baix</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.256884" lon="1.845695">
+    <ele>851.9</ele>
+    <time>2014-03-23T10:01:13Z</time>
+    <name>Vagoneta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.250969" lon="1.860742">
+    <ele>783.9</ele>
+    <time>2019-06-13T11:09:14Z</time>
+    <name>Àrea d'esbarjo i pícnic</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.236372" lon="1.874886">
+    <ele>739.1</ele>
+    <time>2019-06-13T11:35:32Z</time>
+    <name>Corriol amunt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.234800" lon="1.875326">
+    <ele>773.9</ele>
+    <time>2019-06-15T12:42:24Z</time>
+    <name>Font del Monestir</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>La Via del Nicolau de Bagà</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;La Via del Nicolau de Bagà&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Curt recorregut en suau baixada, apte per a famílies amb infants i gent gran. Antic traçat ferroviari que passa sobre Bagà i acaba al monestir de Sant Llorenç prop Bagà, a Guardiola de Berguedà. La Via del Nicolau fou construïda a principis del segle XX (entre 1914-1916) per transportar fusta des de Gisclareny a Guardiola de Berguedà. El seu promotor va ser Tomàs Nicolau, propietari de la serradora de Berga, que en va tenir la concessió fins a mitjans dels anys 1930. En la recuperació de l’antic traçat destaquen diversos túnels, passeres i la passarel·la dita del Nicolau, un pont penjant de més de 35 m de longitud.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El punt d'inici de la ruta és l’actual Ecomuseu de Sant Joan de l'Avellanet, situat al costat de l’ermita romànica del mateix nom. S’hi arriba des de Bagà prenent la pista asfaltada que neix a l’extrem NE de Bagà, al costat del Centre d’Informació del Parc Natural del Cadí-Moixeró (3,4 km). 
+ 
+0,00 km (931 m). Ecomuseu de Sant Joan de l’Avellanet. Es pren la pista asfaltada per on s’ha pujat fins aquí cap a l’oest. Als 220 m, havent deixat a mà dreta (E) l’àrea d’esbarjo, es gira bruscament a la dreta (E) i es baixa per un corriol que desemboca en l’inici de l’antic traçat del carrilet (primer tram amb pendent marcat). Se segueix el camí que s’endinsa en el bosc. A l’esquerra (N) treuen el cap l’extrem oriental de la serra del Cadí i el Moixeró. 
+ 
+1,30 km (865 m), 17 min. Pont penjant de la Via del Nicolau. Dos-cents metres més endavant hi ha una vagoneta de transport de fusta situada al mig del camí i, més enllà, el Mirador de la Vall del Bastareny, amb extenses vistes cap al nord est i llevant, on destaquen el Moixeró, la Tosa d’Alp, les serres de Sant Marc de Brocà i les del Catllaràs. 
+ 
+El camí segueix el seu curs, es passa el túnel de Dalt i, després, el del Mig, i es continua endavant, ara en un entorn menys ombrívol i atractiu. A mà esquerra es pot veure Bagà. 
+ 
+3,30 km (786 m), 44 min. Se surt a la pista asfaltada que prové de Guardiola de Berguedà. A l’esquerra hi ha el Parc de la Vila, ombrejat, amb bancs, taules i fonts. Es continua endavant seguint la senyalització i es passa el tercer túnel del recorregut. 
+ 
+4,05 km (784 m), 55 min. Es deixa la pista asfaltada i es pren el camí que surt a l’esquerra, marxant cap al S. 
+ 
+5,30 km (752 m), 1 h 12 min. El Reboll, barri de Bagà. Se surt a la pista asfaltada que hi dona accés i es continua recte, en suau baixada. 
+ 
+5,65 km (739 m), 1 h 17 min. A l’entrada de Guardiola de Berguedà cal parar compte a la senyalització i desviar-se a la dreta prenent un corriol que puja fortament fins a Sant Llorenç prop Bagà. Aquesta pujada es pot estalviar acabant de baixar a Guardiola i pujant, després, a Sant Llorenç bé a peu pel camí asfaltat d’accés o amb el vehicle. 
+ 
+5,76 km (772 m), 1 h 23 min. Sant Llorenç prop Bagà. Fi del recorregut. 
+ 
+Aquesta curta i suau excursió es pot completar amb visites als diversos equipaments culturals dels dos municipis per on discorre com, per exemple, l’Ecomuseu de Sant Joan de l'Avellanet, el Centre Medieval dels Càtars i el Centre d'informació i interpretació del Parc Natural del Cadí-Moixeró, a Bagà, o el monestir de Sant Llorenç prop Bagà a Guardiola de Berguedà. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;La &lt;i&gt;Via del Nicolau&lt;/i&gt; de Bagà&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Corto recorrido en suave bajada, apto para familias con niños y personas mayores. Antiguo trazado ferroviario que pasa sobre Bagà y termina en el monasterio de Sant Llorenç prop Bagà, en Guardiola de Berguedà. La Vía del Nicolau fue construida a principios del siglo XX (entre 1914-1916) para transportar madera desde Gisclareny hasta Guardiola de Berguedà. Su promotor fue Tomàs Nicolau, propietario del aserradero de Berga, que tuvo la concesión hasta mediados de los años 1930. En la recuperación del antiguo trazado destacan varios túneles, pasarelas y la pasera del Nicolás, un puente colgante de más de 35 m de longitud.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; El punto de inicio de la ruta es el actual Ecomuseo de Sant Joan de l’Avellanet, situado junto a la ermita románica del mismo nombre. Se llega desde Bagà tomando la pista asfaltada que nace en el extremo NE de Bagà, junto al Centro de Información del Parque Natural del Cadí-Moixeró (3,4 km). 
+ 
+0,00 km (931 m). Ecomuseo de Sant Joan de l’Avellanet. Se toma la pista asfaltada por donde se ha subido hasta aquí hacia el oeste. A los 220 m, habiendo dejado a mano derecha (E) del área de recreo, se gira bruscamente a la derecha (E) y se baja por un sendero que desemboca en el inicio del antiguo trazado del ferrocarril (primer tramo con marcada pendiente). Se sigue el camino que se adentra en el bosque. A la izquierda (N) se asoman el extremo oriental de la sierras del Cadí y del Moixeró. 
+ 
+1,30 km (865 m), 17 min. Puente colgante de la vía del Nicolau. Doscientos metros más adelante hay una vagoneta de transporte de madera situada en medio del camino y, más allá, el Mirador del Valle del Bastareny, con extensas vistas hacia el nordeste y levante, donde destacan el Moixeró, la Tosa d’Alp, las sierras de Sant Marc de Brocà y las del Catllaràs. 
+ 
+El camino sigue su curso, se pasa el túnel de Dalt y, después, el del Mig, y se sigue adelante, ahora en un entorno menos umbrío y atractivo. A mano izquierda se puede ver Bagà. 
+ 
+3,30 km (786 m), 44 min. Se sale a la pista asfaltada que proviene de Guardiola de Berguedà. A la izquierda está el Parc de la Vila, sombreado, con bancos, mesas y fuentes. Se sigue adelante siguiendo la señalización y se pasa el tercer túnel del recorrido. 
+ 
+4,05 km (784 m), 55 min. Se deja la pista asfaltada y se toma el camino que sale a la izquierda, marchando hacia el S. 
+ 
+5,30 km (752 m), 1 h 12 min. El Reboll, barrio de Bagà. Se sale a la pista asfaltada que le da acceso y se sigue recto, en suave descenso. 
+ 
+5,65 km (739 m), 1 h 17 min. A la entrada de Guardiola de Berguedà hay que tener cuidado con la señalización y desviarse a la derecha tomando un sendero que sube fuertemente hasta Sant Llorenç prop Bagà. Esta subida se puede ahorrar acabando de bajar a Guardiola y subiendo, después, a Sant Llorenç, o a pie por el camino asfaltado de acceso o con el vehículo. 
+ 
+5,76 km (772 m), 1 h 23 min. Sant Llorenç prop Bagà. Fin del recorrido. 
+ 
+Esta corta y suave excursión se puede completar con visitas a los diversos equipamientos culturales de los dos municipios por donde discurre como, por ejemplo, el Ecomuseo de Sant Joan de l’Avellanet, el Centro Medieval de los Cátaros y el Centro de información e interpretación del parque Natural del Cadí-Moixeró, en Bagà, o el monasterio de Sant Llorenç prop Bagà en Guardiola de Berguedà.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.260897" lon="1.834683">
+        <ele>931.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.261023" lon="1.833365">
+        <ele>932.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.261839" lon="1.832986">
+        <ele>927.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.261562" lon="1.835834">
+        <ele>901.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.260620" lon="1.837548">
+        <ele>896.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.260421" lon="1.838310">
+        <ele>898.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259700" lon="1.839208">
+        <ele>886.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259616" lon="1.840209">
+        <ele>890.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259963" lon="1.841166">
+        <ele>879.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259912" lon="1.841870">
+        <ele>878.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259385" lon="1.842714">
+        <ele>881.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258992" lon="1.844026">
+        <ele>870.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258445" lon="1.844636">
+        <ele>865.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256607" lon="1.845906">
+        <ele>848.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.255871" lon="1.845726">
+        <ele>849.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254788" lon="1.846000">
+        <ele>852.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254336" lon="1.846717">
+        <ele>844.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253824" lon="1.846836">
+        <ele>853.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253489" lon="1.847575">
+        <ele>842.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253675" lon="1.849002">
+        <ele>837.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253985" lon="1.849863">
+        <ele>832.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253397" lon="1.850988">
+        <ele>831.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.252853" lon="1.851538">
+        <ele>828.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.252853" lon="1.852822">
+        <ele>827.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251992" lon="1.854589">
+        <ele>815.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251832" lon="1.854707">
+        <ele>807.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251224" lon="1.854615">
+        <ele>811.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250988" lon="1.854904">
+        <ele>809.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250957" lon="1.855384">
+        <ele>809.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251256" lon="1.856518">
+        <ele>807.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251148" lon="1.857011">
+        <ele>807.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.251264" lon="1.858257">
+        <ele>801.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250825" lon="1.860229">
+        <ele>791.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250810" lon="1.860975">
+        <ele>785.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250602" lon="1.861342">
+        <ele>787.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250306" lon="1.861499">
+        <ele>785.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.250040" lon="1.861492">
+        <ele>785.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.249522" lon="1.861066">
+        <ele>789.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.249258" lon="1.861229">
+        <ele>786.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.248920" lon="1.862981">
+        <ele>789.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.248961" lon="1.863975">
+        <ele>785.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.247502" lon="1.864923">
+        <ele>781.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.246471" lon="1.865857">
+        <ele>784.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.245980" lon="1.865865">
+        <ele>790.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.245498" lon="1.866298">
+        <ele>784.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.245074" lon="1.867118">
+        <ele>778.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.244481" lon="1.867256">
+        <ele>779.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.244036" lon="1.868252">
+        <ele>775.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.243427" lon="1.869057">
+        <ele>770.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.241912" lon="1.869872">
+        <ele>764.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.240832" lon="1.870800">
+        <ele>759.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.239729" lon="1.870905">
+        <ele>765.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.239401" lon="1.871880">
+        <ele>752.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.238927" lon="1.872653">
+        <ele>748.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.238452" lon="1.872970">
+        <ele>748.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.238264" lon="1.873507">
+        <ele>740.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.237774" lon="1.874031">
+        <ele>745.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.236840" lon="1.874326">
+        <ele>742.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.236328" lon="1.874953">
+        <ele>743.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.236188" lon="1.875344">
+        <ele>736.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.235498" lon="1.874817">
+        <ele>774.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.235070" lon="1.874758">
+        <ele>776.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.234899" lon="1.874870">
+        <ele>775.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.234793" lon="1.875526">
+        <ele>771.9</ele>
+        <time>2019-07-30T09:23:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

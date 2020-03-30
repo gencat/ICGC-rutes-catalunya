@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.180506" lon="1.958918">
+    <ele>1007.5</ele>
+    <time>2017-01-31T17:03:03Z</time>
+    <name>La Canal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.173331" lon="1.945542">
+    <ele>955.1</ele>
+    <time>2017-05-04T18:07:47Z</time>
+    <name>Castell de l'Areny</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.176827" lon="1.949039">
+    <ele>1039.9</ele>
+    <time>2017-05-04T18:08:16Z</time>
+    <name>GR 4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187025" lon="1.934839">
+    <ele>1362.3</ele>
+    <time>2017-05-04T18:09:48Z</time>
+    <name>GR 4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.186778" lon="1.934940">
+    <ele>1354.2</ele>
+    <time>2017-05-04T18:09:56Z</time>
+    <name>GR 241</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187220" lon="1.936426">
+    <ele>1357.4</ele>
+    <time>2017-05-04T18:10:55Z</time>
+    <name>GR 241</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.195051" lon="1.956092">
+    <ele>1532.6</ele>
+    <time>2017-05-04T18:11:14Z</time>
+    <name>Font de les Calamites</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.197069" lon="1.970524">
+    <ele>1639.8</ele>
+    <time>2017-05-04T18:11:36Z</time>
+    <name>Puig Lluent</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.195138" lon="1.982515">
+    <ele>1467.0</ele>
+    <time>2017-05-04T18:13:15Z</time>
+    <name>Adeu GR 241</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.186364" lon="1.980357">
+    <ele>1153.1</ele>
+    <time>2017-05-04T18:13:49Z</time>
+    <name>Sant Julià de Cosp</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.188219" lon="1.978084">
+    <ele>1139.4</ele>
+    <time>2017-05-04T18:14:36Z</time>
+    <name>Font de la Blada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.173762" lon="1.945916">
+    <ele>955.9</ele>
+    <time>2017-05-04T18:15:33Z</time>
+    <name>GR 4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187250" lon="1.935314">
+    <ele>1363.6</ele>
+    <time>2017-05-04T18:18:48Z</time>
+    <name>Sant Romà de la Clusa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.198863" lon="1.964755">
+    <ele>1595.8</ele>
+    <time>2017-05-04T18:20:52Z</time>
+    <name>Collada Fonda o de Grau Pedrís</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187186" lon="1.964106">
+    <ele>1051.9</ele>
+    <time>2017-05-04T18:22:43Z</time>
+    <name>Clot del Mort</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.176672" lon="1.949034">
+    <ele>1038.5</ele>
+    <time>2017-05-14T08:30:55Z</time>
+    <name>Coll Jovell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.176735" lon="1.933749">
+    <ele>1370.1</ele>
+    <time>2017-05-14T09:18:29Z</time>
+    <name>Mirador del Cap de Rocs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187031" lon="1.936020">
+    <ele>1354.6</ele>
+    <time>2017-05-14T10:33:18Z</time>
+    <name>Refugi de la Clusa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187623" lon="1.980859">
+    <ele>1215.5</ele>
+    <time>2017-05-14T13:37:48Z</time>
+    <name>Espadat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.187366" lon="1.981706">
+    <ele>1173.0</ele>
+    <time>2017-05-14T13:51:30Z</time>
+    <name>Feixa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.186605" lon="1.980294">
+    <ele>1149.3</ele>
+    <time>2017-05-14T13:59:19Z</time>
+    <name>Casa de Cosp</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.186678" lon="1.951775">
+    <ele>1579.2</ele>
+    <time>2017-05-29T15:47:34Z</time>
+    <name>Rasos de Clarent</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Castell de l’Areny-Sant Romà de la Clusa-Puiglluent-Sant Julià de Cosp</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; Castell de l’Areny-Sant Romà de la Clusa-Puiglluent-Sant Julià de Cosp&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Ruta magnífica pels contraforts sudoccidentals del Catllaràs, entre els termes municipals del Castell de l’Areny (Berguedà) i les Llosses (Ripollès) que utilitza una combinació de camins senyalitzats amb l’excepció d’un curt i estratègic tram que condueix a Sant Julià de Cosp. Aquest pas, sense risc, demana, però, experiència en orientació. 
+ 
+El Catllaràs és un massís calcari situat a cavall dels mantells geològics del Pedraforca i del de Vallfogona. L'important gradient altitudinal comporta una bona diversitat d'ambients. Hi trobem formacions d'alzinar que ocupen els solells, importants rouredes i pinedes calcícoles distribuïdes pels solells i els fons de vall mentre que a les obagues hi predominen les fagedes amb boix, gens habituals al Berguedà. D’entre els elements florístics cal destacar la presència -en entorns culminals- de la flor de neu (Leontopodium alpinum), espècie molt rara al país i protegida per la legislació. La fauna constitueix una unitat de transició entre sistemes pirinencs i mediterranis; atents a la presència del cérvol (Cervus elaphus), una de les espècies de gran interès de l'espai, conjuntament amb el gall fer i la marta.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El punt de sortida de l’excursió se situa al petit poble de Castell de l’Areny. S’hi accedeix per una bona pista asfaltada que neix a l’est de Vilada, en el punt km 158,8 de la carretera C-26, entre Ripoll i Berga. Castell de l’Areny és el cap d’un municipi de poblament dispers situat a la comarca del Berguedà. En el seu terme hi ha les restes de l'antiga parròquia de Sant Romà de la Clusa, que es visitarà, i els nuclis de Vilella, Sant Ramon i Castell. 
+ 
+0,00 km (957 m). Estacionament a l’entrada del poble. Se surt pel camí que neix del costat Est de la carretera a l’entrada mateix de la població, a l’altra banda de la casa que limita l’aparcament (senyalització). Se segueix el camí en direcció a Sant Romà de la Clusa, marcat amb els senyals blancs i vermells del GR 4, en forta pujada fins al coll Jovell. Allà hi ha una bifurcació (0,47 km, 1 038 m); es continua recte (N) deixant a la dreta (E) el camí per on després es tornarà. El camí puja fortament per la solana de la serra dels Rocs del Castell. 
+ 
+2,02 km (1 374 m), 1 h 10 min. Cap dels Rocs, a l’extrem occidental de la carena de la serra. Es gira fortament cap a la dreta i s’entra a l’obaga. El lloc s’ha adequat com a mirador a partir de les restes de l’estació superior d’un telefèric de transport de fusta actiu durant els primers anys del segle XX. Se segueix el camí senyalitzat sempre com a GR, que baixa per la fageda. 
+ 
+3,36 km (1 354 m), 1 h 30 min. Sant Romà de la Clusa. Llogaret esmentat ja el 983 pertanyent al municipi de Castell de l’Areny. Aquí es deixa el GR 4; se segueix el GR 241. D’entre les cases disposades a redós de l’església destaca el gran casal ubicat al costat de llevant, just on desemboca el camí, adaptat com a allotjament-refugi rural de muntanya. L'església romànica va ser construïda al segle XII, posteriorment ampliada i restaurada durant la segona meitat del segle XX. L’edifici és d'una sola nau coberta amb volta de canó amb un campanar d'espadanya de dues obertures. Mereix ser visitada. 
+ 
+Deixant el refugi a l’esquerra, se surt de Sant Romà cap al nord, seguint el GR 241 en direcció a Falgars. Immediatament es deixa aquest camí per prendre, a la dreta, un corriol que surt en direcció contrària (S; senyalització a Ras de Clarent). Se segueixen les marques blanques que, després d’enfilar-se a la carena, tomben a llevant pujant pel fons suau de la ribera de la Clusa, per entre l’esponerosa fageda. El bosc desapareix en els prats de pasturatge superiors i s’arriba a la coma dels Tells (5,15 km, 1 577 m). Es gira al NE, es passa una tanca de bestiar i es desemboca en una pista que passa al vessant solell dels Rasos de Clarent. Es deixen a l’esquerra les balmes de Cal Tibat; una mica més enllà la pista es transforma en un camí estret que passa pel costat de la font de les Calamites (6,36 km, 1 533 m, normalment raja). 
+ 
+7,22 km (1 604 m), 2 h 40 min. S’és sobre de la collada Fonda, on hi ha una bifurcació senyalitzada (en alguns mapes consta com a Grau Pedrís). Es continua per la dreta (E) seguint el GR 241, es baixa al coll, s’entra en el terme de les Llosses i s’emprèn la suau pujada cap al puig Lluent, on s’arriba en pocs minuts després d’un pas de vailet (punt 7,83 km, 1 640 m). Àmplia panoràmica sobre aquest sector de l’Alt Berguedà i del Ripollès i, al nord, sobre el Pirineu, on sobresurten els massissos del Puigmal i del Canigó. 
+ 
+Cal baixar del cim pel vessant de llevant. Seguint els indicis del corriol, es baixa al N, es gira a l’est i, pel llom de la carena, s’arriba al camí que flanqueja el cim per l’obaga, on es retroben les marques grogues i del GR. Tot seguint els senyals, es gira al S i es desemboca en una ampla pista forestal i ramadera que condueix, en baixada, fins a la suau collada del Pla Fondo de Dalt. 
+ 
+9,00 km (1 467 m), 3 h 5 min. Collada del Pla Fondo de Dalt. Senyalització. Es deixa el GR, que se’n va recte, cap a llevant, i es pren la pista de la dreta creuant un pas canadenc per al bestiar. Es baixa amb decisió seguint la pista principal entre la ben formada pineda de pi roig del Pla i del Racó de Cosp. Després de quatre pronunciats revolts cal estar atents a la desviació que cal prendre quan el recorregut s’encara al NE. 
+ 
+10,73 km (1 266 m), 3 h 30 min. Atenció: cal deixar la pista i trencar a la dreta prenent un corriol poc fressat que baixa pronunciadament cap al S (fites i senyals) seguint un vailet de bestiar que separa l’ampli llom i que s’acaba en un petit ressalt de roques des d’on, entre els arbres, es pot veure l’església de Sant Julià (10,90 km, 1 215 m). Cal girar cap a l’esquerra i baixar pel vessant E del llom, de pronunciat pendent, fent ziga-zagues fins que es troba una lleixa horitzontal (11,01 km, 1 172 m) que se segueix durant 150 m planerament cap a la dreta (O). Ja sobre l’església, es baixa entre bancals de pedra. 
+ 
+11,25 km (1 151 m), 3 h 45 min. Sant Julià de Cosp. Vella església romànica, malauradament abandonada i en estat precari, documentada al s. XII, cap d’una parròquia rural dispersa ja desapareguda. Al prat del vessant nord hi roman un edifici utilitzat com a abric per al bestiar. Encarats a aquest cobert es trenca cap a l’esquerra (NO) deixant el camí de vinguda a mà dreta (senyals grocs que acompanyaran el recorregut fins al coll Jovell.) 
+ 
+L’itinerari recorre el vessant solell d’aquest sector del Catllaràs sota un bosc frondós que alterna alzinars, rouredes i trams de vegetació fluvial a l’entorn dels torrents que baixen cap a la ribera de Vilada. Una mica més enllà es passa la font de la Blada, que neix sota un exemplar gegantí d’aquesta espècie arbòria i que raja gairebé sempre. Es franquegen successivament el clot dels Gaits, el coll de Vinyes (12,67 km, 1 129 m), la clotada del Rec del Mort i el collet de la Canal. 
+ 
+14, 27 km (1 012 m), 4 h 25 min. Masia de la Canal, de la que solament en resta el magnífic paller, encara dempeus i utilitzat. Es deixa la masia a l’esquerra i enrere i es creua un camí ample que puja del fons de la vall per la Font Llarga. No s’ha d’agafar, cal continuar pel corriol de l’altra banda (marques grogues) que, resseguint la vall amb un primer tram de pujada, va a sortir a les masies de Cal Sastre. 
+ 
+14,75 km (1 020 m), 4 h 37 min. Pista d’accés a les masies de cal Sastre, la Vilella i la Barraca, que se segueix cap a ponent deixant un trencall a l’esquerra. La pista condueix al coll Jovell (15,54 m, 1 035 m); allà s’ha de deixar i, utilitzant l’accés a la casa situada enmig del coll, trencar cap a la dreta (O) per arribar fins al camí de Castell de l’Areny a Sant Romà de la Clusa (15,50 km, 1 038 m, senyalització), per on s’ha passat a l’anada. Es desfà el camí. 
+ 
+15,98 km (957 m), 4 h 55 min. Castell de l’Areny, estacionament a l’entrada del poble. Final de l’excursió. Cal passejar-se pel reduït casc urbà de la població, presidit per l’església de Sant Vicenç.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt; Castell de l’Areny-Sant Romà de la Clusa-Puiglluent-Sant Julià de Cosp&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; Ruta magnífica por los contrafuertes sudoccidentales del Catllaràs, entre los términos municipales de Castell de l'Areny (Berguedà) y Les Llosses (Ripollès) que utiliza una combinación de caminos señalizados con la excepción de un corto y estratégico tramo que conduce a Sant Julià de Cosp. Este paso, sin riesgo, pide, sin embargo, experiencia en orientación. 
+ 
+El Catllaràs es un macizo calcáreo situado entre los mantos geológicos del Pedraforca y de Vallfogona. El importante gradiente altitudinal conlleva una buena diversidad de ambientes. Encontramos formaciones de encinar que ocupan las solanas, importantes robledales y pinares calcícolas distribuidos por las solanas y los fondos de valle mientras que en las umbrías predominan los hayedos con boj, nada habituales en el Berguedà. De entre los elementos florísticos cabe destacar la presencia -en entornos culminales- de la flor de nieve (Leontopodium alpinum), especie muy rara en el país y protegida por la legislación. La fauna constituye una unidad de transición entre sistemas pirenaicos y mediterráneos; atentos a la presencia del ciervo (Cervus elaphus), una de las especies de gran interés del espacio, conjuntamente con el urogallo y la marta.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El punto de salida de la excursión se sitúa en el pequeño pueblo de Castell de l'Areny. Se accede a él por una buena pista asfaltada que nace al este de Vilada, en el punto km 158,8 de la carretera C-26, entre Ripoll y Berga. Castell de l'Areny es la cabeza de un municipio de población dispersa situado en la comarca del Berguedà. En su término se encuentran los restos de la antigua parroquia de Sant Romà de la Clusa, que se visitará, y los núcleos de Vilella, San Ramón y Castell. 
+ 
+0,00 km (957 m). Estacionamiento en la entrada del pueblo. Se sale por el camino que nace del lado Este de la carretera en la entrada misma de la población, al otro lado de la casa que limita el aparcamiento (señalización). Se sigue el camino en dirección a Sant Romà de la Clusa, marcado con las señales blancas y rojas del GR 4, en fuerte subida hasta el collado Jovell. Allí hay una bifurcación (0,47 km, 1.038 m); se sigue recto (N) dejando a la derecha (E) el camino por el que después se volverá. El camino sube fuertemente por la solana de la sierra de Els Rocs del Castell. 
+ 
+2,02 km (1.374 m), 1 h 10 min. Punta de Els Rocs, en el extremo occidental de la cresta de la sierra. Se gira fuertemente hacia la derecha y se entra en la umbría. El lugar se ha adecuado como mirador a partir de los restos de la estación superior de un teleférico de transporte de madera, activo durante los primeros años del siglo XX. Se sigue el camino señalizado siempre como GR, que baja por el hayedo. 
+ 
+3,36 km (1.354 m), 1 h 30 min. Sant Romà de la Clusa. Aldea mencionada ya el año 983 perteneciente al municipio de Castell de l'Areny. Aquí se deja el GR 4; se sigue el GR 241. De entre las casas dispuestas al abrigo de la iglesia destaca el gran edificio ubicado al lado de levante, justo donde desemboca el camino, adaptado como alojamiento-refugio rural de montaña. La iglesia románica fue construida en el siglo XII, posteriormente ampliada y restaurada durante la segunda mitad del siglo XX. El edificio es de una sola nave cubierta con bóveda de cañón y con un campanario de espadaña. Merece ser visitada. 
+ 
+Dejando el refugio a la izquierda, se sale de Sant Romà hacia el norte, siguiendo el GR 241 en dirección a Falgars. Inmediatamente se deja este camino para tomar, a la derecha, un sendero que sale en dirección opuesta (S; señalización Ras de Clarent). Se siguen las marcas blancas que, después de subir a la cresta, tumban a levante subiendo por el fondo suave de la ribera de la Clusa, por entre la frondosa hayedo. El bosque desaparece en los prados de pastoreo superiores y se llega a la coma de los Tells (5,15 km, 1.577 m). Se gira al NE, se pasa una valla de ganado y se desemboca en una pista que pasa a la vertiente solana de los Rasos de Clarent. Se dejan a la izquierda las grutas de Cal Tibat; un poco más allá la pista se transforma en un camino estrecho que ladea la fuente de Les Calamites (6,36 km, 1533 m, normalmente mana). 
+ 
+7,22 km (1.604 m), 2 h 40 min. Se está encima de la Collada Fonda, donde hay una bifurcación señalizada (en algunos mapas consta como Grau Pedrís). Se continúa por la derecha (E) siguiendo el GR 241, se baja al collado, se entra en el término de Les Llosses y se emprende la suave subida hacia el Puig Lluent, donde se llega en pocos minutos tras franquear un paso de ganado (punto 7,83 km, 1 640 m). Amplia panorámica sobre este sector del Alt Berguedà y del Ripollès y, al norte, sobre el Pirineo, donde sobresalen los macizos del Puigmal y del Canigó. 
+ 
+Hay que bajar de la cima por la vertiente de levante. Siguiendo los indicios del sendero, se baja al N, se gira al este y, por el lomo de la cresta, se llega al camino que flanquea la cima por la umbría, donde se reencuentran las marcas amarillas y del GR. Siguiendo las señales, se gira al S y se desemboca en una amplia pista forestal y ganadera que conduce, en bajada, hasta el suave collado del Pla Fondo de Dalt. 
+ 
+9,00 km (1.467 m), 3 h 5 min. Collada del Pla Fondo de Dalt. Señalización. Se deja el GR, que se va recto, hacia el este, y se toma la pista de la derecha cruzando un paso canadiense para el ganado. Se baja con decisión siguiendo la pista principal entre el bien formada pinar de pino rojo que recubren el Pla y el Racó de Cosp. Tras cuatro pronunciadas curvas hay que estar atentos a la desviación a tomar cuando el recorrido se encara al NE. 
+ 
+10,73 km (1.266 m), 3 h 30 min. Atención: hay que dejar la pista y girar a la derecha tomando un sendero poco marcado que baja pronunciadamente hacia el S (hitos y señales) siguiendo un alambre de ganado que separa el amplio lomo y que acaba en un pequeño resalte de Rocas desde donde, entre los árboles, se puede ver la iglesia de Sant Juliá (10,90 km, 1 215 m). Hay que girar hacia la izquierda y bajar por la vertiente E del lomo, de pronunciada pendiente, en zigzag hasta que se encuentra una repisa horizontal (11,01 km, 1.172 m) que se sigue durante 150 m llanamente, hacia la derecha (O). Ya sobre la iglesia, se baja entre bancales de piedra. 
+ 
+11,25 km (1.151 m), 3 h 45 min. Sant Julià de Cosp. Vieja iglesia románica, desgraciadamente abandonada y en estado precario, documentada en el s. XII, centro de una parroquia rural dispersa ya desaparecida. En el prado de la vertiente norte permanece un edificio utilizado como abrigo para el ganado. Encarados a este cubierto se tuerce hacia la izquierda (NO) dejando el camino de llegada a mano derecha (señales amarillas que acompañarán el recorrido hasta el collado Jovell.) 
+ 
+El itinerario recorre la vertiente solana de este sector del Catllaràs bajo un bosque frondoso que alterna encinares, robles y tramos de vegetación fluvial en el entorno de los torrentes que bajan hacia la ribera de Vilada. Un poco más allá se pasa la fuente de la Blada, que nace bajo un ejemplar gigantesco de arce y que mana casi siempre. Se franquean sucesivamente la hondonada de Els Gaits, el collado de Vinyes (12,67 km, 1 129 m), la depresión del Rec del Mort y el collado de la Canal. 
+ 
+14, 27 km (1 012 m), 4 h 25 min. Masía de la Canal, de la que solo queda el magnífico pajar, todavía en pie y utilizado. Se deja la masía a la izquierda y atrás y se cruza un camino ancho que sube del fondo del valle por la Font Llarga. No hay que tomarlo, hay que continuar por el sendero del otro lado (marcas amarillas) que, siguiendo el valle por un primer tramo en subida, va a dar a las masías de Cal Sastre. 
+ 
+14,75 km (1 020 m), 4 h 37 min. Pista de acceso a las masías de Cal Sastre, la Vilella y la Barraca, que se sigue hacia poniente dejando un desvío a la izquierda. La pista conduce al collado Jovell (15,54 m, 1 035 m); allí se dejará y, utilizando el acceso a la casa situada en el centro del collado, torcer hacia la derecha (O) para encontrar el camino de Castell de l'Areny a Sant Romà de la Clusa (15,50 km, 1038 m, señalización), por donde se ha pasado a la ida. Se deshace el camino. 
+ 
+15,98 km (957 m), 4 h 55 min. Castell de l'Areny, estacionamiento a la entrada del pueblo. Final de la excursión. Hay que pasearse por el reducido casco urbano de la población, presidido por la iglesia de Sant Vicenç.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.173494" lon="1.945727">
+        <ele>953.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.173575" lon="1.945683">
+        <ele>954.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.174528" lon="1.946908">
+        <ele>980.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.175332" lon="1.948154">
+        <ele>1013.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176020" lon="1.948591">
+        <ele>1029.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176171" lon="1.948873">
+        <ele>1038.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176799" lon="1.949044">
+        <ele>1039.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177243" lon="1.948794">
+        <ele>1043.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177445" lon="1.947804">
+        <ele>1054.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177403" lon="1.946188">
+        <ele>1075.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178452" lon="1.944241">
+        <ele>1107.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178619" lon="1.942687">
+        <ele>1134.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178321" lon="1.940246">
+        <ele>1192.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177634" lon="1.939465">
+        <ele>1216.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177839" lon="1.938692">
+        <ele>1235.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177947" lon="1.938697">
+        <ele>1243.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177844" lon="1.938281">
+        <ele>1252.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177983" lon="1.937099">
+        <ele>1278.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177775" lon="1.936248">
+        <ele>1295.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177920" lon="1.936354">
+        <ele>1304.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177931" lon="1.936112">
+        <ele>1315.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177705" lon="1.935510">
+        <ele>1332.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177117" lon="1.934930">
+        <ele>1358.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176774" lon="1.933845">
+        <ele>1372.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177335" lon="1.934102">
+        <ele>1378.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177716" lon="1.934784">
+        <ele>1388.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178759" lon="1.935836">
+        <ele>1392.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179575" lon="1.936199">
+        <ele>1398.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180175" lon="1.936765">
+        <ele>1412.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181530" lon="1.936912">
+        <ele>1420.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182938" lon="1.937542">
+        <ele>1404.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.183641" lon="1.937392">
+        <ele>1383.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184929" lon="1.937703">
+        <ele>1367.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185262" lon="1.937575">
+        <ele>1358.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185596" lon="1.937661">
+        <ele>1350.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186007" lon="1.937284">
+        <ele>1340.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185869" lon="1.936487">
+        <ele>1351.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186049" lon="1.936006">
+        <ele>1351.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186197" lon="1.935907">
+        <ele>1352.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186965" lon="1.936191">
+        <ele>1353.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187055" lon="1.935214">
+        <ele>1359.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186912" lon="1.935816">
+        <ele>1354.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186979" lon="1.936239">
+        <ele>1354.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187161" lon="1.936448">
+        <ele>1358.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186428" lon="1.936587">
+        <ele>1367.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186578" lon="1.937660">
+        <ele>1368.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186281" lon="1.938993">
+        <ele>1382.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185670" lon="1.939057">
+        <ele>1393.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185251" lon="1.939849">
+        <ele>1412.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185688" lon="1.941564">
+        <ele>1432.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186067" lon="1.941631">
+        <ele>1438.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186369" lon="1.942271">
+        <ele>1444.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186311" lon="1.943649">
+        <ele>1456.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186635" lon="1.944667">
+        <ele>1476.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186641" lon="1.945224">
+        <ele>1475.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187480" lon="1.946857">
+        <ele>1500.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187466" lon="1.948352">
+        <ele>1514.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187639" lon="1.949791">
+        <ele>1535.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187243" lon="1.951057">
+        <ele>1558.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186697" lon="1.951859">
+        <ele>1580.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188931" lon="1.954166">
+        <ele>1590.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.189641" lon="1.954039">
+        <ele>1581.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190467" lon="1.954207">
+        <ele>1570.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190998" lon="1.954645">
+        <ele>1563.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191339" lon="1.955096">
+        <ele>1558.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191220" lon="1.955824">
+        <ele>1554.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191467" lon="1.956226">
+        <ele>1552.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191550" lon="1.956988">
+        <ele>1556.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192631" lon="1.956871">
+        <ele>1539.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193264" lon="1.956230">
+        <ele>1531.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.193735" lon="1.956165">
+        <ele>1531.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194268" lon="1.955872">
+        <ele>1527.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195092" lon="1.956110">
+        <ele>1535.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195188" lon="1.956756">
+        <ele>1537.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195874" lon="1.957968">
+        <ele>1545.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195611" lon="1.959673">
+        <ele>1561.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196407" lon="1.960108">
+        <ele>1561.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197212" lon="1.962003">
+        <ele>1570.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197485" lon="1.963474">
+        <ele>1586.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198226" lon="1.963910">
+        <ele>1602.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198579" lon="1.963946">
+        <ele>1604.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198754" lon="1.964386">
+        <ele>1597.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198612" lon="1.965946">
+        <ele>1601.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198134" lon="1.967516">
+        <ele>1608.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197622" lon="1.968438">
+        <ele>1613.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197249" lon="1.968808">
+        <ele>1627.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197065" lon="1.969883">
+        <ele>1639.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197091" lon="1.970719">
+        <ele>1638.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197308" lon="1.970800">
+        <ele>1629.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197382" lon="1.971005">
+        <ele>1620.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197413" lon="1.972507">
+        <ele>1573.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197704" lon="1.973265">
+        <ele>1557.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197833" lon="1.975201">
+        <ele>1557.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.198215" lon="1.976184">
+        <ele>1550.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.197970" lon="1.976650">
+        <ele>1542.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196924" lon="1.977287">
+        <ele>1520.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196653" lon="1.978561">
+        <ele>1500.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.196133" lon="1.979546">
+        <ele>1488.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195796" lon="1.980708">
+        <ele>1478.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195803" lon="1.981410">
+        <ele>1475.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194795" lon="1.982955">
+        <ele>1462.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192993" lon="1.984958">
+        <ele>1425.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192891" lon="1.986195">
+        <ele>1415.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192682" lon="1.985405">
+        <ele>1406.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192178" lon="1.984478">
+        <ele>1394.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192299" lon="1.983925">
+        <ele>1389.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192033" lon="1.983384">
+        <ele>1382.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191908" lon="1.982012">
+        <ele>1372.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.192038" lon="1.980938">
+        <ele>1361.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191145" lon="1.981754">
+        <ele>1344.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190431" lon="1.982029">
+        <ele>1334.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190235" lon="1.981748">
+        <ele>1333.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190338" lon="1.981165">
+        <ele>1329.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190826" lon="1.980800">
+        <ele>1321.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190986" lon="1.980139">
+        <ele>1314.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191258" lon="1.979854">
+        <ele>1310.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191155" lon="1.979398">
+        <ele>1304.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.191019" lon="1.979739">
+        <ele>1302.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190683" lon="1.979942">
+        <ele>1296.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.190528" lon="1.980238">
+        <ele>1293.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.189992" lon="1.980319">
+        <ele>1284.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.189231" lon="1.980852">
+        <ele>1271.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188911" lon="1.981263">
+        <ele>1264.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188009" lon="1.981051">
+        <ele>1229.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187935" lon="1.980810">
+        <ele>1226.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187638" lon="1.980839">
+        <ele>1216.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187650" lon="1.981693">
+        <ele>1183.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187426" lon="1.981854">
+        <ele>1172.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187086" lon="1.979976">
+        <ele>1154.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186977" lon="1.979929">
+        <ele>1148.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186647" lon="1.980256">
+        <ele>1148.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186319" lon="1.980364">
+        <ele>1151.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186322" lon="1.980237">
+        <ele>1155.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186369" lon="1.980418">
+        <ele>1150.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187119" lon="1.979667">
+        <ele>1141.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187162" lon="1.978994">
+        <ele>1137.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187406" lon="1.978501">
+        <ele>1141.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188189" lon="1.978258">
+        <ele>1143.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.188154" lon="1.976351">
+        <ele>1143.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187867" lon="1.975961">
+        <ele>1150.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187170" lon="1.975811">
+        <ele>1160.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186579" lon="1.974706">
+        <ele>1148.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186554" lon="1.974434">
+        <ele>1145.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187095" lon="1.973511">
+        <ele>1134.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186904" lon="1.972763">
+        <ele>1134.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.186122" lon="1.971598">
+        <ele>1133.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185500" lon="1.971044">
+        <ele>1138.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185216" lon="1.969812">
+        <ele>1124.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184287" lon="1.968737">
+        <ele>1128.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184254" lon="1.968468">
+        <ele>1126.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184890" lon="1.967116">
+        <ele>1091.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185645" lon="1.966229">
+        <ele>1076.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185987" lon="1.965441">
+        <ele>1066.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187027" lon="1.964375">
+        <ele>1056.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.187141" lon="1.964046">
+        <ele>1049.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.185869" lon="1.963801">
+        <ele>1034.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.184858" lon="1.963796">
+        <ele>1036.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.183852" lon="1.962968">
+        <ele>1040.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.183261" lon="1.963304">
+        <ele>1047.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182963" lon="1.963273">
+        <ele>1048.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.182567" lon="1.962807">
+        <ele>1046.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181552" lon="1.962250">
+        <ele>1044.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181181" lon="1.961419">
+        <ele>1041.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180477" lon="1.961273">
+        <ele>1034.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180411" lon="1.960959">
+        <ele>1037.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180763" lon="1.959531">
+        <ele>1017.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180707" lon="1.958279">
+        <ele>1009.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181662" lon="1.957779">
+        <ele>1000.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181759" lon="1.957595">
+        <ele>993.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.181593" lon="1.957138">
+        <ele>996.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.180807" lon="1.956406">
+        <ele>1022.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179858" lon="1.955047">
+        <ele>1022.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179971" lon="1.953084">
+        <ele>1014.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179712" lon="1.952913">
+        <ele>1016.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179412" lon="1.953117">
+        <ele>1020.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.179146" lon="1.953031">
+        <ele>1023.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178848" lon="1.951976">
+        <ele>1028.7</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178764" lon="1.950664">
+        <ele>1019.8</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.178118" lon="1.950414">
+        <ele>1023.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177812" lon="1.950474">
+        <ele>1026.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177623" lon="1.950041">
+        <ele>1026.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.177248" lon="1.949926">
+        <ele>1033.0</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176992" lon="1.949501">
+        <ele>1035.6</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176685" lon="1.949348">
+        <ele>1035.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176655" lon="1.949034">
+        <ele>1038.5</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176171" lon="1.948873">
+        <ele>1038.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.176020" lon="1.948591">
+        <ele>1029.2</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.175332" lon="1.948154">
+        <ele>1013.9</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.174528" lon="1.946908">
+        <ele>980.4</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.173575" lon="1.945683">
+        <ele>954.1</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.173494" lon="1.945727">
+        <ele>953.3</ele>
+        <time>2017-06-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

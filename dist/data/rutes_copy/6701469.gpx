@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.020671" lon="2.029400">
+    <ele>734.0</ele>
+    <time>2014-04-28T12:29:53Z</time>
+    <name>FONT DE LES COVES</name>
+    <desc>08-NOV-05 10:05:05</desc>
+  </wpt>
+  <wpt lat="42.015190" lon="2.012420">
+    <ele>713.5</ele>
+    <time>2014-04-28T12:29:54Z</time>
+    <name>ROC FORADAT</name>
+    <desc>08-NOV-05 10:40:13</desc>
+  </wpt>
+  <wpt lat="42.008834" lon="2.018063">
+    <ele>742.5</ele>
+    <time>2014-04-28T12:29:56Z</time>
+    <name>SANT SEBASTIÀ</name>
+    <desc>08-NOV-05 10:49:26</desc>
+  </wpt>
+  <wpt lat="42.004023" lon="2.009195">
+    <ele>695.2</ele>
+    <time>2014-04-28T12:29:57Z</time>
+    <name>SANT ANDREU DE LLANARS</name>
+    <desc>08-NOV-05 11:02:54</desc>
+  </wpt>
+  <wpt lat="41.974920" lon="1.985905">
+    <ele>599.5</ele>
+    <time>2014-04-28T12:29:59Z</time>
+    <name>FONT D'EN PERE COSTA</name>
+    <desc>08-NOV-05 12:22:37</desc>
+  </wpt>
+  <wpt lat="42.008336" lon="2.036753">
+    <ele>723.0</ele>
+    <time>2014-04-28T12:30:00Z</time>
+    <name>FONT DE LA BERNARDETA</name>
+    <desc>FONT DE LA BERNARDETA</desc>
+  </wpt>
+  <wpt lat="42.008757" lon="2.038582">
+    <ele>738.5</ele>
+    <time>2014-04-28T12:30:02Z</time>
+    <name>MARE DE DÉU DE LURDA</name>
+    <desc>MARE DE DÉU DE LURDA</desc>
+  </wpt>
+  <wpt lat="42.009264" lon="2.030950">
+    <ele>712.3</ele>
+    <time>2014-04-28T12:30:03Z</time>
+    <name>MONUMENT A LA TRENCADANSA</name>
+    <desc>MONUMENT A LA TRENCADANSA</desc>
+  </wpt>
+  <wpt lat="42.006757" lon="2.029587">
+    <ele>705.6</ele>
+    <time>2014-04-28T12:30:05Z</time>
+    <name>ERMITA DE LA BONA SORT</name>
+    <desc>ERMITA DE LA BONA SORT</desc>
+  </wpt>
+  <wpt lat="41.985935" lon="2.020650">
+    <ele>650.7</ele>
+    <time>2014-04-28T12:30:06Z</time>
+    <name>SANTA EULÀLIA DE PARDINES</name>
+    <desc>SANTA EULÀLIA DE PARDINES</desc>
+  </wpt>
+  <wpt lat="42.000968" lon="2.024955">
+    <ele>695.6</ele>
+    <time>2014-04-28T12:30:08Z</time>
+    <name>CASTELL DEL QUER</name>
+    <desc>CASTELL DEL QUER</desc>
+  </wpt>
+  <wpt lat="42.018389" lon="2.023143">
+    <ele>750.4</ele>
+    <time>2014-04-28T12:30:09Z</time>
+    <name>SANT PERE DEL GRAU</name>
+    <desc>SANT PERE DEL GRAU</desc>
+  </wpt>
+  <wpt lat="42.025843" lon="2.022507">
+    <ele>742.2</ele>
+    <time>2014-04-28T12:30:11Z</time>
+    <name>LA PEDRA DRETA</name>
+    <desc>LA PEDRA DRETA</desc>
+  </wpt>
+  <wpt lat="42.020670" lon="2.018206">
+    <ele>753.2</ele>
+    <time>2014-04-28T12:30:12Z</time>
+    <name>CADIRA D'EN GALCERAN</name>
+    <desc>CADIRA D'EN GALCERAN</desc>
+  </wpt>
+  <wpt lat="42.007414" lon="2.027313">
+    <ele>693.1</ele>
+    <time>2014-04-28T12:30:14Z</time>
+    <name>SAFAREJOS DE LES TRES FONTS</name>
+    <desc>SAFAREJOS DE LES TRES FONTS</desc>
+  </wpt>
+  <trk>
+    <name>Pels voltants de Prats de Lluçanès</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Pels voltants de Prats de Lluçanès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Prats de Lluçanès, situada en un altiplà entre les depressions de la riera de Lluçanès i la de Merlès, és indiscutiblement la població més important i dinàmica de la subcomarca lluçanesa. El terme té un clima mediterrani de muntanya mitjana amb tendència continental i comprèn, a més de la vila de Prats de Lluçanès, cap administratiu del municipi, les demarcacions parroquials de Santa Eulàlia de Pardines i Sant Andreu de Llanars. La vegetació és eurosiberiana, caracteritzada per la presència d'un bosc de roure martinenc. Entre les masies notables del terme, sobresurt Sant Marçal, encarada a la vall de la Gavarresa, amb una capella dedicada al sant homònim. A prop, es conserva un tram de l'antic camí ral de Berga a Vic, que es considera originari d'època romana. A pocs metres de la sortida del poble, i enllaçant amb la carretera de Navàs, es troba una via que mena a l'església de Sant Andreu de Llanars, edifici romànic del s. XII.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La carretera comarcal C-154 de Vic a Gironella -des d'on es pot anar a Berga per l'autovia C-16- travessa el municipi. 
+ 
+L'itinerari segueix un sender de petit recorregut (PR C-44) de tipus tancat en forma de vuit. Té tres possibilitats de recorregut: el cercle nord, el sud o tots dos, de manera que es pot fer en un dia o en dos. Està pintat i senyalitzat amb franges blanques i grogues i els indicadors corresponents, però, per la seva llargada, hi ha punts on no és fàcil trobar el senyal següent. És, doncs, una ruta per a excursionistes amb experiència i sentit de l'orientació. Cal anar amb compte amb les tanques per al bestiar que hi ha a diversos punts del recorregut. A l'Ajuntament de Prats de Lluçanès, se subministra un llibret amb la descripció detallada de la ruta, però hi ha punts on els senyals actuals s'han modificat. Per això, es recomana seguir el track amb un plànol topogràfic de la zona. 
+ 
+0,00 km (712 m). Prats de Lluçanès. Se surt planerament per l'esquerra del monument a la Trencadansa en direcció SE, es passa pel costat de la font de la Bernardeta (km 0,55, 723 m) i s'arriba a l'ermita de Lurdes (km 0,76, 738 m). 
+ 
+Des d'aquest punt, es continua cap al N i es passa vora la Creu de les Dones (km 1,13, 736 m) per davallar després fins al Marçal (km 1,94, 632 m). Ara es remunta a ponent (NO) fins a l'enclotada font de les Coves (km 3,88, 734 m). 
+ 
+Es prossegueix en direcció N, se surt a la carretera BV-4341 (km 5,15, 739 m) i es gira a migdia. Es passa pel costat de la llegendària Pedra Dreta (km 5,38, 742 m), símbol fàl·lic o demoníac que ha passat de boca en boca fins a l'actualitat. 
+ 
+Es creua la carretera C-154 i es continua cap al S. Tot seguint camins plens d'història, es troben Sant Pere del Grau (km 6,19, 760 m) i la Cadira d'en Galceran (km 6,65, 753 m), conegut lloc estratègic en les primeres guerres carlines. 
+ 
+Se segueix planejant (SO) per la carenada que domina la vall de Merlès, on l'aire fresc de l'estiu o la tramuntana freda d'hivern faran agradables el pas per aquests indrets. Es contempla el Roc Foradat (km 7,50, 713 m), conegut també pel Roc de la Bruixa Napa, senyora que va deixar impregnat l'entorn de misteri. 
+ 
+L'ermita de Sant Sebastià (km 8,63, 744 m) i l'església romànica de Sant Andreu de Llanars (km 9,72, 696 m) delectaran el passeig mentre s'escolta l'aigua fresca de la font de la Vila. Es passa per la Vila de Llanars (km 10,13, 708 m), es deixa a l'esquerra (SE) l'accés al mas de Teulats i es passa vora les masies de les Canals (km 12,45, 726 m) i de la Serra de Degollats (km 13,64, 726 m). 
+ 
+Es baixa fins a la carretera BV-4401 (km 15,55, 661 m), que s'agafa a l'esquerra (E) uns metres per, davant del mas de la Costa de la Cavalleria (km 15,69, 659 m), trencar a la dreta (S/SE) per una pista. Més endavant, es troba un gorg (km 16,65, 620 m) i la font d'en Pere Costa (km 16,97, 600 m), ubicada en una fosca balma que ja s'havia oblidat. 
+ 
+A partir d'aquí, es canvia de direcció i es gira cap al NE. Més enllà, es deixa a l'esquerra (N; km 20,35, 633 m) l'accés a la masia de Galobardes i es passa vora el molí del mateix nom. El trajecte avança fins a l'ermita de Santa Eulàlia de Pardines (km 21,28, 662 m), que serà l'últim esguard tranquil abans de retrobar el poble tot passant abans pel castell del Quer i Santa Llúcia del Quer (km 23,13, 696 m). 
+ 
+L'itinerari entra a Prats pels antics rentadors (km 24,07, 697 m), coneguts amb el nom de les Tres Fonts, s'enfila pel carrer Major i, després de visitar l'ermita de la Bona Sort (km 24,37, 705 m), torna al monument a la Trencadansa, punt de partida i final del PR C-44 (km 24,71, 712 m). 
+ 
+Es deixen enrere espais frondosos i recòndits indrets de tranquil·litat. Aquest recorregut permetrà al senderista viure un temps present i passat alhora. Coneixerà les llegendes trameses i les batalles viscudes tot gaudint de la música alegre dels boscos de roures i alzines, del rossinyol que habita abundosament d'abril a setembre, o el cant incontenible de les fonts de l'entorn.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Por los alrededores de Prats de Lluçanès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Prats de Lluçanès, situada en una meseta entre las depresiones de la riera del Lluçanès y la de Merlès, es indiscutiblemente la población más importante y dinámica de la subcomarca del Lluçanès. El término tiene un clima mediterráneo de montaña media con tendencia continental y comprende, además de la villa de Prats de Lluçanès, capital administrativa del municipio, las demarcaciones parroquiales de Santa Eulàlia de Pardines y Sant Andreu de Llanars. La vegetación es eurosiberiana, caracterizada por la presencia de un bosque de roble pubescente. Entre las masías notables del término, sobresale Sant Marçal, encarada al valle de la Gavarresa, con una capilla dedicada al santo homónimo. Cerca, se conserva un tramo del antiguo camino real de Berga a Vic, que se considera originario de época romana. A pocos metros de la salida del pueblo, y enlazando con la carretera de Navàs, se encuentra una vía que conduce a la iglesia de Sant Andreu de Llanars, edificio románico del s. XII.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La carretera comarcal C-154 de Vic a Gironella -desde donde se puede ir a Berga por la autovía C-16- atraviesa el municipio. 
+ 
+El itinerario sigue un sendero de pequeño recorrido (PR C-44) de tipo cerrado en forma de ocho. Tiene tres posibilidades de recorrido: el círculo norte, el sur o ambos, de modo que se puede hacer en un día o en dos. Está pintado y señalizado con franjas blancas y amarillas y los indicadores correspondientes, pero, por su longitud, hay puntos donde no es fácil encontrar la señal siguiente. Es, pues, una ruta para excursionistas con experiencia y sentido de la orientación. Hay que tener cuidado con las vallas para el ganado que hay en varios puntos del recorrido. En el ayuntamiento de Prats de Lluçanès, se suministra un librito con la descripción detallada de la ruta, pero hay puntos donde las señales actuales se han modificado. Por ello, se recomienda seguir el track con un plano topográfico de la zona. 
+ 
+0,00 km (712 m). Prats de Lluçanès. Se sale llanamente por la izquierda del monumento a la Trencadansa en dirección SE, se pasa junto a la fuente de la Bernardeta (km 0,55, 723 m) y se llega a la ermita de Lurdes (km 0,76, 738 m). 
+ 
+Desde este punto, se continúa hacia el norte y se pasa junto a la Creu de les Dones (km 1,13, 736 m) para bajar luego hasta el Marçal (km 1,94, 632 m). Ahora se remonta a poniente (NO) hasta la fuente de Les Coves (km 3,88, 734 m), situada en una hondonada. 
+ 
+Se prosigue en dirección N, se sale a la carretera BV-4341 (km 5,15, 739 m) y se gira a mediodía. Se pasa junto a la legendaria Pedra Dreta (km 5,38, 742 m), símbolo fálico o demoníaco que ha pasado de boca en boca hasta la actualidad. 
+ 
+Se cruza la carretera C-154 y se continúa hacia el S. Siguiendo caminos llenos de historia, se encuentran Sant Pere del Grau (km 6,19, 760 m) y la Cadira d'en Galceran (km 6,65, 753 m), conocido lugar estratégico en las primeras guerras carlistas. 
+ 
+Se sigue llaneando (SO) por el cordal que domina el valle de Merlès, donde el aire fresco del verano o la tramontana fría de invierno harán agradables el paso por estos lugares. Se contempla el Roc Foradat (km 7,50, 713 m), conocido también por Roc de la Bruixa Napa, señora que dejó impregnado el entorno de misterio. 
+ 
+La ermita de Sant Sebastià (km 8,63, 744 m) y la iglesia románica de Sant Andreu de Llanars (km 9,72, 696 m) deleitarán el paseo mientras se escucha el agua fresca de la fuente de la Vila. Se pasa por la Vila de Llanars (km 10,13, 708 m), se deja a la izquierda (SE) el acceso a la masía de Teulats y se pasa junto a las masías de Les Canals (km 12,45, 726 m ) y de la Serra de Degollats (km 13,64, 726 m). 
+ 
+Se baja hasta la carretera BV-4401 (km 15,55, 661 m), que se toma a la izquierda (E) unos metros para, delante de la masía de la Costa de la Cavalleria (km 15,69, 659 m), girar a la derecha (S/SE) por una pista. Más adelante, se encuentra una poza (km 16,65, 620 m) y la fuente de Pere Costa (km 16,97, 600 m), ubicada en una oscura cueva que ya se había olvidado. 
+ 
+A partir de aquí, se cambia de dirección y se gira hacia el NE. Más allá, se deja a la izquierda (N; km 20,35, 633 m) el acceso a la masía de Galobardes y se pasa junto al molino del mismo nombre. El trayecto avanza hasta la ermita de Santa Eulàlia de Pardines (km 21,28, 662 m), que será el último refugio tranquilo antes de reencontrar el pueblo pasando antes por el castillo del Quer y Santa Llúcia del Quer (km 23,13, 696 m). 
+ 
+El itinerario entra en Prats de Lluçanès por los antiguos lavaderos (km 24,07, 697 m), conocidos con el nombre de Les Tres Fonts, sube por la calle Major y, después de visitar la ermita de la Bona Sort (km 24,37, 705 m), vuelve al monumento a la Trencadansa, punto de partida y final del PR C-44 (km 24,71, 712 m). 
+ 
+Se dejan atrás espacios frondosos y recónditos lugares de tranquilidad. Este recorrido permitirá al senderista vivir un tiempo presente y pasado al mismo tiempo. Conocerá las leyendas transmitidas y las batallas vividas disfrutando de la música alegre de los bosques de robles y encinas, del ruiseñor que habita abundantemente de abril a septiembre, o del canto incontenible de las fuentes del entorno.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;Prats de Lluçanès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Prats de Lluçanès, located on a plateau between the depressions of the Lluçanès and Merlès stream beds, is undoubtedly the largest and most dynamic town in the Lluçanes area. The municipality has a mid mountain Mediterranean climate with a continental tendency. The vegetation is Euro-Siberian, with oak woods.&lt;/i&gt; 
+Marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Apart from the town of Prats de Lluçanès, the administrative centre, the municipality contains the parishes of Santa Eulàlia de Pardines and Sant Andreu de Llanars. Among the notable farmhouses is Sant Marçal, facing the Gavarresa valley, with a chapel dedicated to Sant Marçal. Not far off is a stretch of the old road or Royal Road from Berga to Vic, which some people believe to date from Roman times. 
+ 
+The local road C-154 crosses the area from Vic to Gironella. A few metres out of the village, linking up with the Navàs road, we find a track that leads to Sant Andreu de Llanars, a 12th century Romanesque building. 
+ 
+The itinerary starts from Prats de Lluçanès, which we reach from Vic by C-154 towards Gironella. 
+ 
+This is a Long Distance Path of the closed type, but describing a figure eight and there are three ways of walking it being the northern route, the southern route or both which means that you can complete this in either one day or two. It is painted and signposted with white and yellow stripes and the relevant indications but along its length there are points where it is not easy to find the corresponding sign. For this reason, it is a route for people with a certain level of experience. In the Ajuntament de Prats del Lluçanès you can obtain a booklet containing a detailed description of the route but there are points where the signs have been modified. It is therefore recommended that you follow the track with a topographical map 1:50,000, or the same track incorporated into a GPS. 
+ 
+You leave to the left of the monument to La Trencadansa and in the direction of the hermitage of Lurdes. 
+ 
+Like all the local paths, the Short Distance Path (PR) C-44 enables you to discover this plateau, a delightful natural area within the Lluçanès district. The path runs between a number of hermitages and past the cool springs amid the leafy woods. It goes to the sunken spring of Les Coves and the legendary stone Pedra Dreta, a phallic or demonic symbol, word of which has passed from one generation to another down to our day. 
+ 
+As you walk roads lined with history, you come to Sant Pere del Grau and La Cadira d'en Galceran Galceran's Seat, a famous strategic place in the first Carlist Wars. You continue along the ridge above the Merlès valley, where the cool breeze in summer or the chilly north wind in winter makes your walk a delight. You discover Roc Foradat, the rock with the hole, also known as Roc de la Bruixa Napa, a witch who steeped the land in mystery. 
+ 
+The hermitage of Sant Sebastià i Sant Andreu in Llanars will lighten your step as you hear the babbling of the water gushing from the village fountain. You find other springs along the way: Font Guillera, Font del Marçal, Font de la Viscola, Font d'en Pere Costa, the last in a dark cave forgotten by many. 
+ 
+Farmhouses like La Vila de Llanars, Teulats, La Serra de Degollats, La Costa de la Cavalleria and Galobardes line your way, and, as you retrace your steps, the hermitage of Santa Eulàlia de Pardines captivates you with its silence. This will be your last peaceful haven before you return to the village, by way of Quer castle and Santa Llúcia del Quer. You enter Prats by the old washing troughs known as Les Tres Fonts and walk along Carrer Major to the monument to La Trencadansa, the starting point of PR C-44. 
+ 
+You leave behind these leafy, secluded havens of peace. This route enables the walker to live in time past and time present at once. He will discover the legends that have been handed down and the battles that have been fought while delighting in the merry music of the oak and holm oak woods, the melody of the nightingale whose voice can be heard from April to September, or the joyful babble of the springs.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/07/12 &lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.009196" lon="2.030927">
+        <ele>712.0</ele>
+        <time>2005-11-08T08:28:19Z</time>
+      </trkpt>
+      <trkpt lat="42.008869" lon="2.031173">
+        <ele>711.1</ele>
+        <time>2006-01-04T01:14:42Z</time>
+      </trkpt>
+      <trkpt lat="42.008641" lon="2.031925">
+        <ele>717.7</ele>
+        <time>2005-11-08T08:29:09Z</time>
+      </trkpt>
+      <trkpt lat="42.008364" lon="2.032141">
+        <ele>715.6</ele>
+        <time>2006-01-04T01:21:43Z</time>
+      </trkpt>
+      <trkpt lat="42.008106" lon="2.033044">
+        <ele>723.1</ele>
+        <time>2006-01-04T01:23:36Z</time>
+      </trkpt>
+      <trkpt lat="42.008666" lon="2.035287">
+        <ele>721.6</ele>
+        <time>2006-01-04T01:26:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008340" lon="2.036705">
+        <ele>723.1</ele>
+        <time>2006-01-04T01:32:51Z</time>
+      </trkpt>
+      <trkpt lat="42.008466" lon="2.036655">
+        <ele>723.9</ele>
+        <time>2005-11-08T08:32:16Z</time>
+      </trkpt>
+      <trkpt lat="42.008840" lon="2.037168">
+        <ele>729.5</ele>
+        <time>2005-11-08T08:32:58Z</time>
+      </trkpt>
+      <trkpt lat="42.008765" lon="2.037972">
+        <ele>735.5</ele>
+        <time>2005-11-08T08:33:16Z</time>
+      </trkpt>
+      <trkpt lat="42.008561" lon="2.038350">
+        <ele>734.7</ele>
+        <time>2005-11-08T08:33:40Z</time>
+      </trkpt>
+      <trkpt lat="42.008613" lon="2.038651">
+        <ele>737.4</ele>
+        <time>2005-11-08T08:33:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008642" lon="2.038264">
+        <ele>736.1</ele>
+        <time>2005-11-08T08:34:22Z</time>
+      </trkpt>
+      <trkpt lat="42.009479" lon="2.038203">
+        <ele>737.3</ele>
+        <time>2005-11-08T08:35:00Z</time>
+      </trkpt>
+      <trkpt lat="42.011267" lon="2.037216">
+        <ele>738.5</ele>
+        <time>2005-11-08T08:36:07Z</time>
+      </trkpt>
+      <trkpt lat="42.011401" lon="2.037015">
+        <ele>736.5</ele>
+        <time>2006-01-04T01:51:53Z</time>
+      </trkpt>
+      <trkpt lat="42.011883" lon="2.037038">
+        <ele>733.9</ele>
+        <time>2005-11-08T08:36:52Z</time>
+      </trkpt>
+      <trkpt lat="42.012645" lon="2.036676">
+        <ele>733.3</ele>
+        <time>2005-11-08T08:37:28Z</time>
+      </trkpt>
+      <trkpt lat="42.012521" lon="2.036974">
+        <ele>718.6</ele>
+        <time>2005-11-08T08:37:51Z</time>
+      </trkpt>
+      <trkpt lat="42.012825" lon="2.037145">
+        <ele>715.7</ele>
+        <time>2006-01-04T01:58:19Z</time>
+      </trkpt>
+      <trkpt lat="42.013236" lon="2.037845">
+        <ele>703.4</ele>
+        <time>2005-11-08T08:38:53Z</time>
+      </trkpt>
+      <trkpt lat="42.013677" lon="2.037802">
+        <ele>697.5</ele>
+        <time>2005-11-08T08:39:18Z</time>
+      </trkpt>
+      <trkpt lat="42.014728" lon="2.038064">
+        <ele>684.0</ele>
+        <time>2005-11-08T08:40:08Z</time>
+      </trkpt>
+      <trkpt lat="42.015141" lon="2.040587">
+        <ele>632.4</ele>
+        <time>2005-11-08T08:42:04Z</time>
+      </trkpt>
+      <trkpt lat="42.015606" lon="2.041239">
+        <ele>630.6</ele>
+        <time>2006-01-04T02:10:06Z</time>
+      </trkpt>
+      <trkpt lat="42.016405" lon="2.041492">
+        <ele>633.1</ele>
+        <time>2005-11-08T08:43:18Z</time>
+      </trkpt>
+      <trkpt lat="42.017099" lon="2.040504">
+        <ele>630.0</ele>
+        <time>2005-11-08T08:43:39Z</time>
+      </trkpt>
+      <trkpt lat="42.017287" lon="2.039764">
+        <ele>626.1</ele>
+        <time>2005-11-08T08:44:24Z</time>
+      </trkpt>
+      <trkpt lat="42.017768" lon="2.039703">
+        <ele>628.4</ele>
+        <time>2006-01-04T10:02:04Z</time>
+      </trkpt>
+      <trkpt lat="42.018682" lon="2.039212">
+        <ele>631.2</ele>
+        <time>2005-11-08T08:45:33Z</time>
+      </trkpt>
+      <trkpt lat="42.018590" lon="2.038954">
+        <ele>635.7</ele>
+        <time>2005-11-08T08:45:45Z</time>
+      </trkpt>
+      <trkpt lat="42.018183" lon="2.038670">
+        <ele>644.4</ele>
+        <time>2006-01-04T10:24:28Z</time>
+      </trkpt>
+      <trkpt lat="42.018545" lon="2.037886">
+        <ele>662.1</ele>
+        <time>2005-11-08T08:47:26Z</time>
+      </trkpt>
+      <trkpt lat="42.018289" lon="2.036809">
+        <ele>668.4</ele>
+        <time>2005-11-08T08:53:24Z</time>
+      </trkpt>
+      <trkpt lat="42.018538" lon="2.036437">
+        <ele>661.0</ele>
+        <time>2006-01-04T10:30:47Z</time>
+      </trkpt>
+      <trkpt lat="42.018601" lon="2.035886">
+        <ele>655.9</ele>
+        <time>2005-11-08T08:53:48Z</time>
+      </trkpt>
+      <trkpt lat="42.019096" lon="2.035842">
+        <ele>656.9</ele>
+        <time>2005-11-08T08:54:23Z</time>
+      </trkpt>
+      <trkpt lat="42.019251" lon="2.036064">
+        <ele>659.6</ele>
+        <time>2006-01-04T10:37:11Z</time>
+      </trkpt>
+      <trkpt lat="42.019919" lon="2.036349">
+        <ele>659.4</ele>
+        <time>2006-01-04T10:39:05Z</time>
+      </trkpt>
+      <trkpt lat="42.020826" lon="2.035442">
+        <ele>662.9</ele>
+        <time>2006-01-04T10:42:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021104" lon="2.034786">
+        <ele>662.5</ele>
+        <time>2006-01-04T10:44:19Z</time>
+      </trkpt>
+      <trkpt lat="42.021345" lon="2.034738">
+        <ele>661.4</ele>
+        <time>2005-11-08T08:56:29Z</time>
+      </trkpt>
+      <trkpt lat="42.021409" lon="2.033801">
+        <ele>669.2</ele>
+        <time>2005-11-08T08:56:48Z</time>
+      </trkpt>
+      <trkpt lat="42.021947" lon="2.034004">
+        <ele>674.1</ele>
+        <time>2006-01-05T02:00:30Z</time>
+      </trkpt>
+      <trkpt lat="42.022651" lon="2.033728">
+        <ele>680.4</ele>
+        <time>2005-11-08T08:58:33Z</time>
+      </trkpt>
+      <trkpt lat="42.022084" lon="2.033737">
+        <ele>683.3</ele>
+        <time>2005-11-08T08:59:16Z</time>
+      </trkpt>
+      <trkpt lat="42.022546" lon="2.033011">
+        <ele>697.2</ele>
+        <time>2005-11-08T09:00:09Z</time>
+      </trkpt>
+      <trkpt lat="42.022373" lon="2.031649">
+        <ele>710.4</ele>
+        <time>2005-11-08T09:01:19Z</time>
+      </trkpt>
+      <trkpt lat="42.022601" lon="2.031005">
+        <ele>715.9</ele>
+        <time>2005-11-08T09:02:05Z</time>
+      </trkpt>
+      <trkpt lat="42.022112" lon="2.030644">
+        <ele>714.5</ele>
+        <time>2005-11-08T09:02:29Z</time>
+      </trkpt>
+      <trkpt lat="42.021687" lon="2.029848">
+        <ele>714.9</ele>
+        <time>2005-11-08T09:03:02Z</time>
+      </trkpt>
+      <trkpt lat="42.020690" lon="2.029460">
+        <ele>733.9</ele>
+        <time>2005-11-08T09:04:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020939" lon="2.028754">
+        <ele>732.2</ele>
+        <time>2005-11-08T09:09:18Z</time>
+      </trkpt>
+      <trkpt lat="42.021863" lon="2.028372">
+        <ele>734.2</ele>
+        <time>2005-11-08T09:10:34Z</time>
+      </trkpt>
+      <trkpt lat="42.022026" lon="2.027952">
+        <ele>727.2</ele>
+        <time>2005-11-08T09:10:49Z</time>
+      </trkpt>
+      <trkpt lat="42.022478" lon="2.027547">
+        <ele>720.2</ele>
+        <time>2005-11-08T09:11:28Z</time>
+      </trkpt>
+      <trkpt lat="42.023045" lon="2.028040">
+        <ele>721.5</ele>
+        <time>2005-11-08T09:12:23Z</time>
+      </trkpt>
+      <trkpt lat="42.023393" lon="2.028771">
+        <ele>707.7</ele>
+        <time>2005-11-08T09:12:38Z</time>
+      </trkpt>
+      <trkpt lat="42.023875" lon="2.028770">
+        <ele>712.1</ele>
+        <time>2005-11-08T09:13:35Z</time>
+      </trkpt>
+      <trkpt lat="42.024712" lon="2.028262">
+        <ele>718.0</ele>
+        <time>2006-01-05T01:38:39Z</time>
+      </trkpt>
+      <trkpt lat="42.025022" lon="2.028704">
+        <ele>715.8</ele>
+        <time>2006-01-05T01:37:41Z</time>
+      </trkpt>
+      <trkpt lat="42.025230" lon="2.028767">
+        <ele>718.4</ele>
+        <time>2005-11-08T09:14:17Z</time>
+      </trkpt>
+      <trkpt lat="42.026112" lon="2.028198">
+        <ele>722.0</ele>
+        <time>2005-11-08T09:15:23Z</time>
+      </trkpt>
+      <trkpt lat="42.026325" lon="2.027839">
+        <ele>720.2</ele>
+        <time>2006-01-05T01:34:21Z</time>
+      </trkpt>
+      <trkpt lat="42.026332" lon="2.026009">
+        <ele>718.1</ele>
+        <time>2005-11-08T09:19:10Z</time>
+      </trkpt>
+      <trkpt lat="42.027231" lon="2.025790">
+        <ele>720.5</ele>
+        <time>2005-11-08T09:19:58Z</time>
+      </trkpt>
+      <trkpt lat="42.027643" lon="2.025053">
+        <ele>727.1</ele>
+        <time>2005-11-08T09:20:27Z</time>
+      </trkpt>
+      <trkpt lat="42.027283" lon="2.022908">
+        <ele>741.5</ele>
+        <time>2005-11-08T09:23:26Z</time>
+      </trkpt>
+      <trkpt lat="42.026811" lon="2.022499">
+        <ele>741.2</ele>
+        <time>2005-11-08T09:24:08Z</time>
+      </trkpt>
+      <trkpt lat="42.026131" lon="2.022425">
+        <ele>741.9</ele>
+        <time>2005-11-08T09:24:35Z</time>
+      </trkpt>
+      <trkpt lat="42.024301" lon="2.022791">
+        <ele>745.5</ele>
+        <time>2005-11-08T09:26:04Z</time>
+      </trkpt>
+      <trkpt lat="42.023347" lon="2.022842">
+        <ele>750.7</ele>
+        <time>2005-11-08T09:26:46Z</time>
+      </trkpt>
+      <trkpt lat="42.022988" lon="2.023499">
+        <ele>753.5</ele>
+        <time>2005-11-08T09:27:29Z</time>
+      </trkpt>
+      <trkpt lat="42.022671" lon="2.023740">
+        <ele>755.1</ele>
+        <time>2005-11-08T09:27:58Z</time>
+      </trkpt>
+      <trkpt lat="42.021802" lon="2.023747">
+        <ele>757.9</ele>
+        <time>2006-01-05T01:03:26Z</time>
+      </trkpt>
+      <trkpt lat="42.021107" lon="2.023989">
+        <ele>760.3</ele>
+        <time>2006-01-04T13:00:22Z</time>
+      </trkpt>
+      <trkpt lat="42.020494" lon="2.024451">
+        <ele>761.1</ele>
+        <time>2006-01-04T12:58:53Z</time>
+      </trkpt>
+      <trkpt lat="42.020219" lon="2.024389">
+        <ele>762.2</ele>
+        <time>2005-11-08T09:29:59Z</time>
+      </trkpt>
+      <trkpt lat="42.019939" lon="2.023790">
+        <ele>760.1</ele>
+        <time>2005-11-08T09:30:15Z</time>
+      </trkpt>
+      <trkpt lat="42.019517" lon="2.023331">
+        <ele>759.5</ele>
+        <time>2006-01-04T12:55:14Z</time>
+      </trkpt>
+      <trkpt lat="42.019531" lon="2.022878">
+        <ele>761.8</ele>
+        <time>2006-01-04T12:53:50Z</time>
+      </trkpt>
+      <trkpt lat="42.019805" lon="2.022258">
+        <ele>757.4</ele>
+        <time>2005-11-08T09:31:01Z</time>
+      </trkpt>
+      <trkpt lat="42.019611" lon="2.021748">
+        <ele>755.2</ele>
+        <time>2006-01-04T12:49:48Z</time>
+      </trkpt>
+      <trkpt lat="42.019592" lon="2.021041">
+        <ele>750.3</ele>
+        <time>2005-11-08T09:31:32Z</time>
+      </trkpt>
+      <trkpt lat="42.019776" lon="2.020147">
+        <ele>748.7</ele>
+        <time>2005-11-08T09:32:02Z</time>
+      </trkpt>
+      <trkpt lat="42.020594" lon="2.018305">
+        <ele>754.0</ele>
+        <time>2005-11-08T09:33:11Z</time>
+      </trkpt>
+      <trkpt lat="42.020556" lon="2.018070">
+        <ele>752.8</ele>
+        <time>2005-11-08T09:34:05Z</time>
+      </trkpt>
+      <trkpt lat="42.019515" lon="2.016455">
+        <ele>763.4</ele>
+        <time>2005-11-08T09:35:07Z</time>
+      </trkpt>
+      <trkpt lat="42.018321" lon="2.015150">
+        <ele>748.6</ele>
+        <time>2005-11-08T09:36:00Z</time>
+      </trkpt>
+      <trkpt lat="42.017506" lon="2.014486">
+        <ele>762.8</ele>
+        <time>2005-11-08T09:36:36Z</time>
+      </trkpt>
+      <trkpt lat="42.017263" lon="2.013501">
+        <ele>751.3</ele>
+        <time>2005-11-08T09:37:10Z</time>
+      </trkpt>
+      <trkpt lat="42.016810" lon="2.013501">
+        <ele>743.7</ele>
+        <time>2005-11-08T09:37:38Z</time>
+      </trkpt>
+      <trkpt lat="42.016621" lon="2.013733">
+        <ele>744.9</ele>
+        <time>2006-01-05T11:28:07Z</time>
+      </trkpt>
+      <trkpt lat="42.015777" lon="2.012424">
+        <ele>714.3</ele>
+        <time>2005-11-08T09:39:14Z</time>
+      </trkpt>
+      <trkpt lat="42.014581" lon="2.012243">
+        <ele>723.1</ele>
+        <time>2005-11-08T09:40:44Z</time>
+      </trkpt>
+      <trkpt lat="42.014164" lon="2.011966">
+        <ele>729.0</ele>
+        <time>2005-11-08T09:41:11Z</time>
+      </trkpt>
+      <trkpt lat="42.013807" lon="2.011283">
+        <ele>728.9</ele>
+        <time>2006-01-06T00:18:21Z</time>
+      </trkpt>
+      <trkpt lat="42.013449" lon="2.011010">
+        <ele>732.8</ele>
+        <time>2005-11-08T09:42:04Z</time>
+      </trkpt>
+      <trkpt lat="42.013148" lon="2.011093">
+        <ele>734.4</ele>
+        <time>2006-01-06T00:21:02Z</time>
+      </trkpt>
+      <trkpt lat="42.012425" lon="2.011842">
+        <ele>738.7</ele>
+        <time>2006-01-06T00:25:03Z</time>
+      </trkpt>
+      <trkpt lat="42.012244" lon="2.012829">
+        <ele>742.2</ele>
+        <time>2006-01-06T00:27:27Z</time>
+      </trkpt>
+      <trkpt lat="42.012423" lon="2.013261">
+        <ele>738.2</ele>
+        <time>2005-11-08T09:45:41Z</time>
+      </trkpt>
+      <trkpt lat="42.011573" lon="2.015527">
+        <ele>735.3</ele>
+        <time>2005-11-08T09:46:26Z</time>
+      </trkpt>
+      <trkpt lat="42.011562" lon="2.016264">
+        <ele>738.1</ele>
+        <time>2006-01-06T00:38:35Z</time>
+      </trkpt>
+      <trkpt lat="42.011210" lon="2.016758">
+        <ele>739.0</ele>
+        <time>2006-01-06T00:39:28Z</time>
+      </trkpt>
+      <trkpt lat="42.009517" lon="2.017436">
+        <ele>739.0</ele>
+        <time>2005-11-08T09:48:29Z</time>
+      </trkpt>
+      <trkpt lat="42.008947" lon="2.018151">
+        <ele>743.6</ele>
+        <time>2006-01-06T00:51:30Z</time>
+      </trkpt>
+      <trkpt lat="42.009015" lon="2.017661">
+        <ele>739.4</ele>
+        <time>2005-11-08T09:51:28Z</time>
+      </trkpt>
+      <trkpt lat="42.008093" lon="2.017374">
+        <ele>736.6</ele>
+        <time>2005-11-08T09:51:50Z</time>
+      </trkpt>
+      <trkpt lat="42.007177" lon="2.016609">
+        <ele>732.3</ele>
+        <time>2005-11-08T09:52:29Z</time>
+      </trkpt>
+      <trkpt lat="42.007020" lon="2.016201">
+        <ele>732.5</ele>
+        <time>2006-01-06T00:57:22Z</time>
+      </trkpt>
+      <trkpt lat="42.006730" lon="2.015939">
+        <ele>733.1</ele>
+        <time>2006-01-06T00:58:44Z</time>
+      </trkpt>
+      <trkpt lat="42.006707" lon="2.015348">
+        <ele>728.7</ele>
+        <time>2005-11-08T09:53:14Z</time>
+      </trkpt>
+      <trkpt lat="42.006940" lon="2.014680">
+        <ele>725.0</ele>
+        <time>2006-01-06T01:01:34Z</time>
+      </trkpt>
+      <trkpt lat="42.006766" lon="2.013904">
+        <ele>723.0</ele>
+        <time>2006-01-06T01:02:54Z</time>
+      </trkpt>
+      <trkpt lat="42.006305" lon="2.013205">
+        <ele>718.7</ele>
+        <time>2005-11-08T09:54:13Z</time>
+      </trkpt>
+      <trkpt lat="42.006045" lon="2.011760">
+        <ele>715.1</ele>
+        <time>2005-11-08T09:54:58Z</time>
+      </trkpt>
+      <trkpt lat="42.005874" lon="2.011225">
+        <ele>711.5</ele>
+        <time>2005-11-08T09:55:10Z</time>
+      </trkpt>
+      <trkpt lat="42.005684" lon="2.011089">
+        <ele>711.9</ele>
+        <time>2006-01-06T01:07:57Z</time>
+      </trkpt>
+      <trkpt lat="42.005571" lon="2.010517">
+        <ele>707.5</ele>
+        <time>2005-11-08T09:55:30Z</time>
+      </trkpt>
+      <trkpt lat="42.005353" lon="2.010309">
+        <ele>702.3</ele>
+        <time>2005-11-08T09:55:41Z</time>
+      </trkpt>
+      <trkpt lat="42.004876" lon="2.010365">
+        <ele>701.6</ele>
+        <time>2005-11-08T09:56:09Z</time>
+      </trkpt>
+      <trkpt lat="42.004070" lon="2.009985">
+        <ele>701.6</ele>
+        <time>2005-11-08T10:02:04Z</time>
+      </trkpt>
+      <trkpt lat="42.003952" lon="2.009341">
+        <ele>696.0</ele>
+        <time>2005-11-08T10:02:43Z</time>
+      </trkpt>
+      <trkpt lat="42.004052" lon="2.009925">
+        <ele>700.8</ele>
+        <time>2005-11-08T10:09:20Z</time>
+      </trkpt>
+      <trkpt lat="42.004889" lon="2.010322">
+        <ele>701.3</ele>
+        <time>2005-11-08T10:10:30Z</time>
+      </trkpt>
+      <trkpt lat="42.005636" lon="2.010214">
+        <ele>702.9</ele>
+        <time>2005-11-08T10:11:31Z</time>
+      </trkpt>
+      <trkpt lat="42.006118" lon="2.010315">
+        <ele>703.1</ele>
+        <time>2005-11-08T10:11:51Z</time>
+      </trkpt>
+      <trkpt lat="42.006201" lon="2.009427">
+        <ele>703.4</ele>
+        <time>2005-11-08T10:12:28Z</time>
+      </trkpt>
+      <trkpt lat="42.005971" lon="2.008947">
+        <ele>708.5</ele>
+        <time>2005-11-08T10:12:36Z</time>
+      </trkpt>
+      <trkpt lat="42.006581" lon="2.009065">
+        <ele>711.4</ele>
+        <time>2005-11-08T10:19:10Z</time>
+      </trkpt>
+      <trkpt lat="42.007614" lon="2.008741">
+        <ele>710.5</ele>
+        <time>2005-11-08T10:30:08Z</time>
+      </trkpt>
+      <trkpt lat="42.008084" lon="2.007936">
+        <ele>708.4</ele>
+        <time>2005-11-08T10:32:44Z</time>
+      </trkpt>
+      <trkpt lat="42.008360" lon="2.007992">
+        <ele>706.5</ele>
+        <time>2006-01-06T01:39:22Z</time>
+      </trkpt>
+      <trkpt lat="42.008520" lon="2.007820">
+        <ele>705.3</ele>
+        <time>2005-11-08T10:32:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008550" lon="2.007603">
+        <ele>704.2</ele>
+        <time>2006-01-06T01:41:18Z</time>
+      </trkpt>
+      <trkpt lat="42.008268" lon="2.007226">
+        <ele>701.8</ele>
+        <time>2005-11-08T10:33:23Z</time>
+      </trkpt>
+      <trkpt lat="42.008298" lon="2.006526">
+        <ele>704.7</ele>
+        <time>2006-01-06T01:44:57Z</time>
+      </trkpt>
+      <trkpt lat="42.007378" lon="2.005990">
+        <ele>711.2</ele>
+        <time>2005-11-08T10:34:51Z</time>
+      </trkpt>
+      <trkpt lat="42.006861" lon="2.006029">
+        <ele>710.6</ele>
+        <time>2005-11-08T10:35:15Z</time>
+      </trkpt>
+      <trkpt lat="42.006216" lon="2.005453">
+        <ele>711.3</ele>
+        <time>2005-11-08T10:35:41Z</time>
+      </trkpt>
+      <trkpt lat="42.005506" lon="2.005084">
+        <ele>712.2</ele>
+        <time>2006-01-06T01:58:05Z</time>
+      </trkpt>
+      <trkpt lat="42.005216" lon="2.004443">
+        <ele>715.6</ele>
+        <time>2006-01-06T01:59:58Z</time>
+      </trkpt>
+      <trkpt lat="42.005699" lon="2.002991">
+        <ele>712.4</ele>
+        <time>2005-11-08T10:37:25Z</time>
+      </trkpt>
+      <trkpt lat="42.005578" lon="2.002022">
+        <ele>709.5</ele>
+        <time>2006-01-06T02:18:34Z</time>
+      </trkpt>
+      <trkpt lat="42.005115" lon="2.001637">
+        <ele>706.6</ele>
+        <time>2005-11-08T10:38:31Z</time>
+      </trkpt>
+      <trkpt lat="42.004704" lon="2.000490">
+        <ele>702.2</ele>
+        <time>2005-11-08T10:39:05Z</time>
+      </trkpt>
+      <trkpt lat="42.003771" lon="2.000341">
+        <ele>703.2</ele>
+        <time>2005-11-08T10:39:39Z</time>
+      </trkpt>
+      <trkpt lat="42.003603" lon="2.000192">
+        <ele>705.1</ele>
+        <time>2005-11-08T10:39:55Z</time>
+      </trkpt>
+      <trkpt lat="42.003472" lon="1.999126">
+        <ele>707.5</ele>
+        <time>2005-11-08T10:40:44Z</time>
+      </trkpt>
+      <trkpt lat="42.002243" lon="1.997117">
+        <ele>710.6</ele>
+        <time>2006-01-06T02:53:00Z</time>
+      </trkpt>
+      <trkpt lat="42.001330" lon="1.996328">
+        <ele>711.7</ele>
+        <time>2006-01-06T03:03:22Z</time>
+      </trkpt>
+      <trkpt lat="42.000734" lon="1.996120">
+        <ele>711.9</ele>
+        <time>2005-11-08T10:43:20Z</time>
+      </trkpt>
+      <trkpt lat="41.999985" lon="1.996513">
+        <ele>715.7</ele>
+        <time>2005-11-08T10:44:02Z</time>
+      </trkpt>
+      <trkpt lat="41.998953" lon="1.996543">
+        <ele>720.2</ele>
+        <time>2005-11-08T10:44:53Z</time>
+      </trkpt>
+      <trkpt lat="41.998657" lon="1.996167">
+        <ele>721.9</ele>
+        <time>2005-11-08T10:45:20Z</time>
+      </trkpt>
+      <trkpt lat="41.998411" lon="1.995344">
+        <ele>723.8</ele>
+        <time>2005-11-08T10:45:39Z</time>
+      </trkpt>
+      <trkpt lat="41.998006" lon="1.994855">
+        <ele>723.7</ele>
+        <time>2006-01-06T03:24:10Z</time>
+      </trkpt>
+      <trkpt lat="41.997853" lon="1.994381">
+        <ele>725.6</ele>
+        <time>2005-11-08T10:46:47Z</time>
+      </trkpt>
+      <trkpt lat="41.997107" lon="1.993457">
+        <ele>730.1</ele>
+        <time>2005-11-08T10:47:30Z</time>
+      </trkpt>
+      <trkpt lat="41.995666" lon="1.992508">
+        <ele>737.0</ele>
+        <time>2005-11-08T10:48:21Z</time>
+      </trkpt>
+      <trkpt lat="41.995009" lon="1.992500">
+        <ele>735.4</ele>
+        <time>2006-01-06T03:34:56Z</time>
+      </trkpt>
+      <trkpt lat="41.994614" lon="1.991613">
+        <ele>736.8</ele>
+        <time>2005-11-08T10:50:01Z</time>
+      </trkpt>
+      <trkpt lat="41.994243" lon="1.991987">
+        <ele>736.2</ele>
+        <time>2005-11-08T10:50:16Z</time>
+      </trkpt>
+      <trkpt lat="41.993507" lon="1.992234">
+        <ele>737.6</ele>
+        <time>2006-01-06T03:44:13Z</time>
+      </trkpt>
+      <trkpt lat="41.992808" lon="1.992136">
+        <ele>737.9</ele>
+        <time>2006-01-06T03:47:28Z</time>
+      </trkpt>
+      <trkpt lat="41.992000" lon="1.990917">
+        <ele>734.6</ele>
+        <time>2006-01-06T03:53:44Z</time>
+      </trkpt>
+      <trkpt lat="41.991229" lon="1.990833">
+        <ele>731.5</ele>
+        <time>2006-01-06T04:03:15Z</time>
+      </trkpt>
+      <trkpt lat="41.990166" lon="1.989715">
+        <ele>732.6</ele>
+        <time>2005-11-08T10:53:22Z</time>
+      </trkpt>
+      <trkpt lat="41.990126" lon="1.988774">
+        <ele>729.5</ele>
+        <time>2005-11-08T10:53:41Z</time>
+      </trkpt>
+      <trkpt lat="41.989978" lon="1.988360">
+        <ele>728.0</ele>
+        <time>2005-11-08T10:54:00Z</time>
+      </trkpt>
+      <trkpt lat="41.989806" lon="1.988284">
+        <ele>725.8</ele>
+        <time>2005-11-08T10:54:08Z</time>
+      </trkpt>
+      <trkpt lat="41.989763" lon="1.987959">
+        <ele>719.3</ele>
+        <time>2005-11-08T10:56:24Z</time>
+      </trkpt>
+      <trkpt lat="41.989846" lon="1.987655">
+        <ele>716.4</ele>
+        <time>2006-01-06T04:09:33Z</time>
+      </trkpt>
+      <trkpt lat="41.990216" lon="1.987281">
+        <ele>714.5</ele>
+        <time>2005-11-08T10:57:14Z</time>
+      </trkpt>
+      <trkpt lat="41.990159" lon="1.985924">
+        <ele>705.9</ele>
+        <time>2005-11-08T10:57:50Z</time>
+      </trkpt>
+      <trkpt lat="41.990000" lon="1.985727">
+        <ele>704.0</ele>
+        <time>2005-11-08T10:57:54Z</time>
+      </trkpt>
+      <trkpt lat="41.989532" lon="1.985831">
+        <ele>704.5</ele>
+        <time>2005-11-08T10:58:00Z</time>
+      </trkpt>
+      <trkpt lat="41.988963" lon="1.985581">
+        <ele>700.9</ele>
+        <time>2005-11-08T10:58:30Z</time>
+      </trkpt>
+      <trkpt lat="41.988234" lon="1.984669">
+        <ele>700.9</ele>
+        <time>2005-11-08T10:59:09Z</time>
+      </trkpt>
+      <trkpt lat="41.987314" lon="1.983971">
+        <ele>707.3</ele>
+        <time>2006-01-06T13:47:07Z</time>
+      </trkpt>
+      <trkpt lat="41.986693" lon="1.983003">
+        <ele>711.0</ele>
+        <time>2006-01-06T13:49:26Z</time>
+      </trkpt>
+      <trkpt lat="41.986059" lon="1.981625">
+        <ele>712.7</ele>
+        <time>2006-01-06T13:51:28Z</time>
+      </trkpt>
+      <trkpt lat="41.984827" lon="1.980370">
+        <ele>723.6</ele>
+        <time>2006-01-06T13:55:39Z</time>
+      </trkpt>
+      <trkpt lat="41.984520" lon="1.979820">
+        <ele>720.2</ele>
+        <time>2005-11-08T11:03:27Z</time>
+      </trkpt>
+      <trkpt lat="41.984431" lon="1.978861">
+        <ele>704.2</ele>
+        <time>2005-11-08T11:03:49Z</time>
+      </trkpt>
+      <trkpt lat="41.983590" lon="1.976930">
+        <ele>703.9</ele>
+        <time>2005-11-08T11:05:00Z</time>
+      </trkpt>
+      <trkpt lat="41.982785" lon="1.974522">
+        <ele>689.3</ele>
+        <time>2005-11-08T11:06:01Z</time>
+      </trkpt>
+      <trkpt lat="41.982526" lon="1.974194">
+        <ele>681.8</ele>
+        <time>2005-11-08T11:06:13Z</time>
+      </trkpt>
+      <trkpt lat="41.982250" lon="1.973058">
+        <ele>679.6</ele>
+        <time>2005-11-08T11:06:48Z</time>
+      </trkpt>
+      <trkpt lat="41.981819" lon="1.972751">
+        <ele>678.2</ele>
+        <time>2006-01-07T00:02:51Z</time>
+      </trkpt>
+      <trkpt lat="41.981347" lon="1.973253">
+        <ele>669.2</ele>
+        <time>2005-11-08T11:07:34Z</time>
+      </trkpt>
+      <trkpt lat="41.980584" lon="1.973610">
+        <ele>661.1</ele>
+        <time>2005-11-08T11:07:57Z</time>
+      </trkpt>
+      <trkpt lat="41.980518" lon="1.975265">
+        <ele>658.7</ele>
+        <time>2005-11-08T11:08:38Z</time>
+      </trkpt>
+      <trkpt lat="41.980298" lon="1.975347">
+        <ele>656.4</ele>
+        <time>2005-11-08T11:08:51Z</time>
+      </trkpt>
+      <trkpt lat="41.980077" lon="1.975809">
+        <ele>652.4</ele>
+        <time>2005-11-08T11:09:10Z</time>
+      </trkpt>
+      <trkpt lat="41.979311" lon="1.976209">
+        <ele>649.9</ele>
+        <time>2006-01-07T00:20:30Z</time>
+      </trkpt>
+      <trkpt lat="41.978845" lon="1.978630">
+        <ele>648.4</ele>
+        <time>2005-11-08T11:10:46Z</time>
+      </trkpt>
+      <trkpt lat="41.978548" lon="1.978737">
+        <ele>646.6</ele>
+        <time>2005-11-08T11:11:17Z</time>
+      </trkpt>
+      <trkpt lat="41.977724" lon="1.980097">
+        <ele>645.5</ele>
+        <time>2005-11-08T11:11:49Z</time>
+      </trkpt>
+      <trkpt lat="41.977618" lon="1.981288">
+        <ele>642.7</ele>
+        <time>2006-01-07T00:38:40Z</time>
+      </trkpt>
+      <trkpt lat="41.977265" lon="1.981631">
+        <ele>643.3</ele>
+        <time>2006-01-07T00:40:27Z</time>
+      </trkpt>
+      <trkpt lat="41.977523" lon="1.982297">
+        <ele>636.3</ele>
+        <time>2005-11-08T11:13:22Z</time>
+      </trkpt>
+      <trkpt lat="41.976524" lon="1.983442">
+        <ele>630.7</ele>
+        <time>2005-11-08T11:14:23Z</time>
+      </trkpt>
+      <trkpt lat="41.976880" lon="1.983907">
+        <ele>621.3</ele>
+        <time>2006-01-07T00:49:25Z</time>
+      </trkpt>
+      <trkpt lat="41.976833" lon="1.984215">
+        <ele>619.1</ele>
+        <time>2006-01-07T00:49:57Z</time>
+      </trkpt>
+      <trkpt lat="41.975378" lon="1.985198">
+        <ele>607.9</ele>
+        <time>2005-11-08T11:20:53Z</time>
+      </trkpt>
+      <trkpt lat="41.974995" lon="1.985680">
+        <ele>601.3</ele>
+        <time>2005-11-08T11:21:59Z</time>
+      </trkpt>
+      <trkpt lat="41.974677" lon="1.986470">
+        <ele>605.5</ele>
+        <time>2005-11-08T11:25:02Z</time>
+      </trkpt>
+      <trkpt lat="41.974801" lon="1.986734">
+        <ele>610.8</ele>
+        <time>2005-11-08T11:25:18Z</time>
+      </trkpt>
+      <trkpt lat="41.975648" lon="1.987203">
+        <ele>617.5</ele>
+        <time>2005-11-08T11:26:25Z</time>
+      </trkpt>
+      <trkpt lat="41.976358" lon="1.988049">
+        <ele>633.2</ele>
+        <time>2005-11-08T11:27:37Z</time>
+      </trkpt>
+      <trkpt lat="41.976456" lon="1.988421">
+        <ele>636.3</ele>
+        <time>2005-11-08T11:28:04Z</time>
+      </trkpt>
+      <trkpt lat="41.977533" lon="1.989533">
+        <ele>660.1</ele>
+        <time>2006-01-07T01:12:34Z</time>
+      </trkpt>
+      <trkpt lat="41.977830" lon="1.990982">
+        <ele>666.4</ele>
+        <time>2005-11-08T11:31:35Z</time>
+      </trkpt>
+      <trkpt lat="41.979002" lon="1.990827">
+        <ele>666.3</ele>
+        <time>2005-11-08T11:32:27Z</time>
+      </trkpt>
+      <trkpt lat="41.979400" lon="1.991080">
+        <ele>665.0</ele>
+        <time>2005-11-08T11:34:21Z</time>
+      </trkpt>
+      <trkpt lat="41.980627" lon="1.991175">
+        <ele>663.4</ele>
+        <time>2006-01-06T15:41:56Z</time>
+      </trkpt>
+      <trkpt lat="41.980812" lon="1.991752">
+        <ele>662.5</ele>
+        <time>2006-01-06T15:46:49Z</time>
+      </trkpt>
+      <trkpt lat="41.981058" lon="1.992031">
+        <ele>662.3</ele>
+        <time>2006-01-06T15:46:15Z</time>
+      </trkpt>
+      <trkpt lat="41.981165" lon="1.992971">
+        <ele>657.3</ele>
+        <time>2006-01-06T15:49:28Z</time>
+      </trkpt>
+      <trkpt lat="41.981535" lon="1.993587">
+        <ele>662.7</ele>
+        <time>2006-01-06T15:50:29Z</time>
+      </trkpt>
+      <trkpt lat="41.981244" lon="1.994286">
+        <ele>662.9</ele>
+        <time>2005-11-08T11:48:34Z</time>
+      </trkpt>
+      <trkpt lat="41.981221" lon="1.994775">
+        <ele>664.0</ele>
+        <time>2005-11-08T11:48:43Z</time>
+      </trkpt>
+      <trkpt lat="41.981834" lon="1.994826">
+        <ele>664.6</ele>
+        <time>2006-01-06T15:56:34Z</time>
+      </trkpt>
+      <trkpt lat="41.981931" lon="1.995017">
+        <ele>663.9</ele>
+        <time>2005-11-08T11:56:45Z</time>
+      </trkpt>
+      <trkpt lat="41.981960" lon="1.995783">
+        <ele>657.9</ele>
+        <time>2005-11-08T11:57:12Z</time>
+      </trkpt>
+      <trkpt lat="41.981470" lon="1.996455">
+        <ele>652.9</ele>
+        <time>2005-11-08T11:59:34Z</time>
+      </trkpt>
+      <trkpt lat="41.981777" lon="1.996541">
+        <ele>650.8</ele>
+        <time>2005-11-08T11:59:49Z</time>
+      </trkpt>
+      <trkpt lat="41.981804" lon="1.996999">
+        <ele>653.7</ele>
+        <time>2005-11-08T12:00:09Z</time>
+      </trkpt>
+      <trkpt lat="41.982243" lon="1.997843">
+        <ele>658.0</ele>
+        <time>2005-11-08T12:00:56Z</time>
+      </trkpt>
+      <trkpt lat="41.982645" lon="1.999479">
+        <ele>664.8</ele>
+        <time>2006-01-06T16:19:46Z</time>
+      </trkpt>
+      <trkpt lat="41.983000" lon="1.999890">
+        <ele>665.7</ele>
+        <time>2005-11-08T12:02:48Z</time>
+      </trkpt>
+      <trkpt lat="41.982960" lon="2.001055">
+        <ele>672.2</ele>
+        <time>2005-11-08T12:03:45Z</time>
+      </trkpt>
+      <trkpt lat="41.983614" lon="2.001618">
+        <ele>673.8</ele>
+        <time>2005-11-08T12:04:30Z</time>
+      </trkpt>
+      <trkpt lat="41.984078" lon="2.003223">
+        <ele>674.3</ele>
+        <time>2005-11-08T12:05:18Z</time>
+      </trkpt>
+      <trkpt lat="41.984862" lon="2.004339">
+        <ele>667.4</ele>
+        <time>2006-01-06T16:35:22Z</time>
+      </trkpt>
+      <trkpt lat="41.985021" lon="2.004934">
+        <ele>666.3</ele>
+        <time>2005-11-08T12:06:35Z</time>
+      </trkpt>
+      <trkpt lat="41.985557" lon="2.005499">
+        <ele>664.4</ele>
+        <time>2005-11-08T12:07:12Z</time>
+      </trkpt>
+      <trkpt lat="41.985864" lon="2.006110">
+        <ele>662.0</ele>
+        <time>2006-01-06T16:47:36Z</time>
+      </trkpt>
+      <trkpt lat="41.987939" lon="2.007611">
+        <ele>652.5</ele>
+        <time>2005-11-08T12:10:14Z</time>
+      </trkpt>
+      <trkpt lat="41.987317" lon="2.008520">
+        <ele>652.8</ele>
+        <time>2006-01-06T16:58:05Z</time>
+      </trkpt>
+      <trkpt lat="41.986919" lon="2.008840">
+        <ele>641.5</ele>
+        <time>2006-01-06T17:01:02Z</time>
+      </trkpt>
+      <trkpt lat="41.986764" lon="2.009217">
+        <ele>633.3</ele>
+        <time>2005-11-08T12:12:19Z</time>
+      </trkpt>
+      <trkpt lat="41.986493" lon="2.009088">
+        <ele>633.6</ele>
+        <time>2005-11-08T12:12:53Z</time>
+      </trkpt>
+      <trkpt lat="41.986291" lon="2.009218">
+        <ele>637.2</ele>
+        <time>2006-01-06T17:42:10Z</time>
+      </trkpt>
+      <trkpt lat="41.986078" lon="2.010030">
+        <ele>635.8</ele>
+        <time>2005-11-08T12:14:14Z</time>
+      </trkpt>
+      <trkpt lat="41.985544" lon="2.010805">
+        <ele>637.5</ele>
+        <time>2005-11-08T12:15:05Z</time>
+      </trkpt>
+      <trkpt lat="41.985578" lon="2.011094">
+        <ele>636.5</ele>
+        <time>2005-11-08T12:15:16Z</time>
+      </trkpt>
+      <trkpt lat="41.985951" lon="2.011475">
+        <ele>634.7</ele>
+        <time>2006-01-06T17:49:16Z</time>
+      </trkpt>
+      <trkpt lat="41.986247" lon="2.012460">
+        <ele>633.8</ele>
+        <time>2005-11-08T12:16:41Z</time>
+      </trkpt>
+      <trkpt lat="41.986113" lon="2.013102">
+        <ele>621.9</ele>
+        <time>2006-01-06T17:54:17Z</time>
+      </trkpt>
+      <trkpt lat="41.986421" lon="2.013248">
+        <ele>618.3</ele>
+        <time>2005-11-08T12:17:34Z</time>
+      </trkpt>
+      <trkpt lat="41.987470" lon="2.013256">
+        <ele>613.3</ele>
+        <time>2006-01-06T18:49:31Z</time>
+      </trkpt>
+      <trkpt lat="41.987711" lon="2.013470">
+        <ele>612.0</ele>
+        <time>2005-11-08T12:18:43Z</time>
+      </trkpt>
+      <trkpt lat="41.987256" lon="2.014056">
+        <ele>610.6</ele>
+        <time>2005-11-08T12:19:34Z</time>
+      </trkpt>
+      <trkpt lat="41.987206" lon="2.014443">
+        <ele>615.5</ele>
+        <time>2006-01-06T18:53:47Z</time>
+      </trkpt>
+      <trkpt lat="41.986921" lon="2.014882">
+        <ele>621.9</ele>
+        <time>2005-11-08T12:20:36Z</time>
+      </trkpt>
+      <trkpt lat="41.986562" lon="2.015063">
+        <ele>628.1</ele>
+        <time>2005-11-08T12:21:07Z</time>
+      </trkpt>
+      <trkpt lat="41.986376" lon="2.015349">
+        <ele>635.1</ele>
+        <time>2005-11-08T12:21:26Z</time>
+      </trkpt>
+      <trkpt lat="41.986320" lon="2.016696">
+        <ele>642.7</ele>
+        <time>2005-11-08T12:22:44Z</time>
+      </trkpt>
+      <trkpt lat="41.985947" lon="2.017306">
+        <ele>647.7</ele>
+        <time>2005-11-08T12:23:32Z</time>
+      </trkpt>
+      <trkpt lat="41.985904" lon="2.018073">
+        <ele>653.4</ele>
+        <time>2005-11-08T12:23:59Z</time>
+      </trkpt>
+      <trkpt lat="41.985646" lon="2.019000">
+        <ele>661.4</ele>
+        <time>2005-11-08T12:25:10Z</time>
+      </trkpt>
+      <trkpt lat="41.985728" lon="2.019627">
+        <ele>659.0</ele>
+        <time>2005-11-08T12:25:56Z</time>
+      </trkpt>
+      <trkpt lat="41.986554" lon="2.020906">
+        <ele>664.2</ele>
+        <time>2006-01-06T19:09:19Z</time>
+      </trkpt>
+      <trkpt lat="41.986829" lon="2.022399">
+        <ele>673.1</ele>
+        <time>2006-01-07T01:24:47Z</time>
+      </trkpt>
+      <trkpt lat="41.987803" lon="2.023078">
+        <ele>668.6</ele>
+        <time>2006-01-07T01:27:38Z</time>
+      </trkpt>
+      <trkpt lat="41.988784" lon="2.022556">
+        <ele>666.0</ele>
+        <time>2006-01-07T01:29:20Z</time>
+      </trkpt>
+      <trkpt lat="41.991105" lon="2.022793">
+        <ele>674.9</ele>
+        <time>2005-11-08T12:32:09Z</time>
+      </trkpt>
+      <trkpt lat="41.992053" lon="2.023158">
+        <ele>680.2</ele>
+        <time>2005-11-08T12:32:48Z</time>
+      </trkpt>
+      <trkpt lat="41.992871" lon="2.022917">
+        <ele>683.7</ele>
+        <time>2005-11-08T12:33:30Z</time>
+      </trkpt>
+      <trkpt lat="41.993144" lon="2.023305">
+        <ele>686.2</ele>
+        <time>2006-01-07T01:43:19Z</time>
+      </trkpt>
+      <trkpt lat="41.993555" lon="2.023413">
+        <ele>691.5</ele>
+        <time>2006-01-07T01:45:41Z</time>
+      </trkpt>
+      <trkpt lat="41.994273" lon="2.024235">
+        <ele>692.9</ele>
+        <time>2005-11-08T12:36:04Z</time>
+      </trkpt>
+      <trkpt lat="41.995587" lon="2.025217">
+        <ele>695.9</ele>
+        <time>2006-01-07T01:58:01Z</time>
+      </trkpt>
+      <trkpt lat="41.996686" lon="2.025774">
+        <ele>696.2</ele>
+        <time>2006-01-07T02:04:28Z</time>
+      </trkpt>
+      <trkpt lat="41.999254" lon="2.025559">
+        <ele>692.5</ele>
+        <time>2005-11-08T12:39:09Z</time>
+      </trkpt>
+      <trkpt lat="41.999800" lon="2.025860">
+        <ele>693.0</ele>
+        <time>2006-01-04T13:02:14Z</time>
+      </trkpt>
+      <trkpt lat="42.000663" lon="2.025708">
+        <ele>695.3</ele>
+        <time>2006-01-05T00:14:03Z</time>
+      </trkpt>
+      <trkpt lat="42.000570" lon="2.026922">
+        <ele>699.2</ele>
+        <time>2005-11-08T12:41:48Z</time>
+      </trkpt>
+      <trkpt lat="42.000841" lon="2.027528">
+        <ele>705.4</ele>
+        <time>2005-11-08T12:42:43Z</time>
+      </trkpt>
+      <trkpt lat="42.001154" lon="2.027801">
+        <ele>705.1</ele>
+        <time>2006-01-05T00:20:43Z</time>
+      </trkpt>
+      <trkpt lat="42.003747" lon="2.026614">
+        <ele>707.4</ele>
+        <time>2006-01-05T00:30:14Z</time>
+      </trkpt>
+      <trkpt lat="42.004863" lon="2.026537">
+        <ele>705.2</ele>
+        <time>2005-11-08T12:43:22Z</time>
+      </trkpt>
+      <trkpt lat="42.005015" lon="2.027012">
+        <ele>702.0</ele>
+        <time>2005-11-08T12:50:10Z</time>
+      </trkpt>
+      <trkpt lat="42.007497" lon="2.027046">
+        <ele>695.5</ele>
+        <time>2005-11-08T12:51:46Z</time>
+      </trkpt>
+      <trkpt lat="42.007688" lon="2.027243">
+        <ele>694.9</ele>
+        <time>2005-11-08T12:51:51Z</time>
+      </trkpt>
+      <trkpt lat="42.007819" lon="2.027869">
+        <ele>696.1</ele>
+        <time>2005-11-08T12:52:03Z</time>
+      </trkpt>
+      <trkpt lat="42.007533" lon="2.029183">
+        <ele>705.3</ele>
+        <time>2005-11-08T12:52:33Z</time>
+      </trkpt>
+      <trkpt lat="42.006838" lon="2.029495">
+        <ele>705.4</ele>
+        <time>2006-01-05T00:47:17Z</time>
+      </trkpt>
+      <trkpt lat="42.008427" lon="2.029453">
+        <ele>707.6</ele>
+        <time>2005-11-08T12:59:11Z</time>
+      </trkpt>
+      <trkpt lat="42.008511" lon="2.030339">
+        <ele>709.1</ele>
+        <time>2006-01-05T00:58:50Z</time>
+      </trkpt>
+      <trkpt lat="42.009204" lon="2.030824">
+        <ele>711.9</ele>
+        <time>2005-11-08T13:00:19Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.504701" lon="2.266663">
+    <ele>483.0</ele>
+    <time>2014-04-28T11:59:58Z</time>
+    <name>Turó d'en Galceran</name>
+    <desc>Turó d'en Galceran</desc>
+  </wpt>
+  <wpt lat="41.516063" lon="2.309214">
+    <ele>316.7</ele>
+    <time>2014-04-28T12:00:00Z</time>
+    <name>Coll de Clau</name>
+    <desc>Coll de Clau</desc>
+  </wpt>
+  <wpt lat="41.493749" lon="2.264349">
+    <ele>176.4</ele>
+    <time>2014-04-28T12:00:01Z</time>
+    <name>Cadena</name>
+    <desc>Cadena</desc>
+  </wpt>
+  <wpt lat="41.498552" lon="2.321172">
+    <ele>104.4</ele>
+    <time>2014-04-28T12:00:03Z</time>
+    <name>Teià</name>
+    <desc>Teià</desc>
+  </wpt>
+  <wpt lat="41.492074" lon="2.295406">
+    <ele>81.3</ele>
+    <time>2014-04-28T12:00:04Z</time>
+    <name>Alella</name>
+    <desc>Alella</desc>
+  </wpt>
+  <wpt lat="41.518776" lon="2.328350">
+    <ele>454.1</ele>
+    <time>2014-04-28T12:00:06Z</time>
+    <name>Font de Sant Mateu</name>
+    <desc>Font de Sant Mateu</desc>
+  </wpt>
+  <wpt lat="41.514378" lon="2.293701">
+    <ele>273.2</ele>
+    <time>2014-04-28T12:00:07Z</time>
+    <name>Coll de la Font de Cera</name>
+    <desc>Coll de la Font de Cera</desc>
+  </wpt>
+  <wpt lat="41.498366" lon="2.259540">
+    <ele>346.1</ele>
+    <time>2014-04-28T12:00:09Z</time>
+    <name>Camí de la Cornisa</name>
+    <desc>Camí de la Cornisa</desc>
+  </wpt>
+  <wpt lat="41.512997" lon="2.279539">
+    <ele>413.5</ele>
+    <time>2014-04-28T12:00:10Z</time>
+    <name>Coll de la Font de Can Gurri</name>
+    <desc>Coll de la Font de Can Gurri</desc>
+  </wpt>
+  <wpt lat="41.514201" lon="2.289041">
+    <ele>307.4</ele>
+    <time>2014-04-28T12:00:12Z</time>
+    <name>GR 92</name>
+    <desc>GR 92</desc>
+  </wpt>
+  <wpt lat="41.516290" lon="2.325865">
+    <ele>484.1</ele>
+    <time>2014-04-28T12:00:13Z</time>
+    <name>Meridià Verd</name>
+    <desc>Meridià Verd</desc>
+  </wpt>
+  <wpt lat="41.489042" lon="2.271251">
+    <ele>170.5</ele>
+    <time>2014-04-28T12:00:15Z</time>
+    <name>Mare de Déu de l'Alegria</name>
+    <desc>Mare de Déu de l'Alegria</desc>
+  </wpt>
+  <wpt lat="41.516868" lon="2.328826">
+    <ele>494.3</ele>
+    <time>2014-04-28T12:00:16Z</time>
+    <name>Sant Mateu</name>
+    <desc>Sant Mateu</desc>
+  </wpt>
+  <trk>
+    <name>D'Alella a Tiana, Sant Mateu i Teià pel Parc de la Serralada de Marina</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;D'Alella a Tiana, Sant Mateu i Teià pel Parc de la Serralada de Marina&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari circular per l'entorn d'Alella que supera els forts pendents d'accés a la serralada de Marina. Un cop dalt, es gaudeix de la panoràmica i de la pedalada pel camí de la Cornisa. La serralada de Marina s'estén des de la vall del Besòs fins a la riera d'Argentona amb una altitud moderada que no sobrepassa els 600 m, però amb la característica singular d'elevar-se sobtadament entre la costa i la plana del Vallès. La serra està protegida pel Parc de la Serralada de Marina, de 3.032 ha, que ocupa el sector conegut com a la serra de la Conreria, i el Parc de la Serralada Litoral, de 4.053 ha, que n'abasta el vessant N. Els dos parcs es toquen al terme de Tiana.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Cal situar-se a Alella, que es troba a la carretera BP-5002 entre Granollers i el Masnou, a 2 km d'aquesta darrera població i a mig km de la sortida 5 de l'autopista C-32. 
+ 
+0,00 km (82 m). Alella. Se surt de l'aparcament de la plaça dels Germans Lleonard, situat a l'entrada de la vila, a la riera d'Alella i a l'esquerra de la carretera venint des del Masnou. Cal dirigir-se a Tiana. Es parteix baixant de l'aparcament cap al SE pel carrer de la Riera deixant la riera d'Alella a l'esquerra (E). Als 330 m, es gira a la dreta (SO) pel carrer de Charlie Rivel. Es passa una rotonda i es continua recte per l'altra banda prenent el carrer del Mig, que es deixa al cap de 280 m (0,81 km, 82 m) per tombar a la dreta, cap a ponent, pel de París. Es gira pel primer trencall a la dreta (N), el carrer Balears, i se segueix pel de Londres pujant fortament cap al N fins a passar pel costat del cementiri, que queda a l'esquerra. 
+ 
+1,32 km (122 m). Dalt del cementiri, es tomba a l'esquerra (SO) pel camí de Baix de Tiana. Es davalla, es passa per la fondalada del torrent d'en Sistres, es remunta deixant un desviament a l'esquerra, es gira a la dreta (O) i es prossegueix ascendint. S'arriba a una cruïlla (1,78 km, 136 m): es continua recte (SO) deixant una desviació a la dreta i una altra a l'esquerra, es creua el torrent de Vallcirera (1,93 km, 116 m) i se segueix a ponent, en pujada, pel camí del Mig. La pista fa una ziga-zaga, supera un llom i descendeix cap a l'O per entrar a Tiana. 
+ 
+3,19 km (113 m). Es desemboca a una pista asfaltada al costat d'uns grans vivers. Es continua per la pista, que tomba cap al N, es travessa la riera dels Grills i s'entra a l'àrea urbanitzada de Tiana. Es gira al N pel carrer de Can Gaietà. Dalt de tot, el carrer torça a l'esquerra (O), s'avança 80 m i es tomba a la dreta remuntant suaument pel camí del cementiri i de la Mare de Déu de l'Alegria. 
+ 
+4,79 km (163 m). Ermita de la Mare de Déu de l'Alegria. Es gira a l'esquerra (O) deixant a la dreta el santuari i l'accés al cementiri. Es prossegueix cap a ponent en baixada seguint per la pista ampla. Quan aquesta tomba bruscament a migdia, cal deixar-la i girar al N, en pujada, seguint el torrent de Montcerdà i deixant a l'esquerra (O), a certa distància, la zona esportiva municipal i l'escola Lola Anglada. 
+ 
+5,96 km (177 m). La pista tomba al NE allunyant-se del curs del torrent de Montcerdà. Hi ha una cadena que impedeix el pas dels vehicles motoritzats al parc. S'ascendeix fortament zigzaguejant. Al km 6,82 (268 m), es deixa un trencall a la dreta, que surt en direcció contrària, es fa una ziga-zaga i s'emprèn una molt forta, però curta, pujada, dalt de la qual (6,95 km, 300 m) es deixa una desviació a la dreta i es continua cap a l'O pujant una mica per, a continuació, fer una llarga travessia horitzontal discorrent per sota d'una línia elèctrica. Se surt a una altra pista (7,52 km, 307 m), al costat mateix d'una de les torres elèctriques, i es remunta a la dreta (N). 
+ 
+7,91 km (346 m). Es desemboca al camí de la Cornisa, vial paral·lel al del Mig, que discorre per la carena de la serralada (per on va el sender GR 92). Es gira a la dreta (NE), es deixa un desviament a l'esquerra i se segueix per la pista principal deixant, més enllà, en un revolt a l'esquerra a l'inici d'una ziga-zaga (8,44 km, 388 m), el GR. Es continua cap al NE, s'accedeix a la banda obaga de la serra i es deixa el turó de Galceran a la dreta (E; 9,13 km, 468 m). Més endavant, abans de passar per un collet i saltar al vessant de llevant de la serralada, cantó mar, es deixa una desviació a l'esquerra i es descendeix. Es prossegueix per la carena deixant un altre desviament a l'esquerra (9,94 km, 439 m). Es passa de nou a l'obaga de la carena (on hi ha un trencall per on discorre el GR 97-3) i es creua el coll de la Font d'en Gurri. La pista gira a l'E, davalla fins al costat d'una torre elèctrica i descriu una ziga-zaga que l'aboca a la urbanització Alella Parc. 
+ 
+11,85 km (357 m). Revolt a l'entrada de la urbanització Alella Parc. Per la dreta conflueix el GR 92, que se seguirà fins a Sant Mateu. Es pren el carrer de Salvador Espriu durant 450 m. S'ha de parar compte: al punt quilomètric 12,30 (307 m), cal desviar-se per un sender de l'esquerra (NE) que duu al coll de Font de Cera (senyals del GR). 
+ 
+12,73 km (272 m). Coll de Font de Cera, carretera BP-5002. Es descendeix per la carretera durant 75 m. Cal deixar-la i prendre un camí que s'enfila a l'esquerra i desemboca al de la Cornisa, aquí molt ample i en bon estat, que se seguirà en direcció E fins al trencall de Sant Mateu. 
+ 
+14,52 km (319 m). Coll de Clau. Cruïlla de camins. Es continua pel de la Cornisa deixant a la dreta (S) la pista per on es baixarà després. 
+ 
+17,18 km (435 m). Es deixa el camí de la Cornisa i es gira a l'esquerra (NO) pel trencall de Sant Mateu. Als 17,73 km (458 m), es passa pel costat de la font de Sant Mateu, que queda a la dreta (N), més enllà es deixa a la dreta l'accés a la magnífica masia de can Riera i, virant a l'esquerra (SE), es fa cap a l'ermita. 
+ 
+18,47 km (494 m). Ermita de Sant Mateu. La raconada és molt bonica i gaudeix d'una esplèndida vista sobre la costa de Barcelona, Collserola i la serra de Marina. Es torna enrere i, a mig camí de can Riera, es deixa la pista per on s'ha vingut (18,74 km, 484 m) i es tomba a l'esquerra (S) seguint els senyals del recorregut del Meridià Verd. Es creua una línia elèctrica i se surt al camí de la Cornisa, que ara es pren a la dreta (SO) per tornar al coll de Clau. 
+ 
+21,09 km (319 m). Coll de Clau. Ara es gira pel primer trencall a l'esquerra (SE/E) i es davalla seguint per la pista principal fins a Teià, on s'entra pel passeig de la Riera. 
+ 
+24,22 km (105 m). Plaça de Catalunya de Teià. Es prossegueix descendint pel passeig fins a la rotonda de l'entrada del poble, on es tomba a la dreta (SO) per l'avinguda de Josep Roca o carretera del Masnou BV-5026 (24,62 km, 91 m). Es passa una altra rotonda i, al km 25,15 (84 m), es gira a la dreta (NO) pel carrer de l'Aqüeducte deixant la carretera. Es desemboca a una altra rotonda: es tomba cap al SO deixant dos desviacions a la dreta i agafant el camí d'Alella. Se surt als Quatre Camins, sobre l'autopista C-32. 
+ 
+26,54 km (94 m). Quatre Camins. Es gira a l'esquerra (S), es passa per sobre de l'autopista per un pont i, immediatament després, es tomba a la dreta (NO) pel camí dels Ametllers, que creua de nou l'autopista, ara per sota (27,02 km, 69 m). Es desemboca al camí del Mig i se segueix a l'esquerra (NO) vorejant l'autopista pel N. S'entra a Alella per l'avinguda de Ferran Fabra i es conflueix amb la carretera del Masnou (la BP-5002), just davant de l'aparcament d'on s'ha sortit. 
+ 
+28,14 km (82 m). Aparcament de la plaça dels Germans Lleonard d'Alella, punt de partida i final del recorregut.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Alella a Tiana, Sant Mateu y Teià por el Parque de la Serralada de Marina&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario circular por el entorno de Alella que supera las fuertes pendientes de acceso a la sierra de Marina. Una vez arriba, se disfruta de la panorámica y del trayecto por el camino de la Cornisa. La sierra de Marina se extiende desde el valle del Besòs hasta el arroyo de Argentona con una altitud moderada que no sobrepasa los 600 m, pero con la característica singular de elevarse súbitamente entre la costa y la llanura del Vallès . La sierra está protegida por el Parque de la Serralada de Marina, de 3.032 ha, que ocupa el sector conocido como la sierra de la Conreria, y el Parque de la Serralada Litoral, de 4.053 ha, que abarca la vertiente N. Los dos parques se tocan en el término de Tiana.&lt;/i&gt; 
+Ruta señalizada parcialmente. 
+ 
+Hay que situarse en Alella, que se encuentra en la carretera BP-5002 entre Granollers y el Masnou, a 2 km de esta última población y a medio km de la salida 5 de la autopista C-32. 
+ 
+0,00 km (82 m). Alella. Se sale del aparcamiento de la plaza de Els Germans Lleonard, situado en la entrada de la villa, junto al arroyo de Alella y a la izquierda de la carretera viniendo desde el Masnou. Hay que dirigirse a Tiana. Se parte bajando del aparcamiento hacia el SE por la calle de la Riera dejando el arroyo de Alella a la izquierda (E). A los 330 metros, se gira a la derecha (SO) por la calle de Charlie Rivel. Se pasa una rotonda y se sigue recto por el otro lado tomando la calle del Mig, que se deja al cabo de 280 m (0,81 km, 82 m) para girar a la derecha, hacia poniente, por la de París. Se gira por el primer desvío a la derecha (N), la calle Balears, y se sigue por la de Londres subiendo fuertemente hacia el N hasta pasar junto al cementerio, que queda a la izquierda. 
+ 
+1,32 km (122 m). Arriba del cementerio, se gira a la izquierda (SO) por el camino de Baix de Tiana. Se desciende, se pasa por la hondonada del torrente de En Sistres, se remonta dejando un desvío a la izquierda, se gira a la derecha (O) y se prosigue ascendiendo. Se llega a un cruce (1,78 km, 136 m): se sigue recto (SO) dejando un desvío a la derecha y otro a la izquierda, se cruza el torrente de Vallcirera (1,93 km, 116 m) y se sigue a poniente, en subida, por el camino del Mig. La pista hace un zigzag, supera una loma y desciende hacia el O para entrar en Tiana. 
+ 
+3,19 km (113 m). Se desemboca en una pista asfaltada junto a unos grandes viveros. Se continúa por la pista, que gira hacia el N, se cruza el torrente de Els Grills y se entra en el área urbanizada de Tiana. Se gira al N por la calle de Can Gaietà. Arriba del todo, la calle gira a la izquierda (O), se avanza 80 m y se gira a la derecha remontando suavemente por el camino del cementerio y de la Mare de Déu de l'Alegria. 
+ 
+4,79 km (163 m). Ermita de la Mare de Déu de l'Alegria. Se gira a la izquierda (O) dejando a la derecha el santuario y el acceso al cementerio. Se prosigue hacia poniente en bajada siguiendo por la pista ancha. Cuando esta se desvía bruscamente a mediodía, hay que dejarla y girar al N, en subida, siguiendo el torrente de Montcerdà y dejando a la izquierda (O), a cierta distancia, la zona deportiva municipal y la escuela Lola Anglada. 
+ 
+5,96 km (177 m). La pista gira al NE alejándose del curso del torrente de Montcerdà. Hay una cadena que impide el paso de los vehículos motorizados al parque. Se asciende fuertemente zigzagueando. En el km 6,82 (268 m), se deja un desvío a la derecha, que sale en dirección contraria, se hace un zigzag y se emprende una muy fuerte, pero corta, subida, arriba de la cual (6,95 km, 300 m) se deja un desvío a la derecha y se continúa hacia el O subiendo un poco para, a continuación, hacer una larga travesía horizontal discurriendo por debajo de una línea eléctrica. Se sale a otra pista (7,52 km, 307 m), al lado mismo de una de las torres eléctricas, y se remonta a la derecha (N). 
+ 
+7,91 km (346 m). Se desemboca en el camino de la Cornisa, vial paralelo al del Mig, que discurre por el cordal de la sierra (por donde va el sendero GR 92). Se gira a la derecha (NE), se deja un desvío a la izquierda y se sigue por la pista principal dejando, más allá, en una curva a la izquierda donde se inicia un zigzag (8,44 km, 388 m), el GR. Se continúa hacia el NE, se accede a la cara umbría de la sierra y se deja el cerro de Galceran a la derecha (E; 9,13 km, 468 m). Más adelante, antes de pasar por un collado y saltar a la vertiente de levante de la sierra, lado mar, se deja un desvío a la izquierda y se desciende. Se prosigue por el cordal dejando otro desvío a la izquierda (9,94 km, 439 m). Se pasa de nuevo a la umbría del cordal (donde hay un desvío por donde discurre el GR 97-3) y se cruza el collado de la Font d'en Gurri. La pista gira al E, desciende hasta el lado de una torre eléctrica y describe un zigzag que la aboca a la urbanización Alella Parc. 
+ 
+11,85 km (357 m). Curva en la entrada de la urbanización Alella Parc. Por la derecha confluye el GR 92, que se seguirá hasta Sant Mateu. Se toma la calle de Salvador Espriu durante 450 m. Se debe prestar atención: en el punto kilométrico 12,30 (307 m), hay que desviarse por un sendero de la izquierda (NE) que lleva al collado de Font de Cera (señales del GR). 
+ 
+12,73 km (272 m). Collado de Font de Cera, carretera BP-5002. Se desciende por la carretera durante 75 m. Hay que dejarla y tomar un camino que sube a la izquierda y desemboca en el de la Cornisa, aquí muy ancho y en buen estado, que se seguirá en dirección E hasta el desvío de Sant Mateu. 
+ 
+14,52 km (319 m). Collado de Clau. Cruce de caminos. Se continúa por el de la Cornisa dejando a la derecha (S) la pista por donde se bajará después. 
+ 
+17,18 km (435 m). Se deja el camino de la Cornisa y se gira a la izquierda (NO) por el desvío de Sant Mateu. A los 17,73 km (458 m), se pasa junto a la fuente de Sant Mateu, que queda a la derecha (N), más adelante se deja a la derecha el acceso a la magnífica masía de Can Riera y, virando a la izquierda (SE), se llega a la ermita. 
+ 
+18,47 km (494 m). Ermita de Sant Mateu. El rincón donde se ubica el templo es muy bonito y goza de una espléndida vista sobre la costa de Barcelona, Collserola y la sierra de Marina. Se vuelve atrás y, a medio camino de Can Riera, se deja la pista por donde se ha venido (18,74 km, 484 m) y se gira a la izquierda (S) siguiendo las señales del recorrido del Meridià Verd. Se cruza una línea eléctrica y se sale al camino de la Cornisa, que ahora se toma a la derecha (SO) para volver al collado de Clau. 
+ 
+21,09 km (319 m). Collado de Clau. Ahora se gira por el primer desvío a la izquierda (SE/E) y se baja siguiendo por la pista principal hasta Teià, donde se entra por el paseo de la Riera. 
+ 
+24,22 km (105 m). Plaza de Catalunya de Teià. Se prosigue descendiendo por el paseo hasta la rotonda de la entrada del pueblo, donde se gira a la derecha (SO) por la avenida de Josep Roca o carretera del Masnou BV-5026 (24,62 km, 91 m). Se pasa otra rotonda y en el km 25,15 (84 m), se gira a la derecha (NO) por la calle de L'Aqüeducte dejando la carretera. Se desemboca en otra rotonda: se gira hacia el SO dejando dos desvíos a la derecha y tomando el camino de Alella. Se sale a Quatre Camins, sobre la autopista C-32. 
+ 
+26,54 km (94 m). Quatre Camins. Se gira a la izquierda (S), se pasa por encima de la autopista por un puente e, inmediatamente después, se gira a la derecha (NO) por el camino de Els Ametllers, que cruza de nuevo la autopista, ahora por debajo (27,02 km, 69 m). Se desemboca en el camino del Mig y se sigue a la izquierda (NO) bordeando la autopista por el N. Se entra en Alella por la avenida de Ferran Fabra y se confluye con la carretera del Masnou (la BP-5002), justo delante del aparcamiento de donde se ha salido. 
+ 
+28,14 km (82 m). Aparcamiento de la plaza de Els Germans Lleonard d'Alella, punto de partida y final del recorrido.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/09/10&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.492066" lon="2.295412">
+        <ele>81.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491868" lon="2.295516">
+        <ele>82.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491710" lon="2.295344">
+        <ele>82.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489526" lon="2.296931">
+        <ele>70.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489166" lon="2.296911">
+        <ele>70.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488700" lon="2.296622">
+        <ele>76.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488094" lon="2.295329">
+        <ele>89.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487701" lon="2.295172">
+        <ele>87.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486880" lon="2.294258">
+        <ele>80.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486041" lon="2.293920">
+        <ele>81.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486119" lon="2.292727">
+        <ele>92.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486629" lon="2.292230">
+        <ele>97.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487470" lon="2.292054">
+        <ele>105.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487810" lon="2.291666">
+        <ele>109.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489222" lon="2.291340">
+        <ele>120.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489369" lon="2.291092">
+        <ele>122.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489027" lon="2.290419">
+        <ele>114.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488307" lon="2.289684">
+        <ele>105.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487498" lon="2.289250">
+        <ele>114.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487546" lon="2.288243">
+        <ele>127.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486883" lon="2.287334">
+        <ele>136.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486726" lon="2.286791">
+        <ele>127.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485831" lon="2.286393">
+        <ele>115.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485452" lon="2.284453">
+        <ele>126.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485286" lon="2.284442">
+        <ele>128.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484400" lon="2.285075">
+        <ele>137.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483867" lon="2.284030">
+        <ele>139.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483862" lon="2.283560">
+        <ele>135.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483598" lon="2.282848">
+        <ele>130.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483160" lon="2.282595">
+        <ele>131.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482595" lon="2.283003">
+        <ele>137.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482224" lon="2.282743">
+        <ele>141.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482013" lon="2.282129">
+        <ele>146.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481928" lon="2.280734">
+        <ele>140.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482077" lon="2.280026">
+        <ele>134.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481906" lon="2.279393">
+        <ele>135.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482242" lon="2.279000">
+        <ele>133.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482081" lon="2.277822">
+        <ele>124.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480984" lon="2.276600">
+        <ele>113.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480035" lon="2.276042">
+        <ele>114.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479933" lon="2.275630">
+        <ele>116.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480058" lon="2.274742">
+        <ele>113.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480442" lon="2.274187">
+        <ele>113.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481350" lon="2.273907">
+        <ele>112.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481720" lon="2.274029">
+        <ele>111.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482471" lon="2.273883">
+        <ele>101.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482803" lon="2.273675">
+        <ele>98.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482855" lon="2.273399">
+        <ele>93.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482480" lon="2.273278">
+        <ele>91.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482268" lon="2.272441">
+        <ele>98.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483253" lon="2.272952">
+        <ele>110.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485014" lon="2.272369">
+        <ele>126.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485694" lon="2.273014">
+        <ele>127.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485885" lon="2.272012">
+        <ele>136.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486683" lon="2.272087">
+        <ele>139.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488904" lon="2.271619">
+        <ele>163.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489126" lon="2.270331">
+        <ele>171.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489409" lon="2.269568">
+        <ele>165.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489929" lon="2.269196">
+        <ele>160.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490085" lon="2.268907">
+        <ele>156.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490007" lon="2.268602">
+        <ele>154.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489271" lon="2.267658">
+        <ele>153.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489162" lon="2.266833">
+        <ele>151.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489341" lon="2.265208">
+        <ele>143.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489713" lon="2.264952">
+        <ele>146.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490127" lon="2.264905">
+        <ele>150.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490441" lon="2.264650">
+        <ele>154.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490811" lon="2.264784">
+        <ele>159.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491260" lon="2.264527">
+        <ele>160.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491878" lon="2.264790">
+        <ele>166.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492241" lon="2.264474">
+        <ele>168.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492989" lon="2.264466">
+        <ele>171.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493429" lon="2.264293">
+        <ele>175.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493735" lon="2.264350">
+        <ele>176.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493955" lon="2.264844">
+        <ele>181.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494434" lon="2.265156">
+        <ele>187.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494744" lon="2.265093">
+        <ele>189.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495059" lon="2.265652">
+        <ele>197.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495049" lon="2.264928">
+        <ele>204.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495474" lon="2.264444">
+        <ele>211.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495441" lon="2.264959">
+        <ele>215.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496250" lon="2.265363">
+        <ele>229.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496187" lon="2.264723">
+        <ele>234.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496522" lon="2.264929">
+        <ele>237.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497397" lon="2.265009">
+        <ele>257.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497953" lon="2.265368">
+        <ele>263.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498344" lon="2.265268">
+        <ele>268.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498671" lon="2.264922">
+        <ele>268.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498502" lon="2.264546">
+        <ele>274.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499319" lon="2.264106">
+        <ele>298.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499461" lon="2.263038">
+        <ele>305.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498818" lon="2.262494">
+        <ele>306.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498472" lon="2.261240">
+        <ele>312.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498235" lon="2.260943">
+        <ele>311.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496854" lon="2.259791">
+        <ele>307.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496489" lon="2.259717">
+        <ele>307.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496239" lon="2.259474">
+        <ele>308.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496929" lon="2.259508">
+        <ele>320.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497571" lon="2.259902">
+        <ele>328.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498138" lon="2.259938">
+        <ele>332.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498663" lon="2.260261">
+        <ele>339.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498383" lon="2.259540">
+        <ele>346.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499131" lon="2.260130">
+        <ele>353.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499166" lon="2.260591">
+        <ele>353.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499582" lon="2.261557">
+        <ele>358.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500402" lon="2.262602">
+        <ele>369.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500599" lon="2.263246">
+        <ele>374.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500906" lon="2.263279">
+        <ele>377.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501466" lon="2.263644">
+        <ele>386.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501301" lon="2.263179">
+        <ele>391.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500929" lon="2.262745">
+        <ele>391.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501000" lon="2.262559">
+        <ele>395.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501832" lon="2.263125">
+        <ele>408.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.502327" lon="2.263071">
+        <ele>416.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.502716" lon="2.263198">
+        <ele>424.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.504011" lon="2.264436">
+        <ele>447.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.504118" lon="2.264950">
+        <ele>452.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.505223" lon="2.266621">
+        <ele>464.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.506093" lon="2.266737">
+        <ele>460.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.506578" lon="2.267169">
+        <ele>461.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507128" lon="2.267300">
+        <ele>460.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507443" lon="2.267938">
+        <ele>462.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509262" lon="2.268708">
+        <ele>458.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509401" lon="2.269246">
+        <ele>458.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509163" lon="2.270105">
+        <ele>452.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509382" lon="2.270528">
+        <ele>446.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509684" lon="2.270627">
+        <ele>442.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509794" lon="2.270925">
+        <ele>440.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510070" lon="2.271033">
+        <ele>439.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510877" lon="2.271905">
+        <ele>438.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.511519" lon="2.272185">
+        <ele>433.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512271" lon="2.272153">
+        <ele>430.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512590" lon="2.272808">
+        <ele>427.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513219" lon="2.273227">
+        <ele>431.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513321" lon="2.273663">
+        <ele>433.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513229" lon="2.274821">
+        <ele>433.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512903" lon="2.275196">
+        <ele>436.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512791" lon="2.276024">
+        <ele>438.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512421" lon="2.276741">
+        <ele>433.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512587" lon="2.278735">
+        <ele>422.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512886" lon="2.279079">
+        <ele>416.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513065" lon="2.279605">
+        <ele>414.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514389" lon="2.280207">
+        <ele>414.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514760" lon="2.281240">
+        <ele>412.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515455" lon="2.281448">
+        <ele>412.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515425" lon="2.282413">
+        <ele>404.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514988" lon="2.283802">
+        <ele>390.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515458" lon="2.284803">
+        <ele>382.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515407" lon="2.285187">
+        <ele>374.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515227" lon="2.285321">
+        <ele>370.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515065" lon="2.285251">
+        <ele>369.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514672" lon="2.284440">
+        <ele>369.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513989" lon="2.284029">
+        <ele>354.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514728" lon="2.286130">
+        <ele>331.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514394" lon="2.286768">
+        <ele>323.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514420" lon="2.288128">
+        <ele>310.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514168" lon="2.288940">
+        <ele>307.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514793" lon="2.290857">
+        <ele>314.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514511" lon="2.292543">
+        <ele>292.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514691" lon="2.293272">
+        <ele>276.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513895" lon="2.294336">
+        <ele>277.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513339" lon="2.294731">
+        <ele>280.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512632" lon="2.295542">
+        <ele>289.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514039" lon="2.300913">
+        <ele>311.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514606" lon="2.302291">
+        <ele>317.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514499" lon="2.303940">
+        <ele>319.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513585" lon="2.305592">
+        <ele>324.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513211" lon="2.306974">
+        <ele>332.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513778" lon="2.307657">
+        <ele>331.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514755" lon="2.308246">
+        <ele>323.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515072" lon="2.308674">
+        <ele>321.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515990" lon="2.309197">
+        <ele>316.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516025" lon="2.309676">
+        <ele>318.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515647" lon="2.311382">
+        <ele>329.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515937" lon="2.313580">
+        <ele>335.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515932" lon="2.314886">
+        <ele>344.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516199" lon="2.315171">
+        <ele>344.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517267" lon="2.315387">
+        <ele>352.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517519" lon="2.316008">
+        <ele>350.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517177" lon="2.316886">
+        <ele>358.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516406" lon="2.317469">
+        <ele>369.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516527" lon="2.318774">
+        <ele>377.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516238" lon="2.319532">
+        <ele>383.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515463" lon="2.320145">
+        <ele>392.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515004" lon="2.321612">
+        <ele>406.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514288" lon="2.321625">
+        <ele>411.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513871" lon="2.322037">
+        <ele>413.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513833" lon="2.322313">
+        <ele>413.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514129" lon="2.322951">
+        <ele>416.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514094" lon="2.323149">
+        <ele>417.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512966" lon="2.323472">
+        <ele>426.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512344" lon="2.324162">
+        <ele>431.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512759" lon="2.325751">
+        <ele>441.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515191" lon="2.328254">
+        <ele>454.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515319" lon="2.328577">
+        <ele>456.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515325" lon="2.329409">
+        <ele>451.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515667" lon="2.330233">
+        <ele>446.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516002" lon="2.330469">
+        <ele>445.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516619" lon="2.330516">
+        <ele>441.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516782" lon="2.330647">
+        <ele>439.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517286" lon="2.332127">
+        <ele>438.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517367" lon="2.332977">
+        <ele>434.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517865" lon="2.331954">
+        <ele>438.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518935" lon="2.331607">
+        <ele>453.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519096" lon="2.330659">
+        <ele>454.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518667" lon="2.329693">
+        <ele>453.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518662" lon="2.328003">
+        <ele>459.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517787" lon="2.327694">
+        <ele>465.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517184" lon="2.327024">
+        <ele>470.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516936" lon="2.326924">
+        <ele>471.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516920" lon="2.326607">
+        <ele>472.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517250" lon="2.325980">
+        <ele>475.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516872" lon="2.325433">
+        <ele>485.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516303" lon="2.325900">
+        <ele>484.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515925" lon="2.326773">
+        <ele>487.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516262" lon="2.328040">
+        <ele>493.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516698" lon="2.328670">
+        <ele>494.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516262" lon="2.328040">
+        <ele>493.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515935" lon="2.326899">
+        <ele>488.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516298" lon="2.325864">
+        <ele>484.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515928" lon="2.325688">
+        <ele>480.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515415" lon="2.325808">
+        <ele>477.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514584" lon="2.325301">
+        <ele>467.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513733" lon="2.326125">
+        <ele>449.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513636" lon="2.326377">
+        <ele>447.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513420" lon="2.326403">
+        <ele>445.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512695" lon="2.325632">
+        <ele>439.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512344" lon="2.324162">
+        <ele>431.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512966" lon="2.323472">
+        <ele>426.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514094" lon="2.323149">
+        <ele>417.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514129" lon="2.322951">
+        <ele>416.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513833" lon="2.322313">
+        <ele>413.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513871" lon="2.322037">
+        <ele>413.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514288" lon="2.321625">
+        <ele>411.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515004" lon="2.321612">
+        <ele>406.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515463" lon="2.320145">
+        <ele>392.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516238" lon="2.319532">
+        <ele>383.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516527" lon="2.318774">
+        <ele>377.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516406" lon="2.317469">
+        <ele>369.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517177" lon="2.316886">
+        <ele>358.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517510" lon="2.316116">
+        <ele>349.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517267" lon="2.315387">
+        <ele>352.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516199" lon="2.315171">
+        <ele>344.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515932" lon="2.314886">
+        <ele>344.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515937" lon="2.313580">
+        <ele>335.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515647" lon="2.311382">
+        <ele>329.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515997" lon="2.309575">
+        <ele>318.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515665" lon="2.310549">
+        <ele>316.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515065" lon="2.311238">
+        <ele>310.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515279" lon="2.313335">
+        <ele>301.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515098" lon="2.313924">
+        <ele>298.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514427" lon="2.313979">
+        <ele>290.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513938" lon="2.313583">
+        <ele>285.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513092" lon="2.313520">
+        <ele>278.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512680" lon="2.313926">
+        <ele>272.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512525" lon="2.314425">
+        <ele>268.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512497" lon="2.313460">
+        <ele>259.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512177" lon="2.314111">
+        <ele>254.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.511217" lon="2.314708">
+        <ele>243.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.511529" lon="2.314201">
+        <ele>239.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.511522" lon="2.313752">
+        <ele>235.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510687" lon="2.314270">
+        <ele>227.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510080" lon="2.314384">
+        <ele>219.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509826" lon="2.315525">
+        <ele>211.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510180" lon="2.315953">
+        <ele>205.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509306" lon="2.315938">
+        <ele>194.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.508954" lon="2.315790">
+        <ele>192.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509078" lon="2.316180">
+        <ele>186.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.508535" lon="2.315755">
+        <ele>180.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.508614" lon="2.314663">
+        <ele>175.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.508487" lon="2.314533">
+        <ele>171.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507846" lon="2.315726">
+        <ele>164.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507104" lon="2.316560">
+        <ele>158.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.503904" lon="2.317648">
+        <ele>137.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501741" lon="2.318598">
+        <ele>125.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501139" lon="2.319049">
+        <ele>121.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499692" lon="2.320597">
+        <ele>111.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498140" lon="2.321602">
+        <ele>101.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495621" lon="2.322790">
+        <ele>89.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494878" lon="2.322642">
+        <ele>91.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493153" lon="2.323397">
+        <ele>98.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492230" lon="2.323341">
+        <ele>95.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491587" lon="2.322820">
+        <ele>93.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490896" lon="2.321701">
+        <ele>81.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491175" lon="2.320812">
+        <ele>82.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491376" lon="2.320576">
+        <ele>82.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491365" lon="2.320319">
+        <ele>83.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491203" lon="2.320219">
+        <ele>84.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490853" lon="2.320378">
+        <ele>82.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490435" lon="2.319807">
+        <ele>89.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490311" lon="2.319347">
+        <ele>89.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490351" lon="2.318484">
+        <ele>86.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490200" lon="2.318222">
+        <ele>86.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489689" lon="2.317832">
+        <ele>92.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488504" lon="2.317581">
+        <ele>100.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487854" lon="2.316546">
+        <ele>100.2</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487638" lon="2.315159">
+        <ele>89.5</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487832" lon="2.314426">
+        <ele>84.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488551" lon="2.313448">
+        <ele>78.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487973" lon="2.311809">
+        <ele>86.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488366" lon="2.310481">
+        <ele>87.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488789" lon="2.309722">
+        <ele>93.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488684" lon="2.309591">
+        <ele>92.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487811" lon="2.309637">
+        <ele>84.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487743" lon="2.309542">
+        <ele>86.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488728" lon="2.307044">
+        <ele>77.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488972" lon="2.305766">
+        <ele>69.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489633" lon="2.305549">
+        <ele>72.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489915" lon="2.304606">
+        <ele>84.0</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490182" lon="2.302626">
+        <ele>79.9</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490570" lon="2.301945">
+        <ele>76.8</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490657" lon="2.300716">
+        <ele>83.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491104" lon="2.300148">
+        <ele>88.3</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491854" lon="2.299895">
+        <ele>93.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492003" lon="2.297611">
+        <ele>100.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492427" lon="2.297103">
+        <ele>100.6</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492791" lon="2.296153">
+        <ele>91.1</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492543" lon="2.295341">
+        <ele>84.7</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492084" lon="2.295400">
+        <ele>81.4</ele>
+        <time>2010-02-01T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

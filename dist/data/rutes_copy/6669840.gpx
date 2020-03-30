@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.550526" lon="1.633594">
+    <ele>434.3</ele>
+    <time>2014-04-25T15:05:34Z</time>
+    <name>DIPÒSIT</name>
+    <desc>DIPÒSIT</desc>
+  </wpt>
+  <wpt lat="41.530880" lon="1.623060">
+    <ele>333.8</ele>
+    <time>2014-04-25T15:05:35Z</time>
+    <name>CARME</name>
+    <desc>CARME</desc>
+  </wpt>
+  <wpt lat="41.554997" lon="1.669431">
+    <ele>454.2</ele>
+    <time>2014-04-25T15:05:35Z</time>
+    <name>CASTELL DE CLARAMUNT</name>
+    <desc>CASTELL DE CLARAMUNT</desc>
+  </wpt>
+  <wpt lat="41.554146" lon="1.651587">
+    <ele>413.9</ele>
+    <time>2014-04-25T15:05:36Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.544383" lon="1.608438">
+    <ele>462.7</ele>
+    <time>2014-04-25T15:05:36Z</time>
+    <name>ERMITA DE LA MARE DE DÉU DE COLLBÀS</name>
+    <desc>ERMITA DE LA MARE DE DÉU DE COLLBÀS</desc>
+  </wpt>
+  <wpt lat="41.551461" lon="1.661961">
+    <ele>366.4</ele>
+    <time>2014-04-25T15:05:37Z</time>
+    <name>TRENCALL AMB EL GR</name>
+    <desc>TRENCALL AMB EL GR</desc>
+  </wpt>
+  <wpt lat="41.555677" lon="1.663486">
+    <ele>418.8</ele>
+    <time>2014-04-25T15:05:37Z</time>
+    <name>COTA 420</name>
+    <desc>COTA 420</desc>
+  </wpt>
+  <wpt lat="41.553095" lon="1.667737">
+    <ele>347.2</ele>
+    <time>2014-04-25T15:05:38Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.547820" lon="1.617854">
+    <ele>435.6</ele>
+    <time>2014-04-25T15:05:38Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.555392" lon="1.667372">
+    <ele>409.0</ele>
+    <time>2014-04-25T15:05:39Z</time>
+    <name>COLL</name>
+    <desc>COLL</desc>
+  </wpt>
+  <wpt lat="41.554510" lon="1.656526">
+    <ele>394.4</ele>
+    <time>2014-04-25T15:05:39Z</time>
+    <name>CLOT DE CAN VALLS</name>
+    <desc>CLOT DE CAN VALLS</desc>
+  </wpt>
+  <wpt lat="41.554533" lon="1.652017">
+    <ele>419.4</ele>
+    <time>2014-04-25T15:05:40Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.551535" lon="1.660527">
+    <ele>364.2</ele>
+    <time>2014-04-25T15:05:40Z</time>
+    <name>TORRENT DEL CAMP DE LA CREU</name>
+    <desc>TORRENT DEL CAMP DE LA CREU</desc>
+  </wpt>
+  <wpt lat="41.551073" lon="1.659589">
+    <ele>369.4</ele>
+    <time>2014-04-25T15:05:41Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="41.551301" lon="1.652385">
+    <ele>364.2</ele>
+    <time>2014-04-25T15:05:41Z</time>
+    <name>CLOT DE LA GARSA</name>
+    <desc>CLOT DE LA GARSA</desc>
+  </wpt>
+  <wpt lat="41.550939" lon="1.647044">
+    <ele>371.6</ele>
+    <time>2014-04-25T15:05:42Z</time>
+    <name>TORRENT DE LES GARRIGUES</name>
+    <desc>TORRENT DE LES GARRIGUES</desc>
+  </wpt>
+  <wpt lat="41.548075" lon="1.624444">
+    <ele>481.6</ele>
+    <time>2014-04-25T15:05:42Z</time>
+    <name>COLL</name>
+    <desc>COLL</desc>
+  </wpt>
+  <wpt lat="41.546847" lon="1.616346">
+    <ele>459.6</ele>
+    <time>2014-04-25T15:05:43Z</time>
+    <name>COLL</name>
+    <desc>COLL</desc>
+  </wpt>
+  <wpt lat="41.554012" lon="1.646386">
+    <ele>424.0</ele>
+    <time>2014-04-25T15:05:43Z</time>
+    <name>COTA 424</name>
+    <desc>TP - 01/02/2006 4:26:55</desc>
+  </wpt>
+  <wpt lat="41.553842" lon="1.648728">
+    <ele>425.8</ele>
+    <time>2014-04-25T15:05:44Z</time>
+    <name>COTA 426</name>
+    <desc>TP - 01/02/2006 4:27:42</desc>
+  </wpt>
+  <wpt lat="41.552282" lon="1.636323">
+    <ele>472.1</ele>
+    <time>2014-04-25T15:05:44Z</time>
+    <name>PUJOL DE LA GUÀRDIA</name>
+    <desc>PUJOL DE LA GUÀRDIA</desc>
+  </wpt>
+  <trk>
+    <name>De la Mare de Déu de Collbàs al castell de Claramunt</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De la Mare de Déu de Collbàs al castell de Claramunt&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Ruta per l'Anoia meridional que visita el castell de Claramunt, esplèndida fortalesa mil·lenària de l'època de la Reconquesta que, situada dalt d'un turó a 461 m d'altitud, presideix la Pobla de Claramunt i esdevé una magnífica talaia de la contrada.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Cal situar-se a Carme, on s'arriba des de la Pobla de Claramunt o bé des de la C-37 des de Santa Maria de Miralles. Des d'Igualada, cal prendre la C-244 en direcció a Capellades i trencar a la dreta per la BV-2131. Fora de la població, en direcció a Santa Càndia i Santa Maria de Miralles, passada la piscina de l'hotel, cal agafar l'avinguda Collbàs i el camí que mena a l'ermita de Collbàs (463 m), des d'on s'inicia l'excursió. 
+ 
+0,00 km (464 m). Ermita de Collbàs. Hi ha servei de restauració, una àrea de lleure i una font. S'agafa el sender de gran recorregut GR 7-2 (senyals blancs i vermells) que surt a llevant amb un recorregut amb continus tobogans, clots i colls. Fins al km 0,80 (460 m), es van passant diversos collets i es baixa cap al torrent de Cal Sant, deixant a l'esquerra el coll de la Llentilla. En tot aquest entorn, s'aprecien gran quantitat de fòssils al terra, la majoria en forma de llenties. 
+ 
+1,57 km (482 m), 0 h 30 min. Després d'un coll, camí amunt, es deixa a l'esquerra (N) un gran dipòsit d'aigua per a Igualada situat en un altre coll (km 2,38, 435 m), es deixa un camí a l'esquerra (N), per on es tornarà més tard, i es continua sempre en direcció E. 
+ 
+3,70 km (373 m), 1 h 10 min. Es baixa cap a llevant i es creua el torrent de les Garrigues, es passa el clot de la Garsa (km 4,20, 365 m) i es travessa el torrent del Camp de la Creu (km 4,92, 364 m). 
+ 
+5,04 km (366 m), 1 h 25 min. Bifurcació. Es deixa el GR 7-2, que se'n va avall a la dreta, i s'agafa un camí de l'esquerra (NE) que porta fins al castell de Claramunt, muntanya amunt, pel clot de les Garrigues. 
+ 
+5,75 km (347 m), 1 h 37 min. Bifurcació. Es gira a l'esquerra (N) travessant un camp sota mateix del castell i, fent un tram costerut, es puja fins a la pista asfaltada que hi accedeix. 
+ 
+6,51 km (447 m), 1 h 45 min. Conjunt medieval del castell de Claramunt. L'indret és un bon observatori i mirador de la contrada. El retorn es fa voltant la paret S del castell per un camí senyalitzat que surt del costat mateix de la porta d'entrada i se'n va cap a ponent resseguint el fil de la carena. 
+ 
+7,09 km (415 m), 1 h 55 min. Bifurcació. El camí de la carena porta al pujol de la Guàrdia (488 m), des d'on, cap a migdia, es baixa al camí comú. Se segueix, però, a l'esquerra (O) descendint fins al clot de Can Valls (km 7,76, 395 m). Més endavant, es retroba la carena al peu del pujol de la Guàrdia i se segueix cap a l'oest. 
+ 
+9,61 km (474 m), 2 h 32 min. Es passa un altre pujol de la Guàrdia i s'arriba a l'encreuament situat al costat del dipòsit d'aigua per on s'ha passat abans (km 10,01, 435 m), des d'on es desfà el camí. 
+ 
+12,36 km (464 m), 3 h. Ermita de Collbàs, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De la Mare de Déu de Collbàs al castillo de Claramunt&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Ruta por L'Anoia meridional que visita el castillo de Claramunt, espléndida fortaleza milenaria de la época de la Reconquista que, situada sobre una colina a 461 m de altitud, preside la Pobla de Claramunt y se convierte en una magnífica atalaya de la región.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Hay que situarse en Carme, adonde se llega desde la Pobla de Claramunt o bien desde la C-37 desde Santa Maria de Miralles. Desde Igualada, hay que tomar la C-244 en dirección a Capellades y girar a la derecha por la BV-2131. Fuera de la población, en dirección a Santa Càndia y Santa Maria de Miralles, pasada la piscina del hotel, hay que tomar la avenida Collbàs y el camino que lleva a la ermita de Collbàs (463 m), desde donde se inicia la excursión. 
+ 
+0,00 km (464 m). Ermita de Collbàs. Hay servicio de restauración, un área de ocio y una fuente. Se sigue el sendero de gran recorrido GR 7-2 (señales blancas y rojas) que sale a levante con un recorrido con continuos toboganes, hondonadas y collados. Hasta el km 0,80 (460 m), se van pasando varios collados y se baja hacia el torrente de Cal Sant, dejando a la izquierda el collado de la Llentilla. En todo este entorno, se aprecian gran cantidad de fósiles en el suelo, la mayoría en forma de lentejas. 
+ 
+1,57 km (482 m), 0 h 30 min. Después de un collado, camino arriba, se deja a la izquierda (N) un gran depósito de aprovisionamiento de agua para Igualada situado en otro collado (km 2,38, 435 m), se deja un camino a la izquierda (N), por donde se volverá más tarde, y se continúa siempre en dirección E. 
+ 
+3,70 km (373 m), 1 h 10 min. Se baja hacia levante y se cruza el torrente de Les Garrigues, se pasa el Clot de la Garsa (km 4,20, 365 m) y se atraviesa el torrente del Camp de la Creu (km 4,92, 364 m). 
+ 
+5,04 km (366 m), 1 h 25 min. Bifurcación. Se deja el GR 7-2, que se va abajo a la derecha, y se toma un camino de la izquierda (NE) que lleva hasta el castillo de Claramunt, montaña arriba, por el Clot de les Garrigues. 
+ 
+5,75 km (347 m), 1 h 37 min. Bifurcación. Se gira a la izquierda (N) atravesando un campo debajo del castillo y, subiendo por un tramo empinado, se llega hasta la pista asfaltada de acceso. 
+ 
+6,51 km (447 m), 1 h 45 min. Conjunto medieval del castillo de Claramunt. El lugar es un buen observatorio y mirador de la zona. El retorno se hace rodeando la pared S del castillo por un camino señalizado que sale junto a la puerta de entrada y se va hacia poniente siguiendo el hilo del cordal. 
+ 
+7,09 km (415 m), 1 h 55 min. Bifurcación. El camino del cordal lleva a la colina de la Guàrdia (488 m), desde donde, hacia mediodía, se baja al camino común. Se sigue, sin embargo, por la izquierda (O) descendiendo hasta el Clot de Can Valls (km 7,76, 395 m). Más adelante, se reencuentra el cordal al pie de la colina de la Guàrdia y se sigue hacia el oeste. 
+ 
+9,61 km (474 m), 2 h 32 min. Se pasa otra colina de la Guàrdia y se llega al cruce situado junto al depósito de agua por donde se ha pasado antes (km 10,01, 435 m), desde donde se desanda el camino. 
+ 
+12,36 km (464 m), 3 h. Ermita de Collbàs, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From La Mare de Déu de Collbàs to the Claramunt castle&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;This is a route through the southern part of Anoia which takes you to the castle of Claramunt, a splendid ancient fortress dating from the time of the Reconquest and which, situated at the top of a hill 461 metres high, looks over the village of Claramunt and serves as a magnificent vantage point over the surrounding area.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.544453" lon="1.608323">
+        <ele>464.2</ele>
+        <time>2006-01-12T16:27:15Z</time>
+      </trkpt>
+      <trkpt lat="41.544597" lon="1.608272">
+        <ele>464.6</ele>
+        <time>2006-01-31T02:03:49Z</time>
+      </trkpt>
+      <trkpt lat="41.545023" lon="1.609282">
+        <ele>457.8</ele>
+        <time>2006-01-12T16:28:37Z</time>
+      </trkpt>
+      <trkpt lat="41.544929" lon="1.610051">
+        <ele>458.2</ele>
+        <time>2006-01-12T16:29:06Z</time>
+      </trkpt>
+      <trkpt lat="41.545068" lon="1.611487">
+        <ele>451.1</ele>
+        <time>2006-01-12T16:30:08Z</time>
+      </trkpt>
+      <trkpt lat="41.545406" lon="1.611863">
+        <ele>451.9</ele>
+        <time>2006-01-12T16:30:37Z</time>
+      </trkpt>
+      <trkpt lat="41.545526" lon="1.612484">
+        <ele>458.3</ele>
+        <time>2006-01-31T02:13:56Z</time>
+      </trkpt>
+      <trkpt lat="41.545933" lon="1.612637">
+        <ele>461.2</ele>
+        <time>2006-01-31T02:14:55Z</time>
+      </trkpt>
+      <trkpt lat="41.546109" lon="1.612993">
+        <ele>454.4</ele>
+        <time>2006-01-31T02:16:08Z</time>
+      </trkpt>
+      <trkpt lat="41.546288" lon="1.614440">
+        <ele>456.4</ele>
+        <time>2006-01-12T16:32:19Z</time>
+      </trkpt>
+      <trkpt lat="41.546705" lon="1.614983">
+        <ele>460.5</ele>
+        <time>2006-01-12T16:32:52Z</time>
+      </trkpt>
+      <trkpt lat="41.546810" lon="1.616245">
+        <ele>459.7</ele>
+        <time>2006-01-12T16:33:29Z</time>
+      </trkpt>
+      <trkpt lat="41.547197" lon="1.616992">
+        <ele>452.9</ele>
+        <time>2006-01-12T16:34:12Z</time>
+      </trkpt>
+      <trkpt lat="41.547773" lon="1.617675">
+        <ele>437.3</ele>
+        <time>2006-01-12T16:35:06Z</time>
+      </trkpt>
+      <trkpt lat="41.547963" lon="1.619596">
+        <ele>435.5</ele>
+        <time>2006-01-12T16:36:39Z</time>
+      </trkpt>
+      <trkpt lat="41.548680" lon="1.620773">
+        <ele>454.1</ele>
+        <time>2006-01-12T16:38:07Z</time>
+      </trkpt>
+      <trkpt lat="41.548733" lon="1.621444">
+        <ele>455.2</ele>
+        <time>2006-01-31T02:48:34Z</time>
+      </trkpt>
+      <trkpt lat="41.548219" lon="1.623308">
+        <ele>473.8</ele>
+        <time>2006-01-12T16:39:41Z</time>
+      </trkpt>
+      <trkpt lat="41.548065" lon="1.624408">
+        <ele>481.5</ele>
+        <time>2006-01-12T16:40:41Z</time>
+      </trkpt>
+      <trkpt lat="41.548700" lon="1.625839">
+        <ele>472.0</ele>
+        <time>2006-01-12T16:41:43Z</time>
+      </trkpt>
+      <trkpt lat="41.549011" lon="1.627421">
+        <ele>460.7</ele>
+        <time>2006-01-12T16:42:10Z</time>
+      </trkpt>
+      <trkpt lat="41.549567" lon="1.628669">
+        <ele>455.3</ele>
+        <time>2006-01-12T16:42:52Z</time>
+      </trkpt>
+      <trkpt lat="41.549527" lon="1.629137">
+        <ele>450.9</ele>
+        <time>2006-01-31T10:21:52Z</time>
+      </trkpt>
+      <trkpt lat="41.549830" lon="1.630372">
+        <ele>448.3</ele>
+        <time>2006-01-12T16:43:39Z</time>
+      </trkpt>
+      <trkpt lat="41.549894" lon="1.631539">
+        <ele>443.2</ele>
+        <time>2006-01-12T16:44:10Z</time>
+      </trkpt>
+      <trkpt lat="41.551064" lon="1.637162">
+        <ele>423.9</ele>
+        <time>2006-01-12T16:47:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551026" lon="1.637810">
+        <ele>420.0</ele>
+        <time>2006-01-12T16:47:10Z</time>
+      </trkpt>
+      <trkpt lat="41.551276" lon="1.638320">
+        <ele>415.4</ele>
+        <time>2006-01-31T11:26:56Z</time>
+      </trkpt>
+      <trkpt lat="41.551233" lon="1.638897">
+        <ele>416.5</ele>
+        <time>2006-01-12T16:47:45Z</time>
+      </trkpt>
+      <trkpt lat="41.551628" lon="1.639530">
+        <ele>420.8</ele>
+        <time>2006-01-12T16:48:17Z</time>
+      </trkpt>
+      <trkpt lat="41.551309" lon="1.640382">
+        <ele>412.4</ele>
+        <time>2006-01-12T16:48:40Z</time>
+      </trkpt>
+      <trkpt lat="41.551299" lon="1.642217">
+        <ele>398.5</ele>
+        <time>2006-01-12T16:49:29Z</time>
+      </trkpt>
+      <trkpt lat="41.551389" lon="1.642928">
+        <ele>397.0</ele>
+        <time>2006-01-12T16:49:52Z</time>
+      </trkpt>
+      <trkpt lat="41.551847" lon="1.643974">
+        <ele>392.0</ele>
+        <time>2006-01-12T16:50:24Z</time>
+      </trkpt>
+      <trkpt lat="41.552079" lon="1.645312">
+        <ele>387.5</ele>
+        <time>2006-01-12T16:50:58Z</time>
+      </trkpt>
+      <trkpt lat="41.551933" lon="1.645513">
+        <ele>385.4</ele>
+        <time>2006-02-01T00:16:01Z</time>
+      </trkpt>
+      <trkpt lat="41.550923" lon="1.645713">
+        <ele>382.3</ele>
+        <time>2006-01-12T16:52:24Z</time>
+      </trkpt>
+      <trkpt lat="41.550984" lon="1.647025">
+        <ele>372.7</ele>
+        <time>2006-02-01T01:16:09Z</time>
+      </trkpt>
+      <trkpt lat="41.550594" lon="1.647584">
+        <ele>372.0</ele>
+        <time>2006-02-01T01:22:30Z</time>
+      </trkpt>
+      <trkpt lat="41.550867" lon="1.649617">
+        <ele>371.3</ele>
+        <time>2006-02-01T01:24:41Z</time>
+      </trkpt>
+      <trkpt lat="41.551525" lon="1.650844">
+        <ele>372.6</ele>
+        <time>2006-01-12T16:55:02Z</time>
+      </trkpt>
+      <trkpt lat="41.551329" lon="1.651778">
+        <ele>367.8</ele>
+        <time>2006-02-01T01:30:55Z</time>
+      </trkpt>
+      <trkpt lat="41.551350" lon="1.652443">
+        <ele>364.4</ele>
+        <time>2006-01-12T16:55:41Z</time>
+      </trkpt>
+      <trkpt lat="41.550650" lon="1.654945">
+        <ele>362.8</ele>
+        <time>2006-02-01T01:35:48Z</time>
+      </trkpt>
+      <trkpt lat="41.550677" lon="1.655730">
+        <ele>364.1</ele>
+        <time>2006-01-12T16:57:27Z</time>
+      </trkpt>
+      <trkpt lat="41.551080" lon="1.657832">
+        <ele>366.3</ele>
+        <time>2006-01-12T16:58:19Z</time>
+      </trkpt>
+      <trkpt lat="41.551050" lon="1.659505">
+        <ele>368.8</ele>
+        <time>2006-01-12T16:59:27Z</time>
+      </trkpt>
+      <trkpt lat="41.551527" lon="1.660647">
+        <ele>364.4</ele>
+        <time>2006-02-01T01:48:10Z</time>
+      </trkpt>
+      <trkpt lat="41.551508" lon="1.662128">
+        <ele>367.5</ele>
+        <time>2006-01-12T17:02:57Z</time>
+      </trkpt>
+      <trkpt lat="41.551995" lon="1.662939">
+        <ele>367.6</ele>
+        <time>2006-02-01T01:56:30Z</time>
+      </trkpt>
+      <trkpt lat="41.552154" lon="1.662660">
+        <ele>372.0</ele>
+        <time>2006-01-18T20:13:46Z</time>
+      </trkpt>
+      <trkpt lat="41.552549" lon="1.662550">
+        <ele>369.9</ele>
+        <time>2006-02-01T01:59:12Z</time>
+      </trkpt>
+      <trkpt lat="41.552906" lon="1.663046">
+        <ele>370.3</ele>
+        <time>2006-01-18T20:12:15Z</time>
+      </trkpt>
+      <trkpt lat="41.553307" lon="1.663122">
+        <ele>369.3</ele>
+        <time>2006-01-18T20:10:20Z</time>
+      </trkpt>
+      <trkpt lat="41.553536" lon="1.664179">
+        <ele>364.0</ele>
+        <time>2006-01-12T17:05:19Z</time>
+      </trkpt>
+      <trkpt lat="41.553492" lon="1.665097">
+        <ele>364.9</ele>
+        <time>2006-02-01T02:08:58Z</time>
+      </trkpt>
+      <trkpt lat="41.553188" lon="1.665607">
+        <ele>356.8</ele>
+        <time>2006-01-12T17:06:44Z</time>
+      </trkpt>
+      <trkpt lat="41.553450" lon="1.666483">
+        <ele>350.4</ele>
+        <time>2006-02-01T02:13:50Z</time>
+      </trkpt>
+      <trkpt lat="41.553072" lon="1.667665">
+        <ele>347.2</ele>
+        <time>2006-01-12T17:08:00Z</time>
+      </trkpt>
+      <trkpt lat="41.553610" lon="1.667846">
+        <ele>353.6</ele>
+        <time>2006-01-12T17:09:15Z</time>
+      </trkpt>
+      <trkpt lat="41.553675" lon="1.668786">
+        <ele>356.6</ele>
+        <time>2006-01-12T17:10:09Z</time>
+      </trkpt>
+      <trkpt lat="41.553805" lon="1.668712">
+        <ele>361.1</ele>
+        <time>2006-02-01T02:23:53Z</time>
+      </trkpt>
+      <trkpt lat="41.553610" lon="1.670982">
+        <ele>379.3</ele>
+        <time>2006-01-12T17:12:53Z</time>
+      </trkpt>
+      <trkpt lat="41.554214" lon="1.669818">
+        <ele>409.0</ele>
+        <time>2006-01-12T17:18:03Z</time>
+      </trkpt>
+      <trkpt lat="41.554896" lon="1.670386">
+        <ele>423.6</ele>
+        <time>2006-01-12T17:18:53Z</time>
+      </trkpt>
+      <trkpt lat="41.555465" lon="1.670171">
+        <ele>436.1</ele>
+        <time>2006-01-12T17:19:24Z</time>
+      </trkpt>
+      <trkpt lat="41.554930" lon="1.670199">
+        <ele>432.1</ele>
+        <time>2006-01-12T17:20:17Z</time>
+      </trkpt>
+      <trkpt lat="41.554703" lon="1.669718">
+        <ele>442.2</ele>
+        <time>2006-01-12T17:21:43Z</time>
+      </trkpt>
+      <trkpt lat="41.554829" lon="1.669722">
+        <ele>447.9</ele>
+        <time>2006-02-01T02:43:08Z</time>
+      </trkpt>
+      <trkpt lat="41.554575" lon="1.669541">
+        <ele>435.8</ele>
+        <time>2006-01-12T17:27:02Z</time>
+      </trkpt>
+      <trkpt lat="41.555156" lon="1.668720">
+        <ele>433.9</ele>
+        <time>2006-01-12T17:29:37Z</time>
+      </trkpt>
+      <trkpt lat="41.555379" lon="1.667834">
+        <ele>414.9</ele>
+        <time>2006-02-01T02:52:09Z</time>
+      </trkpt>
+      <trkpt lat="41.555365" lon="1.666197">
+        <ele>411.0</ele>
+        <time>2006-01-12T17:31:25Z</time>
+      </trkpt>
+      <trkpt lat="41.555685" lon="1.664698">
+        <ele>416.4</ele>
+        <time>2006-01-12T17:33:10Z</time>
+      </trkpt>
+      <trkpt lat="41.555675" lon="1.663769">
+        <ele>415.9</ele>
+        <time>2006-01-12T17:33:47Z</time>
+      </trkpt>
+      <trkpt lat="41.555295" lon="1.662889">
+        <ele>421.8</ele>
+        <time>2006-01-12T17:37:13Z</time>
+      </trkpt>
+      <trkpt lat="41.555016" lon="1.662907">
+        <ele>415.9</ele>
+        <time>2006-02-01T03:20:26Z</time>
+      </trkpt>
+      <trkpt lat="41.554865" lon="1.662718">
+        <ele>415.4</ele>
+        <time>2006-01-12T17:37:35Z</time>
+      </trkpt>
+      <trkpt lat="41.554322" lon="1.660547">
+        <ele>403.6</ele>
+        <time>2006-01-12T17:39:23Z</time>
+      </trkpt>
+      <trkpt lat="41.554336" lon="1.658982">
+        <ele>403.1</ele>
+        <time>2006-02-01T03:33:09Z</time>
+      </trkpt>
+      <trkpt lat="41.554653" lon="1.657662">
+        <ele>398.9</ele>
+        <time>2006-02-01T03:38:08Z</time>
+      </trkpt>
+      <trkpt lat="41.554544" lon="1.656406">
+        <ele>394.9</ele>
+        <time>2006-01-12T17:42:21Z</time>
+      </trkpt>
+      <trkpt lat="41.554690" lon="1.655389">
+        <ele>398.3</ele>
+        <time>2006-02-01T03:52:07Z</time>
+      </trkpt>
+      <trkpt lat="41.554547" lon="1.654373">
+        <ele>403.1</ele>
+        <time>2006-01-12T17:44:46Z</time>
+      </trkpt>
+      <trkpt lat="41.554667" lon="1.653045">
+        <ele>415.9</ele>
+        <time>2006-02-01T03:55:33Z</time>
+      </trkpt>
+      <trkpt lat="41.554519" lon="1.651981">
+        <ele>418.9</ele>
+        <time>2006-01-12T17:48:19Z</time>
+      </trkpt>
+      <trkpt lat="41.554220" lon="1.651772">
+        <ele>412.5</ele>
+        <time>2006-01-12T17:49:02Z</time>
+      </trkpt>
+      <trkpt lat="41.553738" lon="1.651002">
+        <ele>423.4</ele>
+        <time>2006-01-12T17:53:05Z</time>
+      </trkpt>
+      <trkpt lat="41.553808" lon="1.650078">
+        <ele>424.3</ele>
+        <time>2006-02-01T04:04:00Z</time>
+      </trkpt>
+      <trkpt lat="41.553691" lon="1.649307">
+        <ele>423.9</ele>
+        <time>2006-01-12T17:54:36Z</time>
+      </trkpt>
+      <trkpt lat="41.553842" lon="1.648728">
+        <ele>425.7</ele>
+        <time>2006-02-01T04:08:13Z</time>
+      </trkpt>
+      <trkpt lat="41.553539" lon="1.647481">
+        <ele>429.5</ele>
+        <time>2006-01-12T17:56:18Z</time>
+      </trkpt>
+      <trkpt lat="41.554012" lon="1.646386">
+        <ele>424.4</ele>
+        <time>2006-02-01T04:13:57Z</time>
+      </trkpt>
+      <trkpt lat="41.554231" lon="1.644337">
+        <ele>423.1</ele>
+        <time>2006-01-12T18:00:35Z</time>
+      </trkpt>
+      <trkpt lat="41.553829" lon="1.643866">
+        <ele>431.9</ele>
+        <time>2006-01-12T18:01:19Z</time>
+      </trkpt>
+      <trkpt lat="41.553028" lon="1.641743">
+        <ele>450.0</ele>
+        <time>2006-01-12T18:03:41Z</time>
+      </trkpt>
+      <trkpt lat="41.552964" lon="1.640149">
+        <ele>450.2</ele>
+        <time>2006-01-12T18:04:47Z</time>
+      </trkpt>
+      <trkpt lat="41.552658" lon="1.639071">
+        <ele>454.2</ele>
+        <time>2006-01-12T18:06:04Z</time>
+      </trkpt>
+      <trkpt lat="41.552716" lon="1.637439">
+        <ele>458.4</ele>
+        <time>2006-01-12T18:07:56Z</time>
+      </trkpt>
+      <trkpt lat="41.552234" lon="1.636328">
+        <ele>470.4</ele>
+        <time>2006-01-12T18:10:11Z</time>
+      </trkpt>
+      <trkpt lat="41.551713" lon="1.636435">
+        <ele>456.4</ele>
+        <time>2006-02-01T00:41:12Z</time>
+      </trkpt>
+      <trkpt lat="41.551525" lon="1.636193">
+        <ele>454.7</ele>
+        <time>2006-01-12T18:10:54Z</time>
+      </trkpt>
+      <trkpt lat="41.551448" lon="1.635709">
+        <ele>452.7</ele>
+        <time>2006-01-12T18:11:43Z</time>
+      </trkpt>
+      <trkpt lat="41.550876" lon="1.635019">
+        <ele>446.6</ele>
+        <time>2006-01-12T18:12:37Z</time>
+      </trkpt>
+      <trkpt lat="41.550704" lon="1.633434">
+        <ele>433.5</ele>
+        <time>2006-01-12T18:14:22Z</time>
+      </trkpt>
+      <trkpt lat="41.550343" lon="1.633310">
+        <ele>435.9</ele>
+        <time>2006-02-01T01:09:24Z</time>
+      </trkpt>
+      <trkpt lat="41.550272" lon="1.633102">
+        <ele>438.2</ele>
+        <time>2006-01-12T16:44:52Z</time>
+      </trkpt>
+      <trkpt lat="41.549894" lon="1.631539">
+        <ele>443.2</ele>
+        <time>2006-01-12T16:44:10Z</time>
+      </trkpt>
+      <trkpt lat="41.549548" lon="1.628591">
+        <ele>454.9</ele>
+        <time>2006-01-31T10:20:32Z</time>
+      </trkpt>
+      <trkpt lat="41.549011" lon="1.627421">
+        <ele>460.7</ele>
+        <time>2006-01-12T16:42:10Z</time>
+      </trkpt>
+      <trkpt lat="41.548700" lon="1.625839">
+        <ele>472.0</ele>
+        <time>2006-01-12T16:41:43Z</time>
+      </trkpt>
+      <trkpt lat="41.548065" lon="1.624408">
+        <ele>481.5</ele>
+        <time>2006-01-12T16:40:41Z</time>
+      </trkpt>
+      <trkpt lat="41.548219" lon="1.623308">
+        <ele>473.8</ele>
+        <time>2006-01-12T16:39:41Z</time>
+      </trkpt>
+      <trkpt lat="41.548733" lon="1.621444">
+        <ele>455.2</ele>
+        <time>2006-01-31T02:48:34Z</time>
+      </trkpt>
+      <trkpt lat="41.548680" lon="1.620773">
+        <ele>454.1</ele>
+        <time>2006-01-12T16:38:07Z</time>
+      </trkpt>
+      <trkpt lat="41.547963" lon="1.619596">
+        <ele>435.5</ele>
+        <time>2006-01-12T16:36:39Z</time>
+      </trkpt>
+      <trkpt lat="41.547773" lon="1.617675">
+        <ele>437.3</ele>
+        <time>2006-01-12T16:35:06Z</time>
+      </trkpt>
+      <trkpt lat="41.547197" lon="1.616992">
+        <ele>452.9</ele>
+        <time>2006-01-12T16:34:12Z</time>
+      </trkpt>
+      <trkpt lat="41.546810" lon="1.616245">
+        <ele>459.7</ele>
+        <time>2006-01-12T16:33:29Z</time>
+      </trkpt>
+      <trkpt lat="41.546705" lon="1.614983">
+        <ele>460.5</ele>
+        <time>2006-01-12T16:32:52Z</time>
+      </trkpt>
+      <trkpt lat="41.546288" lon="1.614440">
+        <ele>456.4</ele>
+        <time>2006-01-12T16:32:19Z</time>
+      </trkpt>
+      <trkpt lat="41.546109" lon="1.612993">
+        <ele>454.4</ele>
+        <time>2006-01-31T02:16:08Z</time>
+      </trkpt>
+      <trkpt lat="41.545933" lon="1.612637">
+        <ele>461.2</ele>
+        <time>2006-01-31T02:14:55Z</time>
+      </trkpt>
+      <trkpt lat="41.545526" lon="1.612484">
+        <ele>458.3</ele>
+        <time>2006-01-31T02:13:56Z</time>
+      </trkpt>
+      <trkpt lat="41.545406" lon="1.611863">
+        <ele>451.9</ele>
+        <time>2006-01-12T16:30:37Z</time>
+      </trkpt>
+      <trkpt lat="41.545068" lon="1.611487">
+        <ele>451.1</ele>
+        <time>2006-01-12T16:30:08Z</time>
+      </trkpt>
+      <trkpt lat="41.544929" lon="1.610051">
+        <ele>458.2</ele>
+        <time>2006-01-12T16:29:06Z</time>
+      </trkpt>
+      <trkpt lat="41.545023" lon="1.609282">
+        <ele>457.8</ele>
+        <time>2006-01-12T16:28:37Z</time>
+      </trkpt>
+      <trkpt lat="41.544597" lon="1.608272">
+        <ele>464.6</ele>
+        <time>2006-01-31T02:03:49Z</time>
+      </trkpt>
+      <trkpt lat="41.544453" lon="1.608323">
+        <ele>464.2</ele>
+        <time>2006-01-12T16:27:15Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

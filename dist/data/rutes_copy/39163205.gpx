@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.292242" lon="0.797182">
+    <ele>1046.0</ele>
+    <time>2019-05-01T20:42:38Z</time>
+    <name>La Torre de Tamúrcia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.314111" lon="0.838217">
+    <ele>1820.0</ele>
+    <time>2019-05-01T20:43:18Z</time>
+    <name>L'Avedoga d'Adons</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.315228" lon="0.824690">
+    <ele>1660.0</ele>
+    <time>2019-05-01T20:43:46Z</time>
+    <name>Lo Portús</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.310393" lon="0.815916">
+    <ele>1273.0</ele>
+    <time>2019-05-01T20:44:04Z</time>
+    <name>Sant Gervàs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.306165" lon="0.815325">
+    <ele>1111.0</ele>
+    <time>2019-05-01T20:44:32Z</time>
+    <name>Corriol senyalitzat (GR i Xarxa)</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.292562" lon="0.796291">
+    <ele>1049.0</ele>
+    <time>2019-05-01T20:45:15Z</time>
+    <name>Casal dels Voltors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.299113" lon="0.811997">
+    <ele>957.0</ele>
+    <time>2019-05-01T20:45:52Z</time>
+    <name>Àrea d'Esbarjo del Barranc de Miralles</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.313936" lon="0.835521">
+    <ele>1829.0</ele>
+    <time>2019-05-01T20:50:06Z</time>
+    <name>El Faro d'Avall</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.316864" lon="0.809418">
+    <ele>1888.0</ele>
+    <time>2019-05-01T20:51:38Z</time>
+    <name>Pala del Teller</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.316199" lon="0.821969">
+    <ele>1688.0</ele>
+    <time>2019-05-01T21:00:08Z</time>
+    <name>El Graller del Portús</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.307581" lon="0.813553">
+    <ele>1201.0</ele>
+    <time>2019-07-12T11:12:47Z</time>
+    <name>Corriol senyalitzat (GR i Xarxa)</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.315793" lon="0.826188">
+    <ele>1674.0</ele>
+    <time>2019-07-12T12:52:02Z</time>
+    <name>Bifurcació amb el GR</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.299308" lon="0.812063">
+    <ele>959.0</ele>
+    <time>2019-07-27T12:17:47Z</time>
+    <name>Font de Miralles</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Serra de Sant Gervàs. De la Torre de Tamúrcia a lo Portus i l'Avedoga d'Adons</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; Serra de Sant Gervàs. De la Torre de Tamúrcia a lo Portus i l'Avedoga d'Adons&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífica ascensió al segon cim de la serra de Sant Gervàs i de la comarca natural de la Terreta que inclou el pas d’una escletxa rocosa, lo Portús, a través de la qual s’accedeix al vessant obac de la muntanya. La panoràmica sobre el Pirineu central i sobre la Terreta que s’obté des del cim és impressionant. El recorregut discorre dins de l'espai protegit de la Serra de Sant Gervàs-Terreta-Vall Alta de Serradell, de gran interès geològic, paisatgístic i cultural. La serra s'estén des de la vall de la Noguera Ribagorçana, a occident, fins a la serra del Pui de Lleràs, a orient. Formada de roca calcària, presenta dos vessants completament diferenciats: el septentrional es caracteritza pels pendents suaus mentre que el de migjorn presenta cingles verticals i espectaculars que són un paradís per als rapinyaires i, també, per als escaladors. 
+ 
+Itinerari curt, sense dificultats tècniques però amb punts de pendent pronunciat i un tram d’orientació precària si no s’està avesat a moure’s per la muntanya. Atenció a la forta insolació durant la pujada a causa de l’orientació i configuració del relleu.&lt;/i&gt; 
+Ruta parcialment senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; 
+L’inici del recorregut és a l’espai de la Font de Miralles de la Torre de Tamúrcia, nucli rural de la Terreta pertanyent, com la resta de la vall, al municipi de Tremp, Pallars Jussà, tot i la seva situació tan allunyada de la capital comarcal. Per arribar-hi cal prendre la pista asfaltada que neix en el punt km 103 de la carretera N-230 en el seu tram entre Pont de Montanyana i l’embassament d’Escales. Mig quilòmetre després d’haver passat el poble es pren un camí de terra a l’esquerra, senyalitzat, que du a l’àrea d’esbarjo de la Font de Miralles i a l’ermita de Sant Gervàs. Són 1,4 km fins a la font, amb trams precaris però transitables en automòbil normal. Si es disposa de vehicle mixt o tot terreny es pot començar la ruta al final de la pista, sota Sant Gervàs. 
+ 
+0,00 km (957 m). Àrea d’esbarjo de la Font de Miralles. Un espai privat compartit, curosament cuidat. Ombra, taules, bancs i aigua potable de la font. Es pren la pista que puja en direcció nord cap als espadats de la serra i l’ermita de Sant Gervàs. Un corriol que naixia al trencall de la pista asfaltada i baixava a la font, darrerament en estat precari i embardissat, permetia pujar a l’ermita fent drecera. Si es té constància del seu bon estat, cal anar-lo a cercar o bé abans de baixar a la font, en el trencall de dalt de la pista asfaltada, o bé a llevant de l’àrea d’esbarjo. 
+ 
+1,30 km (1.107 m), 29 min. En el pronunciat revolt a l’esquerra (O) conflueix el corriol esmentat en el paràgraf anterior que, costa amunt, du a l’ermita. L’itinerari que es descriu segueix, però, la pista. 
+ 
+2,21 km (1.201 m), 48 min. Final de la pista, on es retroba el corriol anterior. Senyalització. Es remunten els darrers metres fins a arribar a l’ermita. 
+ 
+2,62 km (1.270 m), 59 min. Sant Gervàs, es continua pujant pel corriolet que se’n va a la dreta just abans de les arcades de l’antiga font, ara seca, que abastia l’ermita i l’antic monestir (enrunat). Primer cap a llevant, després cap al nord, es remunta el serrat de la Cabanera seguint els senyals del GR 3 (marques blanques i vermelles), les marques de la xarxa de camins del Pallars, grogues (aquestes fins al pas del Portús) i les fites de pedra. Després de flanquejar una segona torrentera molt marcada s’arriba al llom del serrat. 
+ 
+3,29 km (1.382 m), 1 h 17 min. Fil del serrat de la Cabanera, en un petit replà que antecedeix la dura pujada que, amb un pendent mitjà de prop del 50%, durà fins a peu de paret. Per estrany que sembli per aquest serrat es conduïen ramats d’ovelles (cabaneres) que feien la transhumància cap a la vall de Manyanet, en ple Pirineu, a través del Portús 
+ 
+3,85 km (1.642 m), 2 h 0 min. S’és a tocar de la paret sud de la serra. El camí gira a llevant i ressegueix horitzontalment la vora rocosa durant uns 250 m. 
+ 
+4,11 km (1.660 m), 2 h 5 min. Lo Portús, escletxa providencial a la roca que permet passar al vessant nord en pocs metres. A l’altra banda, el relleu s’endolceix i baixa suaument en àmplies comes fins al riu d’Adons, ja en la comarca de l’Alta Ribagorça. 
+ 
+Es continua el camí seguint la mateixa direcció que es duia i parant atenció perquè, al cap de 250 m de recorregut cal abandonar-lo i trencar a la dreta (E) en un lloc des d’on es divisa clarament el cim. Tot i que sense cap dificultat especial, aquí el camí es desdibuixa. Fites de pedra i rastres de pas permeten avançar entre mates de boix i ginebró. A poc a poc el prat i l’herba alta van guanyant espai i faciliten el progrés. Comptats 0,7 km des del Portús (1.800 m) es deixa a mà dreta la prominència del Faro d’Avall (1.824 m). 
+ 
+5,28 km (1.839 m), 2 h 35 min. L'Avedoga d'Adons, segona cota de la serra de Sant Gervàs -la més alta és la Pala del Teller, de 1.889 m. Impressionant panoràmica de les valls veïnes de la Terreta i d’Adons i, especialment, sobre el Pirineu que abasta des del Mont Perdut, a ponent, fins a la Pica d’Estats, a llevant. Depenent de l’hora es pot assistir a les espectaculars evolucions dels voltors i de les àguiles que senyoregen l’espai de la contrada. Es retorna al punt inicial desfent el mateix camí. 
+ 
+10,56 km (957 m, 4 h 10 min. Àrea d’esbarjo de la Font de Miralles. Punt i final de l’excursió. 
+ 
+A la Torre de Tamúrcia cal visitar el Casal dels Voltors i, si es pot, assistir la donada de menjar als carronyaires que es fa al canyet de les Collades cada dissabte (demanar informació al Casal).&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Sierra de Sant Gervàs. Desde la Torre de Tamúrcia hasta Lo Portus y l'Avedoga d'Adons&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífica ascensión a la segunda cumbre de la sierra de Sant Gervàs y de la comarca natural de la Terreta que incluye el paso de una rendija rocosa, el Portús, a través de la cual se accede a la vertiente umbría de la montaña. La panorámica sobre el Pirineo central y sobre la Terreta que se obtiene desde la cima es impresionante. El recorrido discurre dentro del espacio protegido de la Serra de Sant Gervàs-Terreta-Vall Alta de Serradell, de gran interés geológico, paisajístico y cultural. La sierra se extiende desde el valle del río Noguera Ribagorçana, en occidente, hasta la sierra del Pui de Lleràs, en oriente. Formada por roca caliza, presenta dos vertientes completamente diferenciadas: la septentrional se caracteriza por las pendientes suaves mientras que el mediodía presenta riscos verticales y espectaculares que son un paraíso para las rapaces y, también, para los escaladores. 
+ 
+Itinerario corto, sin dificultades técnicas pero con puntos de pendiente pronunciada y un tramo de orientación precaria si no se está acostumbrado a moverse por la montaña. Atención a la fuerte insolación durante la subida debido a la orientación y configuración del relieve.&lt;/i&gt; 
+Ruta parcialmente señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El inicio del recorrido se sitúa en el espacio de la Font de Miralles de la Torre de Tamúrcia, núcleo rural de la Terreta perteneciente, como el resto del valle, al municipio de Tremp, Pallars Jussà, a pesar de su situación tan alejada de la capital comarcal. Para llegar hay que tomar la pista asfaltada que nace en el punto km 103 de la carretera N-230 en su tramo entre Pont de Montanyana y el embalse de Escales. Medio kilómetro después de haber pasado el pueblo se toma un camino de tierra a la izquierda, señalizado, que lleva al área de recreo de la Font de Miralles y a la ermita de Sant Gervàs. Son 1,4 km hasta la fuente, con tramos precarios pero transitables en automóvil normal. Si se dispone de vehículo mixto o todo terreno se puede empezar la ruta al final de la pista, bajo Sant Gervàs. 
+ 
+0,00 km (957 m). Área de recreo de la Font de Miralles. Un espacio privado compartido, cuidadosamente cuidado. Sombra, mesas, bancos y agua potable de la fuente. Se toma la pista que sube en dirección norte hacia los acantilados de la sierra y la ermita de Sant Gervàs. Un sendero que nacía en el desvío de la pista asfaltada y bajaba a la fuente, últimamente en estado precario y lleno de maleza, permitía subir a la ermita atajando. Si se tiene constancia de su buen estado, hay que irlo a buscar, o bien antes de bajar a la fuente, en el desvío de arriba de la pista asfaltada, o bien a levante del área de recreo. 
+ 
+1,30 km (1.107 m), 29 min. En la pronunciada curva a la izquierda (O) confluye el sendero citado en el párrafo anterior que, montaña arriba, lleva a la ermita. El itinerario que se describe sigue, sin embargo, la pista. 
+ 
+2,21 km (1.201 m), 48 min. Final de la pista, donde se reencuentra el sendero anterior. Señalización. Se remontan los últimos metros hasta llegar a la ermita. 
+ 
+2,62 km (1.270 m), 59 min. Sant Gervàs, se continúa subiendo por el sendero que se va a la derecha justo antes de las arcadas de la antigua fuente, ahora seca, que abastecía la ermita y el antiguo monasterio (en ruinas). Primero hacia el este, luego hacia el norte, se remonta la loma de la Cabanera siguiendo las señales del GR 3 (marcas blancas y rojas), las marcas de la red de caminos del Pallars, amarillas (estas hasta el paso del Portús) y los hitos de piedra. Tras flanquear una segunda torrentera muy marcada se llega al lomo de la sierra. 
+ 
+3,29 km (1.382 m), 1 h 17 min. Divisoria de la loma de la Cabanera, en un pequeño rellano que antecede la dura subida que, con una pendiente media de cerca del 50%, llevará hasta el pie de la pared. Por extraño que parezca, por esta sierra se conducían rebaños de ovejas (cañada, &lt;i&gt;cabanera&lt;/i&gt; en catalán) que hacían la trashumancia hasta el valle de Manyanet, en pleno Pirineo, a través del Portús 
+ 
+3,85 km (1.642 m), 2 h 0 min. Se está muy cerca de la pared sur de la sierra. El camino gira a levante y ladea horizontalmente la orilla rocosa durante unos 250 m. 
+ 
+4,11 km (1.660 m), 2 h 5 min. El Portús, rendija providencial en la roca que permite pasar a la vertiente norte en pocos metros. Al otro lado, el relieve se endulza y baja suavemente en amplias lomas hasta el río de Adons, ya en la comarca de la Alta Ribagorça. 
+ 
+Se continúa el camino siguiendo la misma dirección que se llevaba y prestando atención porque, al cabo de 250 m de recorrido, hay que abandonarlo y girar a la derecha (E) en un lugar desde donde se divisa claramente la cima. Aunque sin ninguna dificultad especial, aquí el camino se desdibuja. Hitos de piedra y rastros de paso permiten avanzar entre matas de boj y enebro. Poco a poco el prado y la hierba alta van ganando espacio y facilitan el progreso. Contados 0,7 km desde el Portús (1.800 m) se deja a mano derecha la prominencia del Faro d’Avall (1.824 m). 
+ 
+5,28 km (1.839 m), 2 h 35 min. L’Avedoga d’Adons, segunda cota de la sierra de Sant Gervàs -la más alta es la Pala del Teller, de 1.889 m. Impresionante panorámica de los valles vecinos de la Terreta y de Adons y, especialmente, sobre el Pirineo, que abarca desde el Monte Perdido, a poniente, hasta la Pica d'Estats, a levante. Dependiendo de la hora se puede asistir a las espectaculares evoluciones de los buitres y de las águilas que señorean el espacio de la región. Se vuelve al punto inicial deshaciendo el mismo camino. 
+ 
+10,56 km (957 m, 4 h 10 min. Área de recreo de la Font de Miralles. Punto final de la excursión. 
+ 
+En la Torre de Tamúrcia hay que visitar el Casal dels Voltors (“casa de los buitres”) y, si se puede, asistir a la entrega de comida a los carroñeros que se hace en el comedero de las Collades cada sábado (pedir información al Casal).&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.299285" lon="0.812058">
+        <ele>958.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299071" lon="0.812068">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299066" lon="0.811647">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299321" lon="0.811778">
+        <ele>957.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299637" lon="0.812768">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299738" lon="0.812661">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299678" lon="0.812075">
+        <ele>978.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300221" lon="0.812711">
+        <ele>987.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300989" lon="0.812612">
+        <ele>1001.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301480" lon="0.811879">
+        <ele>1010.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301739" lon="0.810602">
+        <ele>1025.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302510" lon="0.812328">
+        <ele>1047.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303233" lon="0.813115">
+        <ele>1061.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303290" lon="0.813756">
+        <ele>1067.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304353" lon="0.814466">
+        <ele>1082.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305762" lon="0.814938">
+        <ele>1103.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306138" lon="0.815326">
+        <ele>1107.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306232" lon="0.815098">
+        <ele>1113.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306105" lon="0.814520">
+        <ele>1118.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305727" lon="0.814285">
+        <ele>1119.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304813" lon="0.813274">
+        <ele>1129.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304329" lon="0.812308">
+        <ele>1125.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305019" lon="0.810446">
+        <ele>1145.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305166" lon="0.810404">
+        <ele>1146.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305490" lon="0.811297">
+        <ele>1157.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306395" lon="0.812763">
+        <ele>1183.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307681" lon="0.813604">
+        <ele>1199.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308651" lon="0.814675">
+        <ele>1223.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309823" lon="0.815223">
+        <ele>1259.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310210" lon="0.815719">
+        <ele>1264.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310318" lon="0.816182">
+        <ele>1262.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310375" lon="0.816083">
+        <ele>1270.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310580" lon="0.816258">
+        <ele>1276.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310618" lon="0.816791">
+        <ele>1288.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310139" lon="0.817426">
+        <ele>1303.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309779" lon="0.818391">
+        <ele>1301.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310080" lon="0.819066">
+        <ele>1313.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310765" lon="0.819594">
+        <ele>1337.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311214" lon="0.819761">
+        <ele>1349.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311305" lon="0.820043">
+        <ele>1353.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311072" lon="0.821258">
+        <ele>1365.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310690" lon="0.822023">
+        <ele>1381.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311252" lon="0.822222">
+        <ele>1395.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311588" lon="0.822126">
+        <ele>1417.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311797" lon="0.822264">
+        <ele>1420.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312468" lon="0.821786">
+        <ele>1467.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312820" lon="0.821855">
+        <ele>1495.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313200" lon="0.821720">
+        <ele>1517.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313287" lon="0.821833">
+        <ele>1524.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313803" lon="0.821706">
+        <ele>1556.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314065" lon="0.821763">
+        <ele>1578.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314119" lon="0.821968">
+        <ele>1579.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314628" lon="0.821756">
+        <ele>1594.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315230" lon="0.821921">
+        <ele>1637.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315312" lon="0.822442">
+        <ele>1641.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315153" lon="0.824481">
+        <ele>1655.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315274" lon="0.825198">
+        <ele>1688.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315723" lon="0.825820">
+        <ele>1679.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315820" lon="0.826678">
+        <ele>1677.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315679" lon="0.828261">
+        <ele>1699.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315334" lon="0.830506">
+        <ele>1734.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315057" lon="0.831310">
+        <ele>1742.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314613" lon="0.835245">
+        <ele>1799.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314397" lon="0.835938">
+        <ele>1809.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314111" lon="0.838223">
+        <ele>1819.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314397" lon="0.835938">
+        <ele>1809.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314613" lon="0.835245">
+        <ele>1799.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315057" lon="0.831310">
+        <ele>1742.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315334" lon="0.830506">
+        <ele>1734.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315679" lon="0.828261">
+        <ele>1699.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315820" lon="0.826678">
+        <ele>1677.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315723" lon="0.825820">
+        <ele>1679.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315274" lon="0.825198">
+        <ele>1688.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315153" lon="0.824481">
+        <ele>1655.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315312" lon="0.822442">
+        <ele>1641.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315230" lon="0.821921">
+        <ele>1637.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314628" lon="0.821756">
+        <ele>1594.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314119" lon="0.821968">
+        <ele>1579.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314065" lon="0.821763">
+        <ele>1578.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313803" lon="0.821706">
+        <ele>1556.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313287" lon="0.821833">
+        <ele>1524.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313200" lon="0.821720">
+        <ele>1517.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312820" lon="0.821855">
+        <ele>1495.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312468" lon="0.821786">
+        <ele>1467.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311797" lon="0.822264">
+        <ele>1420.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311588" lon="0.822126">
+        <ele>1417.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311252" lon="0.822222">
+        <ele>1395.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310690" lon="0.822023">
+        <ele>1381.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311072" lon="0.821258">
+        <ele>1365.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311305" lon="0.820043">
+        <ele>1353.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311214" lon="0.819761">
+        <ele>1349.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310765" lon="0.819594">
+        <ele>1337.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310080" lon="0.819066">
+        <ele>1313.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309779" lon="0.818391">
+        <ele>1301.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310139" lon="0.817426">
+        <ele>1303.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310618" lon="0.816791">
+        <ele>1288.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310580" lon="0.816258">
+        <ele>1276.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310375" lon="0.816083">
+        <ele>1270.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310318" lon="0.816182">
+        <ele>1262.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310210" lon="0.815719">
+        <ele>1264.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309823" lon="0.815223">
+        <ele>1259.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308651" lon="0.814675">
+        <ele>1223.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307681" lon="0.813604">
+        <ele>1199.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306395" lon="0.812763">
+        <ele>1183.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305490" lon="0.811297">
+        <ele>1157.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305166" lon="0.810404">
+        <ele>1146.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305019" lon="0.810446">
+        <ele>1145.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304329" lon="0.812308">
+        <ele>1125.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304813" lon="0.813274">
+        <ele>1129.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305727" lon="0.814285">
+        <ele>1119.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306105" lon="0.814520">
+        <ele>1118.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306232" lon="0.815098">
+        <ele>1113.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306138" lon="0.815326">
+        <ele>1107.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305762" lon="0.814938">
+        <ele>1103.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304353" lon="0.814466">
+        <ele>1082.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303290" lon="0.813756">
+        <ele>1067.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303233" lon="0.813115">
+        <ele>1061.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302510" lon="0.812328">
+        <ele>1047.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301739" lon="0.810602">
+        <ele>1025.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301480" lon="0.811879">
+        <ele>1010.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300989" lon="0.812612">
+        <ele>1001.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300221" lon="0.812711">
+        <ele>987.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299678" lon="0.812075">
+        <ele>978.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299738" lon="0.812661">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299637" lon="0.812768">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299321" lon="0.811778">
+        <ele>957.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299066" lon="0.811647">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299071" lon="0.812068">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299285" lon="0.812058">
+        <ele>959.0</ele>
+        <time>2019-07-30T12:10:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

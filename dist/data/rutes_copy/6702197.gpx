@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.470097" lon="2.220931">
+    <ele>142.0</ele>
+    <time>2014-04-28T12:58:38Z</time>
+    <name>Sant Jeroni de la Murtra</name>
+    <desc>Sant Jeroni de la Murtra</desc>
+  </wpt>
+  <wpt lat="41.532232" lon="2.342019">
+    <ele>418.2</ele>
+    <time>2014-04-28T12:58:40Z</time>
+    <name>Dolmen de la Roca d'en Toni</name>
+    <desc>Dolmen de la Roca d'en Toni</desc>
+  </wpt>
+  <wpt lat="41.489248" lon="2.254253">
+    <ele>235.0</ele>
+    <time>2014-04-28T12:58:41Z</time>
+    <name>Cartoixa de Montalegre</name>
+    <desc>Cartoixa de Montalegre</desc>
+  </wpt>
+  <wpt lat="41.491668" lon="2.253063">
+    <ele>320.0</ele>
+    <time>2014-04-28T12:58:43Z</time>
+    <name>La Conreria</name>
+    <desc>La Conreria</desc>
+  </wpt>
+  <wpt lat="41.531890" lon="2.341621">
+    <ele>423.1</ele>
+    <time>2014-04-28T12:58:44Z</time>
+    <name>Sepulcres</name>
+    <desc>Sepulcres</desc>
+  </wpt>
+  <wpt lat="41.533401" lon="2.445487">
+    <ele>3.4</ele>
+    <time>2014-04-28T12:58:46Z</time>
+    <name>Estació de Rodalies de Mataró</name>
+    <desc>Estació de Rodalies de Mataró</desc>
+  </wpt>
+  <wpt lat="41.459480" lon="2.213590">
+    <ele>58.8</ele>
+    <time>2014-04-28T12:58:47Z</time>
+    <name>Carril Bici</name>
+    <desc>Carril Bici</desc>
+  </wpt>
+  <wpt lat="41.514410" lon="2.288170">
+    <ele>310.0</ele>
+    <time>2014-04-28T12:58:49Z</time>
+    <name>GR92</name>
+    <desc>GR92</desc>
+  </wpt>
+  <wpt lat="41.536693" lon="2.418561">
+    <ele>32.0</ele>
+    <time>2014-04-28T12:58:50Z</time>
+    <name>Torre d'Aigua del Cros</name>
+    <desc>Torre d'Aigua del Cros</desc>
+  </wpt>
+  <wpt lat="41.518776" lon="2.328349">
+    <ele>454.2</ele>
+    <time>2014-04-28T12:58:52Z</time>
+    <name>Font de Sant Mateu</name>
+    <desc>Font de Sant Mateu</desc>
+  </wpt>
+  <wpt lat="41.516867" lon="2.328825">
+    <ele>494.4</ele>
+    <time>2014-04-28T12:58:53Z</time>
+    <name>Sant Mateu</name>
+    <desc>Sant Mateu</desc>
+  </wpt>
+  <wpt lat="41.453798" lon="2.211654">
+    <ele>55.2</ele>
+    <time>2014-04-28T12:58:55Z</time>
+    <name>Metro L9 Can Zam</name>
+    <desc>Metro L9 Can Zam</desc>
+  </wpt>
+  <wpt lat="41.454646" lon="2.212452">
+    <ele>68.0</ele>
+    <time>2014-04-28T12:58:57Z</time>
+    <name>Metro L1 Fondo</name>
+    <desc>Metro L1 Fondo</desc>
+  </wpt>
+  <wpt lat="41.459480" lon="2.213590">
+    <ele>58.8</ele>
+    <time>2014-04-28T12:58:58Z</time>
+    <name>Carril Bici</name>
+    <desc>Carril Bici</desc>
+  </wpt>
+  <wpt lat="41.514410" lon="2.288170">
+    <ele>310.0</ele>
+    <time>2014-04-28T12:59:00Z</time>
+    <name>GR 92</name>
+    <desc>GR 92</desc>
+  </wpt>
+  <wpt lat="41.533120" lon="2.421460">
+    <ele>23.2</ele>
+    <time>2014-04-28T12:59:01Z</time>
+    <name>Pas de Vianants</name>
+    <desc>Pas de Vianants</desc>
+  </wpt>
+  <trk>
+    <name>De Mataró a Santa Coloma de Gramenet per les serralades Litoral i de Marina</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Mataró a Santa Coloma de Gramenet per les serralades Litoral i de Marina&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífica travessa entre Mataró i Santa Coloma de Gramenet d'interès paisatgístic i arquitectònic, de traçat sinuós i perfil abrupte, amb moltes pujades i baixades. El recorregut travessa els parcs de la Serralada Litoral i de la Serralada de Marina per pistes i camins dels termes de Mataró, Argentona, Vilassar de Dalt, Premià de Dalt i Tiana, a la comarca del Maresme, i Badalona i Santa Coloma de Gramenet al Barcelonès. Aquests parcs posen en contacte l'entorn natural del litoral amb el de les valls interiors; alhora, fan el paper de pulmó verd, d'espai educatiu i de lleure d'una extensa àrea metropolitana. Dòlmens, restes ibèriques, ermites, monestirs i castells conviuen amb masies encara envoltades de bosc mentre que, als peus dels vessants, l'urbanisme modern omple de cases espais abans ocupats per vinyes i conreus.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta s'inicia a l'estació de tren de RENFE Rodalies de Mataró, al costat de la seu del Consell Comarcal del Maresme, i acaba al costat de dues estacions de metro de Santa Coloma de Gramenet. 
+ 
+0,00 km (4 m). Estació de tren de Rodalies de Mataró. Pel voral lateral, es pren l'avinguda del Maresme o carretera N-II en direcció a Barcelona (SO). Es passa una rotonda. Més enllà (a 0,50 km de la sortida), es gira a la dreta (NO) i es puja suaument per la ronda del President Irla durant un quilòmetre, es travessa el carrer de Miquel Badia, es passa la plaça d'Occitània i, al km 1,50, es gira a l'esquerra (SO) per la ronda del General O'Donnell. Se surt a la plaça rodona del Batlle Serra i Xifra, des d'on es continua a la dreta (O) per l'avinguda del Camí del Mig. 
+ 
+2,70 km (26 m). Es deixa l'avinguda, es creua la riera d'Argentona per un pont per a vianants i bicicletes i es gira a la dreta (N) per l'avinguda del Camí de les Mateves, vial que discorre entre la riera i el polígon industrial del Cros, on destaca l'esvelta torre d'aigua d'estil modernista del Cros (3,20 km). Més endavant, es creua l'autopista C-32 per sota. 
+ 
+5,10 km (62 m). Rotonda de la carretera B-502, ja a l'entrada d'Argentona. Es tomba per la rotonda cap a l'esquerra (O/NO), se segueix per la carretera i, uns 250 m més enllà, es gira a la dreta (N) per l'avinguda Puig i Cadafalch que, més amunt, ja dins del casc antic d'Argentona, pren el nom de carrer Gran. 
+ 
+5,97 km (84 m). Ajuntament d'Argentona. Es tomba a l'esquerra (O) pel carrer de Ramon Par fins al de Sant Narcís, que també es pren a l'esquerra (S). Es continua pels carrers de les Feixes i del Rocar d'en Serra, que enllaça, fent una forta pujada, amb la pista que es dirigeix directament al coll de Gironella. 
+ 
+7,91 km (290 m). Collet a la carena situat al N del turó del Pujolar (331 m). Bifurcació. Es gira a l'esquerra (SO) i, per l'obac, es baixa a un coll (8,69 km, 292 m) amb vistes sobre Argentona, on desemboca una pista que puja d'aquesta població. Es continua a la dreta seguint sempre per la pista principal, es deixa un trencall a l'esquerra i un altre a la dreta i s'emprèn una forta pujada. S'arriba a un coll situat al N del turó de Matacabres (406 m), on finalitza l'ascensió. Es continua cap al S sempre per la pista principal. 
+ 
+10,87 km (405 m). Coll de Gironella; vint metres a l'esquerra, es veu la carretera que enllaça Cabrils amb la Mútua Metal·lúrgica. Es continua recte cap a ponent, tal com es venia, per la pista ampla i ben compactada que rep el nom de Camí de la Cornisa perquè recorre la serralada de Marina pel fil de la carena fins a Sant Jeroni de la Murtra, ja a Badalona. Es deixen desviacions secundàries a ambdues bandes. 
+ 
+12,06 km (405 m). Can Genís. Es deixa el mas i un trencall posterior a l'esquerra i es continua endavant. 
+ 
+12,72 km (419 m). Coll de Porc. Es continua recte enllà (O) deixant tres desviacions a l'esquerra i, una mica més endavant, dues més a la dreta, per una de les quals ve el sender de gran recorregut GR 92, que se seguirà fins a gairebé Sant Jeroni de la Murtra. El camí discorre entre boscos, conreus i masies. 
+ 
+14,22 km (418 m). Coll de la Roca d'en Toni. Dolmen i tombes prehistòriques de notable interès. Cruïlla de camins entre el Maresme i el Vallès. Es continua cap al S en suau baixada seguint sempre pel camí principal. 
+ 
+16,45 km (435 m). Trencall a Sant Mateu. Es deixa la pista principal i es gira a la dreta (NO). Mig quilòmetre més endavant, es passa pel costat de la font de Sant Mateu. Se surt a la plana de Can Riera, abans d'arribar a la bonica masia que presideix aquesta notable raconada, es tomba a l'esquerra (SO) i, fent drecera, s'accedeix a la continuació de la pista per on s'anava en el tram que uneix la masia amb el turó de Sant Mateu. S'arriba a l'ermita de Sant Mateu (17,72 km, 494 m). Es torna a la pista i, seguint les marques del GR 92 i del Meridià Verd, es gira a l'esquerra (S) i es retorna al Camí de la Cornisa (km 18,35) 750 m més al SO d'on s'havia deixat. Es continua endavant davallant suaument per la pista principal i vorejant les capçaleres de les valls de Teià -on es deixen les marques del Meridià Verd, que baixen cap a la costa- i d'Alella. 
+ 
+22,00 km (273 m). Coll de Font de Cera. Es travessa la carretera BP-5002 d'Alella a Granollers cap a la dreta en direcció a aquesta darrera població. Cent metres més enllà, al mateix coll, es trenca a l'esquerra prenent un camí que ascendeix per un terreny molt erosionat pel costat de la urbanització Alella Park (marques del GR). Se surt al carrer Salvador Espriu de la urbanització i es continua a la dreta, en pujada, fent una llaçada fins a sortir de les cases (cadena i límit del parc), on hi ha una bifurcació. Es gira a la dreta (N) fent una forta i curta pujada fins a retrobar el GR de nou. Es passa per l'obac i, més enllà, se surt de nou a la solana del Maresme. 
+ 
+23,83 km (414 m). Coll de la Font d'en Gurri. El camí passa de nou a l'obaga, es voreja el turó d'en Galceran (485 m) i es continua per la pista que davalla fins al coll de Montalegre. 
+ 
+27,77 km (312 m). Coll de Montalegre, on es creua la carretera B-500; 60 m a l'esquerra per sota del coll, es troba la Cartoixa de Montalegre. Es deixa el GR a l'esquerra, just a l'alçada de l'antic seminari, avui alberg i casa de colònies, se segueix cap a ponent pel Camí dels Castanyers i s'entra a la urbanització de la Conreria. 
+ 
+29,14 km (313 m). Cruïlla. Es tomba a l'esquerra (O) pujant decididament pel carrer de Circumval·lació. Després d'un revolt a l'esquerra (S/SE), es deixa la urbanització, es gira a la dreta (S), es franqueja un cadenat i, entrant dins dels límits del Parc de la Serralada de Marina, es puja al coll de Fra Rafel (29,85 km, 390 m). Es continua cap a ponent deixant una pista que baixa a l'esquerra. Sota el turó de la Coscollada (30,38 km, 437 m), es deixa el seu accés a mà dreta i, per l'esquerra (SO), es descendeix fortament per l'antic Camí de la Carrerada, avui pista forestal. 
+ 
+31,16 km (336 m). Coll de la Malesa. Es continua cap al S/SO, es passa el collet de Vallençana, on es creua la carretera BV-5011 (32,18 km), i, cent-cinquanta metres més endavant, s'accedeix a la bifurcació de Sant Jeroni de la Murtra. Es deixa la pista principal a la dreta i, passant una cadena, es continua en direcció S/SE. 
+ 
+33,97 km (143 m). Sant Jeroni de la Murtra, antic monestir de l'orde dels jerònims d'estil gòtic, fundat el 1416, situat a la vall de Betlem, al municipi de Badalona. Fou declarat monument d'interès nacional l'any 1975. Cal destacar-ne el claustre gòtic. El conjunt històric està vinculat a una època clau de la història del Principat. 
+ 
+Es continua pista enllà cap a ponent. Molt aviat es gira a migdia, en baixada, es creua l'autopista B-20 per sobre del túnel de la Pallaresa (km 35,30, 94 m) i es desemboca al passeig de Circumval·lació de Santa Coloma de Gramenet, que es pren a la dreta (O). Se segueix pel carril bici que hi ha a continuació i s'entra a la ciutat pel carrer de Prat de la Riba. Una mica més avall (36,35 km), es gira a l'esquerra pel carrer de Mossèn Camil Rossell, que se segueix fins a la plaça de Pius XII, presidida per l'esvelta església parroquial de Santa Coloma i on es troba l'estació de metro de Can Zam (línia 9). Es tomba a l'esquerra (NE), mantenint l'església a mà dreta, i s'arriba a la plaça dels Enamorats. 
+ 
+36,85 km (64 m). Plaça dels Enamorats. Estació de metro de Fondo de la línia 1. Fi del recorregut. 
+ 
+&lt;b&gt;L'entorn natural&lt;/b&gt; 
+ 
+El vessant mediterrani del recorregut és majoritàriament silici, de granit, l'alteració química del qual determina un paisatge de formes suaus i arrodonides, moderat, amb pendents que rarament superen els 45 graus. La vegetació de la zona està fortament marcada pels usos agrícoles, actualment centrats en el conreu de la vinya de la Denominació d'Origen Alella. Hi abunda el bosc de pins, blancs o pinyoners, tot i que a prop de les carenes i, especialment, al vessant del Vallès, més ombrívol, es poden trobar alzinars i rouredes, la vegetació autòctona d'aquesta zona, amb un sotabosc espès ric en plantes llenyoses com el marfull i el lligabosc.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Mataró a Santa Coloma de Gramenet por las sierras Litoral y de Marina&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífica travesía entre Mataró y Santa Coloma de Gramenet de interés paisajístico y arquitectónico, de trazado sinuoso y perfil abrupto, con muchas subidas y bajadas. El recorrido atraviesa los parques de la Serralada Litoral y de la Serralada de Marina por pistas y caminos de los términos de Mataró, Argentona, Vilassar de Dalt, Premià de Dalt y Tiana, en la comarca del Maresme, y Badalona y Santa Coloma de Gramenet en el Barcelonès. Estos parques ponen en contacto el entorno natural del litoral con el de los valles interiores; al mismo tiempo, hacen el papel de pulmón verde, de espacio educativo y de ocio de una extensa área metropolitana. Dólmenes, restos ibéricos, ermitas, monasterios y castillos conviven con casas todavía rodeadas de bosque mientras que, a los pies de las laderas, el moderno urbanismo llena de casas espacios antes ocupados por viñas y cultivos.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta se inicia en la estación de tren de RENFE Rodalies de Mataró, junto a la sede del Consell Comarcal del Maresme, y termina junto a dos estaciones de metro de Santa Coloma de Gramenet. 
+ 
+0,00 km (4 m). Estación de Rodalies de Mataró. Por el arcén lateral, se toma la avenida del Maresme o carretera N-II en dirección a Barcelona (SO). Se pasa una rotonda. Más allá (a 0,50 km de la salida) se gira a la derecha (NO), se sube suavemente por la ronda del President Irla durante un kilómetro, se atraviesa la calle de Miquel Badia, se pasa la plaza de Occitània y, en el km 1,50, se gira a la izquierda (SO) por la ronda del General O'Donnell. Se sale a la plaza redonda del Batlle Serra i Cifra, desde donde se continúa a la derecha (O) por la avenida del Camí del Mig. 
+ 
+2,70 km (26 m). Se deja la avenida, se cruza la riera de Argentona por un puente para peatones y bicicletas y se gira a la derecha (N) por la avenida del Camí de les Mateves, vial que discurre entre el arroyo y el polígono industrial del Cros, donde destaca la esbelta torre de agua de estilo modernista del Cros (3,20 km). Más adelante, se cruza la autopista C-32 por debajo. 
+ 
+5,10 km (62 m). Rotonda de la carretera B-502, ya en la entrada de Argentona. Se gira por la rotonda hacia la izquierda (O/NO) siguiendo por la carretera y, unos 250 m más allá, se gira a la derecha (N) por la avenida Puig i Cadafalch que, más arriba, ya dentro del casco antiguo de Argentona, toma el nombre de calle Gran. 
+ 
+5,97 km (84 m). Ayuntamiento de Argentona. Se gira a la izquierda (O) por la calle de Ramon Par hasta la de Sant Narcís, que también se toma a la izquierda (S). Se continúa por las calles de Les Feixes y del Rocar d'en Serra, que enlaza, en una fuerte subida, con la pista que se dirige directamente al collado de Gironella. 
+ 
+7,91 km (290 m). Collado situado al N de la colina del Pujolar (331 m). Bifurcación. Se gira a la izquierda (SO) y, por la umbría, se baja a un collado (8,69 km, 292 m) con vistas sobre Argentona, donde desemboca una pista que sube de esta población. Se continúa a la derecha siguiendo siempre por la pista principal, se deja un desvío a la izquierda y otro a la derecha y se emprende una fuerte subida. Se llega a un collado situado al N de la colina de Matacabres (406 m), donde finaliza la ascensión. Se continúa hacia el S siempre por la pista principal. 
+ 
+10,87 km (405 m). Collado de Gironella; veinte metros a la izquierda, se ve la carretera que enlaza Cabrils con la Mútua Metal·lúrgica. Se sigue recto hacia poniente, tal como se venía, por la pista ancha y bien compactada que recibe el nombre de Camí de la Cornisa porque recorre la sierra de Marina por el cordal hasta Sant Jeroni de la Murtra, ya en Badalona. Se dejan desvíos secundarios a ambos lados. 
+ 
+12,06 km (405 m). Can Genís. Se deja la masía y un desvío posterior a la izquierda y se sigue adelante. 
+ 
+12,72 km (419 m). Collado de Porc. Se sigue recto (O) dejando tres desvíos a la izquierda y, un poco más adelante, dos más a la derecha, por uno de los cuales viene el sendero de gran recorrido GR 92, que se seguirá hasta casi llegar a Sant Jeroni de la Murtra. El camino discurre entre bosques, cultivos y masías. 
+ 
+14,22 km (418 m). Collado de la Roca d'en Toni. Dolmen y tumbas prehistóricas de notable interés. Cruce de caminos entre el Maresme y el Vallès. Se continúa hacia el S en suave bajada siguiendo siempre por el camino principal. 
+ 
+16,45 km (435 m). Desvío a Sant Mateu. Se deja la pista principal y se gira a la derecha (NO). Medio kilómetro más adelante, se pasa junto a la fuente de Sant Mateu, se sale a la llanura de Can Riera, antes de llegar a la bonita masía que preside este notable rincón, se gira a la izquierda (SO) y, tomando un atajo, se accede a la continuación de la pista por donde se iba, en el tramo que une la masía con el cerro de Sant Mateu. Se llega a la ermita de Sant Mateu (17,72 km, 494 m). Se vuelve a la pista y, siguiendo las marcas del GR 92 y del Meridià Verd, se gira a la izquierda (S) y se vuelve al Camí de la Cornisa (km 18,35), 750 m más al SO de donde se había dejado. Se sigue adelante descendiendo suavemente por la pista principal y bordeando las cabeceras de los valles de Teià -donde se dejan las marcas del Meridià Verd, que bajan hacia la costa- y de Alella. 
+ 
+22,00 km (273 m). Collado de Font de Cera. Se cruza la carretera BP-5002 de Alella a Granollers hacia la derecha en dirección a esta última población. Cien metros más allá, en el mismo collado, se gira a la izquierda tomando un camino que asciende por un terreno muy erosionado por el lado de la urbanización Alella Park (marcas del GR). Se sale a la calle Salvador Espriu de la urbanización y se continúa a la derecha, en subida, haciendo una vuelta hasta salir de las casas (cadena y límite del parque), donde hay una bifurcación. Se gira a la derecha (N) haciendo una fuerte y corta subida hasta reencontrar el GR. Se pasa por la umbría y, más allá, se sale de nuevo a la solana del Maresme. 
+ 
+23,83 km (414 m). Collado de la Font d'en Gurri. El camino se adentra de nuevo en la umbría, se bordea el cerro de Galceran (485 m) y se continúa por la pista que desciende hasta el collado de Montalegre. 
+ 
+27,77 km (312 m). Collado de Montalegre, donde se cruza la carretera B-500; 60 m a la izquierda por debajo del collado, se encuentra la Cartoixa de Montalegre. Se deja el GR a la izquierda, justo a la altura del antiguo seminario, hoy albergue y casa de colonias, y se sigue hacia poniente por el Camí dels Castanyers entrando en la urbanización de la Conreria. 
+ 
+29,14 km (313 m). Cruce. Se gira a la izquierda (O) subiendo decididamente por la calle de Circumval·lació. Después de una curva a la izquierda (S/SE), se deja la urbanización, se gira a la derecha (S), se franquea un candado y, entrando dentro de los límites del Parque de la Serralada de Marina, se sube al collado de Fra Rafel (29,85 km, 390 m). Se continúa hacia poniente dejando una pista que baja a la izquierda. Bajo el cerro de la Coscollada (30,38 km, 437 m), se deja su acceso a mano derecha y se baja fuertemente por la izquierda (SO) por el antiguo camino de la Carrerada, hoy pista forestal. 
+ 
+31,16 km (336 m). Collado de la Malesa. Se continúa hacia el S/SO, se pasa el collado de Vallençana, donde se cruza la carretera BV-5011 (32,18 km) y, ciento cincuenta metros más adelante, se llega a la bifurcación de Sant Jeroni de la Murtra. Se deja la pista principal a la derecha y, pasando una cadena, se continúa hacia el S/SE. 
+ 
+33,97 km (143 m). Sant Jeroni de la Murtra, antiguo monasterio de la orden de los jerónimos de estilo gótico, fundado en 1416, situado en el valle de Betlem, en el municipio de Badalona. Fue declarado monumento de interés nacional en 1975. Cabe destacar el claustro gótico. El conjunto histórico está vinculado a una época clave de la historia del Principado. 
+ 
+Se continúa por la pista hacia el O. Muy pronto se gira al S, en bajada, se cruza la autopista B-20 por encima del túnel de la Pallaresa (km 35,30, 94 m) y se desemboca en el paseo de la Circumval·lació de Santa Coloma de Gramenet, que se toma a la derecha (O). Se sigue por el carril bici que hay a continuación y se entra en la ciudad por la calle de Prat de la Riba. Un poco más abajo (36,35 km), se gira a la izquierda por la calle de Mossèn Camil Rossell, que se sigue hasta la plaza de Pius XII, presidida por la esbelta iglesia parroquial de Santa Coloma y donde se encuentra la estación de metro de Can Zam (línea 9). Se gira a la izquierda (NE), manteniendo la iglesia a mano derecha, y se llega a la plaza de Els Enamorats. 
+ 
+36,85 km (64 m). Plaza de Els Enamorats. Estación de metro de Fondo de la línea 1. Fin del recorrido. 
+ 
+&lt;b&gt;El entorno natural&lt;/b&gt; 
+ 
+La vertiente mediterránea del recorrido es mayoritariamente silicio, de granito, la alteración química del cual determina un paisaje de formas suaves y redondeadas, moderado, con pendientes que raramente superan los 45 grados. La vegetación de la zona está fuertemente marcada por los usos agrícolas, actualmente centrados en el cultivo de la viña de la Denominación de Origen Alella. Abunda el bosque de pino, blanco o piñonero, aunque cerca de los cordales y, especialmente, en la vertiente del Vallès, más sombría, se pueden encontrar encinares y robledales, la vegetación autóctona de esta zona, con un sotobosque espeso rico en plantas leñosas como el durillo y la madreselva.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/12/12 &lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.533511" lon="2.445281">
+        <ele>4.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532169" lon="2.443471">
+        <ele>4.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532100" lon="2.443088">
+        <ele>5.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531874" lon="2.442940">
+        <ele>5.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531528" lon="2.442140">
+        <ele>5.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531159" lon="2.440519">
+        <ele>6.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536952" lon="2.433342">
+        <ele>27.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.538192" lon="2.432780">
+        <ele>33.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.538273" lon="2.432629">
+        <ele>34.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.537503" lon="2.431743">
+        <ele>30.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536797" lon="2.431215">
+        <ele>30.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536768" lon="2.430784">
+        <ele>29.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536461" lon="2.430583">
+        <ele>30.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.536006" lon="2.427865">
+        <ele>33.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535660" lon="2.427173">
+        <ele>33.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534994" lon="2.426363">
+        <ele>34.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533659" lon="2.423330">
+        <ele>28.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533376" lon="2.422613">
+        <ele>29.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.533084" lon="2.420985">
+        <ele>24.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.534830" lon="2.420550">
+        <ele>27.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.539513" lon="2.417619">
+        <ele>34.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542997" lon="2.415199">
+        <ele>41.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543925" lon="2.414333">
+        <ele>40.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545309" lon="2.411952">
+        <ele>46.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.546096" lon="2.411022">
+        <ele>47.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.547294" lon="2.410238">
+        <ele>49.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549990" lon="2.409080">
+        <ele>53.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.550276" lon="2.408706">
+        <ele>58.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.550895" lon="2.407249">
+        <ele>60.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551092" lon="2.407092">
+        <ele>61.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551502" lon="2.407100">
+        <ele>61.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551536" lon="2.406806">
+        <ele>62.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551274" lon="2.406526">
+        <ele>62.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551206" lon="2.406220">
+        <ele>61.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551822" lon="2.404639">
+        <ele>69.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.553317" lon="2.404048">
+        <ele>71.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.553816" lon="2.403703">
+        <ele>72.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554767" lon="2.401254">
+        <ele>81.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555565" lon="2.400528">
+        <ele>84.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555582" lon="2.399514">
+        <ele>93.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554891" lon="2.399011">
+        <ele>92.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554258" lon="2.396918">
+        <ele>103.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554367" lon="2.396222">
+        <ele>113.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554262" lon="2.395756">
+        <ele>119.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554557" lon="2.395327">
+        <ele>128.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554668" lon="2.394313">
+        <ele>137.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554799" lon="2.394246">
+        <ele>142.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555092" lon="2.394399">
+        <ele>146.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555182" lon="2.394302">
+        <ele>148.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555087" lon="2.393506">
+        <ele>156.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555590" lon="2.392374">
+        <ele>169.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555088" lon="2.390994">
+        <ele>187.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555692" lon="2.391102">
+        <ele>197.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555830" lon="2.390933">
+        <ele>199.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555789" lon="2.390766">
+        <ele>201.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555206" lon="2.390352">
+        <ele>210.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555182" lon="2.390124">
+        <ele>212.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555984" lon="2.390266">
+        <ele>224.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.556087" lon="2.390074">
+        <ele>228.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555273" lon="2.389488">
+        <ele>238.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554849" lon="2.388473">
+        <ele>246.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554369" lon="2.388034">
+        <ele>256.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554355" lon="2.387854">
+        <ele>257.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554571" lon="2.387768">
+        <ele>259.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555781" lon="2.388422">
+        <ele>271.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.557104" lon="2.388266">
+        <ele>277.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.557336" lon="2.387880">
+        <ele>290.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555907" lon="2.385933">
+        <ele>276.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555650" lon="2.385838">
+        <ele>279.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.555326" lon="2.385926">
+        <ele>287.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.554134" lon="2.385236">
+        <ele>297.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.553187" lon="2.385010">
+        <ele>303.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.552406" lon="2.384628">
+        <ele>296.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551513" lon="2.383647">
+        <ele>291.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551459" lon="2.382732">
+        <ele>297.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.551013" lon="2.381807">
+        <ele>305.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.550574" lon="2.381356">
+        <ele>311.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.550212" lon="2.381143">
+        <ele>313.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549137" lon="2.381243">
+        <ele>320.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.548830" lon="2.381114">
+        <ele>323.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.548746" lon="2.380618">
+        <ele>329.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549465" lon="2.380275">
+        <ele>336.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549646" lon="2.379668">
+        <ele>343.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549550" lon="2.379327">
+        <ele>345.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.549007" lon="2.378805">
+        <ele>350.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.548592" lon="2.378671">
+        <ele>354.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.546780" lon="2.379246">
+        <ele>359.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545954" lon="2.378804">
+        <ele>363.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545342" lon="2.376484">
+        <ele>375.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544898" lon="2.376003">
+        <ele>379.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544432" lon="2.374953">
+        <ele>385.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543075" lon="2.373024">
+        <ele>388.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542438" lon="2.371819">
+        <ele>393.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542335" lon="2.371107">
+        <ele>391.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543114" lon="2.370140">
+        <ele>391.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543389" lon="2.369479">
+        <ele>391.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543336" lon="2.368784">
+        <ele>395.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543557" lon="2.367984">
+        <ele>403.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543684" lon="2.366635">
+        <ele>414.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544446" lon="2.365914">
+        <ele>407.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545283" lon="2.365810">
+        <ele>408.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545609" lon="2.365333">
+        <ele>409.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545700" lon="2.364679">
+        <ele>412.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.545360" lon="2.363531">
+        <ele>415.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544264" lon="2.363191">
+        <ele>419.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544267" lon="2.362814">
+        <ele>420.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544700" lon="2.362147">
+        <ele>421.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.544765" lon="2.361706">
+        <ele>420.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543824" lon="2.360996">
+        <ele>419.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543793" lon="2.360136">
+        <ele>412.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.543269" lon="2.359968">
+        <ele>404.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542983" lon="2.359631">
+        <ele>405.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542720" lon="2.358355">
+        <ele>404.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542470" lon="2.357962">
+        <ele>402.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.542497" lon="2.357206">
+        <ele>402.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541430" lon="2.354695">
+        <ele>416.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541265" lon="2.352970">
+        <ele>425.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541008" lon="2.352110">
+        <ele>423.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541273" lon="2.351082">
+        <ele>418.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541715" lon="2.350430">
+        <ele>418.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541553" lon="2.349563">
+        <ele>412.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541666" lon="2.348860">
+        <ele>411.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.541528" lon="2.348490">
+        <ele>411.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.540890" lon="2.347903">
+        <ele>416.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.540123" lon="2.347713">
+        <ele>422.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.539301" lon="2.347254">
+        <ele>432.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.538523" lon="2.345973">
+        <ele>438.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.535371" lon="2.343056">
+        <ele>438.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532955" lon="2.342751">
+        <ele>428.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532187" lon="2.342315">
+        <ele>418.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.531922" lon="2.341713">
+        <ele>421.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532085" lon="2.341879">
+        <ele>420.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.532047" lon="2.342251">
+        <ele>418.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.530854" lon="2.342305">
+        <ele>413.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527768" lon="2.340005">
+        <ele>381.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.527163" lon="2.339718">
+        <ele>370.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526614" lon="2.339729">
+        <ele>364.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.526200" lon="2.339913">
+        <ele>362.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525851" lon="2.340288">
+        <ele>359.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525671" lon="2.340254">
+        <ele>360.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.525158" lon="2.339642">
+        <ele>365.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.524177" lon="2.339077">
+        <ele>373.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523912" lon="2.338403">
+        <ele>376.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523477" lon="2.337988">
+        <ele>379.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523393" lon="2.337437">
+        <ele>381.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.523166" lon="2.337044">
+        <ele>387.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.522278" lon="2.337041">
+        <ele>389.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519979" lon="2.337769">
+        <ele>407.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518520" lon="2.337646">
+        <ele>413.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518028" lon="2.336794">
+        <ele>417.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517823" lon="2.334705">
+        <ele>426.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517373" lon="2.333157">
+        <ele>433.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517798" lon="2.332014">
+        <ele>437.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518305" lon="2.331721">
+        <ele>443.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518859" lon="2.331722">
+        <ele>451.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518948" lon="2.331559">
+        <ele>453.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.519101" lon="2.330677">
+        <ele>453.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518667" lon="2.329693">
+        <ele>453.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.518653" lon="2.327985">
+        <ele>459.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517788" lon="2.327694">
+        <ele>465.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517183" lon="2.327024">
+        <ele>470.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516935" lon="2.326924">
+        <ele>471.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516919" lon="2.326607">
+        <ele>472.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517244" lon="2.325998">
+        <ele>475.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516935" lon="2.325432">
+        <ele>484.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516303" lon="2.325900">
+        <ele>484.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515925" lon="2.326749">
+        <ele>487.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516261" lon="2.328040">
+        <ele>493.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516693" lon="2.328676">
+        <ele>494.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516261" lon="2.328040">
+        <ele>493.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515935" lon="2.326899">
+        <ele>488.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516298" lon="2.325864">
+        <ele>484.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515928" lon="2.325688">
+        <ele>480.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515415" lon="2.325796">
+        <ele>477.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514597" lon="2.325301">
+        <ele>467.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513783" lon="2.326083">
+        <ele>450.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513663" lon="2.326377">
+        <ele>447.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513483" lon="2.326421">
+        <ele>446.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512695" lon="2.325632">
+        <ele>439.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512370" lon="2.324018">
+        <ele>431.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513087" lon="2.323411">
+        <ele>425.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514094" lon="2.323149">
+        <ele>417.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513858" lon="2.322061">
+        <ele>413.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514265" lon="2.321626">
+        <ele>411.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514990" lon="2.321612">
+        <ele>405.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515436" lon="2.320193">
+        <ele>393.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516212" lon="2.319574">
+        <ele>385.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516518" lon="2.318804">
+        <ele>378.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516406" lon="2.317469">
+        <ele>369.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517209" lon="2.316850">
+        <ele>357.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517523" lon="2.316008">
+        <ele>350.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.517267" lon="2.315387">
+        <ele>352.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516199" lon="2.315171">
+        <ele>344.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515936" lon="2.314928">
+        <ele>344.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515937" lon="2.313466">
+        <ele>336.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515655" lon="2.311244">
+        <ele>328.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.516016" lon="2.309736">
+        <ele>318.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515999" lon="2.309185">
+        <ele>316.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515104" lon="2.308655">
+        <ele>321.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514641" lon="2.308127">
+        <ele>323.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513800" lon="2.307651">
+        <ele>331.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513224" lon="2.306956">
+        <ele>332.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513639" lon="2.305519">
+        <ele>324.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514495" lon="2.304018">
+        <ele>319.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514624" lon="2.302279">
+        <ele>317.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514057" lon="2.300889">
+        <ele>312.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512646" lon="2.295560">
+        <ele>289.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513353" lon="2.294749">
+        <ele>281.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513936" lon="2.294323">
+        <ele>276.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514691" lon="2.293272">
+        <ele>276.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514511" lon="2.292543">
+        <ele>292.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514793" lon="2.290857">
+        <ele>314.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514437" lon="2.290034">
+        <ele>317.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514196" lon="2.288958">
+        <ele>307.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514461" lon="2.288104">
+        <ele>311.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514439" lon="2.286744">
+        <ele>324.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514804" lon="2.286147">
+        <ele>335.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513999" lon="2.284046">
+        <ele>354.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514677" lon="2.284446">
+        <ele>369.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515060" lon="2.285257">
+        <ele>369.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515209" lon="2.285327">
+        <ele>370.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515416" lon="2.285181">
+        <ele>374.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515467" lon="2.284797">
+        <ele>381.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514997" lon="2.283784">
+        <ele>390.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515448" lon="2.282359">
+        <ele>404.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.515455" lon="2.281418">
+        <ele>411.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514747" lon="2.281192">
+        <ele>412.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.514402" lon="2.280189">
+        <ele>413.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513079" lon="2.279593">
+        <ele>414.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512895" lon="2.279061">
+        <ele>416.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512614" lon="2.278777">
+        <ele>421.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512439" lon="2.276748">
+        <ele>432.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512831" lon="2.275945">
+        <ele>437.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512885" lon="2.275268">
+        <ele>436.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513247" lon="2.274820">
+        <ele>432.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513339" lon="2.273651">
+        <ele>432.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.513233" lon="2.273239">
+        <ele>431.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512599" lon="2.272790">
+        <ele>426.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.512348" lon="2.272200">
+        <ele>429.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.511464" lon="2.272156">
+        <ele>433.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510696" lon="2.271787">
+        <ele>437.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.510101" lon="2.271063">
+        <ele>439.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509808" lon="2.270916">
+        <ele>440.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509693" lon="2.270615">
+        <ele>442.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509386" lon="2.270522">
+        <ele>446.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509172" lon="2.270117">
+        <ele>451.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509397" lon="2.269288">
+        <ele>458.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.509312" lon="2.268756">
+        <ele>458.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.508467" lon="2.268280">
+        <ele>457.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507488" lon="2.267961">
+        <ele>463.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.507137" lon="2.267288">
+        <ele>460.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.506587" lon="2.267157">
+        <ele>461.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.506093" lon="2.266731">
+        <ele>460.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.505228" lon="2.266615">
+        <ele>464.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.504633" lon="2.265879">
+        <ele>461.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.504109" lon="2.264896">
+        <ele>452.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.504016" lon="2.264430">
+        <ele>447.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.502675" lon="2.263151">
+        <ele>424.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501832" lon="2.263107">
+        <ele>409.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501000" lon="2.262559">
+        <ele>395.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500911" lon="2.262764">
+        <ele>391.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.501466" lon="2.263644">
+        <ele>386.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500919" lon="2.263261">
+        <ele>378.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500608" lon="2.263216">
+        <ele>374.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.500406" lon="2.262602">
+        <ele>369.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499590" lon="2.261545">
+        <ele>358.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499103" lon="2.260094">
+        <ele>352.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498261" lon="2.259463">
+        <ele>345.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497305" lon="2.259252">
+        <ele>341.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496299" lon="2.257473">
+        <ele>339.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495409" lon="2.256327">
+        <ele>335.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495110" lon="2.256186">
+        <ele>336.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494580" lon="2.256235">
+        <ele>334.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493871" lon="2.255949">
+        <ele>332.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491994" lon="2.254006">
+        <ele>312.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492288" lon="2.253559">
+        <ele>312.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492424" lon="2.252917">
+        <ele>317.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492044" lon="2.252124">
+        <ele>319.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492041" lon="2.251597">
+        <ele>317.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491634" lon="2.249907">
+        <ele>306.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491549" lon="2.248626">
+        <ele>305.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491656" lon="2.248523">
+        <ele>305.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492148" lon="2.248625">
+        <ele>307.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492822" lon="2.249078">
+        <ele>307.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493184" lon="2.248727">
+        <ele>305.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493202" lon="2.248020">
+        <ele>302.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492423" lon="2.246579">
+        <ele>308.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492376" lon="2.246262">
+        <ele>306.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492698" lon="2.246061">
+        <ele>308.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493009" lon="2.245320">
+        <ele>312.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492818" lon="2.244376">
+        <ele>318.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492885" lon="2.243561">
+        <ele>316.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493263" lon="2.243479">
+        <ele>316.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493525" lon="2.243003">
+        <ele>314.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494211" lon="2.243132">
+        <ele>313.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493753" lon="2.241430">
+        <ele>336.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492348" lon="2.238596">
+        <ele>355.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492430" lon="2.238157">
+        <ele>359.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492295" lon="2.237482">
+        <ele>365.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491843" lon="2.238536">
+        <ele>380.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491328" lon="2.238356">
+        <ele>390.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491306" lon="2.237062">
+        <ele>397.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491736" lon="2.236620">
+        <ele>407.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491638" lon="2.236196">
+        <ele>414.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492081" lon="2.234999">
+        <ele>426.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492149" lon="2.233800">
+        <ele>422.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492478" lon="2.233107">
+        <ele>429.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492417" lon="2.232772">
+        <ele>436.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492196" lon="2.232691">
+        <ele>435.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491662" lon="2.231589">
+        <ele>423.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491761" lon="2.230995">
+        <ele>418.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491537" lon="2.230453">
+        <ele>409.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490279" lon="2.228944">
+        <ele>382.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488894" lon="2.227828">
+        <ele>357.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488632" lon="2.227736">
+        <ele>350.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488211" lon="2.228058">
+        <ele>347.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487533" lon="2.227683">
+        <ele>336.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486898" lon="2.226403">
+        <ele>324.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486387" lon="2.225954">
+        <ele>320.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485738" lon="2.225878">
+        <ele>324.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485011" lon="2.225258">
+        <ele>319.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484602" lon="2.224430">
+        <ele>307.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483615" lon="2.223579">
+        <ele>283.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483134" lon="2.223657">
+        <ele>281.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482498" lon="2.223449">
+        <ele>277.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481723" lon="2.223464">
+        <ele>270.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480416" lon="2.223875">
+        <ele>250.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479406" lon="2.223689">
+        <ele>238.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478845" lon="2.224132">
+        <ele>236.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478229" lon="2.224331">
+        <ele>234.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476508" lon="2.226274">
+        <ele>209.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475746" lon="2.226157">
+        <ele>204.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475866" lon="2.225305">
+        <ele>196.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475768" lon="2.224115">
+        <ele>192.5</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474874" lon="2.223784">
+        <ele>188.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474543" lon="2.223477">
+        <ele>184.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473836" lon="2.223539">
+        <ele>178.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473212" lon="2.223900">
+        <ele>177.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.472129" lon="2.224212">
+        <ele>166.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471374" lon="2.225095">
+        <ele>151.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471014" lon="2.223261">
+        <ele>141.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471352" lon="2.223064">
+        <ele>138.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471777" lon="2.222103">
+        <ele>134.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471374" lon="2.221784">
+        <ele>135.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470922" lon="2.221659">
+        <ele>135.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470459" lon="2.221202">
+        <ele>141.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470071" lon="2.220273">
+        <ele>144.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469911" lon="2.220240">
+        <ele>142.6</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470030" lon="2.219663">
+        <ele>143.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469871" lon="2.218826">
+        <ele>146.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468972" lon="2.219184">
+        <ele>141.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468625" lon="2.220482">
+        <ele>136.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467967" lon="2.221118">
+        <ele>134.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467718" lon="2.221558">
+        <ele>132.1</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466885" lon="2.222275">
+        <ele>129.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466677" lon="2.222247">
+        <ele>128.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466087" lon="2.221590">
+        <ele>125.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465246" lon="2.221660">
+        <ele>120.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464462" lon="2.220340">
+        <ele>112.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463726" lon="2.220074">
+        <ele>107.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463567" lon="2.218597">
+        <ele>100.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462926" lon="2.217647">
+        <ele>94.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462573" lon="2.217567">
+        <ele>93.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462000" lon="2.217963">
+        <ele>90.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461665" lon="2.217793">
+        <ele>89.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461304" lon="2.216990">
+        <ele>90.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461214" lon="2.216428">
+        <ele>83.8</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459985" lon="2.214533">
+        <ele>64.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459236" lon="2.212991">
+        <ele>54.0</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.457392" lon="2.210778">
+        <ele>49.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.456340" lon="2.209174">
+        <ele>39.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.455612" lon="2.209452">
+        <ele>40.3</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.453712" lon="2.211535">
+        <ele>53.2</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454276" lon="2.212318">
+        <ele>63.9</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454584" lon="2.212536">
+        <ele>68.4</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.454641" lon="2.212386">
+        <ele>67.7</ele>
+        <time>2012-06-29T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

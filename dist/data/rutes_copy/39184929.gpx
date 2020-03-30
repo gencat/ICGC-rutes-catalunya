@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.253797" lon="1.030995">
+    <ele>968.0</ele>
+    <time>2017-01-08T19:27:47Z</time>
+    <name>Refugi de la Mussara</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.252430" lon="1.028243">
+    <ele>981.2</ele>
+    <time>2017-01-08T19:27:47Z</time>
+    <name>Sant Salvador de la Mussara</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.251306" lon="1.028617">
+    <ele>989.1</ele>
+    <time>2017-01-08T19:27:49Z</time>
+    <name>Mirador de la Mussara</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.251464" lon="1.028666">
+    <ele>992.1</ele>
+    <time>2017-01-08T19:27:49Z</time>
+    <name>Xalet de les Airasses</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.252110" lon="1.027960">
+    <ele>979.9</ele>
+    <time>2017-01-08T19:27:49Z</time>
+    <name>La Bassa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.253966" lon="1.024585">
+    <ele>946.1</ele>
+    <time>2017-01-08T19:27:50Z</time>
+    <name>Cisterna</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.254750" lon="1.024061">
+    <ele>937.0</ele>
+    <time>2017-01-08T19:27:50Z</time>
+    <name>Indicador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.260485" lon="1.018973">
+    <ele>990.0</ele>
+    <time>2017-01-08T19:27:50Z</time>
+    <name>GR 7. Pla de l'Agustenc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.263341" lon="0.991726">
+    <ele>972.0</ele>
+    <time>2017-01-08T19:27:54Z</time>
+    <name>GR 7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.262077" lon="0.986611">
+    <ele>940.0</ele>
+    <time>2017-01-08T19:27:54Z</time>
+    <name>Tartera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.261616" lon="0.983552">
+    <ele>841.9</ele>
+    <time>2017-01-08T19:27:55Z</time>
+    <name>Al Mas dels Frares</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.259673" lon="0.975975">
+    <ele>705.0</ele>
+    <time>2017-01-08T19:27:58Z</time>
+    <name>Gorgs de la Febro</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.265857" lon="0.974519">
+    <ele>608.1</ele>
+    <time>2017-01-08T19:28:01Z</time>
+    <name>La Gorguina</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.264947" lon="0.960476">
+    <ele>538.9</ele>
+    <time>2017-01-08T19:28:01Z</time>
+    <name>Aiguabarreig. Molí de l'Esquirola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.263876" lon="0.963308">
+    <ele>551.1</ele>
+    <time>2017-01-08T19:28:02Z</time>
+    <name>PR C-7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.273088" lon="0.984681">
+    <ele>673.9</ele>
+    <time>2017-01-08T19:28:08Z</time>
+    <name>Als Masos de Galzeran i PR C-87</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.277458" lon="0.999366">
+    <ele>714.1</ele>
+    <time>2017-01-08T19:28:10Z</time>
+    <name>PR C-6</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.277384" lon="1.004173">
+    <ele>751.0</ele>
+    <time>2017-01-08T19:28:10Z</time>
+    <name>La Febró</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.273951" lon="1.016377">
+    <ele>805.0</ele>
+    <time>2017-01-08T19:28:12Z</time>
+    <name>PR C-87</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.275596" lon="1.008627">
+    <ele>751.0</ele>
+    <time>2017-01-08T19:28:12Z</time>
+    <name>Font del Pubill</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.266049" lon="1.016327">
+    <ele>982.1</ele>
+    <time>2017-01-08T19:28:13Z</time>
+    <name>Avencs de la Febró</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.266857" lon="1.016488">
+    <ele>976.9</ele>
+    <time>2017-01-08T19:28:14Z</time>
+    <name>Accés als avencs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.265772" lon="1.016307">
+    <ele>986.9</ele>
+    <time>2017-01-08T19:28:14Z</time>
+    <name>Galeria</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.256684" lon="1.027368">
+    <ele>954.9</ele>
+    <time>2017-01-08T19:28:14Z</time>
+    <name>Font del Prat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.270455" lon="1.013651">
+    <ele>846.1</ele>
+    <time>2017-07-20T08:17:20Z</time>
+    <name>Grau dels Avencs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.267919" lon="1.016184">
+    <ele>954.0</ele>
+    <time>2017-07-20T08:32:50Z</time>
+    <name>Grau dels Avencs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.264955" lon="1.016086">
+    <ele>989.1</ele>
+    <time>2017-07-20T09:02:59Z</time>
+    <name>Escala adossada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.257598" lon="1.025812">
+    <ele>951.0</ele>
+    <time>2017-07-21T14:04:01Z</time>
+    <name>PR C-87</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.270555" lon="1.017594">
+    <ele>947.9</ele>
+    <time>2019-06-01T13:47:22Z</time>
+    <name>Roca del Marçà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.263832" lon="0.976161">
+    <ele>638.9</ele>
+    <time>2019-06-01T15:13:02Z</time>
+    <name>PR C-88</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.261851" lon="0.988540">
+    <ele>982.1</ele>
+    <time>2019-06-01T15:57:36Z</time>
+    <name>La Punta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.264479" lon="0.968149">
+    <ele>695.9</ele>
+    <time>2019-06-03T19:30:54Z</time>
+    <name>Runes del Mas d'en Ribelles</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.259493" lon="0.975506">
+    <ele>722.1</ele>
+    <time>2019-06-03T17:46:55Z</time>
+    <name>PR C-84</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.260403" lon="0.974762">
+    <ele>705.0</ele>
+    <time>2019-06-03T17:47:30Z</time>
+    <name>PR C-88</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.259501" lon="0.974700">
+    <ele>718.1</ele>
+    <time>2019-06-03T17:47:39Z</time>
+    <name>GR 7</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.263626" lon="0.963441">
+    <ele>559.9</ele>
+    <time>2019-06-03T17:49:06Z</time>
+    <name>PR C-84</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.264823" lon="0.958570">
+    <ele>541.0</ele>
+    <time>2019-06-03T17:49:53Z</time>
+    <name>PR C-87</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.262927" lon="0.976441">
+    <ele>648.9</ele>
+    <time>2019-06-03T17:50:58Z</time>
+    <name>PR C-88</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.273201" lon="0.989348">
+    <ele>698.9</ele>
+    <time>2019-06-03T17:53:38Z</time>
+    <name>PR C-88</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.276832" lon="1.005205">
+    <ele>734.9</ele>
+    <time>2019-06-03T17:55:15Z</time>
+    <name>40</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.273856" lon="1.016696">
+    <ele>808.0</ele>
+    <time>2019-06-03T17:55:26Z</time>
+    <name>PR C-6</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>La Mussara, capçalera del riu Siurana, la Febró i avencs de la Febró</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;La Mussara, capçalera del riu Siurana, la Febró i avencs de la Febró&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Llarga i esplèndida proposta de ruta per la capçalera del Siurana a cavall de les comarques del Baix Camp i del Priorat que, en època de pluges, té un atractiu afegit a la ja abundosa presència d’elements d’interès. El vessant occidental de les muntanyes de Prades està format per un conjunt de relleus tabulars, amb graderies de cingles d’aspecte accidentat i valls profundes, drenades per una munió de torrents i rieres que s’obren pas en l’argamassa calcària excavant congostos, creant tolls -gorgs- i salts d’aigua molt bonics. El riu Siurana, el cabal principal d’aquest entorn, neix a tocar de la Febró i aboca l’aigua a l’Ebre, 50 km després. Els avencs de la Febró són l’indret més singular d’aquest entorn, un racó especial que tot practicant de l’excursionisme ha de conèixer -i respectar absolutament. Estan constituïts per un conjunt d’esquerdes d’origen tectònic i càrstic, disposades paral·lelament al cingle, la més gran i visitable d’uns de 260 metres de llargada i una mitjana de 6 metres d’amplada i 30 de fondària. 
+&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; 
+L’itinerari surt de la Mussara, ara un despoblat pertanyent al municipi de Vilaplana, a la comarca del Baix Camp. S’hi arriba per una desviació que es troba al punt km 21,3 de la carretera T-704, el vial que comunica Mont-ral amb la Febró. Hi ha un refugi de muntanya que ofereix serveis de restauració i pernoctació. 
+ 
+0,00 km (968 m). Refugi de la Mussara. Espai d’aparcament. Se surt pel camí que neix arran de l’edifici en direcció SO, deixant el refugi a l’esquena i l’estacionament i la carretera d’accés a mà dreta(senyalització). Al cap de 200 m hi ha una desviació. Es pren el corriol de l’esquerra (S) que du a la punta de les Airasses (0,36 km, 993 m), mirador natural del Baix Camp, del Tarragonès i de les serres que tanquen la plana pel SO, per damunt de les quals, lluny, treuen el cap les puntes del Port. Al costat hi ha les ruïnes del Xalet de les Airasses edificat pel Centre Excursionista de Catalunya el 1926. 
+ 
+Es gira al N i es va fins a les restes de l’antic poble de la Mussara, del qual resta en peu una apuntalada església de Sant Salvador. Quan s’és al davant de la gran bassa que recull l’aigua per al bestiar es gira a l’esquerra, cap a ponent (senyalització). El camí va girant al NO mantenint la cinglera a l’esquerra. Es passa l’aljub o cisterna de la font de la Paula. Al punt 1,03 km (937 m) hi ha una desviació senyalitzada. Es continua recte, a N (per l’esquerra es baixaria a Vilaplana). 
+ 
+1,40 km (952 m), 20 min. Carretera T-704 (senyalització). Es creua i es pren el corriol que, per l’altra banda i a tocar de la font i de les basses del Prat, desemboca en una pista ampla on es troba el sender PR C-87 (senyalització blanca i groga). Es continua cap a l’esquerra (O-NO). 
+ 
+2,14 km (990 m), 33 min. Coll de l’Agustenc, cruïlla de camins. Cal girar a l’esquerra (O-SO) seguint els senyals blancs i vermells del GR 7, que s’ajunta al recorregut del PR (senyalització). Si se seguís recte s’arribaria als avencs de la Febró pel camí que es farà servir a la tornada. Sempre cap a ponent, seguint el GR i mantenint l’altitud, es creuen els plans de la Pona. 
+ 
+5,05 km (983 m), 1 h 15 min. La Punta, modesta elevació que marca l’extrem de l’altiplà de la Mussara. Es gira al NO i, fent ziga-zagues i creuant una tartera es baixa ràpidament la falda de la cinglera. Al fons es veuen els edificis del mas dels Frares, més enllà, la vall del Siurana, la població de Siurana &lt;i&gt;coronada d’espais, de llum cenyida&lt;/i&gt;, segons els versos de Josep Carner i, com a teló de fons, l’esplèndida serra del Montsant. 
+ 
+5,94 km (848 m), 1 h 30 min. Carretera T-704. Es creua i es continua cap a la dreta (N) durant 120 m fins a trobar l’entrada a la pista que du al mas dels Frares i als gorgs de la Febró (senyalització). Es deixa l’accés a la masia a l’esquerra i, seguint tothora les indicacions i senyals del GR, es baixa per la pista de mà dreta. Al cap d’1,4 km es creua el riu del Gorg. 
+ 
+7,47 km (715 m), 1 h 51 min. Bifurcació senyalitzada. Es gira completament a la dreta (E) abandonant el GR 7 i seguint, a partir d’ara, el PR C-84. Als 150 m s’és damunt del gorg del Mas dels Frares, que forma part del conjunt dels gorgs de la Febró. Es creua el riuet de nou i, seguint el PR, es gira al N acompanyant, a certa alçada, el curs de l’aigua que discorre enfonsat entre cingleres. 
+ 
+8,08 km (647 m), 2 h 0 min. Se surt en un camí ample que se seguirà recte. Aquí es conflueix amb el PR C-88 que, per la dreta, du a la Febró. Al cap de cent metres s’abandona la pista i el PR C-88 a mà esquerra; es continua en paral·lel al riu, avall i cap al N. Al mig quilòmetre el camí baixa arran d’aigua descrivint un semicercle. 
+ 
+8,58 km (608 m), 2 h 7 min. La Gorguina, conjunt de cadolles, tolls on l’aigua engorjada forma petites cascades, tant amunt com avall del pas. Es creua el riu i es continua per l’altra banda (O) passant per sota del balç o penya-segat del Mas d’en Ribelles i abandonant el curs del riu del Gorg que, una mica més avall, fineix en el riu Siurana. 
+ 
+9,33 km (630 m), 2 h 19 min. Es desemboca en una pista que se segueix cap avall (senyalització). Aquest camí, que mor arran de riu, prové d’un ramal principal que s’havia creuat abans i que comunica el Mas dels Frares i la Febró amb Arbolí. Al cap de 330 m (senyalització) es pren a la dreta (NO) una drecera que talla un revolt del camí Se surt en un replà, ja al final de tot de la pista. Es continua baixant pel corriol que desemboca en un altre camí, ja damunt mateix del riu Siurana. 
+ 
+9,83 km (556 m), 2 h 27 min. Camí de la Febró a Siurana (senyalització) i recorregut del PR C-7, que es prendrà després d’anar a la confluència del Siurana amb el torrent de la Gritella, on s’aixequen les restes del molí de l’Esquirola. L’aiguabarreig queda a 300 m; allà, el PR C-84 que s’havia seguit fins aquí es troba amb el recorregut PR C-87. 
+ 
+Es torna a l’encreuament; ara se segueix riu amunt parant compte, a uns cinquanta metres, als senyals que indiquen el gual del Siurana. Es creua el riu i es continua pel camí de bast que durà a la Febró. A la dreta es constaten els efectes de la geodinàmica del riu sobre els penya-segats en diversos enderrocaments de grans dimensions, com l’anomenat dels Castellans, o en balmes espectaculars, com la Cova Serena. 
+ 
+13,20 km (697 m), 3 h 22 min. Es conflueix amb la pista per on circula el PR C-88 i que s’havia creuat durant la baixada. Se segueix en la mateixa direcció, riu amunt, i s’arriba a la Febró. 
+ 
+14,65 km (748 m), 3 h 46 min. La Febró, plaça Major. Hi ha un restaurant amb servei de bar. Es continua recte fins a la plaça de l’Església, on es gira a la dreta (S) i, passant pel mirador de l’U d’Octubre, se surt del nucli per un camí senyalitzat que baixa al fons del torrent i remunta fins a la carretera d’accés al poble, al costat de la font del Pubill (15,14 km). Des de l’altra banda del revolt on hi ha la font es pren un camí que se’n va en direcció SE cap als avencs de la Febró i la Mussara(senyalització). Se segueix la pista, ara senyalitzada com a PR C-87. 
+ 
+16,44 km (823 m), 4 h 15 min. Es deixa la pista per prendre el corriol senyalitzat que puja decididament cap al SE, esquerra, pel grau dels Avencs. Cal estar atents a la propera desviació. 
+ 
+17,18 km (977 m), 4 h 40 min. Accés als avencs de la Febró. S’ha de deixar el camí que es duia i prendre un corriolet a la dreta que de seguida baixa i, girant a l’esquerra, entra a la gran esquerda dels avencs. Durant l’espectacular i accidentat -però fàcil- trajecte es pot accedir a dues petites coves que es troben a la paret de l’esquerra (E). Als 250 m de recorregut s’arriba a un cul de sac d’on espot sortir emprant l’escala adossada a la paret de ponent, totalment vertical i no apta per a persones pusil·lànimes o no habituades a aquestes maniobres. En aquest cas, cal desfer el camí i retrobar l’itinerari on s’havia deixat. De nou al camí de la Mussara es va cap al S. El camí s’eixampla i esdevé una pista. 
+ 
+18,06 km (990 m), 4 h 55 min. Coll de l’Agustenc, per on s’havia vingut a l’inici. Es desfà el camí fins a la font del Prat però, ara, se segueix recte i passada la bassa, es torna directament al refugi seguint els senyals del PR C-87. 
+ 
+19,57 km (968 m), 5 h 16 min. Refugi de la Mussara, final del recorregut. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;La Mussara, cabecera del río Siurana, La Febró y &lt;i&gt;Avencs&lt;/i&gt; o simas de La Febró&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Larga y espléndida propuesta de ruta por la cabecera del río Siurana a caballo de las comarcas del Baix Camp y del Priorat que, en época de lluvias, tiene un atractivo añadido a la ya abundante presencia de elementos de interés. La vertiente occidental de las montañas de Prades está formada por un conjunto de relieves tabulares, con gradas de riscos de aspecto accidentado y valles profundos, drenados por una multitud de torrentes y rieras que se abren paso en la argamasa caliza excavando desfiladeros, creando charcos -gorgs- y saltos de agua muy bonitos. El río Siurana, el caudal principal de este entorno, nace junto a La Febró y vierte el agua en el Ebro, 50 km después. Las simas o &lt;/i&gt;avencs&lt;i&gt; de la Febró son el lugar más singular de este entorno, un rincón especial que todo practicante del excursionismo debe conocer -y respetar absolutamente. Están constituidos por un conjunto de grietas de origen tectónico y cárstico, dispuestas paralelamente al risco, la más grande y visitable de unos 260 metros de longitud y una media de 6 metros de ancho y 30 de profundidad.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; El itinerario parte de la Mussara, ahora un despoblado perteneciente al municipio de Vilaplana, en la comarca del Baix Camp. Se llega por un desvío que se encuentra en el punto km 21,3 de la carretera T-704, el vial que comunica Mont-ral con la Febró. Hay un refugio de montaña que ofrece servicios de restauración y pernoctación. 
+ 
+0,00 km (968 m). Refugio de la Mussara. Espacio de aparcamiento. Se sale por el camino que nace al lado del edificio en dirección SO, dejando el refugio a la espalda y el estacionamiento y la carretera de acceso a mano derecha (señalización). Al cabo de 200 m hay una desviación. Se toma el sendero de la izquierda (S) que lleva a la punta de Les Airasses (0,36 km, 993 m), mirador natural del Baix Camp, del Tarragonès y de las sierras que cierran la llanura por el SO, por encima de las cuales, lejos, asoman las puntas de los Ports. Al lado están las ruinas del chalet de Les Airasses edificado por el Centre Excursionista de Catalunya el 1926. 
+ 
+Se gira al N y se va hasta los restos del antiguo pueblo de la Mussara, del que queda en pie una apuntalada iglesia de Sant Salvador. Cuando se está en frente de la gran balsa que recoge el agua para el ganado se gira a la izquierda, hacia poniente (señalización). El camino va girando al NO manteniendo el risco a la izquierda. Se pasa el aljibe o cisterna de la fuente de la Paula. En el punto 1,03 km (937 m) hay una desviación señalizada. Se sigue recto, al N (por la izquierda se bajaría a Vilaplana). 
+ 
+1,40 km (952 m), 20 min. Carretera T-704 (señalización). Se cruza y se toma el sendero que, por el otro lado y junto a la fuente y las balsas del Prat, da a una pista ancha donde se encuentra el sendero PR C-87 (señalización blanca y amarilla). Se continúa hacia la izquierda (O-NO). 
+ 
+2,14 km (990 m), 33 min. Cuello del Agustenc, cruce de caminos. Hay que girar a la izquierda (O-SO) siguiendo las señales blancas y rojas del GR 7, que se junta al recorrido del PR (señalización). Si se siguiera recto se llegaría a las simas de la Febró por el camino que se utilizará a la vuelta. Siempre hacia poniente, siguiendo el GR y manteniendo la altitud, se cruzan los llanos de la Pona. 
+ 
+5,05 km (983 m), 1 h 15 min. La Punta, modesta elevación que marca el extremo de la meseta de la Mussara. Se gira el NO y, en zigzag y cruzando una tartera se baja rápidamente la falda del risco. Al fondo se ven los edificios del Mas dels Frares, más allá, el valle del Siurana, la población de Siurana &lt;i&gt;coronada de espacios, de luz ceñida, según los versos de Josep Carner y, como telón de fondo, la espléndida sierra del Montsant. 
+ 
+5,94 km (848 m), 1 h 30 min. Carretera T-704. Se cruza y se continúa hacia la derecha (N) durante 120 m hasta encontrar la entrada a la pista que lleva al Mas dels Frares y a las pozas de la Febró (señalización). Se deja el acceso a la masía a la izquierda y, siguiendo en todo momento las indicaciones y señales del GR, se baja por la pista de mano derecha. Al cabo de 1,4 km se cruza el río del Gorg. 
+ 
+7,47 km (715 m), 1 h 51 min. Bifurcación señalizada. Se gira completamente a la derecha (E) abandonando el GR 7 y siguiendo, a partir de ahora, el PR C-84. A los 150 m se está encima de la poza del Mas dels Frares, que forma parte del conjunto de las pozas o &lt;i&gt;gorgs&lt;/i&gt; de la Febró. Se cruza el arroyo de nuevo y, siguiendo el PR, se gira al N acompañando, a cierta altura, el curso del agua que discurre hundida entre riscos. 
+ 
+8,08 km (647 m), 2 h 0 min. Se sale en un camino ancho que se seguirá recto. Aquí se confluye con el PR C-88 que, por la derecha, lleva a La Febró. Al cabo de cien metros se abandona la pista y el PR C-88 a mano izquierda; se continúa en paralelo al río, abajo y hacia el N. En medio kilómetro el camino baja hasta el agua describiendo un semicírculo. 
+ 
+8,58 km (608 m), 2 h 7 min. La Gorguina, conjunto de hoyos, pozas, donde el agua encharcada forma pequeñas cascadas, tanto arriba como abajo del paso. Se cruza el río y se continúa por el otro lado (O) pasando por debajo del acantilado del Mas d'en Ribelles y abandonando el curso del río del Gorg que, un poco más abajo, finaliza su recorrido en el río Siurana . 
+ 
+9,33 km (630 m), 2 h 19 min. Se desemboca en una pista que se sigue hacia abajo (señalización). Este camino, que muere junto al río, proviene de un ramal principal que se había cruzado antes y que comunica el Mas dels Frares y La Febró con Arbolí. Al cabo de 330 m (señalización) se toma a la derecha (NO) un atajo que corta una curva del camino Se sale en un rellano, ya al final de la pista. Se continúa bajando por el sendero que desemboca en otro camino, a escasos metros del río Siurana. 
+ 
+9,83 km (556 m), 2 h 27 min. Camino de La Febró a Siurana (señalización) y recorrido del PR C-7, que se tomará después de ir a la confluencia del Siurana con el torrente de la Gritella, donde se levantan los restos del molino de L’Esquirola. La confluencia queda a 300 m; allí, el PR C-84 que se había seguido hasta aquí se encuentra con el recorrido PR C-87. 
+ 
+Se vuelve al cruce; ahora se sigue río arriba con cuidado, a unos cincuenta metros, a las señales que indican el vado del Siurana. Se cruza el río y se continúa por el camino de herradura que llevará a La Febró. A la derecha se constatan los efectos de la geodinámica del río sobre los acantilados en varios derribos de gran tamaño, como el llamado de Els Castellans, o en grutas espectaculares, como la Cova Serena. 
+ 
+13,20 km (697 m), 3 h 22 min. Se confluye con la pista por donde circula el PR C-88 y que se había cruzado durante la bajada. Se sigue en la misma dirección, río arriba, y se llega a La Febró. 
+ 
+14,65 km (748 m), 3 h 46 min. La Febró, plaza Major. Hay un restaurante con servicio de bar. Se sigue recto hasta la plaza de L’Església, donde se gira a la derecha (S) y, pasando por el mirador del Uno de Octubre, se sale del núcleo por un camino señalizado que baja al fondo del torrente y remonta hasta la carretera de acceso al pueblo, junto a la fuente del Pubill (15,14 km). Al otro lado de la curva donde está la fuente se toma un camino que se va en dirección SE hacia los simas de La Febró y la Mussara (señalización). Se sigue la pista, ahora señalizada como PR C-87. 
+ 
+16,44 km (823 m), 4 h 15 min. Se deja la pista para tomar el sendero señalizado que sube decididamente hacia el SE, izquierda, por el grado de Els Avencs. Atentos a la próxima desviación. 
+ 
+17,18 km (977 m), 4 h 40 min. Acceso a simas de La Febró. Hay que dejar el camino que se llevaba y tomar un sendero a la derecha que enseguida baja y, girando a la izquierda, entra en la gran grieta de las simas. Durante el espectacular y accidentado -pero fácil- trayecto se puede acceder a dos pequeñas cuevas que se encuentran en la pared de la izquierda (E). A los 250 m de recorrido se llega a un callejón sin salida de donde se puede salir utilizando la escalera adosada a la pared de poniente, totalmente vertical y no apta para personas pusilánimes o no habituadas a estas maniobras. En este caso, hay que deshacer el camino y reencontrar el itinerario donde se había dejado. De nuevo en el camino de la Mussara se va hacia el S. El camino se ensancha y se convierte en una pista. 
+ 
+18,06 km (990 m), 4 h 55 min. Cuello del Agustenc, por donde se había venido al inicio. Se deshace el camino hasta la fuente del Prat pero, ahora, se sigue recto y pasada la balsa, se retorna directamente al refugio siguiendo las señales del PR C-87. 
+ 
+19,57 km (968 m), 5 h 16 min. Refugio de la Mussara, final del recorrido. 
+&lt;/i&gt;&lt;/p&gt;&lt;i&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Más información&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;&lt;/i&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.253785" lon="1.030834">
+        <ele>968.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253583" lon="1.030870">
+        <ele>964.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252404" lon="1.029581">
+        <ele>968.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251812" lon="1.029754">
+        <ele>974.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251269" lon="1.028863">
+        <ele>983.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251842" lon="1.028350">
+        <ele>984.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252063" lon="1.028320">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252065" lon="1.027221">
+        <ele>977.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252606" lon="1.026190">
+        <ele>968.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252840" lon="1.025151">
+        <ele>957.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253278" lon="1.024666">
+        <ele>954.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254643" lon="1.024460">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254801" lon="1.024026">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255974" lon="1.024842">
+        <ele>956.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256602" lon="1.025735">
+        <ele>956.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256930" lon="1.025702">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257591" lon="1.025915">
+        <ele>951.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257894" lon="1.023905">
+        <ele>954.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258307" lon="1.023308">
+        <ele>954.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258865" lon="1.023029">
+        <ele>959.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259070" lon="1.022605">
+        <ele>962.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259123" lon="1.021260">
+        <ele>968.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259423" lon="1.020097">
+        <ele>979.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259894" lon="1.019164">
+        <ele>983.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260498" lon="1.018966">
+        <ele>989.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260192" lon="1.018200">
+        <ele>994.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260386" lon="1.017669">
+        <ele>999.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260518" lon="1.015158">
+        <ele>1006.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260234" lon="1.014343">
+        <ele>1009.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260617" lon="1.013066">
+        <ele>1009.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261418" lon="1.012248">
+        <ele>1001.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261639" lon="1.010695">
+        <ele>998.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262981" lon="1.008643">
+        <ele>988.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263240" lon="1.007209">
+        <ele>983.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263974" lon="1.005683">
+        <ele>988.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265188" lon="1.004541">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265346" lon="1.004041">
+        <ele>979.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265474" lon="1.003118">
+        <ele>979.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264564" lon="1.001361">
+        <ele>976.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263765" lon="0.998354">
+        <ele>977.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263609" lon="0.997153">
+        <ele>978.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263653" lon="0.993499">
+        <ele>972.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263343" lon="0.991700">
+        <ele>973.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262099" lon="0.989046">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261908" lon="0.988186">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262054" lon="0.987513">
+        <ele>979.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262637" lon="0.987108">
+        <ele>968.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262838" lon="0.986534">
+        <ele>959.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263163" lon="0.986298">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262738" lon="0.986209">
+        <ele>948.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262812" lon="0.986046">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262673" lon="0.986074">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261250" lon="0.987108">
+        <ele>925.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261214" lon="0.986841">
+        <ele>916.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260739" lon="0.986187">
+        <ele>889.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260876" lon="0.985007">
+        <ele>869.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261519" lon="0.984211">
+        <ele>854.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261202" lon="0.983821">
+        <ele>843.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262167" lon="0.983434">
+        <ele>837.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261782" lon="0.983254">
+        <ele>832.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262555" lon="0.982156">
+        <ele>820.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262218" lon="0.981952">
+        <ele>813.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261776" lon="0.981386">
+        <ele>811.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261909" lon="0.981048">
+        <ele>805.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262200" lon="0.981176">
+        <ele>801.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262156" lon="0.980712">
+        <ele>795.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261478" lon="0.980596">
+        <ele>787.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261222" lon="0.980843">
+        <ele>784.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261005" lon="0.980795">
+        <ele>783.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260440" lon="0.980431">
+        <ele>780.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260083" lon="0.979612">
+        <ele>769.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259888" lon="0.980036">
+        <ele>764.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259744" lon="0.980023">
+        <ele>764.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259752" lon="0.979434">
+        <ele>758.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259185" lon="0.978174">
+        <ele>748.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259288" lon="0.977383">
+        <ele>744.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259939" lon="0.976766">
+        <ele>740.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260074" lon="0.976237">
+        <ele>736.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259713" lon="0.976719">
+        <ele>727.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259095" lon="0.976673">
+        <ele>723.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259331" lon="0.976522">
+        <ele>721.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259289" lon="0.975933">
+        <ele>728.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259470" lon="0.975479">
+        <ele>722.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259500" lon="0.975902">
+        <ele>718.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259740" lon="0.975966">
+        <ele>701.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260090" lon="0.975764">
+        <ele>707.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260473" lon="0.975844">
+        <ele>707.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.260905" lon="0.976198">
+        <ele>713.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261130" lon="0.977418">
+        <ele>691.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261312" lon="0.977531">
+        <ele>684.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261707" lon="0.976222">
+        <ele>655.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262275" lon="0.976082">
+        <ele>649.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263109" lon="0.976379">
+        <ele>645.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263599" lon="0.976200">
+        <ele>642.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264134" lon="0.976439">
+        <ele>639.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264376" lon="0.976383">
+        <ele>638.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264679" lon="0.976201">
+        <ele>634.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265728" lon="0.974897">
+        <ele>630.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266208" lon="0.974805">
+        <ele>646.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266226" lon="0.974536">
+        <ele>628.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265830" lon="0.974548">
+        <ele>608.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265709" lon="0.974355">
+        <ele>634.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266061" lon="0.972833">
+        <ele>619.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265724" lon="0.971101">
+        <ele>637.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265804" lon="0.970012">
+        <ele>643.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265483" lon="0.968894">
+        <ele>644.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265572" lon="0.968095">
+        <ele>637.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265363" lon="0.967745">
+        <ele>639.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264326" lon="0.967121">
+        <ele>628.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264223" lon="0.966688">
+        <ele>630.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264382" lon="0.966247">
+        <ele>628.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263900" lon="0.965982">
+        <ele>620.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263786" lon="0.965347">
+        <ele>608.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263570" lon="0.965133">
+        <ele>608.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263435" lon="0.964635">
+        <ele>606.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262842" lon="0.964427">
+        <ele>593.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263507" lon="0.963618">
+        <ele>567.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263640" lon="0.963728">
+        <ele>566.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263994" lon="0.961580">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264159" lon="0.961246">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264493" lon="0.961063">
+        <ele>540.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264903" lon="0.960316">
+        <ele>536.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264493" lon="0.961063">
+        <ele>540.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264159" lon="0.961246">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263994" lon="0.961580">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263751" lon="0.963378">
+        <ele>555.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263857" lon="0.963303">
+        <ele>550.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264003" lon="0.963621">
+        <ele>551.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264274" lon="0.963672">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264292" lon="0.963952">
+        <ele>547.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.265609" lon="0.966114">
+        <ele>576.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266146" lon="0.966638">
+        <ele>571.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266533" lon="0.967518">
+        <ele>572.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267080" lon="0.970086">
+        <ele>596.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266940" lon="0.971362">
+        <ele>607.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267149" lon="0.972471">
+        <ele>617.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267575" lon="0.972625">
+        <ele>618.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.268458" lon="0.973708">
+        <ele>616.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.268816" lon="0.974873">
+        <ele>624.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.269279" lon="0.975564">
+        <ele>637.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270740" lon="0.976172">
+        <ele>639.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.271434" lon="0.976745">
+        <ele>643.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.271584" lon="0.977102">
+        <ele>642.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.271906" lon="0.977217">
+        <ele>643.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.272661" lon="0.977886">
+        <ele>651.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273083" lon="0.978829">
+        <ele>655.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.272977" lon="0.982328">
+        <ele>669.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273170" lon="0.983439">
+        <ele>672.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273086" lon="0.985287">
+        <ele>676.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273625" lon="0.986434">
+        <ele>681.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273371" lon="0.987630">
+        <ele>691.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273311" lon="0.989345">
+        <ele>696.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273787" lon="0.991073">
+        <ele>686.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273839" lon="0.992797">
+        <ele>690.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.274003" lon="0.993156">
+        <ele>691.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.274614" lon="0.993543">
+        <ele>696.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.274884" lon="0.993552">
+        <ele>695.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.275325" lon="0.994023">
+        <ele>696.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.275598" lon="0.995220">
+        <ele>701.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.277023" lon="0.997140">
+        <ele>710.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.277428" lon="0.999486">
+        <ele>713.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.277188" lon="0.999923">
+        <ele>717.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.276979" lon="1.002823">
+        <ele>742.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.277415" lon="1.004435">
+        <ele>750.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.276926" lon="1.004820">
+        <ele>734.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.276813" lon="1.005295">
+        <ele>727.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.276390" lon="1.005815">
+        <ele>732.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.276443" lon="1.006572">
+        <ele>740.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.275937" lon="1.007226">
+        <ele>752.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.275673" lon="1.007884">
+        <ele>753.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.275293" lon="1.009573">
+        <ele>754.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.274421" lon="1.012059">
+        <ele>769.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.274247" lon="1.012172">
+        <ele>768.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273952" lon="1.012038">
+        <ele>773.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273526" lon="1.012122">
+        <ele>776.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273028" lon="1.012501">
+        <ele>778.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273879" lon="1.014559">
+        <ele>795.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273785" lon="1.015368">
+        <ele>795.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273941" lon="1.016342">
+        <ele>805.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273621" lon="1.015808">
+        <ele>811.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.273391" lon="1.014771">
+        <ele>811.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.272392" lon="1.014019">
+        <ele>816.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.271805" lon="1.013268">
+        <ele>820.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270965" lon="1.012732">
+        <ele>826.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270814" lon="1.013067">
+        <ele>836.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270560" lon="1.013212">
+        <ele>841.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270382" lon="1.013821">
+        <ele>848.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270115" lon="1.014020">
+        <ele>853.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.270077" lon="1.014415">
+        <ele>867.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.269474" lon="1.014725">
+        <ele>883.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.269050" lon="1.015180">
+        <ele>910.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.268557" lon="1.015320">
+        <ele>925.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.268086" lon="1.015681">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267909" lon="1.016134">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267982" lon="1.016430">
+        <ele>961.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267417" lon="1.017110">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267236" lon="1.017050">
+        <ele>961.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.267145" lon="1.016443">
+        <ele>969.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.266908" lon="1.016528">
+        <ele>973.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264982" lon="1.016085">
+        <ele>989.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264859" lon="1.016274">
+        <ele>988.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264959" lon="1.017345">
+        <ele>990.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.264099" lon="1.018129">
+        <ele>987.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263639" lon="1.018101">
+        <ele>985.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.263228" lon="1.018251">
+        <ele>982.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.262660" lon="1.018740">
+        <ele>983.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.261213" lon="1.018682">
+        <ele>990.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259920" lon="1.019139">
+        <ele>985.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259184" lon="1.020888">
+        <ele>973.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.259070" lon="1.022605">
+        <ele>962.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258892" lon="1.022998">
+        <ele>959.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.258307" lon="1.023308">
+        <ele>954.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257851" lon="1.024014">
+        <ele>953.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257524" lon="1.026490">
+        <ele>951.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.257299" lon="1.027033">
+        <ele>951.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256988" lon="1.027014">
+        <ele>952.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256778" lon="1.026828">
+        <ele>952.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.256348" lon="1.027224">
+        <ele>951.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255866" lon="1.027208">
+        <ele>951.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255532" lon="1.029254">
+        <ele>957.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255239" lon="1.030003">
+        <ele>959.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255025" lon="1.030175">
+        <ele>961.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254700" lon="1.029954">
+        <ele>963.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253971" lon="1.030106">
+        <ele>968.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253653" lon="1.030480">
+        <ele>968.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.253775" lon="1.030793">
+        <ele>968.0</ele>
+        <time>2019-07-30T13:16:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

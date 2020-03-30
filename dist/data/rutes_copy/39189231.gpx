@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.372703" lon="1.884967">
+    <ele>1157.9</ele>
+    <time>2014-04-28T13:05:59Z</time>
+    <name>Alp</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.375668" lon="1.866479">
+    <ele>1104.0</ele>
+    <time>2014-04-28T13:06:00Z</time>
+    <name>Mosoll</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.365087" lon="1.836850">
+    <ele>1103.1</ele>
+    <time>2014-04-28T13:06:03Z</time>
+    <name>Prats</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.368798" lon="1.823178">
+    <ele>1067.1</ele>
+    <time>2014-04-28T13:06:03Z</time>
+    <name>Sansor</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.385421" lon="1.849706">
+    <ele>1058.9</ele>
+    <time>2014-04-28T13:06:06Z</time>
+    <name>Sanavastre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.387599" lon="1.868155">
+    <ele>1099.1</ele>
+    <time>2014-04-28T13:06:07Z</time>
+    <name>Aeròdrom de la Cerdanya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.375430" lon="1.825267">
+    <ele>1032.1</ele>
+    <time>2014-04-28T13:06:09Z</time>
+    <name>Molí de Prats</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.358636" lon="1.852966">
+    <ele>1175.0</ele>
+    <time>2014-04-28T13:06:10Z</time>
+    <name>Sant Julià de Tartera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.363185" lon="1.831749">
+    <ele>1143.0</ele>
+    <time>2014-04-28T13:06:11Z</time>
+    <name>Sant Salvador de Predanies</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.360699" lon="1.863090">
+    <ele>1177.1</ele>
+    <time>2014-04-28T13:06:14Z</time>
+    <name>Torrent de la Valirota</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.370175" lon="1.847107">
+    <ele>1113.1</ele>
+    <time>2014-04-28T13:06:14Z</time>
+    <name>Urbanització el Pla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.376656" lon="1.826051">
+    <ele>1033.0</ele>
+    <time>2019-06-27T11:59:20Z</time>
+    <name>Camí ample</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.384949" lon="1.891395">
+    <ele>1124.1</ele>
+    <time>2019-06-26T16:57:47Z</time>
+    <name>Escadarcs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.380891" lon="1.848855">
+    <ele>1068.9</ele>
+    <time>2019-06-26T18:01:37Z</time>
+    <name>Bassa de Sanavastre</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.379802" lon="1.844429">
+    <ele>1078.1</ele>
+    <time>2019-06-26T18:06:54Z</time>
+    <name>Camí de terra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.386300" lon="1.885831">
+    <ele>1106.1</ele>
+    <time>2019-06-29T14:51:24Z</time>
+    <name>Estoll</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.365833" lon="1.839803">
+    <ele>1118.0</ele>
+    <time>2019-06-29T14:56:07Z</time>
+    <name>Sant Serni</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.362696" lon="1.871944">
+    <ele>1211.0</ele>
+    <time>2019-06-29T14:57:55Z</time>
+    <name>Das</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.376710" lon="1.868534">
+    <ele>1104.9</ele>
+    <time>2019-06-29T14:58:15Z</time>
+    <name>Santa Maria de Mosoll</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Ruta per Alp, Sanavastre, Sansor, Prats, Tartera, Das i Mosoll</name>
+    <desc>&lt;p&gt;[CA]&lt;b&gt;Ruta per Alp, Sanavastre, Sansor, Prats, Tartera, Das i Mosoll&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Agradable recorregut en bicicleta, relativament planer, que travessa la Baixa Cerdanya i que permet gaudir d’àmplies vistes sobre la muntanya cerdana mentre es pedaleja enmig de prats i conreus, sèquies, rierols i entorns de ribera, connectant petits nuclis rurals on destaquen les esglésies d'estil romànic i notables masos i edificis pairals. La proposta utilitza senyals i indicacions de la xarxa de camins del Consell Comarcal. 
+Aquest itinerari es pot fer en bicicleta de cicloturisme preparada amb cobertes gravades.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se surt de la població d'Alp. S'hi arriba per la carretera E-09 en el tram comprès entre la boca N del túnel del Cadí i Puigcerdà. També es possible arribar-hi fent servir el tren de la línia Barcelona-Puigcerdà. 
+ 
+0,00 km (1.154 m). L'itinerari comença a Alp, a la plaça de la Santa Creu, a l'encreuament dels carrers de la Mancomunitat i del Nord. Se surt de la vila en direcció NE pel carrer del Nord seguint primer el recorregut de la carretera GIV-4033. Passats tres-cents metres, es deixa la carretera i es pren, a mà esquerra, el camí d'Estoll cap a l’Aeròdrom de la Cerdanya, que gira a tramuntana. Es travessa la carretera de Puigcerdà per un pas elevat. 
+ 
+0,73 km (1.132 m). Desviació. Es deixa el camí asfaltat per agafar el de terra que surt cap a la dreta (NE) en direcció a Escadarcs i Mosoll. 
+ 
+1,63 km (1.129 m). Es travessa el nucli d’Escadarcs en direcció N. A la sortida es pren el camí a l’esquerra deixant l’accés a la carretera de Puigcerdà a la dreta. Més enllà es gira a ponent i s’entra a Estoll. 
+ 
+2,22 km (1.106 m). Estoll. Es travessa aquest nucli en direcció a ponent pel carrer de l’Església, deixant a la dreta (N) el bonic edifici romànic de Santa Eulàlia. Dos-cents metres més enllà es desemboca a la pista asfaltada de l’aeròdrom, que es pren cap a la dreta (N). 
+ 
+3,06 km (1.096 m). Cruïlla. Es gira a l’esquerra (O) en direcció a l’aeròdrom deixant la pista principal, que se'n va a Soriguerola. S'arriba a l'Aeròdrom de la Cerdanya (km 4,00), on es gira a l'esquerra (S). Dos-cents cinquanta metres després, hi ha una nova cruïlla: es gira a la dreta (O) en direcció a Sanavastre. 
+ 
+5,93 km (1.059 m). Sanavastre. Església romànica, molt modificada, de Sant Iscle i Santa Victòria, un edifici d'una sola nau sense absis, amb arc de canó, dues capelles laterals i campanar d'espadanya. Se surt del poble cap al S en direcció a la urbanització del Pla parant atenció a la pròxima desviació (6,28 km), on cal girar a la dreta (SO) i vorejar la bassa de Sanavastre. Al punt 6,96 km s’acaba l’asfalt i el camí esdevé de terra. Aviat es gira al S. 
+ 
+Al punt 7,76 km, a tocar del límit N de la urbanització del Pla, hi ha una bifurcació: es continua cap a la dreta (O) i immediatament es troba una altra bifurcació: es fa una ziga-zaga i es continua cap a ponent (NO). Es travessa el Pla i es desemboca a una pista. 
+ 
+8,42 km (1.075 m). Pista que va de N a S. Es gira a la dreta (N), es fa una ziga-zaga en baixada, es travessa la sèquia del Molí de Prats i, ja a prop del riu Segre, es troba el camí de Sansor, que es pren cap a l’esquerra (SO). El sòl del camí ha empitjorat però una mica més enllà millora i esdevé ample. 
+ 
+9,71 km (1.032 m). Cruïlla de camins al torrent de Cobertrada, havent deixat a l’esquerra (S), una mica lluny, el Molí de Prats. Es segueix recte (SO i, després, S) pel camí que duu al petit nucli rural de Sansor. 
+ 
+10,58 km (1.059 m). Sansor, diminut vilatge del municipi de Prats i Sansor. Es gira a l'esquerra (E/NE), més endavant es deixen els accessos a dues granges situades a banda i banda del camí i se surt al camí asfaltat que comunica el Molí de Prats amb Prats (11,18 km). Es tomba a la dreta (E i SE). 
+ 
+12,13 km (1.102 m). Prats. S'ha entrat a la població pel carrer de la Font i, a l'alçada de l'escola de Sant Serni, es tomba a la dreta (SO), es travessa la carretera GIV-4033 de Bellver de Cerdanya a Alp i, deixant l'accés al cementiri a la dreta (O), es puja fortament fins a l'església de Sant Salvador de Predanies (12,64 km, 1.144 m), edifici romànic del s. XII reformat que es troba damunt d'un turó amb molt bones vistes sobre la Cerdanya i les serres que tanquen la comarca. 
+ 
+Es torna enrere, s'entra de nou a Prats, ara es passa pel davant de l'ajuntament i, pel carrer Nou, a l’esquerra, i el dels Rocs, a la dreta, es fa cap a l'església romànica de Sant Serni, situada a llevant del nucli (13,48 km, 1.118 m). Es tracta d'un temple d'una sola nau amb volta de canó, quatre capelles laterals, absis semicircular i campanar d'espadanya. Es torna enrere i es pren el Camí del Riu cap a la dreta (N) i en suau baixada. 
+ 
+14,10 km (1.091 m). Desviació. Es tomba a la dreta (E), un altre cop a la dreta i s'entra a la urbanització del Pla. Es gira a l’esquerra (E) i pels carrers de Bellver i del Segre (ara cap al SE) se surt a la carretera GIV-4033, que es creua. Es segueix pel carrer de la Tossa (SE i després E) fins que s’arriba a una plaça enjardinada, on es gira a la dreta en direcció al llogaret de Tartera (no confondre's amb la urbanització del mateix nom, que es deixarà a l'esquerra). Se segueixen les indicacions que duen a l’església de Sant Julià. 
+ 
+16,51 km (1.175 m). Tartera (municipi de Das) i església de Sant Julià de Tartera, esmentada ja l'any 958. El petit però magnífic temple actual, que data del segle XII, està composat per dues naus, cadascuna amb un absis semicircular. Es recula fins a la desviació de l'entrada i ara es continua a la dreta (SE) fins a una desviació (16,82 km, 1.183 m), on es tomba a l'esquerra i s'agafa, cap a llevant, el camí de Das. Se segueix el camí principal deixant desviacions a banda i banda i es passa pel costat de cal Pelràs. 
+ 
+17,94 km (1.196 m). A tocar de Das es gira a l’esquerra (N) pel camí de l’Eral (si se segueix recte es pot entrar al nucli de Das on hi ha serveis diversos de bar i restauració i alguns edificis interessants, com la casa consistorial). Se surt a la carretera GIV-4033 (18,94 km, 1.130 m), on es gira a l’esquerra (O) per prendre, 40 m després, el camí de Mosoll a la dreta. 
+ 
+19,77 km (1.102 m). Mosoll. Es travessa el minúscul nucli cap a la dreta (E) pel camí de Sanavastre, que es deixa tot seguit a la dreta. Immediatament, seguint la pista asfaltada, es passa pel costat de Santa Maria, interessant construcció senzilla, però d'un estil molt pur, documentada a finals del segle X. És de planta rectangular, consta d'una nau amb absis semicircular, volta de canó apuntat i campanar de cadireta. Al frontal de l'altar hi havia una valuosa pintura, ara conservada al MNAC. Cal continuar pel camí en direcció NE fins a trobar una desviació (20,31 km, 1.106 m), on es gira a la dreta (SE) per tornar a Alp en suau pujada i després de creuar la carretera de Puigcerdà per sota. 
+ 
+21,67 km (1.154 m). Plaça de la Santa Creu d'Alp. Fi del recorregut.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES]&lt;b&gt;Ruta por Alp, Sanavastre, Sansor, Prats, Tartera, Das y Mosoll&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; Agradable recorrido en bicicleta, relativamente llano, que atraviesa la Baja Cerdaña y que permite disfrutar de amplias vistas sobre la montaña ceretana mientras se pedalea en medio de prados y cultivos, acequias, arroyos y entornos de ribera, conectando pequeños núcleos rurales donde destacan las iglesias de estilo románico y notables masías y edificios solariegos. La propuesta utiliza señales e indicaciones de la red de caminos del Consejo Comarcal. 
+Este itinerario se puede realizar en bicicleta de cicloturismo preparada con cubiertas grabadas.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt;&lt;p&gt; 
+Se sale de la población de Alp. Se llega allí por la carretera E-09 en el tramo comprendido entre la boca N del túnel del Cadí y Puigcerdà. También es posible llegar utilizando el tren de la línea Barcelona-Puigcerdà. 
+ 
+0,00 km (1.154 m). El itinerario comienza en Alp, en la plaza de la Santa Creu, en el cruce de las calles de la Mancomunitat y del Nord. Se sale de la ciudad en dirección NE por la calle del Nord siguiendo primero el recorrido de la carretera GIV-4033. Pasados trescientos metros, se deja la carretera y se toma, a mano izquierda, el camino de Estoll hacia el Aeródromo de la Cerdanya, que gira a tramontana. Se cruza la carretera de Puigcerdà por un paso elevado. 
+ 
+0,73 km (1.132 m). Desviación. Se deja el camino asfaltado para tomar el de tierra que sale hacia la derecha (NE) en dirección a Escadarcs y Mosoll. 
+ 
+1,63 km (1.129 m). Se atraviesa el núcleo de Escadarcs en dirección N. A la salida se toma el camino a la izquierda dejando el acceso a la carretera de Puigcerdà a la derecha. Más allá se gira a poniente y se entra en Estoll. 
+ 
+2,22 km (1.106 m). Estoll. Se atraviesa este núcleo en dirección a poniente por la calle de L’Església, dejando a la derecha (N) el bonito edificio románico de Santa Eulàlia. Doscientos metros más allá se desemboca en la pista asfaltada del aeródromo, que se toma hacia la derecha (N). 
+ 
+3,06 km (1.096 m). Cruce. Se gira a la izquierda (O) en dirección al aeródromo dejando la pista principal, que se va a Soriguerola. Se llega en el Aeródromo de la Cerdanya (km 4,00), donde se gira a la izquierda (S). Doscientos cincuenta metros después, hay un nuevo cruce: se gira a la derecha (O) en dirección a Sanavastre. 
+ 
+5,93 km (1.059 m). Sanavastre. Iglesia románica, muy modificada, de Sant Iscle y Santa Victòria, un edificio de una sola nave sin ábside, con arco de cañón, dos capillas laterales y espadaña. Se sale del pueblo hacia el S en dirección a la urbanización del Pla prestando atención a la próxima desviación (6,28 km), donde hay que girar a la derecha (SO) y bordear la balsa de Sanavastre. En el punto 6,96 km se acaba el asfalto y el camino se vuelve de tierra. Pronto se gira al S. 
+ 
+En el punto 7,76 km, junto al límite N de la urbanización del Pla, hay una bifurcación: se sigue hacia la derecha (O) e inmediatamente se encuentra otra bifurcación: se hace un zigzag y se continúa hacia ponente (NO). Se atraviesa el Pla y se desemboca en una pista. 
+ 
+8,42 km (1.075 m). Pista que va de N a S. Se gira a la derecha (N), se hace un zigzag en bajada, se atraviesa la acequia del Molí de Prats y, ya cerca del río Segre, se encuentra el camino de Sansor, que se toma hacia la izquierda (SO). El suelo del camino ha empeorado pero un poco más allá mejora y se ensancha. 
+ 
+9,71 km (1.032 m). Cruce de caminos en el torrente de Cobertrada, habiendo dejado a la izquierda (S), un poco lejos, el Molí de Prats. Se sigue recto (SO y, después, S) por el camino que lleva al pequeño núcleo rural de Sansor. 
+ 
+10,58 km (1.059 m). Sansor, diminuta aldea del municipio de Prats i Sansor. Se gira a la izquierda (E/NE), más adelante, se dejan los accesos a dos granjas situadas a ambos lados del camino y se sale al camino asfaltado que comunica el Molí de Prats con Prats (11,18 km). Se gira a la derecha (E y SE). 
+ 
+12,13 km (1.102 m). Prats. Se ha entrado en la población por la calle de la Font y, a la altura de la escuela de Sant Serni, se gira a la derecha (SO), se cruza la carretera GIV-4033 de Bellver de Cerdanya a Alp y, dejando el acceso al cementerio a la derecha (O), se sube fuertemente hasta la iglesia de Sant Salvador de Predanies (12,64 km, 1.144 m), edificio románico del s. XII reformado que se encuentra encima de una colina con muy buenas vistas sobre la Cerdanya y las sierras que cierran la comarca. 
+ 
+Se vuelve atrás, se entra de nuevo en Prats, ahora se pasa por delante del ayuntamiento y, por la calle Nova, a la izquierda, y la Dels Rocs, a la derecha, se llega a la iglesia románica de Sant Serni, situada a levante del núcleo (13,48 km, 1.118 m). Se trata de un templo de una sola nave con bóveda de cañón, cuatro capillas laterales, ábside semicircular y campanario de espadaña. Se vuelve atrás y se toma el Camí del Riu hacia la derecha (N) y en suave bajada. 
+ 
+14,10 km (1.091 m). Desviación. Se gira a la derecha (E), de nuevo a la derecha y se entra en la urbanización de El Pla. Se gira a la izquierda (E) y por las calles de Bellver y del Segre (ahora hacia el SE) se sale a la carretera GIV-4033, que se cruza. Se sigue por la calle de la Tossa (SE y luego E) hasta que se llega a una plaza ajardinada, donde se gira a la derecha en dirección a la aldea de Tartera (no confundirse con la urbanización del mismo nombre, que se dejará a la izquierda). Se siguen las indicaciones que llevan a la iglesia de Sant Julià. 
+ 
+16,51 km (1.175 m). Tartera (municipio de Das) e iglesia de Sant Julià de Tartera, mencionada ya en el año 958. El pequeño pero magnífico templo actual, que data del siglo XII, está compuesto por dos naves, cada una con un ábside semicircular. Se retrocede hasta la desviación de la entrada y ahora se continúa a la derecha (SE) hasta una desviación (16,82 km, 1.183 m), donde se gira a la izquierda y se toma, hacia el este, el camino de Das. Se sigue el camino principal dejando desviaciones a ambos lados y se pasa por el lado de Cal Pelràs. 
+ 
+17,94 km (1.196 m). Junto a Das se gira a la izquierda (N) por el camino de L’Eral (si se sigue recto se puede entrar en el núcleo de Das donde hay servicios diversos de bar y restauración y algunos edificios interesantes, como la casa consistorial). Se sale a la carretera GIV-4033 (18,94 km, 1.130 m), donde se gira a la izquierda (O) para tomar, 40 m después, el camino de Mosoll a la derecha. 
+ 
+19,77 km (1.102 m). Mosoll. Se atraviesa el minúsculo núcleo hacia la derecha (E) por el camino de Sanavastre, que se deja a continuación a la derecha. Inmediatamente, siguiendo la pista asfaltada, se pasa por el lado de Santa Maria, interesante construcción románica, sencilla, pero de un estilo muy puro, documentada a finales del siglo X. Es de planta rectangular, consta de una nave con ábside semicircular, vuelta de cañón apuntado y espadaña. En el frontal del altar había una valiosa pintura, actualmente conservada en el MNAC. Hay que seguir por el camino en dirección NE hasta encontrar un desvío (20,31 km, 1.106 m), donde se gira a la derecha (SE) para volver a Alp en suave subida y después de cruzar la carretera de Puigcerdà por debajo. 
+ 
+21,67 km (1.154 m). Plaza de la Santa Cruz de Alp. Fin del recorrido.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.372630" lon="1.884829">
+        <ele>1157.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.372816" lon="1.884664">
+        <ele>1154.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373512" lon="1.886255">
+        <ele>1156.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.374147" lon="1.887161">
+        <ele>1151.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375113" lon="1.887958">
+        <ele>1143.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.378082" lon="1.887898">
+        <ele>1132.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.378624" lon="1.888156">
+        <ele>1127.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.379181" lon="1.888049">
+        <ele>1125.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.379998" lon="1.888265">
+        <ele>1122.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.381580" lon="1.888942">
+        <ele>1118.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.382342" lon="1.889967">
+        <ele>1113.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.383532" lon="1.891003">
+        <ele>1117.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384698" lon="1.891535">
+        <ele>1128.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.385392" lon="1.891535">
+        <ele>1129.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.386105" lon="1.890369">
+        <ele>1124.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.386726" lon="1.889841">
+        <ele>1120.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387133" lon="1.889141">
+        <ele>1108.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.386314" lon="1.886804">
+        <ele>1104.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.386252" lon="1.886009">
+        <ele>1106.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.385456" lon="1.883357">
+        <ele>1109.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.386484" lon="1.882096">
+        <ele>1107.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387484" lon="1.881489">
+        <ele>1104.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.390199" lon="1.879273">
+        <ele>1096.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.389306" lon="1.875899">
+        <ele>1097.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387859" lon="1.871643">
+        <ele>1095.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387784" lon="1.870387">
+        <ele>1099.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387296" lon="1.868742">
+        <ele>1099.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384958" lon="1.868602">
+        <ele>1101.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384800" lon="1.866389">
+        <ele>1097.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384103" lon="1.865551">
+        <ele>1094.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384333" lon="1.860984">
+        <ele>1087.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.383526" lon="1.858191">
+        <ele>1080.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.383548" lon="1.857207">
+        <ele>1075.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384063" lon="1.855742">
+        <ele>1069.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384072" lon="1.854842">
+        <ele>1068.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384482" lon="1.853849">
+        <ele>1067.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384454" lon="1.852118">
+        <ele>1063.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.385196" lon="1.850447">
+        <ele>1060.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.385359" lon="1.849678">
+        <ele>1058.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.385006" lon="1.849490">
+        <ele>1056.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384692" lon="1.849557">
+        <ele>1058.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.384179" lon="1.850259">
+        <ele>1063.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.383252" lon="1.850142">
+        <ele>1073.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.382520" lon="1.850338">
+        <ele>1078.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.381979" lon="1.849388">
+        <ele>1078.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.381389" lon="1.849532">
+        <ele>1076.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.381167" lon="1.849439">
+        <ele>1079.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.380768" lon="1.849009">
+        <ele>1078.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.380380" lon="1.848172">
+        <ele>1078.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.380785" lon="1.846828">
+        <ele>1081.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.379193" lon="1.843128">
+        <ele>1080.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.377171" lon="1.842564">
+        <ele>1084.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.374568" lon="1.842126">
+        <ele>1089.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373424" lon="1.841145">
+        <ele>1091.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373660" lon="1.840191">
+        <ele>1086.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373409" lon="1.839639">
+        <ele>1083.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373456" lon="1.839019">
+        <ele>1086.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.374002" lon="1.837483">
+        <ele>1082.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375559" lon="1.834431">
+        <ele>1074.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375947" lon="1.834283">
+        <ele>1071.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376094" lon="1.834901">
+        <ele>1065.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376302" lon="1.834952">
+        <ele>1066.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376918" lon="1.834496">
+        <ele>1053.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376584" lon="1.834059">
+        <ele>1049.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376604" lon="1.833724">
+        <ele>1045.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376945" lon="1.833651">
+        <ele>1040.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.378603" lon="1.832687">
+        <ele>1036.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.377995" lon="1.830548">
+        <ele>1034.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.377376" lon="1.828987">
+        <ele>1034.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376520" lon="1.825461">
+        <ele>1032.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375168" lon="1.823226">
+        <ele>1031.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373730" lon="1.822537">
+        <ele>1032.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373465" lon="1.822569">
+        <ele>1034.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.372519" lon="1.821923">
+        <ele>1035.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.371904" lon="1.822331">
+        <ele>1039.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.370988" lon="1.822638">
+        <ele>1045.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369982" lon="1.823829">
+        <ele>1051.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369004" lon="1.824151">
+        <ele>1059.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368775" lon="1.824676">
+        <ele>1060.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369370" lon="1.825576">
+        <ele>1053.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369440" lon="1.826615">
+        <ele>1054.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369785" lon="1.826846">
+        <ele>1056.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.370584" lon="1.828061">
+        <ele>1067.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.371172" lon="1.829540">
+        <ele>1071.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.371441" lon="1.829869">
+        <ele>1071.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.371127" lon="1.831302">
+        <ele>1076.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369066" lon="1.833648">
+        <ele>1084.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.366253" lon="1.835539">
+        <ele>1099.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365768" lon="1.835425">
+        <ele>1103.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365491" lon="1.835601">
+        <ele>1102.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365129" lon="1.836324">
+        <ele>1102.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364790" lon="1.835631">
+        <ele>1100.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364531" lon="1.834102">
+        <ele>1105.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364818" lon="1.833514">
+        <ele>1116.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364574" lon="1.833439">
+        <ele>1119.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363940" lon="1.832800">
+        <ele>1132.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363550" lon="1.831916">
+        <ele>1142.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363218" lon="1.831720">
+        <ele>1144.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363550" lon="1.831916">
+        <ele>1142.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363940" lon="1.832800">
+        <ele>1132.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364574" lon="1.833439">
+        <ele>1119.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364818" lon="1.833514">
+        <ele>1116.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364531" lon="1.834065">
+        <ele>1107.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364686" lon="1.835135">
+        <ele>1101.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365099" lon="1.836287">
+        <ele>1101.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365070" lon="1.837004">
+        <ele>1103.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365530" lon="1.837068">
+        <ele>1104.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365606" lon="1.837935">
+        <ele>1112.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365748" lon="1.838102">
+        <ele>1115.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365627" lon="1.839057">
+        <ele>1119.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365745" lon="1.839596">
+        <ele>1118.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365627" lon="1.839057">
+        <ele>1119.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365748" lon="1.838102">
+        <ele>1115.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365606" lon="1.837935">
+        <ele>1112.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365554" lon="1.837225">
+        <ele>1105.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365712" lon="1.836957">
+        <ele>1104.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.367450" lon="1.836961">
+        <ele>1095.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369043" lon="1.836277">
+        <ele>1090.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369252" lon="1.837230">
+        <ele>1087.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369605" lon="1.837813">
+        <ele>1093.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368768" lon="1.839200">
+        <ele>1099.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368970" lon="1.840095">
+        <ele>1101.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368385" lon="1.840603">
+        <ele>1103.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368543" lon="1.841001">
+        <ele>1103.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368488" lon="1.841427">
+        <ele>1105.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.368795" lon="1.843674">
+        <ele>1111.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.367563" lon="1.844820">
+        <ele>1117.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365954" lon="1.847435">
+        <ele>1128.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.366134" lon="1.850917">
+        <ele>1137.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363633" lon="1.851321">
+        <ele>1148.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.363065" lon="1.851665">
+        <ele>1151.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.362622" lon="1.851582">
+        <ele>1152.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360121" lon="1.853740">
+        <ele>1172.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359551" lon="1.853137">
+        <ele>1172.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359139" lon="1.853345">
+        <ele>1174.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.358704" lon="1.852946">
+        <ele>1175.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359139" lon="1.853345">
+        <ele>1174.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359551" lon="1.853137">
+        <ele>1172.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359980" lon="1.853676">
+        <ele>1173.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.359230" lon="1.855256">
+        <ele>1183.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360117" lon="1.856970">
+        <ele>1183.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360261" lon="1.857484">
+        <ele>1184.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360251" lon="1.858267">
+        <ele>1185.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360934" lon="1.860386">
+        <ele>1184.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360866" lon="1.861699">
+        <ele>1183.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360676" lon="1.862467">
+        <ele>1179.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.360700" lon="1.863936">
+        <ele>1178.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.361599" lon="1.867905">
+        <ele>1196.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.362297" lon="1.867406">
+        <ele>1187.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.364318" lon="1.866409">
+        <ele>1171.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.365057" lon="1.866918">
+        <ele>1168.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.366197" lon="1.866078">
+        <ele>1161.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.366587" lon="1.865500">
+        <ele>1155.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.366586" lon="1.864935">
+        <ele>1147.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369302" lon="1.864103">
+        <ele>1131.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369436" lon="1.863542">
+        <ele>1130.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.369900" lon="1.863521">
+        <ele>1127.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.370313" lon="1.863866">
+        <ele>1125.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.371642" lon="1.863709">
+        <ele>1120.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373301" lon="1.864584">
+        <ele>1113.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.374320" lon="1.865695">
+        <ele>1108.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375231" lon="1.865982">
+        <ele>1105.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375939" lon="1.866030">
+        <ele>1103.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375768" lon="1.868318">
+        <ele>1107.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376401" lon="1.868568">
+        <ele>1106.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376841" lon="1.868954">
+        <ele>1104.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.378224" lon="1.870806">
+        <ele>1106.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.377290" lon="1.875233">
+        <ele>1116.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376989" lon="1.876137">
+        <ele>1121.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.376497" lon="1.876983">
+        <ele>1125.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.375878" lon="1.879965">
+        <ele>1131.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373846" lon="1.883146">
+        <ele>1143.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.373630" lon="1.883247">
+        <ele>1144.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.372785" lon="1.884330">
+        <ele>1153.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.372785" lon="1.884595">
+        <ele>1154.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.372603" lon="1.884775">
+        <ele>1158.0</ele>
+        <time>2019-07-30T08:00:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

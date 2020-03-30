@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.375210" lon="2.176224">
+    <ele>0.0</ele>
+    <time>2005-10-24T09:30:09Z</time>
+    <name>Les Reials Dressanes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.375864" lon="2.177735">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:33:49Z</time>
+    <name>Monument a Colom</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.386296" lon="2.186812">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:34:41Z</time>
+    <name>Parc de la Ciutadella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.386810" lon="2.198958">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:35:15Z</time>
+    <name>Port Olímpic</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.413662" lon="2.174314">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:36:52Z</time>
+    <name>Hospital de Sant Pau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.403581" lon="2.174346">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:37:19Z</time>
+    <name>La Sagrada Família</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.391685" lon="2.165020">
+    <ele>192.0</ele>
+    <time>2005-10-24T10:39:35Z</time>
+    <name>Casa Batlló i Casa Ametller</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.388654" lon="2.116925">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:54:25Z</time>
+    <name>Palau de Pedralbes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.380031" lon="2.142194">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:55:03Z</time>
+    <name>Plaça dels Països Catalans</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.379131" lon="2.140181">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:56:25Z</time>
+    <name>Estació de Sants</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.395365" lon="2.161722">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:57:14Z</time>
+    <name>Casa Milà o la Pedrera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.435600" lon="2.183053">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:58:46Z</time>
+    <name>Parc de Can Dragó</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.388000" lon="2.188988">
+    <ele>0.0</ele>
+    <time>2005-10-24T10:59:38Z</time>
+    <name>Parlament de Catalunya</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.384240" lon="2.185749">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:00:00Z</time>
+    <name>Estació de França</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.391080" lon="2.180696">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:00:19Z</time>
+    <name>Arc de Triomf</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.376647" lon="2.176916">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:01:56Z</time>
+    <name>Rambla de Santa Mònica</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.383553" lon="2.181841">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:05:12Z</time>
+    <name>Església de Santa Maria del Mar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.376781" lon="2.178583">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:07:54Z</time>
+    <name>Passeig de Colom</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.381405" lon="2.181700">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:08:29Z</time>
+    <name>Plaça d'Antoni Lòpez</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.382474" lon="2.182679">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:11:43Z</time>
+    <name>La Llotja</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.382832" lon="2.183536">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:12:08Z</time>
+    <name>Pla de Palau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.386720" lon="2.184349">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:12:38Z</time>
+    <name>Passeig de Picasso</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.390408" lon="2.202253">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:15:36Z</time>
+    <name>Platja de la Nova Icària</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.394313" lon="2.206823">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:16:22Z</time>
+    <name>Platja del Bogatell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.397161" lon="2.207775">
+    <ele>0.0</ele>
+    <time>2005-10-24T11:17:05Z</time>
+    <name>Parc del Poblenou</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Per Barcelona en bicicleta</name>
+    <desc>&lt;iframe height="360" src="https://www.youtube.com/embed/YSr_AVscaaE"&gt;&lt;/iframe&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[CA] &lt;b&gt;Per Barcelona en bicicleta&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Plàcid itinerari en bicicleta per la capital de Catalunya utilitzant els carrils bici. El recorregut permet fer-se una idea de l'entramat urbà, dels diversos barris i d'alguns elements notables del seu patrimoni artístic i paisatgístic. Especialment recomanable en dies no feiners quan, a més, el transport de les bicicletes en metro no representa problemes i pot servir d'ajut.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (31 m). L'itinerari comença a la plaça dels Països Catalans, a l'estació de Sants. Connexions amb metro línies L3 i L5 i ferrocarril (Barcelona-Sants). La plaça, urbanitzada amb un estil eclèctic i modern, comunica, a l'altra banda, amb el parc de l'Espanya Industrial. Es pren el carril bici del carrer de Tarragona en direcció SE, cap al mar, deixant la plaça i l'estació a la dreta. 
+ 
+Es passa pel parc Joan Miró (a l'esquerra), on destaca l'escultura monumental anomenada Dona i Ocell, obra de Joan Miró. Es tracta d'una peça de 22 m recoberta d'un trencadís de ceràmica instal·lada el 1983. Immediatament després, també a l'esquerra, hi ha l'antiga plaça de braus de Les Arenes, ara reconvertida en centre comercial, cultural i d'oci. L'edifici d'estil mudèjar, construït l'any 1900 sota la direcció de l'arquitecte Font i Carreres, va esdevenir la primera plaça de braus barcelonina. 
+ 
+Es creua la plaça Espanya i es continua cap a l'E pel carril bici de l'avinguda del Paral·lel. A la dreta es deixa el recinte de la Fira de Mostres de Barcelona guardat per les dues torres venecianes de l'avinguda de la Reina Maria Cristina. Al fons, emmarcat per les quatre columnes al·legòriques de Catalunya, es veu el Palau del Museu Nacional d'Art de Catalunya (MNAC), que acull una de les col·leccions d'art romànic i gòtic més importants del món. Al seu darrere, s'alça la muntanya de Montjuïc i la majoria d'instal·lacions esportives que van acollir els Jocs Olímpics de 1992. S'entra al barri del Poble Sec. A l'alçada de la plaça Raquel Meller, a l'esquerra, hi ha el monument romànic més notable de Barcelona, l'església de Sant Pau del Camp, rodejada de jardins (construcció atribuïda l'any 911). Des de finals del s. XIX fins a la tercera dècada del XX, l'avinguda del Paral·lel va aplegar una sorprenent quantitat de teatres, cabarets i altres sales d'espectacles de varietats. 
+ 
+2,79 km (6 m). Es gira a l'esquerra (NE) pel carrer del Portal fins a les Reials Drassanes. Les Drassanes són una bella construcció del gòtic civil català relacionada amb els moments d'esplendor del comerç i la marina catalana medievals. La seva construcció es va iniciar el 1275, es va continuar el s. XIV i es va ampliar, amb noves naus, el s. XVII. Des de 1941 allotja el magnífic Museu Marítim de Barcelona. 
+ 
+Es creua la rambla de Santa Mònica i se segueix pel passeig de Colom per la vorada central. S’ha deixat la plaça i el monument de Colom, construït el 1886, emblemàtica obra de Gaietà Buïgas. S'arriba a la plaça d'Antoni López i s'entra al passeig d'Isabel II. Fent cantonada amb la plaça del Palau, a mà esquerra, hi ha l'edifici de la Llotja. La seva façana neoclàssica amaga un majestuós interior gòtic, obra de Pere Arvei (1392), i part de la sala dels Cònsols. A la plaça destaquen també l'edifici neoclàssic de la Duana Nova i les cases i porxos d'en Xifré. A l'esquerra s'estén el barri de Santa Maria del Mar, que conté notables obres arquitectòniques i diversos museus. Hi destaquen la basílica de Santa Maria del Mar -que, juntament amb la catedral de Mallorca, és l'obra més representativa del gòtic català- el carrer de Montcada, amb els seus palaus medievals, el Museu Picasso i el Born Centre Cultural, l’antic mercat central de Barcelona recuperat com a espai on es poden conèixer les restes de la ciutat vuitcentista arrasada per a la construcció de la Ciutadella. 
+ 
+Es continua per l'avinguda del Marquès d'Argentera i, a mà dreta, es deixa l'Estació de França i, al seu darrere, el popular barri de la Barceloneta. Es creua el passeig de Picasso i s'és davant de la porta del parc de la Ciutadella, que es va començar a urbanitzar a finals de 1871 sobre l'antiga Ciutadella militar i va ser seu de l'Exposició Universal de 1888. L'antic recinte militar va ser erigit per les tropes borbòniques després de demolir, sencer, el barri de la Ribera com a conseqüència de la derrota catalana de 1714 (Guerra de Successió). Es conserven alguns dels antics edificis castrenses com l'Arsenal, ara seu del Parlament de Catalunya. A més dels grans jardins d'estil afrancesat, allotja el zoològic de Barcelona. 
+ 
+5,00 km (5 m). Parlament de Catalunya. Hereu de les antigues Corts Catalanes (1283-1714), de la Mancomunitat de Catalunya (1913-1925) i del Parlament republicà (1932-1939) -totes tres institucions derogades per la força de les armes espanyoles-, el Parlament va ser restaurat amb l'adveniment de la democràcia i el reconeixement de la Generalitat de Catalunya i legalitzat amb l'aprovació de l'Estatut d'Autonomia de 1979. 
+ 
+Després de donar la volta per l'interior del parc, es torna al punt d'entrada i, girant a la dreta, es continua pel passeig de Picasso amunt. Una mica més enllà, es passa pel costat de l'escultura dedicada a Picasso, obra d'Antoni Tàpies, de l'Hivernacle i del monumental edifici modernista obra de Lluís Domènech i Montaner. S'arriba al carrer Pujades i es gira a la dreta (NE) vorejant el parc. Cent metres després, a l'alçada del passeig de Lluís Companys, es gira a l'esquerra (NO) per anar a veure des de sota l'Arc de Triomf. Es torna i es continua cap al NE. S'arriba al carrer de la Marina, on es tomba a la dreta i, pel carril bici, s'arriba al Port Olímpic després de passar entremig de les grans torres construïdes arran de la remodelació urbanística dels Jocs Olímpics de 1992. 
+ 
+8,95 km (7 m). Port Olímpic. Es pren el passeig Marítim a l'esquerra, arran de mar, i es fa cap a l'àrea del Fòrum Universal de les Cultures. A l'esquerra s'estén el Poblenou, un barri industrial i obrer de grans dimensions que va concentrar un dels principals focus de producció tèxtil del sud d'Europa, origen de multitud de moviments associacionistes, polítics i sindicals que van tenir un paper importantíssim en la vida cívica del país durant els s. XIX i XX. Actualment es troba al final d'un procés de profunda remodelació, iniciat amb els Jocs Olímpics de 1992. S'arriba al carrer de Josep Pla (km 11,80), a l'alçada del parc de Diagonal Mar, i es gira a l'esquerra. Es voreja el parc fins a la primera travessia, el passeig del Teulat, per on es tomba a la dreta fins a la plaça de Llevant. Enfront hi ha l'edifici Fòrum. 
+ 
+12,80 km (5 m). Edifici Fòrum, construcció emblemàtica ubicada al parc del Fòrum, on es va desenvolupar el Fòrum Universal de les Cultures l'any 2004. Actualment acull el Museu Blau de Ciències Naturals. Ara cal girar a l'esquerra i, per la vorada central de l'avinguda Diagonal, continuar en direcció O/SO. A tocar de la plaça de les Glòries Catalanes, s'arriba sota la torre Agbar, un gratacel dissenyat per l'arquitecte francès Jean Nouvel inaugurat el 2005. Té una alçada de 144 m. La superfície de la façana està recoberta d'uns 4.000 dispositius lluminosos LED que permeten crear imatges creatives. Es torna enrere fins al carrer de la Ciutat de Granada i es tomba a la dreta (SE) baixant cap al mar. A l'alçada del carrer Sancho de Ávila, es gira a la dreta (SO). S'arriba a l'avinguda Meridiana i es tomba a mà dreta pel carril destinat a bicicletes. En lleugera pujada, es deixen a l'esquerra els edificis de l'Auditori de Barcelona, la plaça de les Arts i el Teatre Nacional de Catalunya. 
+ 
+17,55 km (17 m). S'accedeix a la plaça de les Glòries Catalanes per l'altra banda de la torre Agbar. Es creua i, rodejant-la per l'esquerra (O), es continua cap al N per l'avinguda Meridiana. A la cruïlla amb el carrer Espronceda, es passa al cantó esquerre de l'avinguda (O) i es continua recte amunt. Es passen les barriades de la Sagrera i de Sant Andreu. 
+ 
+21,95 km (45 m). Havent passat la pista d'atletisme del parc de Can Dragó, que queda a mà esquerra una mica ensotada, es gira a l'esquerra i, pel camí del mig del parc, s'enllaça amb el carril del passeig de Valldaura. Es remunta en direcció O fins a l'avinguda Rio de Janeiro (km 22,25), on es tomba a l'esquerra (SO) pel carril bici de la seva vorada superior, la de la banda de muntanya. Es continua pel carrer de Piferrer i, a l'alçada del carrer de Cases i Amigó, hi ha una de les poques masies habitades que s'han conservat a Barcelona: can Verdaguer (km 22,85). Se segueix recte pel carril de bicicletes, ara ja clarament cap a migdia, circulant successivament pels carrers d'Arnau d'Oms, de Ramon Albó i, després de creuar el passeig Maragall, per la ronda de Guinardó. 
+ 
+25,35 km (88 m). En suau pujada, el carril bici se situa a la part superior de l'Hospital de la Santa Creu i de Sant Pau, a l'alçada del carrer de Cartagena. Amb compte, utilitzant l'ampla vorera de vianants, es baixa pel costat de l'hospital fins al carrer de Sant Antoni Maria Claret, on hi ha la seva entrada principal. El conjunt modernista de l'hospital, projectat per Lluís Domènech i Montaner el 1901, va ser declarat Patrimoni de la Humanitat per la Unesco juntament amb el Palau de la Música Catalana (del mateix genial arquitecte), la Casa Milà, coneguda també com a la Pedrera, i el Park Güell (aquests dos darrers obra d'Antoni Gaudí). Es tracta d'un extraordinari conjunt d'edificis i pavellons, d'entre els quals destaca el Pavelló de l'Administració, situat a l'entrada, destinat fins fa poc a usos hospitalaris i actualment en procés de recuperació i restauració. L'itinerari continua per l'avinguda Gaudí avall (S) en direcció a la Sagrada Família. 
+ 
+26,57 km (33 m). Edifici de la Sagrada Família, cantonada amb el carrer de Provença. Es dóna la volta al temple que ha fet internacionalment reconegut Antoni Gaudí. Església monumental iniciada el 1882; es construeix a partir de donatius. Es torna al carrer de Provença i es gira a l'esquerra (SO) pel carril de bicicletes. 
+ 
+Es creua l'Eixample fins al passeig de Gràcia (km 28,35). A la dreta, abans de creuar-lo, s'alça la Casa Milà o la Pedrera, la més sorprenent i original de les cases construïdes per Gaudí, edificada entre 1905 i 1910 i obra mestra del modernisme català. Es continua recte fins a la rambla de Catalunya, on es tomba a l'esquerra i es baixen quatre travessies fins al carrer de la Diputació, que s'empra per tornar al passeig de Gràcia i visitar les monumentals cases Batlló i Ametller, dues peces emblemàtiques del modernisme català. Es torna a la rambla de catalunya i, ara cap a la dreta (NO), es puja fins a l'avinguda de la Diagonal, on es gira a l'esquerra (SO) seguint pel carril bici de la calçada central. 
+ 
+31,50 km (50 m). Es creua la plaça de Francesc Macià, on es tornarà després, i se segueix per l'avinguda Diagonal fins a la plaça de Pius XII (km 33,50), on es travessa la Diagonal cap a l'esquerra (S). Deixant l'hotel Princesa Sofia a l'esquerra, es gira al S per l'avinguda Joan XXIII. S'arriba al lateral N del Camp Nou del Futbol Club Barcelona, al costat del qual es troba el seu museu (km 34,30). Es deixa el complex esportiu a l'esquerra, es tomba a la dreta i es puja cap al N pel carrer Martí i Franquès. Es travessa la Ciutat Universitària i es torna a l'avinguda Diagonal, que, un cop creuada, es pren a la dreta (NE) fins a les portes del parc del Palau Reial de Pedralbes (km 35,15). L'edifici del palau, bastit entre 1919 i 1929, està envoltat per uns agradables jardins dissenyats per l'arquitecte Rubió i Tudurí. És la seu del Museu de les Arts Decoratives. 
+ 
+Per l'avinguda Diagonal es torna a la plaça de Francesc Macià (km 37,47), on ara es gira a la dreta (S) per prendre l'avinguda de Josep Tarradelles fins a la plaça dels Països Catalans. 
+ 
+38,94 km ( 31 m). Plaça dels Països Catalans. Fi del recorregut. 
+ 
+Per fer aquest itinerari cal complir les normes vigents de circulació per a vianants i vehicles de Barcelona.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Por Barcelona en bicicleta&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Plácido itinerario en bicicleta por la capital de Catalunya utilizando los carriles bici. El recorrido permite hacerse una idea del entramado urbano, de los diversos barrios y de algunos elementos notables de su patrimonio artístico y paisajístico. Especialmente recomendable en días no laborables cuando, además, el transporte de las bicicletas en metro no representa problemas y puede servir de ayuda.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;0,00 km (31 m). El itinerario comienza en la plaza de Els Països Catalans, en la estación de Sants. Conexiones con metro líneas L3 y L5 y ferrocarril (Barcelona-Sants). La plaza, urbanizada con un estilo ecléctico y moderno, comunica, al otro lado, con el parque de la Espanya Industrial. Se toma el carril bici de la calle de Tarragona en dirección SE hacia el mar dejando la plaza y la estación a la derecha. 
+ 
+Se pasa junto al parque Joan Miró (a la izquierda), donde destaca la escultura monumental llamada Dona i Ocell (mujer y pájaro), obra de Joan Miró. Se trata de una pieza de 22 m recubierta de cerámica instalada en 1983. Inmediatamente después, también a la izquierda, está la antigua plaza de toros de Les Arenes, ahora reconvertida en centro comercial, cultural y de ocio. El edificio, de estilo mudéjar, fue construido en el año 1900 bajo la dirección del arquitecto Font i Carreras. 
+ 
+Se cruza la plaza Espanya por la izquierda y se continúa hacia el E por el carril bici de la avenida del Paral·lel. A la derecha se deja el recinto de la Fira de Barcelona guardado por las dos torres venecianas de la avenida de la Reina Maria Cristina. Al fondo, enmarcado por las cuatro columnas alegóricas de Catalunya, se ve el Palau del Museu Nacional d'Art de Catalunya (MNAC), que acoge una de las colecciones de arte románico y gótico más importantes del mundo. Detrás se alza la montaña de Montjuïc y la mayoría de instalaciones deportivas que acogieron los Juegos Olímpicos de 1992. Se entra en el barrio del Poble Sec. A la altura de la plaza Raquel Meller, a la izquierda, está el monumento románico más notable de Barcelona, la iglesia de Sant Pau del Camp (s. X), rodeada de jardines. La avenida del Paral·lel reunió antaño una sorprendente cantidad de teatros, cabarets y otras salas de espectáculos de variedades. 
+ 
+2,79 km (6 m). Se gira a la izquierda (NE) tomando la calle del Portal, por donde se llega a Les Reials Drassanes. Les Drassanes son una bella construcción del gótico civil catalán relacionada con los momentos de esplendor medieval del comercio y la marina catalanes. Su construcción se inició en 1275, se continuó el s. XIV y se amplió, con nuevas naves, el s. XVII. Desde 1941 alberga el magnífico Museu Marítim de Barcelona. 
+ 
+Se cruza la rambla de Santa Mònica y se sigue por el paseo de Colom por la acera central. Se ha dejado la plaza y el monumento a Colom, construido en 1886, emblemática obra de Gaietà Buïgas. Se llega a la plaza de Antoni López y se entra en el paseo de Isabel II. Haciendo esquina con la plaza del Palau, a mano izquierda está el edificio de la Llotja. Su fachada neoclásica esconde un majestuoso interior gótico, obra de Pere Arvei (1392), y parte de la sala de Els Cònsuls. En la plaza destacan también el edificio neoclásico de la Duana Nova y las casas y porches de En Xifré. A la izquierda se extiende el barrio de Santa Maria del Mar, que contiene notables obras arquitectónicas y varios museos. Destacan la basílica de Santa Maria del Mar -que, junto con la catedral de Mallorca, es la obra más representativa del gótico catalán-, la calle de Montcada, con sus palacios medievales, el Museu Picasso y El Born Centre Cultural, el antiguo mercado central de Barcelona recuperado como espacio donde se pueden conocer los restos de la ciudad ochocentista arrasada para la construcción de la Ciutadella. 
+ 
+Se sigue por la avenida del Marquès d’Argentera y, a mano derecha, se deja L’Estació de França y detrás, el popular barrio de la Barceloneta. Se cruza el paseo Picasso y se llega frente a la puerta del parque de la Ciutadella. Este parque se empezó a urbanizar a finales de 1871 sobre los solares de la antigua ciudadela militar y fue sede de la Exposición Universal de 1888. El antiguo recinto militar fue erigido por las tropas borbónicas tras demoler entero el barrio de la Ribera como consecuencia de la derrota catalana de 1714 (Guerra de Successió). Se conservan algunos de los antiguos edificios castrenses, como L’Arsenal, ahora sede del Parlamento de Catalunya. Además de los grandes jardines de estilo afrancesado aloja el zoológico de Barcelona. 
+ 
+5,00 km (5 m). Parlamento de Catalunya. Heredero de las antiguas Corts Catalanes (1283-1714), de la Mancomunitat de Catalunya (1913-1925) y del Parlament republicano (1932-1939) -las tres instituciones derogadas por la fuerza de las armas españolas-, el Parlament fue restaurado con el advenimiento de la democracia y el reconocimiento de la Generalitat de Catalunya y legalizado con la aprobación de L’Estatut d’Autonomia de 1979. 
+ 
+Después de dar la vuelta por el interior del parque, se vuelve al punto de entrada y, girando a la derecha, se continúa por el paseo Picasso. Un poco más allá se pasa junto a la escultura dedicada a Picasso, obra de Antoni Tàpies, de L’Hivernacle y del monumental edificio modernista obra de Lluís Domènech i Montaner. Se llega a la calle de Pujades y se gira a la derecha (NE) bordeando el parque. Cien metros después, a la altura del paseo de Lluís Companys, se gira a la izquierda (NO) para ir a ver desde abajo L’Arc de Triomf. Se vuelve y se continúa hacia el NE. Se llega a la calle de la Marina, donde se gira a la derecha y, por el carril bici, se llega al Port Olímpic después de pasar por en medio de las grandes torres construidas a raíz de la remodelación urbanística de los Juegos Olímpicos de 1992. 
+ 
+8,95 km (7 m). Port Olímpic. Se toma el paseo Marítim a la izquierda, junto al mar, en dirección al Fòrum Universal de les Cultures. A la izquierda se extiende el Poblenou, un barrio industrial y obrero de grandes dimensiones que concentró uno de los principales focos de producción textil del sur de Europa, origen de multitud de movimientos asociacionistas, políticos y sindicales de los siglos XIX y XX. Actualmente se encuentra al final de un proceso de profunda remodelación. Se llega a la calle de Josep Pla (km 11,80), a la altura del parque de Diagonal Mar, y se gira a la izquierda. Se bordea el parque hasta la primera travesía, el paseo del Teulat, por donde se gira a la derecha hasta la plaza de Llevant. Enfrente está el edificio Fòrum. 
+ 
+12,80 km (5 m). Edificio Fòrum, edificio emblemático ubicado en el parque del Fòrum, zona donde se desarrolló el Fòrum Universal de les Cultures el año 2004. Actualmente acoge el Museu Blau de Ciències Naturals. Hay que girar ahora a la izquierda y, por la acera central de la avenida Diagonal, dirigirse en dirección O/SO. Junto a la plaza de Les Glòries Catalanes se llega bajo la torre Agbar, un rascacielos diseñado por el arquitecto francés Jean Nouvel, inaugurado en 2005. Tiene una altura de 144 m. Se vuelve atrás hasta la calle de la Ciutat de Granada y se gira a la derecha (SE) bajando hacia el mar. A la altura de la calle Sancho de Ávila, se gira a la derecha (SO). Se llega a la avenida Meridiana y se gira a la derecha por el carril destinado a bicicletas. En ligera subida se dejan a la izquierda los edificios de L’Auditori de Barcelona, la plaza de Les Arts y el Teatre Nacional de Catalunya. 
+ 
+17,55 km (17 m). Se llega a la plaza de Les Glòries Catalanes por el otro lado de la torre Agbar. Se cruza y, rodeándola por la izquierda (O), se continúa hacia el N por la avenida Meridiana. En el cruce con la calle Espronceda, se pasa al lado izquierdo de la avenida (O) y se sigue recto hacia arriba. Se pasan las barriadas de la Sagrera y de Sant Andreu. 
+ 
+21,95 km (45 m). Habiendo pasado la pista de atletismo del parque de Can Dragó, que queda a mano izquierda, se gira a la izquierda y, por el camino del medio del parque, se enlaza con el carril del paseo Valldaura. Se remonta en dirección O hasta la avenida Rio de Janeiro (km 22,25), donde se gira a la izquierda (SO) siguiendo el carril de bicicletas de su acera superior. Se continúa por la calle de Piferrer. A la altura de la calle de Cases i Amigó, hay una de las pocas masías habitadas que se han conservado en Barcelona, Can Verdaguer (km 22,85). Se sigue recto por el carril de bicicletas, ahora ya claramente hacia el S, circulando sucesivamente por las calles de Arnau d'Oms, de Ramon Albó y, tras cruzar el paseo de Maragall, por la ronda de Guinardó. 
+ 
+25,35 km (88 m). En suave subida, el carril bici se sitúa en la parte superior del Hospital de la Santa Creu i de Sant Pau, a la altura de la calle de Cartagena. Con cuidado, utilizando la amplia acera de peatones, se baja por el lado del hospital hasta la calle de Sant Antoni Maria Claret, donde está su entrada principal. El conjunto modernista del hospital, proyectado por Lluís Domènech i Montaner en 1901, fue declarado Patrimonio de la Humanidad por la Unesco junto con el Palau de la Música Catalana (obra del mismo genial arquitecto), la Casa Milà, conocida también como La Pedrera, y el Park Güell (estos dos, obra de Antoni Gaudí). Se trata de un extraordinario conjunto de edificios y pabellones entre los que destaca el Pavelló de l’Administració, situado en la entrada, destinado hasta hace poco a usos hospitalarios y actualmente en proceso de recuperación y restauración. El itinerario continúa por la avenida de Gaudí en dirección S hacia la Sagrada Família. 
+ 
+26,57 km (33 m). Edificio de la Sagrada Família, esquina de la calle Provença. Se da la vuelta al templo que ha hecho internacionalmente reconocido Antoni Gaudí. Iglesia monumental iniciada en 1882; se construye a partir de donativos. Se vuelve a la calle de Provença y se gira a la izquierda (SO) siguiendo por el carril de bicicletas. 
+ 
+Se cruza L’Eixample hasta el paseo de Gràcia (km 28,35). A la derecha, antes de cruzarlo, se alza la Casa Milà o La Pedrera, la más sorprendente y original de las casas construidas por Gaudí, edificada entre 1905 y 1910 y obra maestra del modernismo catalán. Se continúa recto hasta la rambla de Catalunya, donde se gira a la izquierda y se bajan cuatro travesías hasta la calle de la Diputació, que se utiliza para volver al paseo de Gràcia y visitar las monumentales casas Batlló y Ametller, dos piezas emblemáticas del modernismo catalán. Se vuelve a la rambla de Catalunya y ahora por la derecha (NO) se sube hasta la avenida Diagonal, donde se gira a la izquierda (SO) siguiendo el carril bici de la calzada central. 
+ 
+31,50 km (50 m). Se atraviesa la plaza de Francesc Macià, donde se volverá luego, y se sigue por la avenida Diagonal hasta la plaza de Pius XII, donde se cruza la Diagonal hacia la izquierda (S). Dejando el Hotel Princesa Sofia a la izquierda, se gira hacia el S por la avenida de Joan XXIII. Se llega así al lateral N del Camp Nou del F.C. Barcelona, junto al cual se encuentra su museo (34,30 km). Dejando el complejo deportivo a la izquierda, se gira a la derecha y se sube hacia el N por la calle Martí i Franquès. Se atraviesa la Ciutat Universitària y se vuelve a la avenida Diagonal, que, una vez cruzada, se toma a la derecha (NE). Se llega a las puertas del parque del Palau Reial de Pedralbes (km 35,15). El edificio del palacio, construido entre 1919 y 1929, está rodeado por unos agradables jardines diseñados por el arquitecto &lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.380396" lon="2.142413">
+        <ele>31.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.375736" lon="2.148636">
+        <ele>27.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.375206" lon="2.150212">
+        <ele>27.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.375075" lon="2.169657">
+        <ele>9.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374844" lon="2.173092">
+        <ele>6.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.375766" lon="2.174940">
+        <ele>5.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376196" lon="2.175294">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376044" lon="2.176671">
+        <ele>4.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376504" lon="2.176755">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376719" lon="2.177278">
+        <ele>3.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376284" lon="2.178229">
+        <ele>3.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380895" lon="2.181950">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380870" lon="2.182249">
+        <ele>5.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382364" lon="2.183361">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382402" lon="2.183594">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382982" lon="2.184083">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383180" lon="2.184062">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383340" lon="2.183767">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385703" lon="2.185645">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385844" lon="2.185842">
+        <ele>7.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385732" lon="2.185996">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386225" lon="2.186656">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386209" lon="2.186973">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386454" lon="2.187143">
+        <ele>7.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387229" lon="2.189121">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388407" lon="2.188168">
+        <ele>4.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388255" lon="2.187673">
+        <ele>4.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388734" lon="2.187438">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.389140" lon="2.186853">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.389159" lon="2.186374">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388807" lon="2.185045">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388535" lon="2.184791">
+        <ele>7.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388821" lon="2.184375">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388356" lon="2.183699">
+        <ele>7.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388566" lon="2.184019">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386607" lon="2.186585">
+        <ele>7.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386377" lon="2.186522">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386225" lon="2.186656">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385732" lon="2.185996">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388076" lon="2.182883">
+        <ele>7.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388802" lon="2.183705">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391010" lon="2.180735">
+        <ele>11.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388802" lon="2.183705">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391244" lon="2.187024">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391515" lon="2.187170">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392121" lon="2.188140">
+        <ele>6.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392529" lon="2.188505">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392891" lon="2.189398">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.388131" lon="2.195726">
+        <ele>7.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387680" lon="2.195624">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387474" lon="2.195746">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387362" lon="2.196465">
+        <ele>7.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386934" lon="2.197068">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.389197" lon="2.200091">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.390375" lon="2.201171">
+        <ele>3.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.390845" lon="2.202003">
+        <ele>4.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391437" lon="2.203623">
+        <ele>3.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391975" lon="2.204537">
+        <ele>3.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.394346" lon="2.206309">
+        <ele>2.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396742" lon="2.209446">
+        <ele>3.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397195" lon="2.210481">
+        <ele>5.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.400410" lon="2.212973">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401131" lon="2.214274">
+        <ele>5.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402036" lon="2.214796">
+        <ele>5.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402869" lon="2.215521">
+        <ele>5.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.405910" lon="2.219433">
+        <ele>6.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.408094" lon="2.216721">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411363" lon="2.219847">
+        <ele>4.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410642" lon="2.220781">
+        <ele>4.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411363" lon="2.219847">
+        <ele>4.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410801" lon="2.219279">
+        <ele>4.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410974" lon="2.218930">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411141" lon="2.218964">
+        <ele>4.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411140" lon="2.218779">
+        <ele>4.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.409932" lon="2.213995">
+        <ele>4.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410007" lon="2.213760">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403873" lon="2.189294">
+        <ele>8.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404096" lon="2.190200">
+        <ele>8.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403954" lon="2.190262">
+        <ele>8.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404026" lon="2.190644">
+        <ele>7.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401750" lon="2.193621">
+        <ele>5.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.401543" lon="2.193642">
+        <ele>5.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397482" lon="2.188242">
+        <ele>9.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397410" lon="2.188321">
+        <ele>10.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396654" lon="2.187339">
+        <ele>10.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396415" lon="2.187324">
+        <ele>12.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396351" lon="2.187163">
+        <ele>13.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.396539" lon="2.186982">
+        <ele>13.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402051" lon="2.187003">
+        <ele>15.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402054" lon="2.186752">
+        <ele>16.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402301" lon="2.186701">
+        <ele>16.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402576" lon="2.185726">
+        <ele>15.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403197" lon="2.185427">
+        <ele>16.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404168" lon="2.185876">
+        <ele>13.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404631" lon="2.186995">
+        <ele>13.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418604" lon="2.187140">
+        <ele>25.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418794" lon="2.186720">
+        <ele>25.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423835" lon="2.186723">
+        <ele>32.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424600" lon="2.186530">
+        <ele>33.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425429" lon="2.185963">
+        <ele>35.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425759" lon="2.186381">
+        <ele>35.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428430" lon="2.184589">
+        <ele>38.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428709" lon="2.184591">
+        <ele>37.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428842" lon="2.184308">
+        <ele>37.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430043" lon="2.183533">
+        <ele>37.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.430164" lon="2.182742">
+        <ele>39.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431088" lon="2.182198">
+        <ele>39.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.438816" lon="2.184796">
+        <ele>44.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439423" lon="2.184023">
+        <ele>41.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.439159" lon="2.181534">
+        <ele>49.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.437505" lon="2.180516">
+        <ele>48.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.435213" lon="2.179728">
+        <ele>46.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434964" lon="2.179504">
+        <ele>46.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.434256" lon="2.179399">
+        <ele>47.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.433185" lon="2.178306">
+        <ele>45.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.431746" lon="2.177306">
+        <ele>45.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427508" lon="2.177144">
+        <ele>48.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424343" lon="2.177280">
+        <ele>56.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423615" lon="2.177433">
+        <ele>55.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420413" lon="2.176815">
+        <ele>63.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419395" lon="2.176491">
+        <ele>68.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418123" lon="2.175875">
+        <ele>79.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417392" lon="2.175058">
+        <ele>81.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417167" lon="2.174989">
+        <ele>79.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416577" lon="2.174191">
+        <ele>76.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416303" lon="2.174496">
+        <ele>76.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413808" lon="2.171133">
+        <ele>88.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411421" lon="2.174214">
+        <ele>54.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411365" lon="2.174598">
+        <ele>53.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411077" lon="2.174637">
+        <ele>52.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410886" lon="2.174305">
+        <ele>52.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404951" lon="2.174374">
+        <ele>34.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404648" lon="2.174748">
+        <ele>33.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.404314" lon="2.174627">
+        <ele>32.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403747" lon="2.175364">
+        <ele>31.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403535" lon="2.175349">
+        <ele>30.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402889" lon="2.174466">
+        <ele>31.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.402810" lon="2.174084">
+        <ele>32.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403385" lon="2.173299">
+        <ele>34.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.403393" lon="2.173107">
+        <ele>35.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.398540" lon="2.166568">
+        <ele>36.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.398447" lon="2.166603">
+        <ele>36.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.398011" lon="2.164885">
+        <ele>38.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.397609" lon="2.165327">
+        <ele>36.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.395025" lon="2.161872">
+        <ele>38.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.395078" lon="2.161728">
+        <ele>38.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.393661" lon="2.159964">
+        <ele>38.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.390330" lon="2.164540">
+        <ele>27.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391181" lon="2.165738">
+        <ele>26.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391775" lon="2.165012">
+        <ele>29.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.391181" lon="2.165738">
+        <ele>26.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.390330" lon="2.164540">
+        <ele>27.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.395998" lon="2.156932">
+        <ele>45.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.393021" lon="2.145106">
+        <ele>50.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.393212" lon="2.144715">
+        <ele>51.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.393213" lon="2.144309">
+        <ele>52.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392979" lon="2.143656">
+        <ele>52.5</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392694" lon="2.143511">
+        <ele>53.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387587" lon="2.123427">
+        <ele>66.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387136" lon="2.123633">
+        <ele>65.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.387076" lon="2.123427">
+        <ele>65.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386760" lon="2.123431">
+        <ele>65.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386617" lon="2.122881">
+        <ele>65.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386318" lon="2.122732">
+        <ele>64.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.384778" lon="2.122663">
+        <ele>57.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.384252" lon="2.122801">
+        <ele>55.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.384241" lon="2.122532">
+        <ele>55.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383448" lon="2.122561">
+        <ele>51.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383109" lon="2.122583">
+        <ele>51.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.383108" lon="2.122865">
+        <ele>51.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382897" lon="2.122867">
+        <ele>51.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381453" lon="2.121296">
+        <ele>46.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381256" lon="2.120904">
+        <ele>47.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381216" lon="2.120247">
+        <ele>47.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381436" lon="2.120238">
+        <ele>46.6</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381433" lon="2.119873">
+        <ele>47.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385576" lon="2.118047">
+        <ele>65.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385525" lon="2.117366">
+        <ele>67.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385934" lon="2.117187">
+        <ele>68.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386273" lon="2.118546">
+        <ele>68.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386713" lon="2.118325">
+        <ele>68.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386273" lon="2.118546">
+        <ele>68.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392668" lon="2.143675">
+        <ele>53.3</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392238" lon="2.143920">
+        <ele>52.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.392199" lon="2.144124">
+        <ele>51.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.390839" lon="2.143615">
+        <ele>50.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386252" lon="2.142587">
+        <ele>43.2</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.386210" lon="2.142450">
+        <ele>43.7</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385538" lon="2.142309">
+        <ele>41.9</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385250" lon="2.142301">
+        <ele>41.8</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.385175" lon="2.142494">
+        <ele>41.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381236" lon="2.142216">
+        <ele>33.0</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381017" lon="2.142333">
+        <ele>32.4</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380878" lon="2.141832">
+        <ele>32.1</ele>
+        <time>2012-06-29T20:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380423" lon="2.142383">
+        <ele>31.1</ele>
+        <time>2012-06-29T23:15:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.102625" lon="1.646838">
+    <ele>1374.0</ele>
+    <time>2014-04-25T15:20:56Z</time>
+    <name>SANT CRISTÒFOL DE BUSA</name>
+    <desc>SANT CRISTÒFOL DE BUSA</desc>
+  </wpt>
+  <wpt lat="42.108356" lon="1.625824">
+    <ele>1359.1</ele>
+    <time>2014-04-25T15:20:56Z</time>
+    <name>CAPOLAT</name>
+    <desc>CAPOLAT</desc>
+  </wpt>
+  <wpt lat="42.108444" lon="1.627742">
+    <ele>1338.1</ele>
+    <time>2014-04-25T15:20:57Z</time>
+    <name>COLL</name>
+    <desc>COLL</desc>
+  </wpt>
+  <wpt lat="42.104147" lon="1.640813">
+    <ele>1360.0</ele>
+    <time>2014-04-25T15:20:57Z</time>
+    <name>LA VILA</name>
+    <desc>LA VILA</desc>
+  </wpt>
+  <wpt lat="42.107696" lon="1.620835">
+    <ele>1310.0</ele>
+    <time>2014-04-25T15:20:58Z</time>
+    <name>COTA 1 310</name>
+    <desc>COTA 1 310</desc>
+  </wpt>
+  <wpt lat="42.089542" lon="1.634793">
+    <ele>1261.0</ele>
+    <time>2014-04-25T15:20:58Z</time>
+    <name>COLL D'ORDIGUES</name>
+    <desc>COLL D'ORDIGUES</desc>
+  </wpt>
+  <wpt lat="42.040399" lon="1.665426">
+    <ele>844.9</ele>
+    <time>2014-04-25T15:20:59Z</time>
+    <name>POSTILS</name>
+    <desc>POSTILS</desc>
+  </wpt>
+  <wpt lat="42.100963" lon="1.640125">
+    <ele>1325.0</ele>
+    <time>2014-04-25T15:20:59Z</time>
+    <name>EL RIAL DE BUSA</name>
+    <desc>EL RIAL DE BUSA</desc>
+  </wpt>
+  <wpt lat="42.085709" lon="1.676457">
+    <ele>759.9</ele>
+    <time>2014-04-25T15:21:00Z</time>
+    <name>SANT LLEÏRR DE LA VALL D'ORA</name>
+    <desc>SANT LLEÏRR DE LA VALL D'ORA</desc>
+  </wpt>
+  <wpt lat="42.033118" lon="1.677400">
+    <ele>740.1</ele>
+    <time>2014-04-25T15:21:00Z</time>
+    <name>C-149</name>
+    <desc>C-149</desc>
+  </wpt>
+  <wpt lat="42.093234" lon="1.632640">
+    <ele>1324.1</ele>
+    <time>2014-04-25T15:21:01Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.107391" lon="1.621648">
+    <ele>1299.1</ele>
+    <time>2014-04-25T15:21:01Z</time>
+    <name>PASSARELA</name>
+    <desc>PASSARELA</desc>
+  </wpt>
+  <wpt lat="42.107887" lon="1.620102">
+    <ele>1316.1</ele>
+    <time>2014-04-25T15:21:02Z</time>
+    <name>PRESÓ DE BUSA</name>
+    <desc>PRESÓ DE BUSA</desc>
+  </wpt>
+  <wpt lat="42.107896" lon="1.629789">
+    <ele>1346.9</ele>
+    <time>2014-04-25T15:21:02Z</time>
+    <name>COTA 1347</name>
+    <desc>COTA 1347</desc>
+  </wpt>
+  <wpt lat="42.107515" lon="1.620619">
+    <ele>1306.1</ele>
+    <time>2014-04-25T15:21:03Z</time>
+    <name>COLLET</name>
+    <desc>COLLET</desc>
+  </wpt>
+  <wpt lat="42.107862" lon="1.620957">
+    <ele>1314.0</ele>
+    <time>2014-04-25T15:21:03Z</time>
+    <name>COTA 1314</name>
+    <desc>COTA 1314</desc>
+  </wpt>
+  <wpt lat="42.109801" lon="1.633559">
+    <ele>1478.0</ele>
+    <time>2014-04-25T15:21:04Z</time>
+    <name>LA LLEBRE</name>
+    <desc>LA LLEBRE</desc>
+  </wpt>
+  <wpt lat="42.110057" lon="1.639487">
+    <ele>1626.1</ele>
+    <time>2014-04-25T15:21:04Z</time>
+    <name>EL COGUL</name>
+    <desc>EL COGUL</desc>
+  </wpt>
+  <wpt lat="42.101327" lon="1.644686">
+    <ele>1342.9</ele>
+    <time>2014-04-25T15:21:04Z</time>
+    <name>CRUÏLLA BASSA</name>
+    <desc>CRUÏLLA BASSA</desc>
+  </wpt>
+  <wpt lat="42.102722" lon="1.642957">
+    <ele>1348.1</ele>
+    <time>2014-04-25T15:21:05Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.105134" lon="1.639131">
+    <ele>1363.1</ele>
+    <time>2014-04-25T15:21:06Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.105881" lon="1.634642">
+    <ele>1353.0</ele>
+    <time>2014-04-25T15:21:06Z</time>
+    <name>TRENCALL</name>
+    <desc>TRENCALL</desc>
+  </wpt>
+  <wpt lat="42.108631" lon="1.629053">
+    <ele>1353.0</ele>
+    <time>2014-04-25T15:21:06Z</time>
+    <name>SERRAT DE LES GRALLES</name>
+    <desc>SERRAT DE LES GRALLES</desc>
+  </wpt>
+  <wpt lat="42.108287" lon="1.618816">
+    <ele>1253.0</ele>
+    <time>2014-04-25T15:21:07Z</time>
+    <name>EL CAPOLATELL</name>
+    <desc>EL CAPOLATELL</desc>
+  </wpt>
+  <wpt lat="42.088125" lon="1.666928">
+    <ele>812.9</ele>
+    <time>2014-04-25T15:21:08Z</time>
+    <name>COTA 813</name>
+    <desc>COTA 813</desc>
+  </wpt>
+  <wpt lat="42.084255" lon="1.672940">
+    <ele>737.9</ele>
+    <time>2014-04-25T15:21:08Z</time>
+    <name>PONT CRUÏLLA</name>
+    <desc>PONT CRUÏLLA</desc>
+  </wpt>
+  <wpt lat="42.095183" lon="1.632416">
+    <ele>1371.9</ele>
+    <time>2014-04-25T15:21:09Z</time>
+    <name>COLL D'ACCES AL PLA DE BUSA</name>
+    <desc>COLL D'ACCES AL PLA DE BUSA</desc>
+  </wpt>
+  <wpt lat="42.093083" lon="1.624160">
+    <ele>1448.1</ele>
+    <time>2014-04-25T15:21:09Z</time>
+    <name>LA GUÀRDIA</name>
+    <desc>LA GUÀRDIA</desc>
+  </wpt>
+  <trk>
+    <name>De Sant Cristòfol de Busa al Capolatell pel pla de Busa</name>
+    <desc>&lt;iframe height="315" src="https://www.youtube.com/embed/MrBe9RTqFF8"&gt;&lt;/iframe&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[CA] &lt;b&gt;De Sant Cristòfol de Busa al Capolatell pel pla de Busa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Es recorre el pla de Busa, a la serra del mateix nom, a través de prats i extensos boscos de pins. Des del mirador del Capolat, es gaudeix a més d'una àmplia panoràmica que abasta d'est a oest les serres d'Ensija i del Cadí, el Pedraforca, Guixers i els massissos més propers de la serra del Verd i del Port del Comte. L'església romànica de Sant Cristòfol de Busa, situada al centre del pla de Busa, afegeix el vessant cultural a la ruta.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Es parteix de l'església de Sant Cristòfol de Busa, a 1.375 m d'altitud. Per arribar-hi des de la C-149 de Solsona a Berga, cal anar al pont de Tentellatge i, un cop allà, agafar cap al N una pista que duu a Postils i la vall d'Ora. Als 7 km, en lloc d'anar a Sant Lleïr i Sant Pere de Graudescales seguint amunt el riu d'Aigua d'Ora, cal girar a l'esquerra en direcció a Busa, on s'arriba en 5 km. 1 km abans, es troba, en contradirecció, una pista que puja des de l'embassament de la Llosa del Cavall, així que s'ha de seguir ascendint per la pista de la dreta. 
+ 
+Per arribar-hi des de Solsona, es pren la carretera que, en direcció NE i resseguint el Cardener, es dirigeix a Sant Llorenç de Morunys. Un cop creuat l'embassament de la Llosa del Cavall i 2 km després del túnel, en el barranc de la Rasa de les Cases, on la carretera fa un revolt, es pren una pista de la dreta que es dirigeix a Busa. Pot estar en mal estat, especialment a l'inici, i ser només apta per a vehicles tot terreny. Cal no desviar-se de la pista principal i, en haver passat el coll d'Arques, on hi ha l'ermita de Sant Jaume, i voltat pel sud el tossal de la Guàrdia, es trenca a l'esquerra en forta pujada i, amb dos revolts, s'arriba al pla de Busa. La pista que segueix recte és la que s'ha proposat abans, que puja d'Aigua d'Ora i està en millor estat. Un cop s'és al Rial de Busa, cal seguir fins a Sant Cristòfol, on es deixa el cotxe. 
+ 
+0,00 km (1.375 m). Sant Cristòfol de Busa. Es comença caminant cap al SO desfent el camí d'arribada amb cotxe en lleugera baixada. Als 0,31 km (1.342 m), es torna a la pista d'accés i es gira a la dreta en direcció NO cap a la Vila. Es deixa un trencall a l'esquerra (km 0,54, 1.347 m). 
+ 
+0,74 km (1.354 m), 0 h 10 min. Es deixa un desviament a mà esquerra i s'accedeix al mas de la Vila. D'esquena a la Vila, s'observa davant (S) el Rial de Busa. Se segueix per la pista principal cap al NO deixant les cases a mà dreta. Més endavant, es deixen sengles trencalls a l'esquerra (km 0,97, 1.361 m i km 1,36, 1.352 m) i, al serrat de les Gralles (km 1,97, 1.350 m), el camí es converteix en un senderó de roca de conglomerat. 
+ 
+2,20 km (1.358 m), 0 h 30 min. El Capolat. Passat un estret coll, s'accedeix, en una curta ascensió, al Capolat. Aquí hi ha un esplèndid mirador amb un rètol indicatiu dels paratges que s'albiren i una bústia amb una llibreta on es poden anotar les impressions que les vistes provoquen. Més enllà, es careneja de baixada en direcció SO. 
+ 
+2,66 km (1.302 m), 0 h 40 min. Per un pont metàl·lic, es travessa el coll que ens separa del Capolatell. De seguida, i després de tres quarts d'hora, es corona el Capolatell (km 2,84, 1.325 m). Per tornar, es desfà el camí. 
+ 
+5,68 km (1.375 m), 1 h 30 min. Sant Cristòfol de Busa, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Sant Cristòfol de Busa al Capolatell por el llano de Busa&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Se recorre el llano de Busa, en la sierra del mismo nombre, a través de prados y extensos bosques de pinos. Desde el mirador del Capolat, se disfruta además de una amplia panorámica que abarca de este a oeste las sierras de Ensija y del Cadí, el Pedraforca, Guixers y los macizos más próximos de la sierra del Verd y del Port del Comte. La iglesia románica de Sant Cristòfol de Busa, situada en el centro del llano de Busa, añade la vertiente cultural a la ruta.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Se parte de la iglesia de Sant Cristòfol de Busa, a 1.375 m de altitud. Para llegar a este lugar desde la C-149 de Solsona a Berga, hay que ir al puente de Tentellatge y, una vez allí, tomar hacia el N una pista que lleva a Postils y al valle de Ora. A los 7 km, en lugar de ir a Sant Lleïr y Sant Pere de Graudescales siguiendo hacia arriba el río de Aigua d'Ora, hay que girar a la izquierda en dirección a Busa, adonde se llega en 5 km. 1 km antes, se encuentra, en contradirección, una pista que sube desde el embalse de la Llosa del Cavall, así que se debe seguir ascendiendo por la pista de la derecha. 
+ 
+Para llegar a Sant Cristòfol desde Solsona, se toma la carretera que, en dirección NE y siguiendo el Cardener, se dirige a Sant Llorenç de Morunys. Una vez cruzado el embalse de la Llosa del Cavall y 2 km después del túnel, en el barranco de la Rasa de les Cases, donde la carretera hace una curva, se toma una pista de la derecha que se dirige a Busa. Puede estar en mal estado, especialmente al principio, y ser sólo apta para vehículos todo terreno. No hay que desviarse de la pista principal y, al haber pasado el collado de Arques, donde está la ermita de Sant Jaume, y rodeado por el sur el cerro de la Guàrdia, se gira a la izquierda en fuerte subida y, con dos curvas, se llega al llano de Busa. La pista que sigue recto es la que se ha propuesto antes, que sube de Aigua d'Ora y está en mejor estado. Una vez se llega al Rial de Busa, hay que seguir hasta Sant Cristòfol, donde se deja el coche. 
+ 
+0,00 km (1.375 m). Sant Cristòfol de Busa. Se comienza caminando hacia el SO desandando el camino de llegada en coche en ligera bajada. A los 0,31 km (1.342 m), se vuelve a la pista de acceso y se gira a la derecha en dirección NO hacia la Vila. Se deja un desvío a la izquierda (km 0,54, 1.347 m). 
+ 
+0,74 km (1.354 m), 0 h 10 min. Se deja un desvío a mano izquierda y se accede a la masía de la Vila. De espaldas a la Vila, se observa delante (S) el Rial de Busa. Se sigue por la pista principal hacia el NO dejando las casas a mano derecha. Más adelante, se dejan sendos desvíos a la izquierda (km 0,97, 1.361 m y km 1,36, 1.352 m) y, en la loma de Les Gralles (km 1,97, 1.350 m), el camino se convierte en un sendero de roca de conglomerado. 
+ 
+2,20 km (1.358 m), 0 h 30 min. El Capolat. Pasado un estrecho collado, se accede, en una corta ascensión, al Capolat. Aquí hay un espléndido mirador con un rótulo indicativo de los parajes que se vislumbran y un buzón con una libreta donde se pueden anotar las impresiones que las vistas provocan. Más allá, se sigue de bajada por el cordal en dirección SO. 
+ 
+2,66 km (1.302 m), 0 h 40 min. Por un puente metálico, se atraviesa el collado que nos separa del Capolatell. Enseguida, y después de tres cuartos de hora, se corona el Capolatell (km 2,84, 1.325 m). Para volver, se desanda el camino. 
+ 
+5,68 km (1.375 m), 1 h 30 min. Sant Cristòfol de Busa, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Sant Cristòfol de Busa to El Capolatell through Busa plain&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;The route crosses Busa plain, in the sierra of the same name, through meadows and thick pine woods. From the Capolat viewpoint we can enjoy a splendid panorama from east to west of the Ensija and Cadí sierras, Pedraforca, Guixers, and the closer massifs of El Verd and El Port del Comte sierras. The Romanesque church of Sant Cristòfol de Busa, in the centre of Busa plain, provides the cultural interest of the route.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.102668" lon="1.646837">
+        <ele>1375.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102764" lon="1.646852">
+        <ele>1375.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102732" lon="1.646502">
+        <ele>1372.7</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102436" lon="1.645806">
+        <ele>1363.9</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101695" lon="1.645951">
+        <ele>1355.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101684" lon="1.645395">
+        <ele>1350.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101456" lon="1.645146">
+        <ele>1345.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101334" lon="1.644695">
+        <ele>1342.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102560" lon="1.643726">
+        <ele>1346.7</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102661" lon="1.643125">
+        <ele>1346.9</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.103964" lon="1.640915">
+        <ele>1356.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.104083" lon="1.640363">
+        <ele>1357.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.105019" lon="1.639575">
+        <ele>1361.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.106222" lon="1.632922">
+        <ele>1350.6</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.106849" lon="1.631457">
+        <ele>1349.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107185" lon="1.630216">
+        <ele>1348.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107426" lon="1.629914">
+        <ele>1349.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108218" lon="1.629772">
+        <ele>1344.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108595" lon="1.629015">
+        <ele>1350.6</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108375" lon="1.627361">
+        <ele>1339.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107295" lon="1.625896">
+        <ele>1324.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107001" lon="1.624269">
+        <ele>1315.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107136" lon="1.622392">
+        <ele>1310.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107694" lon="1.620856">
+        <ele>1308.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107529" lon="1.620569">
+        <ele>1307.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107880" lon="1.620092">
+        <ele>1325.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107529" lon="1.620569">
+        <ele>1307.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107694" lon="1.620856">
+        <ele>1308.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107136" lon="1.622392">
+        <ele>1310.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107001" lon="1.624269">
+        <ele>1315.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107295" lon="1.625896">
+        <ele>1324.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108375" lon="1.627361">
+        <ele>1339.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108595" lon="1.629015">
+        <ele>1350.6</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.108218" lon="1.629772">
+        <ele>1344.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107426" lon="1.629914">
+        <ele>1349.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.107185" lon="1.630216">
+        <ele>1348.8</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.106849" lon="1.631457">
+        <ele>1349.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.106222" lon="1.632922">
+        <ele>1350.6</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.105019" lon="1.639575">
+        <ele>1361.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.104083" lon="1.640363">
+        <ele>1357.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.103964" lon="1.640915">
+        <ele>1356.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102661" lon="1.643125">
+        <ele>1346.9</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102560" lon="1.643726">
+        <ele>1346.7</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101334" lon="1.644695">
+        <ele>1342.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101456" lon="1.645146">
+        <ele>1345.4</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101684" lon="1.645395">
+        <ele>1350.0</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.101695" lon="1.645951">
+        <ele>1355.3</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102436" lon="1.645806">
+        <ele>1363.9</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102732" lon="1.646502">
+        <ele>1372.7</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102764" lon="1.646852">
+        <ele>1375.1</ele>
+        <time>2006-01-20T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.102668" lon="1.646837">
+        <ele>1375.0</ele>
+        <time>2006-01-20T22:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

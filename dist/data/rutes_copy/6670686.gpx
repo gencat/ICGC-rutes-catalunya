@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.551459" lon="0.889291">
+    <ele>1622.1</ele>
+    <time>2014-04-25T15:20:01Z</time>
+    <name>Desviació de l'estany de Llebreta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.544611" lon="0.845810">
+    <ele>1382.9</ele>
+    <time>2014-04-25T15:20:04Z</time>
+    <name>Palanca de la Molina</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.544575" lon="0.866160">
+    <ele>1478.0</ele>
+    <time>2014-04-25T15:20:04Z</time>
+    <name>Palanca de Pei</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.543574" lon="0.849378">
+    <ele>1438.0</ele>
+    <time>2014-04-25T15:20:05Z</time>
+    <name>Barranc de les Boïgues</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.543340" lon="0.855486">
+    <ele>1452.1</ele>
+    <time>2014-04-25T15:20:05Z</time>
+    <name>Barranc del Pago</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.545758" lon="0.871238">
+    <ele>1521.9</ele>
+    <time>2014-04-25T15:20:06Z</time>
+    <name>Borda de Casòs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.547076" lon="0.875494">
+    <ele>1581.0</ele>
+    <time>2014-04-25T15:20:06Z</time>
+    <name>Borda de Gaspar</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.549885" lon="0.882761">
+    <ele>1659.9</ele>
+    <time>2014-04-25T15:20:08Z</time>
+    <name>Ermita de Sant Nicolau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.550241" lon="0.887302">
+    <ele>1624.9</ele>
+    <time>2014-04-25T15:20:08Z</time>
+    <name>Casa de l'Andorrà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.547194" lon="0.883601">
+    <ele>1620.0</ele>
+    <time>2014-04-25T15:20:09Z</time>
+    <name>Pont del riu de Sant Nicolau</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.546205" lon="0.882049">
+    <ele>1645.0</ele>
+    <time>2014-04-25T15:20:09Z</time>
+    <name>Cota 1645</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.550187" lon="0.889656">
+    <ele>1619.1</ele>
+    <time>2014-04-25T15:20:10Z</time>
+    <name>Estany de Llebreta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.542704" lon="0.838664">
+    <ele>1314.9</ele>
+    <time>2014-04-25T15:20:10Z</time>
+    <name>L-500</name>
+    <desc>L-500</desc>
+  </wpt>
+  <wpt lat="42.545094" lon="0.866792">
+    <ele>1489.9</ele>
+    <time>2014-04-25T15:20:11Z</time>
+    <name>Borda de Pei</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.551462" lon="0.891044">
+    <ele>1624.9</ele>
+    <time>2014-04-25T15:20:12Z</time>
+    <name>Pista d'Aigüestortes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.544768" lon="0.845348">
+    <ele>1382.9</ele>
+    <time>2014-04-25T15:20:12Z</time>
+    <name>Aparcament</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De la palanca de la Molina a l'estany de Llebreta per la vall de Sant Nicolau</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De la palanca de la Molina a l'estany de Llebreta per la vall de Sant Nicolau&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari que permet gaudir del vessant occidental del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, el primer i més important dels espais naturals protegits a Catalunya, de bellesa inigualable. El recorregut es pot complementar amb l'itinerari "De l'estany de Llebreta al Portarró d'Espot pels estanys Llong i Redó", amb la qual cosa s'obté una ruta llarga i espectacular.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Des del Pont de Suert, cal anar cap al N per la carretera N-230 i agafar a la dreta la L-500 en direcció a Caldes de Boí. Al voltant del punt quilomètric 17, hi ha una bifurcació: a mà dreta, per la L-501, s'arribaria al poble de Boí, on hi ha la Casa del Parc Nacional, centre d'informació obert de dilluns a diumenge durant tot l'any, així com el servei de taxis 4 x 4 que pugen cap al parc. Tanmateix, es continua recte a l'esquerra en direcció al balneari de Caldes. Poc abans d'arribar-hi, es pren un desviament a la dreta per agafar la pista que, en 0,9 km, porta al punt de control del parc situat a la palanca de la Molina i als aparcaments habilitats adjacents, des d'on se sortirà a peu. 
+ 
+0,00 km (1.383 m). Palanca de la Molina. Pas de control d'accés al parc nacional i punt d'informació. A partir d'aquest indret, solament poden continuar ribera amunt els vehicles autoritzats, entre ells els taxis. Es deixa el vehicle estacionat i es pren el camí senyalitzat que puja pel vessant obac de la vall de Sant Nicolau en direcció a llevant (SE/E) deixant la pista i el riu a l'esquerra (N). 
+ 
+0,34 km (1.425 m), 0 h 07 min. Es creua el barranc de les Boïgues, un afluent del riu de Sant Nicolau. El camí fa una mica de baixada en direcció a aquest riu i, seguidament, en remunta a llevant el curs seguint-lo de ben a prop. 
+ 
+1,80 km (1.479 m), 0 h 30 min. Bifurcació del camí a la palanca de la Borda de Pei. Es pren el brancal de l'esquerra (N); després es tornarà pel de la dreta. Es travessa el riu de Sant Nicolau per la palanca de Pei i es continua remuntant la vall cap al NE per la solana mantenint-lo a la dreta (S). Poc després, i sempre seguint els senyals, es deixa la borda de Casòs a l'esquerra, es creua la pista cimentada i s'arriba, en uns tres quarts d'hora, a la borda d'en Gaspar (km 2,72, 1.582 m). Es prossegueix en la mateixa direcció (NE), es creua un rierol i es continua seguint sempre les marques grogues. 
+ 
+3,48 km (1.663 m), 1 h 05 min. Borda de Ramon i ermita de Sant Nicolau. Es continua en direcció NE, es deixa un trencall a l'esquerra (N) i, fent una ziga-zaga en baixada, se surt a la pista que solca la vall just al costat de l'estany de Llebreta. 
+ 
+4,23 km (1.621 m), 1 h 15 min. Planell de Llebreta i estany homònim. Es canvia el sentit de la marxa girant a la dreta (SO) per la pista tot seguint la riba occidental de l'estany i passant pel costat del xalet de l'Andorrà. Al final de l'estany, es deixa la pista cimentada (km 4,93, 1620 m), es travessa el riu a migdia i es pren un camí a la dreta (SO) que fa una petita pujada de 25 m de desnivell fins a un petit planell, la pleta del Pago (km 5,14, 1.645 m). Després, es descendeix per la riba esquerra del riu fins a retrobar la palanca de Pei (km 6,52, 1.479 m), des d'on es desfà el camí de l'anada. 
+ 
+8,30 km (1.383 m), 2 h 15 min. Aparcament al costat de la palanca de la Molina, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De la palanca de la Molina al lago de Llebreta por el valle de Sant Nicolau&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario que permite disfrutar de la vertiente occidental del Parque Nacional de Aigüestortes i Estany de Sant Maurici, el primero y más importante de los espacios naturales protegidos en Catalunya, de belleza inigualable. El recorrido se puede complementar con el itinerario "Del lago de Llebreta el Portarró de Espot por los lagos Llong y Redó", con lo cual se obtiene una ruta larga y espectacular.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Desde el Pont de Suert, hay que ir hacia el N por la carretera N-230 y tomar a la derecha la L-500 en dirección a Caldes de Boí. Alrededor del punto kilométrico 17, hay una bifurcación: a la derecha, por la L-501, se llegaría al pueblo de Boí, donde está la Casa del Parc Nacional, centro de información abierto de lunes a domingo durante todo del año, así como el servicio de taxis 4 x 4 que suben hacia el parque. Sin embargo, se sigue recto a la izquierda en dirección al balneario de Caldes. Poco antes de llegar, se toma un desvío a la derecha para coger la pista que, en 0,9 km, lleva al punto de control del parque situado en la palanca de la Molina y los aparcamientos habilitados adyacentes, desde donde se saldrá a pie. 
+ 
+0,00 km (1.383 m). Palanca de la Molina. Paso de control de acceso al parque nacional y punto de información. A partir de este lugar, sólo pueden continuar ribera arriba los vehículos autorizados, entre ellos los taxis. Se deja el vehículo estacionado y se toma el camino señalizado que sube por la ladera umbría del valle de Sant Nicolau en dirección SE/E dejando la pista y el río a la izquierda (N). 
+ 
+0,34 km (1.425 m), 0 h 07 min. Se cruza el barranco de Les Boïgues, un afluente del río de Sant Nicolau. El camino hace un poco de bajada en dirección a este río y, seguidamente, remonta a levante siguiéndolo de cerca. 
+ 
+1,80 km (1.479 m), 0 h 30 min. Bifurcación del camino en la palanca de la Borda de Pei. Se toma el ramal de la izquierda (N); después se volverá por el de la derecha. Se cruza el río de Sant Nicolau por la palanca de Pei y se continúa remontando el valle hacia el NE por la solana manteniéndolo a la derecha (S). Poco después, y siempre siguiendo las señales, se deja la borda de Casòs a la izquierda, se cruza la pista de cemento y se llega, en unos tres cuartos de hora, a la borda de En Gaspar (km 2,72, 1.582 m). Se prosigue en la misma dirección (NE), se cruza un arroyo y se continúa siguiendo siempre las marcas amarillas. 
+ 
+3,48 km (1.663 m), 1 h 05 min. Borda de Ramon y ermita de Sant Nicolau. Se continúa en dirección NE, se deja un desvío a la izquierda (N) y, haciendo un zigzag en bajada, se sale a la pista que surca el valle justo al lado del lago de Llebreta. 
+ 
+4,23 km (1.621 m), 1 h 15 min. Llano de Llebreta y lago homónimo. Se cambia el sentido de la marcha girando a la derecha (SO) por la pista siguiendo la orilla occidental del lago y pasando junto al chalet de L'Andorrà. Al final del lago, se deja la pista de cemento (km 4,93, 1.620 m), se cruza el río a mediodía y se toma un camino a la derecha (SO) que hace una pequeña subida de 25 m de desnivel hasta un pequeño llano, el aprisco del Pago (km 5,14, 1.645 m). Luego, se desciende por la orilla izquierda del río hasta reencontrar la palanca de Pei (km 6,52, 1.479 m), desde donde se desanda el camino de la ida. 
+ 
+8,30 km (1.383 m), 2 h 15 min. Aparcamiento junto a la palanca de la Molina, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From La palanca de la Molina to Llebreta Lake through Sant Nicolau valley&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;This itinerary enables you to enjoy the western slopes of the Aigüestortes National Park and Sant Maurici Lake, the first and most important nature reserve in Catalonia and one of unequalled beauty. This itinerary can be complemented with the tour "De l'estany de Llebreta al portarró d'Espot pels estanys Llong i Redó", in this way you'll get a spectacular long route.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/08/16&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.544584" lon="0.845812">
+        <ele>1382.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544296" lon="0.846095">
+        <ele>1392.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543584" lon="0.848013">
+        <ele>1425.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543691" lon="0.849398">
+        <ele>1424.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543598" lon="0.849931">
+        <ele>1430.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544037" lon="0.852479">
+        <ele>1440.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543716" lon="0.853818">
+        <ele>1442.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543844" lon="0.854867">
+        <ele>1433.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543580" lon="0.855640">
+        <ele>1439.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543265" lon="0.857973">
+        <ele>1444.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543794" lon="0.861200">
+        <ele>1462.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543595" lon="0.862150">
+        <ele>1466.3</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543782" lon="0.864446">
+        <ele>1477.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544475" lon="0.866115">
+        <ele>1479.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544713" lon="0.866307">
+        <ele>1479.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544963" lon="0.867164">
+        <ele>1484.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544781" lon="0.868515">
+        <ele>1492.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544411" lon="0.869429">
+        <ele>1499.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544409" lon="0.869831">
+        <ele>1498.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544684" lon="0.870838">
+        <ele>1506.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.545236" lon="0.871684">
+        <ele>1512.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.545849" lon="0.871986">
+        <ele>1524.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.546007" lon="0.872212">
+        <ele>1530.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.546351" lon="0.874039">
+        <ele>1558.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.547742" lon="0.876470">
+        <ele>1582.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548041" lon="0.877520">
+        <ele>1594.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548540" lon="0.877954">
+        <ele>1611.3</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548290" lon="0.878340">
+        <ele>1618.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548369" lon="0.879421">
+        <ele>1639.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548657" lon="0.879941">
+        <ele>1648.2</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548802" lon="0.880673">
+        <ele>1653.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549126" lon="0.881185">
+        <ele>1661.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549255" lon="0.882088">
+        <ele>1661.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549824" lon="0.882909">
+        <ele>1664.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549973" lon="0.883903">
+        <ele>1668.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550246" lon="0.884296">
+        <ele>1665.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550443" lon="0.885208">
+        <ele>1660.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550061" lon="0.884771">
+        <ele>1657.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549941" lon="0.884854">
+        <ele>1655.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550141" lon="0.885194">
+        <ele>1652.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550460" lon="0.886614">
+        <ele>1638.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550840" lon="0.887460">
+        <ele>1637.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.551318" lon="0.887730">
+        <ele>1635.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.551469" lon="0.888121">
+        <ele>1631.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.551445" lon="0.889230">
+        <ele>1620.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.550599" lon="0.888540">
+        <ele>1619.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549971" lon="0.887697">
+        <ele>1620.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549524" lon="0.886396">
+        <ele>1620.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.549090" lon="0.886314">
+        <ele>1621.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548550" lon="0.885833">
+        <ele>1620.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548297" lon="0.885037">
+        <ele>1620.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.548047" lon="0.884887">
+        <ele>1620.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.547629" lon="0.884201">
+        <ele>1620.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.547529" lon="0.883705">
+        <ele>1619.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.547274" lon="0.883543">
+        <ele>1619.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.547026" lon="0.883741">
+        <ele>1624.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.546818" lon="0.883480">
+        <ele>1631.2</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.546071" lon="0.881764">
+        <ele>1644.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.545289" lon="0.878940">
+        <ele>1601.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.545231" lon="0.876050">
+        <ele>1542.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544715" lon="0.874204">
+        <ele>1527.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544480" lon="0.872179">
+        <ele>1521.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544112" lon="0.871266">
+        <ele>1515.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543884" lon="0.869672">
+        <ele>1508.3</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543978" lon="0.868208">
+        <ele>1498.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544312" lon="0.867502">
+        <ele>1489.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544490" lon="0.866224">
+        <ele>1479.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543873" lon="0.864759">
+        <ele>1478.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543696" lon="0.863949">
+        <ele>1477.3</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543595" lon="0.862150">
+        <ele>1466.3</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543794" lon="0.861200">
+        <ele>1462.6</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543265" lon="0.857973">
+        <ele>1444.9</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543580" lon="0.855640">
+        <ele>1439.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543844" lon="0.854867">
+        <ele>1433.1</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543716" lon="0.853818">
+        <ele>1442.4</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544037" lon="0.852479">
+        <ele>1440.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543598" lon="0.849931">
+        <ele>1430.0</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543691" lon="0.849398">
+        <ele>1424.5</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.543584" lon="0.848013">
+        <ele>1425.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544296" lon="0.846095">
+        <ele>1392.8</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.544584" lon="0.845812">
+        <ele>1382.7</ele>
+        <time>2005-07-19T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.276696" lon="0.841115">
+    <ele>1157.0</ele>
+    <time>2019-08-04T07:33:32Z</time>
+    <name>Font dels Capellans</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.285826" lon="0.843478">
+    <ele>1199.0</ele>
+    <time>2019-08-04T07:56:35Z</time>
+    <name>Espluga de Serra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.285916" lon="0.846350">
+    <ele>1239.0</ele>
+    <time>2019-08-04T08:06:48Z</time>
+    <name>Corriol al SE</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.285234" lon="0.847889">
+    <ele>1281.0</ele>
+    <time>2019-08-04T08:32:42Z</time>
+    <name>Atenció als senyals</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.282973" lon="0.851816">
+    <ele>1420.0</ele>
+    <time>2019-08-04T09:10:52Z</time>
+    <name>Parets de Costa Cirera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.278192" lon="0.854543">
+    <ele>1545.0</ele>
+    <time>2019-08-04T10:18:19Z</time>
+    <name>Coll de Serradell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.270803" lon="0.853502">
+    <ele>1631.0</ele>
+    <time>2019-08-04T11:11:45Z</time>
+    <name>Filat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.253451" lon="0.840551">
+    <ele>1474.0</ele>
+    <time>2019-08-04T12:10:12Z</time>
+    <name>Collada de Castellet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.260296" lon="0.832056">
+    <ele>1157.0</ele>
+    <time>2019-08-04T13:01:35Z</time>
+    <name>Filat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.262954" lon="0.827125">
+    <ele>1089.0</ele>
+    <time>2019-08-04T13:10:14Z</time>
+    <name>Borda de Sant Feliu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.269007" lon="0.828875">
+    <ele>1077.0</ele>
+    <time>2019-09-09T12:04:34Z</time>
+    <name>Camí d'Orrit a Castellet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.272822" lon="0.831242">
+    <ele>1086.0</ele>
+    <time>2019-09-09T12:05:16Z</time>
+    <name>Drecera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.273537" lon="0.834529">
+    <ele>1128.0</ele>
+    <time>2019-09-09T12:05:25Z</time>
+    <name>Drecera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.285510" lon="0.843210">
+    <ele>1197.0</ele>
+    <time>2019-09-09T12:05:57Z</time>
+    <name>Església de Santa Maria</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>La Terreta. Serra del Castellet</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;La Terreta. Serra del Castellet&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Un itinerari relativament curt i assequible als excursionistes mitjans que discorre entre els sorprenents relleus verticals de la serra de Castellet, situada al vessant llevantí de la Terreta. La Terreta és un conjunt de valls tributàries de la Noguera Ribagorçana esteses entre les serres de Sant Gervàs, al nord, i els contraforts del Montsec, al sud. Administrativament, està repartida entre la comarca catalanoparlant de la Baixa Ribagorça aragonesa i el Pallars Jussà. Aquesta part està integrada al municipi de Tremp tot i que la capital n’està allunyada i separada pels intricats relleus de les serres de Lleràs i Castellet. Veritable subcomarca de prop de 250 km2, compta amb un total de 15 nuclis, alguns d’abandonats. Té com a centres les viles d’Areny de Noguera, el Pont de Montanyana, al S, i el de Sopeira, al N, que concentren gran part de la població en contrast amb la desolació de les zones muntanyoses. L’economia és mig agrícola i mig ramadera. La seva situació geogràfica i l’escàs poblament propicien la presència de tota mena de rapinyaires; d’aquí el nom de la Vall dels Voltors.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;L’inici de l’excursió és al poble d’Espluga de Serra, el més oriental de la Terreta. S’hi pot arribar des del Pont d’Orrit pel trencall que surt del punt Km 101,2 de la carretera general N-230 entre Pont de Muntanyana i Sopeira. Una pista en bones condicions (asfaltada en bona part) travessa cap a llevant deixant a l’esquerra els accessos a Sapeira i al Castellet (14,9 km). També s’hi accedeix des de més al nord, pel trencall a la Torre de Tamúrcia que surt del punt Km 103 de la N-230 (pista asfaltada de 12,5 km). 
+ 
+Si es disposa de dos vehicles se’n pot deixar un al punt de trobada del camí del coll de Castellet amb la pista d’Espluga i estalviar-se cinquanta minuts de camí per pista (tot i que el paisatge no és gens monòton). 
+ 
+0,00 km (1.198 m). Espluga de Serra. Des de l’angle septentrional del camp d’esports adjunt a l’escola CEIP d’Espluga es pren un camí senyalitzat (banderoles direccionals i punts grocs de confirmació, presents durant tot el recorregut) que es dirigeix a l’est vorejant la zona esportiva. Es deixa un primer trencall a l’esquerra i s’arriba a un revolt pronunciat on hi ha una altra desviació (0,34 km). Es continua cap a la dreta. A partir d’aquest punt el camí s’estreny i puja amb força cap al SE, dirigint-se a la base de les imponents parets de Costa Cirera. Cal estar atents als senyals grocs i travessar perpendicularment un camí que planeja pel bosc de la serra. 
+ 
+A partir d’aquí és fàcil de veure els rapinyaires que poblen aquests serrats: el voltor comú, l’aufrany, el trencalòs (menys freqüent), el falcó pelegrí, el duc, l’àguila marcenca, l’àguila daurada, l’àguila calçada, l’aligot o el xoriguer comú. 
+ 
+0,99 km (1.378 m), 30 min. S’és a tocar de la paret ponentina del serrat de Costa Cirera, més de cent metres de verticalitat s’aixequen sobre el cap del caminant. El camí gira al nord per vorejar el balç per un punt favorable. Es gira a llevant i, després, al sud. 
+ 
+1,78 km (1.549 m), 57 min. S’és al llom carener de Costa Cirera, on es troba el camí que prové de la serra d’Estall. Es continua cap al S seguint les suaus ondulacions de la carena. Més enllà es deixa a l’esquerra (E) una desviació que baixa a la vall de Serradell, es travessa una línia d’alta tensió, es passa el coll de Serradell (1.545 m) i es continua cap al sud. Espectaculars vistes cap a la Terreta i la serra de Castellet, a ponent, i la vall de Serradell, a llevant. Més enllà es passa el collet de la coma del Morral, on es deixa a la dreta una desviació del camí forestal que després es retrobarà. 
+ 
+3,16 km (1.625 m), 1 h 22 min. Filat de bestiar. S’és sota el pic de Lleràs, de 1.692 m, el més alt d’aquesta serra. Es deixa el crestall de la carena i es voreja el cim pel cantó de ponent, seguint el camí senyalitzat. S’entra a la serra de Castellet, d’espectacular relleu, i es va baixant lentament passant per costat de la Roca Lleuda i el Caramell, ambdós punts situats a ponent del camí. Per llevant conflueixen diverses pistes que provenen de la vall de Serradell. 
+ 
+5,73 km (1.472m), 1 h 57 min. Collada de Castellet. Pas entre les valls de la Noguera Ribagorçana i de la Pallaresa. S’abandona la carena i es pren el trencall de la dreta (O), un vell camí de bast. Després d’un centenar de metres bastants suaus comença un pronunciat i sinuós descens, a cops incòmode, en direcció O. Els trams sota bosc s’alternen amb clarianes i el camí es va orientant cap al NO. Finalment s’arriba al fons del barranc, es creua i es rodegen per sota els cingles del serrat del Mall, coronats per la imponent Roca de la Pedregó (1.379m). 
+ 
+El camí gira cap a la dreta (N) i s’obren les vistes cap a les Roques de Castellet, un altre conjunt d’espectaculars conglomerats montserratins, en aquest cas coronats per la Roca-espasa del Castellet (1.455m) i la Roca Foradada (1.444m). En aquestes roques hi viu una important colònia de rapinyaires. Ja més avall el camí s’aplana, creua el barranc de l’Espigolar (6,95 km, 1.175 m) i s’entra a la zona de conreus (filats i bordes de Sant Feliu). Es creua el barranc del Clot del Roure (8,10 km, 1.081 m), ample, caòtic i rocallós, que baixa impetuós de les Canals. Cal girar una mica cap amunt per trobar el punt de pas favorable. El camí, ara totalment planer, s’endinsa a la roureda del Castell Tallat. 
+ 
+8,55 km (1.077 m), 2 h, 45 min. Se surt a la pista que comunica el Pont d’Orrit amb Espluga de Serra, que cal prendre cap a la dreta (NNE). Després d’uns 300 m es deixa a la dreta, sobre el camí, la capelleta de Sant Isidre i, una mica més enllà, el trencall del camí que es dirigeix al Castellet i a Aulàs. 
+ 
+Es continua per la pista parant compte a les dues dreceres del vell camí de Sapeira a l’Espluga que eviten llaçades innecessàries. La primera surt del revolt de la pista quan gira a ponent cap a Castellet (km 9,07 del recorregut); la segona, una mica més enllà després de la retrobada amb la pista (punt 9,40 km). Més enllà es passa l’ombrívola i fresca raconada de la font dels Capellans (10,63 km, 1.157 m). En suau pujada s’arriba al punt d’inici de l’excursió. 
+ 
+12,00 km (1.198 m), 3 h 40 min. Espluga de Serra. Final del recorregut. 
+ 
+Si es disposa de temps cal visitar el Casal dels Voltors de la Torre de Tamúrcia i la roureda d’Aulàs, un bosc allargassat, la rovira plana més extensa de Catalunya, amb un pendent suau que baixa cap a ponent i travessada per diversos barrancs. La roureda ha estat tradicionalment explotada per al carboneig, amb el seu punt àlgid a finals del segle XIX. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+  
+&lt;p&gt;[ES] &lt;b&gt;La Terreta. Sierra de El Castellet&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Un itinerario relativamente corto y asequible para los excursionistas medianos que discurre entre los sorprendentes relieves verticales de la sierra de El Castellet, situada en la vertiente levantina de la Terreta. La Terreta es un conjunto de valles tributarios del río Noguera Ribagorçana extendido entre las sierras de Sant Gervàs, al norte, y los contrafuertes del Montsec, en el sur. Administrativamente, está repartida entre la comarca catalanohablante de la Ribagorza aragonesa y el Pallars Jussà. Esta parte está integrada en el municipio de Tremp aunque la capital está alejada y separada por los intrincados relieves de las sierras de Lleràs y Castellet. Verdadera subcomarca de cerca de 250 km2, cuenta con un total de 15 núcleos, algunos abandonados. Tiene como centros las villas de Areny, el Pont de Montanya, al S, y el de Sopeira, al N, que concentran gran parte de la población en contraste con la desolación de las zonas montañosas. La economía es medio agrícola y medio ganadera. Su situación geográfica y el escaso poblamiento propician la presencia de todo tipo de rapaces; de ahí el nombre de Vall dels Voltors (Valle de los Buitres).&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El inicio de la excursión está en el pueblo de Espluga de Serra, el más oriental de la Terreta. Se puede llegar desde El Pont d’Orrit por el desvío que sale del punto Km 101,2 de la carretera general N-230 entre Pont de Montanyana y Sopeira. Una pista en buenas condiciones (asfaltada en buena parte) se adentra hacia levante dejando a la izquierda los accesos a Sapeira y El Castellet (14,9 km). También se accede desde más al norte, por el desvío a la Torre de Tamúrcia que sale del punto Km 103 de la N-230 (pista asfaltada de 12,5 km). 
+ 
+Si se dispone de dos vehículos se puede dejar uno en el punto de encuentro del camino del cuello de Castellet con la pista de Espluga y ahorrarse cincuenta minutos de camino por pista (aunque el paisaje no es nada monótono). 
+ 
+0,00 km (1.198 m). Espluga de Serra. Desde el ángulo septentrional del campo de deportes adjunto a la escuela CEIP de Espluga se toma un camino señalizado (banderolas direccionales y puntos amarillos de confirmación, presentes durante todo el recorrido) que se dirige al este bordeando la zona deportiva. Se deja un primer desvío a la izquierda y se llega a una curva pronunciada donde hay otra desviación (0,34 km). Se continúa hacia la derecha. A partir de este punto el camino se estrecha y sube con fuerza hacia el SE, dirigiéndose a la base de las imponentes paredes de Costa Cirera. Hay que estar atentos a las señales amarillas y atravesar perpendicularmente un camino que planea por el bosque de la sierra. 
+ 
+A partir de aquí es fácil de ver las rapaces que pueblan estos montes: el buitre común, el alimoche, el quebrantahuesos (es menos frecuente), el halcón peregrino, el búho real, el águila culebrera, el águila real, el águila calzada, el ratonero o el cernícalo común. 
+ 
+0,99 km (1.378 m), 30 min. Se está junto a la pared de la sierra de Costa Cirera, más de cien metros de verticalidad se levantan sobre la cabeza del caminante. El sendero gira al norte para bordear el abismo por un punto favorable. Se gira a levante y, después, hacia el sur. 
+ 
+1,78 km (1.549 m), 57 min. Se está en el lomo divisorio de Costa Cirera, donde se encuentra el camino que proviene de la sierra de Estall. Se continúa hacia el S siguiendo las suaves ondulaciones de la cresta. Más allá se deja a la izquierda (E) un desvío que baja al valle de Serradell, se atraviesa una línea de alta tensión, se pasa el cuello de Serradell (1.545 m) y se continúa hacia el sur. Espectaculares vistas hacia la Terreta y la sierra de Castellet, a poniente, y al valle de Serradell, a levante. Más allá se pasa el collado de la Coma del Morral, donde se deja a la derecha un desvío del camino forestal que luego se reencontrará. 
+ 
+3,16 km (1.625 m), 1 h 22 min. Alambre de ganado. Se está bajo el pico de Lleràs, de 1.692 m, el más alto de esta sierra. Se deja la cresta y se bordea la cima por el lado de poniente, siguiendo el camino señalizado. Se entra en la sierra de Castellet, de espectacular relieve, y se va bajando lentamente pasando por lado de la Roca Lleuda y El Caramell, ambos puntos situados a poniente del camino. Por levante confluyen varias pistas que provienen del valle de Serradell. 
+ 
+5,73 km (1.472m), 1 h 57 min. Collada de Castellet. Paso entre los valles de la Noguera Ribagorçana y de la Pallaresa. Se abandona la cresta y se toma el desvío de la derecha (O), un viejo camino de herradura. Después de un centenar de metros bastantes suaves empieza un pronunciado y sinuoso descenso, a veces incómodo, en dirección O. Los tramos bajo bosque alternan con claros y el camino se va orientando hacia el NO. Finalmente se llega al fondo del barranco, se cruza y se rodean por debajo los riscos de la sierra de El Mall, coronados por la imponente Roca de la Pedregó (1.379m). 
+ 
+El camino gira hacia la derecha (N) y se abren las vistas hacia las Roques de Castellet, otro conjunto de espectaculares conglomerados montserratinos, en este caso coronados por la punta de Roca-espasa del Castellet (1.455m) y la Roca Foradada (1.444m). En estas rocas vive una importante colonia de rapaces. Ya más abajo el camino se allana, cruza el barranco de L’Espigolar (6,95 km, 1.175 m) y se entra en la zona de cultivos (alambres y Bordes de Sant Feliu). Se cruza el barranco de El Clot del Roure (8,10 km, 1.081 m), ancho, caótico y rocoso, que baja impetuoso de Les Canals. Hay que girar un poco hacia arriba para encontrar el punto de paso favorable. El camino, ahora totalmente llano, se adentra en el robledal del Castell Tallat. 
+ 
+8,55 km (1.077 m), 2 h, 45 min. Se sale a la pista que comunica El Pont d’Orrit con Espluga de Serra, que hay que tomar hacia la derecha (NNE). Después de unos 300 m se deja a la derecha, sobre el camino, la capillita de Sant Isidre y, un poco más allá, el desvío del camino que se dirige a Castellet y Aulàs. 
+ 
+Se continúa por la pista. Atención a dos atajos del viejo camino de Sapeira a Espluga que evitan lazadas innecesarias. La primera sale de la curva de la pista cuando gira a poniente, hacia Castellet (km 9,07 del recorrido); la segunda, un poco más allá después del reencuentro con la pista (punto 9,40 km). Más lejos se pasa el umbrío i fresco rincón de la fuente de Els Capellans (10,63 km, 1.157 m). En suave subida se llega al punto de inicio de la excursión. 
+ 
+12,00 km (1.198 m), 3 h 40 min. Espluga de Serra. Final del recorrido. 
+ 
+Si se dispone de tiempo hay que visitar el Casal dels Voltors de la Torre de Tamúrcia y el robledal de Aulàs, un bosque alargado, el robledo llano más extenso de Cataluña, con una pendiente suave que baja hacia poniente y atravesado por varios barrancos. Ha sido tradicionalmente explotado para el carboneo, con su punto álgido a finales del siglo XIX. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/09/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.285844" lon="0.843502">
+        <ele>1198.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285904" lon="0.844052">
+        <ele>1203.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285761" lon="0.844572">
+        <ele>1208.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285557" lon="0.844749">
+        <ele>1211.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285102" lon="0.845929">
+        <ele>1223.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285939" lon="0.846355">
+        <ele>1239.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285697" lon="0.846679">
+        <ele>1249.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285463" lon="0.847657">
+        <ele>1270.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285232" lon="0.847845">
+        <ele>1276.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285246" lon="0.848798">
+        <ele>1302.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284628" lon="0.849238">
+        <ele>1316.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284206" lon="0.849974">
+        <ele>1326.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283853" lon="0.850168">
+        <ele>1335.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283907" lon="0.850403">
+        <ele>1338.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283775" lon="0.850565">
+        <ele>1342.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283953" lon="0.850674">
+        <ele>1347.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283903" lon="0.850876">
+        <ele>1352.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283354" lon="0.851161">
+        <ele>1357.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283270" lon="0.851467">
+        <ele>1364.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.282941" lon="0.851673">
+        <ele>1378.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283548" lon="0.851670">
+        <ele>1397.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284152" lon="0.851904">
+        <ele>1429.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284518" lon="0.852474">
+        <ele>1443.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284483" lon="0.852766">
+        <ele>1443.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284080" lon="0.853393">
+        <ele>1448.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284318" lon="0.853797">
+        <ele>1459.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284093" lon="0.853817">
+        <ele>1463.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284578" lon="0.854678">
+        <ele>1490.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284639" lon="0.855271">
+        <ele>1500.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284482" lon="0.855337">
+        <ele>1514.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283898" lon="0.854932">
+        <ele>1517.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.281505" lon="0.855492">
+        <ele>1551.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.281010" lon="0.855739">
+        <ele>1551.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.280001" lon="0.855713">
+        <ele>1537.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.279153" lon="0.854917">
+        <ele>1547.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.278595" lon="0.854893">
+        <ele>1546.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.278062" lon="0.854415">
+        <ele>1546.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277370" lon="0.854245">
+        <ele>1541.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.276646" lon="0.853833">
+        <ele>1552.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.275310" lon="0.852665">
+        <ele>1589.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.274185" lon="0.852716">
+        <ele>1583.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273155" lon="0.853017">
+        <ele>1589.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.271464" lon="0.853827">
+        <ele>1626.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.270814" lon="0.853515">
+        <ele>1630.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.270042" lon="0.852535">
+        <ele>1643.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.269829" lon="0.851232">
+        <ele>1657.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.267862" lon="0.851281">
+        <ele>1652.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.267156" lon="0.851081">
+        <ele>1650.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.266739" lon="0.850713">
+        <ele>1648.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.266180" lon="0.849671">
+        <ele>1647.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.265211" lon="0.848922">
+        <ele>1626.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.262458" lon="0.848786">
+        <ele>1592.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.261538" lon="0.848223">
+        <ele>1588.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.260414" lon="0.847873">
+        <ele>1580.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259442" lon="0.848094">
+        <ele>1583.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258989" lon="0.847740">
+        <ele>1582.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258516" lon="0.847738">
+        <ele>1569.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257945" lon="0.846812">
+        <ele>1547.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257325" lon="0.846366">
+        <ele>1547.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256002" lon="0.846405">
+        <ele>1545.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256253" lon="0.845167">
+        <ele>1538.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256148" lon="0.844582">
+        <ele>1533.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.255596" lon="0.843292">
+        <ele>1522.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.255113" lon="0.842709">
+        <ele>1514.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254794" lon="0.841326">
+        <ele>1498.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253956" lon="0.841118">
+        <ele>1484.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253501" lon="0.840630">
+        <ele>1472.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253383" lon="0.839202">
+        <ele>1470.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.252951" lon="0.838922">
+        <ele>1463.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.252831" lon="0.836817">
+        <ele>1413.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.252966" lon="0.836807">
+        <ele>1407.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253005" lon="0.836272">
+        <ele>1390.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.253605" lon="0.835167">
+        <ele>1352.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254289" lon="0.834671">
+        <ele>1328.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254614" lon="0.834193">
+        <ele>1314.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.254947" lon="0.834200">
+        <ele>1297.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.255199" lon="0.833967">
+        <ele>1291.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.255571" lon="0.834081">
+        <ele>1284.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256118" lon="0.833499">
+        <ele>1255.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256271" lon="0.833512">
+        <ele>1246.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256349" lon="0.833352">
+        <ele>1243.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256445" lon="0.833439">
+        <ele>1240.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256501" lon="0.833292">
+        <ele>1239.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256619" lon="0.833361">
+        <ele>1235.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256646" lon="0.833093">
+        <ele>1230.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.256956" lon="0.833289">
+        <ele>1214.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257033" lon="0.833098">
+        <ele>1213.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257158" lon="0.833276">
+        <ele>1208.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257299" lon="0.833083">
+        <ele>1203.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257512" lon="0.833433">
+        <ele>1192.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.257952" lon="0.833103">
+        <ele>1182.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258026" lon="0.833391">
+        <ele>1175.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.258173" lon="0.833456">
+        <ele>1171.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259454" lon="0.832252">
+        <ele>1155.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259628" lon="0.831931">
+        <ele>1152.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.259731" lon="0.832127">
+        <ele>1151.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.260341" lon="0.832033">
+        <ele>1156.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.261647" lon="0.828178">
+        <ele>1105.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.263158" lon="0.827646">
+        <ele>1102.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.264046" lon="0.827700">
+        <ele>1103.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.265600" lon="0.828241">
+        <ele>1081.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.265793" lon="0.828452">
+        <ele>1081.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.265714" lon="0.828782">
+        <ele>1086.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.266765" lon="0.828667">
+        <ele>1088.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.268563" lon="0.829182">
+        <ele>1083.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.269007" lon="0.828875">
+        <ele>1077.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.269393" lon="0.829293">
+        <ele>1077.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.269451" lon="0.829757">
+        <ele>1074.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.269890" lon="0.829639">
+        <ele>1077.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.270377" lon="0.830114">
+        <ele>1081.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.270948" lon="0.830082">
+        <ele>1081.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.271350" lon="0.830523">
+        <ele>1082.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.271558" lon="0.831068">
+        <ele>1084.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272104" lon="0.830637">
+        <ele>1082.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272881" lon="0.831253">
+        <ele>1086.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272958" lon="0.831784">
+        <ele>1094.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273514" lon="0.832359">
+        <ele>1108.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273701" lon="0.834402">
+        <ele>1123.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273294" lon="0.834804">
+        <ele>1138.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273048" lon="0.836043">
+        <ele>1154.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272736" lon="0.836479">
+        <ele>1150.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272632" lon="0.836925">
+        <ele>1155.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.272823" lon="0.837015">
+        <ele>1154.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273291" lon="0.836514">
+        <ele>1152.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273706" lon="0.836561">
+        <ele>1155.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.273891" lon="0.837088">
+        <ele>1156.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.274259" lon="0.837009">
+        <ele>1160.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.274677" lon="0.837698">
+        <ele>1166.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.275607" lon="0.836635">
+        <ele>1161.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277061" lon="0.837095">
+        <ele>1161.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277270" lon="0.837445">
+        <ele>1157.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277522" lon="0.839068">
+        <ele>1156.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.276638" lon="0.840923">
+        <ele>1156.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277184" lon="0.841699">
+        <ele>1159.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277619" lon="0.841842">
+        <ele>1161.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.277918" lon="0.841728">
+        <ele>1156.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.278401" lon="0.841997">
+        <ele>1157.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.278922" lon="0.842440">
+        <ele>1161.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.279055" lon="0.842793">
+        <ele>1160.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.279423" lon="0.842714">
+        <ele>1161.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.279798" lon="0.843532">
+        <ele>1167.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.280631" lon="0.843771">
+        <ele>1167.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.281207" lon="0.844479">
+        <ele>1165.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.281555" lon="0.844303">
+        <ele>1166.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.281745" lon="0.843642">
+        <ele>1172.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.282137" lon="0.843143">
+        <ele>1172.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283162" lon="0.842829">
+        <ele>1178.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.283729" lon="0.843307">
+        <ele>1176.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284325" lon="0.844366">
+        <ele>1182.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284355" lon="0.844741">
+        <ele>1186.0</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.284644" lon="0.845041">
+        <ele>1188.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285228" lon="0.843912">
+        <ele>1197.9</ele>
+        <time>2019-09-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.285822" lon="0.843484">
+        <ele>1198.9</ele>
+        <time>2019-09-30T11:40:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

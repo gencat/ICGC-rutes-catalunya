@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.349829" lon="1.470171">
+    <ele>619.8</ele>
+    <time>2006-09-28T20:09:31Z</time>
+    <name>Font del Bosc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.341642" lon="1.468816">
+    <ele>628.0</ele>
+    <time>2006-09-28T20:09:31Z</time>
+    <name>Coll de Cal Magí­ Vidal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.346514" lon="1.466336">
+    <ele>714.9</ele>
+    <time>2006-09-28T20:09:31Z</time>
+    <name>Sant Marc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.349193" lon="1.465425">
+    <ele>660.0</ele>
+    <time>2006-09-29T12:19:32Z</time>
+    <name>Coll de Mas Solà</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.347615" lon="1.475991">
+    <ele>572.7</ele>
+    <time>2006-09-29T12:20:26Z</time>
+    <name>TV-2443</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.335806" lon="1.466753">
+    <ele>859.1</ele>
+    <time>2013-11-11T09:21:24Z</time>
+    <name>la Talaia del Montmell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.342234" lon="1.486474">
+    <ele>551.2</ele>
+    <time>2013-11-11T09:22:24Z</time>
+    <name>Vallflor</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.342610" lon="1.480848">
+    <ele>571.3</ele>
+    <time>2013-11-11T09:22:26Z</time>
+    <name>Can Saumell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.340255" lon="1.483962">
+    <ele>545.7</ele>
+    <time>2013-11-11T09:22:29Z</time>
+    <name>Cal Jepot</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.336228" lon="1.472748">
+    <ele>742.6</ele>
+    <time>2013-11-11T10:08:05Z</time>
+    <name>Collet de les Comes</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.337819" lon="1.467746">
+    <ele>732.8</ele>
+    <time>2013-11-11T12:04:32Z</time>
+    <name>Pi de les Tres Soques</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.345405" lon="1.475091">
+    <ele>568.2</ele>
+    <time>2013-11-11T12:34:02Z</time>
+    <name>Masos de Sant Marc</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.344230" lon="1.476730">
+    <ele>566.0</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Trencall de tornada</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.336710" lon="1.469860">
+    <ele>815.0</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Camí a Can Magí Vidal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.339450" lon="1.463418">
+    <ele>642.1</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Carrerada de Torrossolla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.335420" lon="1.475420">
+    <ele>689.9</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Abrupte</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.337580" lon="1.478590">
+    <ele>580.0</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Desviació</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.335450" lon="1.478440">
+    <ele>616.4</ele>
+    <time>2013-12-30T06:42:17Z</time>
+    <name>Collet</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De la vall de Sant Marc a la Talaia del Montmell</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De la vall de Sant Marc a la Talaia del Montmell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Interessant recorregut pel vessant obac del Montmell, la serra més alta del Baix Penedès, amb dues parts ben diferenciades: una plàcida passejada per la vall de Sant Marc, un dels racons més ben conservats de la comarca, que té com a finalitat visitar els entorns de Sant Marc de la Muntanya, i l’ascensió al cim culminant de la comarca, la Talaia del Montmell, de 861 m.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per arribar a la vall de Sant Marc (pertanyent al municipi del Montmell) es pot sortir del Vendrell cap al nord per la carretera TP-2125 fins a Sant Jaume dels Domenys i seguir per la TP-2442 fins a Aiguaviva. Cal continuar per la TV-2443, que segueix aigües amunt la vall de la riera de Sant Marc pel vessant nord de la serra del Montmell; a l'alçada del km 13,1 d’aquesta carretereta hi ha el coll de Cal Magí Vidal (627 m), on es poden estacionar els cotxes. Una altra manera de fer-hi cap és accedir a la TV-2443 per la Joncosa del Montmell, prenent una pista asfaltada que travessa el coll d’Arca (provinent de la TV-2401 de la Bisbal del Penedès, sortida 12 de l’AP-2). 
+ 
+0,00 km (627 m). Coll de Cal Magí Vidal, al punt Km 13,1 de la carretera TV.2443. Pal de senyalització; se seguiran les marques de pintura blanques i verdes. Des del mateix coll surt un corriol cap al nord que voreja una vinya. Cal prendre'l muntanya amunt, cap al turó del davant, deixant el Montmell a l’esquena. Al cap de 10 min s'arriba a un petit coll que forma un replà; es desemboca en una pista (0,59 km, 705 m) que, per l'esquerra (oest), porta a l'ermita de Sant Marc. 
+ 
+0,72 km (715 m) 17 min. Sant Marc de la Muntanya, edifici reconstruït d'arquitectura romànica amb un afegit gòtic. Afegit a l’ermita hi ha l’antiga casa de l’ermità. L'indret és un bon mirador de la vall i domina la verda i abundant vegetació de l’obaga del Montmell. Es torna a la bifurcació anterior i ara se segueix per l'esquerra, cap al nord, seguint la pista en baixada (senyalització a Aiguaviva). Al cap de poc s’arriba al coll de Mas-Solà, enmig de conreus, vinya i bosc (1,35 km, 660 m), on es troba una altra pista que es pren cap a la dreta (E). Es passa pel costat de la bassa rodona de la Font del Bosc (1,83 km), on es deixen, a l’esquerra (N) la pista que du al mas Solà i la senyalització d’Aiguaviva. Es continua recte, cap a llevant; més enllà la pista gira al SE i desemboca a la carretera d’Aiguaviva. 
+ 
+2,40 km (573 m) 40 min. Carretera TV-2443, que es segueix cap a la dreta (S-SO) durant uns 150 m. Justament en el punt Km 14 de la carretera cal desviar-se cap a l’esquerra (S) per la pista que baixa a la masia de la Vall de Sant Marc. Es deixen els edificis del gran mas a l’esquerra (petita capella dedicada a Sant Marc) i es continua per la pista, que gira a llevant. En el punt 3,03 km hi ha un trencall senyalitzat a la dreta (S) que puja pel costat de les vinyes. De seguir-lo es podria tornar directament al punt de sortida de la ruta. Per a això caldria vorejar cap a la dreta (O) la vinya per la seva llinda superior, a tocar del bosc, i sortir en un camí que, més enllà, desemboca en una pista barrada per un cadenat (senyalitzada com a Ruta de la Natura per l’ajuntament del Montmell). Seguint-la cap a ponent s’arribaria al coll de Cal Magí Vidal en uns quinze minuts (0,9 km). L’itinerari, però, continua recte, endavant, cap cal Saumell, que es deixa a mà dreta (3,40 km, 567 m) i Vallflor. 
+ 
+3,95 km (546 m) 1 h 2 min. Mas de Vallflor, conjunt mig enrunat. Es gira cap al sud i a ponent per donar la volta als edificis i es continua per la pista ampla. La pista gira al sud, es passa pel costat de cal Jepot (enrunat), on es deixa un trencall a l’esquerra que baixa a la pista de coll d’Arca. 
+ 
+4,52 km (537 m) 1 h 11 min. Trencall a mà dreta (O), marques blanques i verdes. Es deixa la pista per on s’anava i es gira a la dreta, en pujada. Cal parar compte en la propera desviació situada sis-cents metres més amunt (5,12 km, 579 m, 1 h 22 min) on es deixa la pista i es continua per un corriol (marques blanques i verdes un xic confuses al principi). Se surt de l’àrea boscosa i s’entra en una zona de matolls que s’està recuperant d’incendis passats. Es ressegueix la fondalada de les Comes cap al SO-S, pujant suaument fins que s’arriba a la carena oriental del Montmell, en un petit coll (5,45 km, 618 m), des d’on s’emprèn l’ascensió al cim de la Talaia. 
+ 
+Es puja cap a ponent seguint la carena (algun curt tram abrupte i fàcil), es passa el collet de les Comes (6,03 km, 743 m) i, després d’una ràpida ascensió, s’arriba al trencall del camí de Cal Magí Vidal (6,33 km, 814 m, pal indicador), per on després es tornarà. El cim ja és a tocar. 
+ 
+6,67 km (861 m) 2 h 8 min. Puig de la Talaia del Montmell. Àmplia visió sobre l’entorn que s’allarga fins al Pirineu i serres interiors del Principat, plana costanera i serres de l’Ebre. Es retorna a la desviació mencionada anteriorment, on ara s’agafa el corriol que baixa cap a l’esquerra (N), endinsant-se en l’obaga de la serra. Ja força més avall (7,31 km, 730 m) es passa pel costat del pi de les Tres Soques, magnífic exemplar de pinassa (&lt;i&gt;Pinus nigra&lt;/i&gt;). Es continua baixant. 
+ 
+7,87 km (643 m) 2 h 31 min. Es desemboca en el camí de Cal Magí Vidal al Montmell (pal de senyalització i marques de pintura) per on antigament passava la carrerada o camí ramader de Torrossolla, que es pren cap a la dreta (E). Dos-cents trenta metres més enllà hi ha una bifurcació; es deixa el trencall de l’esquerra, que baixa al mas de Cal Magí Vidal, i es continua cap a la dreta, seguint els senyals de pintura. Més endavant es franqueja una pedrera i es fa cap al coll on s’ha iniciat l’excursió. 
+ 
+8,44 km (627 m) 2 h 40 min. Coll de Cal Magí Vidal, final del recorregut.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Del valle de Sant Marc a la Talaia del Montmell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Interesante recorrido por la vertiente umbría del Montmell, la sierra más alta del Baix Penedès, con dos partes bien diferenciadas: un apacible paseo por el valle de Sant Marc, uno de los rincones mejor conservados de la comarca, que tiene como finalidad visitar los entornos de Sant Marc de la Muntanya, y la ascensión a la cima culminante de la comarca, la Talaia del Montmell, de 861 m.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Para llegar al valle de Sant Marc (perteneciente al municipio de El Montmell) se puede salir de El Vendrell hacia el norte por la carretera TP-2.125 hasta Sant Jaume dels Domenys y seguir por la TP-2442 hasta Aiguaviva. Hay que seguir por la TV-2443, que sigue aguas arriba el valle del arroyo de Sant Marc por la vertiente norte de la sierra del Montmell; a la altura del km 13,1 de esta carreterita está el collado de Cal Magí Vidal (627 m), donde se pueden estacionar los coches. Otra manera de llegar es acceder a la TV-2443 por la Joncosa del Montmell, tomando una pista asfaltada que atraviesa el collado de Arca (proveniente de la TV-2401 de la Bisbal del Penedès, salida 12 de la AP-2). 
+ 
+0,00 km (627 m). Coll de Cal Magí Vidal, el punto Km 13,1 de la carretera TV.2443. Poste de señalización; se seguirán las marcas de pintura blancas y verdes. Desde el mismo cuello sale un sendero hacia el norte que bordea una viña. Hay que tomarlo montaña arriba, hacia el cerro de enfrente, dejando el Montmell en la espalda. Al cabo de 10 minutos se llega a un pequeño collado que forma un rellano; se desemboca en una pista (0,59 km, 705 m) que, por la izquierda (oeste), lleva a la ermita de Sant Marc. 
+ 
+0,72 km (715 m) 17 min. Sant Marc de la Montaña, edificio reconstruido de arquitectura románica con un añadido gótico. Añadido a la ermita se encuentra la antigua casa del ermitaño. El lugar es un buen mirador del valle y domina la verde y abundante vegetación de la umbría del Montmell. Se vuelve a la bifurcación anterior y ahora se sigue por la izquierda, hacia el norte, siguiendo la pista en bajada (señalización en Aiguaviva). Al poco llega al collado de Mas-Solà, en medio de cultivos, viñedos y bosque (1,35 km, 660 m), donde se encuentra otra pista que se toma hacia la derecha (E). Se pasa junto a la balsa redonda de la Font del Bosc (1,83 km), donde se dejan, a la izquierda (N) la pista que lleva al Mas Solà y la señalización de Aiguaviva. Se sigue recto, hacia levante; más allá la pista gira al SE y desemboca en la carretera de Aiguaviva. 
+ 
+2,40 km (573 m) 40 min. Carretera TV-2443, que se sigue hacia la derecha (S-SO) durante unos 150 m. Justamente en el punto Km 14 de la carretera hay que desviarse hacia la izquierda (S) por la pista que baja a la masía de la Vall de Sant Marc. Se dejan los edificios del gran casa a la izquierda (pequeña capilla dedicada a Sant Marc) y se continúa por la pista, que gira a levante. En el punto 3,03 km hay un desvío señalizado a la derecha (S) que sube por el lado de las viñas. De seguirlo podría volver directamente al punto de salida de la ruta. Para ello habría que bordear hacia la derecha (O) la viña por su dintel superior, junto al bosque, y salir a un camino que, más allá, desemboca en una pista barrada por un candado (señalizada como Ruta de la Natura por el ayuntamiento del Montmell). Siguiendo hacia poniente se llegaría al collado de Cal Magí Vidal en unos quince minutos (0,9 km). El itinerario, sin embargo, continúa recto, hacia delante, hacia Cal Saumell, que se deja a mano derecha (3,40 km, 567 m) y Vallflor. 
+ 
+3,95 km (546 m) 1 h 2 min. Mas de Vallflor, conjunto medio en ruinas. Se gira hacia el sur y poniente para dar la vuelta a los edificios y se continúa por la pista ancha. La pista gira al sur, se pasa junto a Cal Jepot (ruinas), donde se deja un desvío a la izquierda que baja a la pista del collado de Arca. 
+ 
+4,52 km (537 m) 1 h 11 min. Desvío a mano derecha (O), marcas blancas y verdes. Se deja la pista por donde iba y se gira a la derecha, en subida. Hay que tener cuidado en la próxima desviación situada seiscientos metros más arriba (5,12 km, 579 m, 1 h 22 min) donde se deja la pista y se continúa por un sendero (marcas blancas y verdes un poco confusas al principio) . Se sale del área boscosa y se entra en una zona de matorrales que se está recuperando de incendios pasados. Se recorre la hondonada de las Comes hacia el SO-S, subiendo suavemente hasta llegar a la cresta oriental del Montmell, a un pequeño collado (5,45 km, 618 m), desde donde se emprende el ascensión a la cima de la Talaia. 
+ 
+Se sube hacia poniente siguiendo la cresta (algún corto tramo abrupto y fácil), se pasa el collado de las Comes (6,03 km, 743 m) y, después de una rápida ascensión, se llega al desvío del camino de Cal Magí Vidal (6,33 km, 814 m, poste indicador), por el que después se volverá. La cima ya está muy cerca. 
+ 
+6,67 km (861 m) 2 h 8 min. Puig de la Talaia del Montmell. Amplia visión sobre el entorno que se alarga hasta el Pirineo y sierras interiores del Principado, llanura costera y sierras del Ebro. Se regresa a la desviación mencionada anteriormente, donde ahora se toma el sendero que baja hacia la izquierda (N), adentrándose en la umbría de la sierra. Más abajo (7,31 km, 730 m) se pasa al lado del pino de las Tres Soques, magnífico ejemplar de pino salgareño (&lt;i&gt;Pinus nigra&lt;/i&gt;). Se continúa bajando. 
+ 
+7,87 km (643 m) 2 h 31 min. Se desemboca en el camino de Cal Magí Vidal al Montmell (poste de señalización y marcas de pintura) por donde antiguamente pasaba la cañada o vía pecuaria de Torrossolla, que se toma hacia la derecha (E). Doscientos treinta metros más allá hay una bifurcación; se deja el desvío de la izquierda, que baja al Mas de Cal Magí Vidal, y se continúa hacia la derecha, siguiendo las señales de pintura. Más adelante se franquea una cantera y se va hacia el cuello donde se ha iniciado la excursión. 
+ 
+8,44 km (627 m) 2 h 40 min. Coll de Cal Magí Vidal, final del recorrido.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/12/2014&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.341628" lon="1.468744">
+        <ele>628.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.342529" lon="1.468442">
+        <ele>643.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343973" lon="1.468635">
+        <ele>663.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344169" lon="1.468506">
+        <ele>666.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344156" lon="1.468177">
+        <ele>672.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344520" lon="1.468174">
+        <ele>680.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344843" lon="1.468364">
+        <ele>687.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.345153" lon="1.467992">
+        <ele>695.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346202" lon="1.467891">
+        <ele>705.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346497" lon="1.467512">
+        <ele>706.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346473" lon="1.466372">
+        <ele>714.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346417" lon="1.467832">
+        <ele>706.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346880" lon="1.468102">
+        <ele>706.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347455" lon="1.467699">
+        <ele>699.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347679" lon="1.468257">
+        <ele>694.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347744" lon="1.467830">
+        <ele>694.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348266" lon="1.466736">
+        <ele>683.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348336" lon="1.465951">
+        <ele>675.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348521" lon="1.465654">
+        <ele>671.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348779" lon="1.465732">
+        <ele>667.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.349113" lon="1.465455">
+        <ele>660.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.348990" lon="1.466890">
+        <ele>649.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.349151" lon="1.468826">
+        <ele>632.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.349998" lon="1.470892">
+        <ele>613.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.350314" lon="1.472466">
+        <ele>600.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.349974" lon="1.473610">
+        <ele>592.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347825" lon="1.475931">
+        <ele>573.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.347502" lon="1.475934">
+        <ele>573.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346983" lon="1.475251">
+        <ele>574.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.346150" lon="1.474948">
+        <ele>574.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.345285" lon="1.474896">
+        <ele>569.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344963" lon="1.474701">
+        <ele>568.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344205" lon="1.474964">
+        <ele>566.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.344203" lon="1.477204">
+        <ele>566.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343183" lon="1.478345">
+        <ele>564.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343029" lon="1.479275">
+        <ele>564.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343084" lon="1.479978">
+        <ele>563.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.342735" lon="1.481115">
+        <ele>565.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343027" lon="1.481754">
+        <ele>560.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343172" lon="1.482527">
+        <ele>552.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.343140" lon="1.484159">
+        <ele>547.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.342396" lon="1.486197">
+        <ele>549.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.342318" lon="1.486760">
+        <ele>547.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.342180" lon="1.486871">
+        <ele>546.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.341477" lon="1.484772">
+        <ele>547.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.340811" lon="1.484076">
+        <ele>544.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.340023" lon="1.484471">
+        <ele>541.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339761" lon="1.484387">
+        <ele>538.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339391" lon="1.483954">
+        <ele>533.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338614" lon="1.484151">
+        <ele>537.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338839" lon="1.482066">
+        <ele>551.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338566" lon="1.480130">
+        <ele>559.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338314" lon="1.479844">
+        <ele>562.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338076" lon="1.480184">
+        <ele>564.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337842" lon="1.480231">
+        <ele>564.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337491" lon="1.478699">
+        <ele>579.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336723" lon="1.477444">
+        <ele>597.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336575" lon="1.477513">
+        <ele>596.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336249" lon="1.478429">
+        <ele>606.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335874" lon="1.478617">
+        <ele>611.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335476" lon="1.478483">
+        <ele>615.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335663" lon="1.477367">
+        <ele>631.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335611" lon="1.476162">
+        <ele>661.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335481" lon="1.475508">
+        <ele>683.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335138" lon="1.475091">
+        <ele>712.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335976" lon="1.473781">
+        <ele>756.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336229" lon="1.472837">
+        <ele>742.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336212" lon="1.471882">
+        <ele>754.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336466" lon="1.471667">
+        <ele>771.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336586" lon="1.471240">
+        <ele>784.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336961" lon="1.470968">
+        <ele>799.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336974" lon="1.470263">
+        <ele>804.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336356" lon="1.469525">
+        <ele>821.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336060" lon="1.468582">
+        <ele>825.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335976" lon="1.467353">
+        <ele>836.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335827" lon="1.466992">
+        <ele>849.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335924" lon="1.466828">
+        <ele>857.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335802" lon="1.466783">
+        <ele>857.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335924" lon="1.466828">
+        <ele>857.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335827" lon="1.466992">
+        <ele>849.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.335976" lon="1.467353">
+        <ele>836.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336012" lon="1.468344">
+        <ele>822.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336356" lon="1.469525">
+        <ele>821.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.336708" lon="1.469869">
+        <ele>814.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337403" lon="1.469661">
+        <ele>804.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337696" lon="1.469015">
+        <ele>773.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337681" lon="1.468532">
+        <ele>760.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337463" lon="1.468399">
+        <ele>754.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.337414" lon="1.468149">
+        <ele>751.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338212" lon="1.467187">
+        <ele>708.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338377" lon="1.466741">
+        <ele>707.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338419" lon="1.466847">
+        <ele>702.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338668" lon="1.466292">
+        <ele>694.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338563" lon="1.465828">
+        <ele>682.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338791" lon="1.465721">
+        <ele>675.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338982" lon="1.465818">
+        <ele>674.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339007" lon="1.465656">
+        <ele>669.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338756" lon="1.465429">
+        <ele>665.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338908" lon="1.465019">
+        <ele>658.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338828" lon="1.464753">
+        <ele>661.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.338966" lon="1.464654">
+        <ele>656.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339210" lon="1.463662">
+        <ele>647.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339354" lon="1.463647">
+        <ele>644.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339432" lon="1.463430">
+        <ele>642.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339559" lon="1.464204">
+        <ele>638.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339788" lon="1.464479">
+        <ele>633.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.339722" lon="1.464959">
+        <ele>633.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.340307" lon="1.466182">
+        <ele>629.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.340258" lon="1.467342">
+        <ele>630.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.340479" lon="1.467343">
+        <ele>628.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.341144" lon="1.468564">
+        <ele>633.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.341574" lon="1.468757">
+        <ele>629.4</ele>
+        <time>2013-12-31T00:41:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

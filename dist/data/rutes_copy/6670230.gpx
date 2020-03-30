@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.419780" lon="2.257560">
+    <ele>2229.9</ele>
+    <time>2014-04-25T15:11:13Z</time>
+    <name>REFUGI D'ULLDETER</name>
+    <desc>09-OCT-05 8:43:46</desc>
+  </wpt>
+  <wpt lat="42.422450" lon="2.251390">
+    <ele>2379.9</ele>
+    <time>2014-04-25T15:11:14Z</time>
+    <name>RUNES</name>
+    <desc>09-OCT-05 9:03:57</desc>
+  </wpt>
+  <wpt lat="42.423070" lon="2.248860">
+    <ele>2389.9</ele>
+    <time>2014-04-25T15:11:14Z</time>
+    <name>ULLDETER</name>
+    <desc>09-OCT-05 9:14:48</desc>
+  </wpt>
+  <wpt lat="42.418020" lon="2.244280">
+    <ele>2450.9</ele>
+    <time>2014-04-25T15:11:15Z</time>
+    <name>CRUÏLLA</name>
+    <desc>09-OCT-05 9:29:59</desc>
+  </wpt>
+  <wpt lat="42.415510" lon="2.247740">
+    <ele>2699.9</ele>
+    <time>2014-04-25T15:11:15Z</time>
+    <name>GRA DE FAJOL</name>
+    <desc>09-OCT-05 9:53:51</desc>
+  </wpt>
+  <wpt lat="42.426262" lon="2.232806">
+    <ele>2883.1</ele>
+    <time>2014-04-25T15:11:16Z</time>
+    <name>PIC DE BASTIMENTS</name>
+    <desc>09-OCT-05 10:42:22</desc>
+  </wpt>
+  <wpt lat="42.426906" lon="2.230859">
+    <ele>2877.9</ele>
+    <time>2014-04-25T15:11:16Z</time>
+    <name>PIC DEL GEGANT</name>
+    <desc>09-OCT-05 10:45:12</desc>
+  </wpt>
+  <wpt lat="42.423020" lon="2.219310">
+    <ele>2834.9</ele>
+    <time>2014-04-25T15:11:17Z</time>
+    <name>PIC DEL FRESER</name>
+    <desc>09-OCT-05 11:38:41</desc>
+  </wpt>
+  <wpt lat="42.423914" lon="2.213780">
+    <ele>2870.0</ele>
+    <time>2014-04-25T15:11:17Z</time>
+    <name>PIC DE L'INFERN</name>
+    <desc>09-OCT-05 11:51:37</desc>
+  </wpt>
+  <wpt lat="42.417120" lon="2.206960">
+    <ele>2820.0</ele>
+    <time>2014-04-25T15:11:18Z</time>
+    <name>PIC INFERIOR DE LA VACA</name>
+    <desc>09-OCT-05 12:23:07</desc>
+  </wpt>
+  <wpt lat="42.417310" lon="2.190440">
+    <ele>2805.1</ele>
+    <time>2014-04-25T15:11:18Z</time>
+    <name>PIC DE LA FOSSA DEL GEGANT</name>
+    <desc>09-OCT-05 12:49:04</desc>
+  </wpt>
+  <wpt lat="42.416625" lon="2.201597">
+    <ele>2824.9</ele>
+    <time>2014-04-25T15:11:19Z</time>
+    <name>PIC SUPERIOR DE LA VACA</name>
+    <desc>09-OCT-05 13:07:54</desc>
+  </wpt>
+  <wpt lat="42.416964" lon="2.203762">
+    <ele>2797.1</ele>
+    <time>2014-04-25T15:11:19Z</time>
+    <name>COLL DE LA VACA</name>
+    <desc>09-OCT-05 13:09:26</desc>
+  </wpt>
+  <wpt lat="42.415610" lon="2.209053">
+    <ele>2790.1</ele>
+    <time>2014-04-25T15:11:20Z</time>
+    <name>COLL DE TIRAPITS</name>
+    <desc>09-OCT-05 13:15:30</desc>
+  </wpt>
+  <wpt lat="42.418477" lon="2.209054">
+    <ele>2710.9</ele>
+    <time>2014-04-25T15:11:20Z</time>
+    <name>CABANA DE TIRAPITS</name>
+    <desc>09-OCT-05 13:20:02</desc>
+  </wpt>
+  <wpt lat="42.418620" lon="2.227930">
+    <ele>2453.9</ele>
+    <time>2014-04-25T15:11:21Z</time>
+    <name>AIGOLS PODRITS</name>
+    <desc>09-OCT-05 13:32:39</desc>
+  </wpt>
+  <wpt lat="42.417215" lon="2.242441">
+    <ele>2539.9</ele>
+    <time>2014-04-25T15:11:21Z</time>
+    <name>COLL DE LA MARRANA</name>
+    <desc>09-OCT-05 13:48:38</desc>
+  </wpt>
+  <wpt lat="42.420170" lon="2.249550">
+    <ele>2400.0</ele>
+    <time>2014-04-25T15:11:22Z</time>
+    <name>FONT 2370</name>
+    <desc>09-OCT-05 13:55:46</desc>
+  </wpt>
+  <wpt lat="42.421740" lon="2.263794">
+    <ele>2100.1</ele>
+    <time>2014-04-25T15:11:22Z</time>
+    <name>APARCAMENT</name>
+    <desc>09-OCT-05 14:10:36</desc>
+  </wpt>
+  <wpt lat="42.427188" lon="2.265591">
+    <ele>2161.0</ele>
+    <time>2014-04-25T15:11:23Z</time>
+    <name>VALLTER 2000</name>
+    <desc>09-OCT-05 16:10:57</desc>
+  </wpt>
+  <wpt lat="42.417440" lon="2.189660">
+    <ele>2787.1</ele>
+    <time>2014-04-25T15:11:23Z</time>
+    <name>NOUCREUS</name>
+    <desc>10-OCT-05 9:52:16</desc>
+  </wpt>
+  <wpt lat="42.422970" lon="2.264378">
+    <ele>2101.9</ele>
+    <time>2014-04-25T15:11:24Z</time>
+    <name>HELIPORT</name>
+    <desc>HELIPORT</desc>
+  </wpt>
+  <wpt lat="42.421028" lon="2.267044">
+    <ele>2000.1</ele>
+    <time>2014-04-25T15:11:24Z</time>
+    <name>TELECADIRA</name>
+    <desc>TELECADIRA</desc>
+  </wpt>
+  <wpt lat="42.425934" lon="2.224106">
+    <ele>2705.1</ele>
+    <time>2014-04-25T15:11:25Z</time>
+    <name>COLLADA DE MALINFERN</name>
+    <desc>COLLADA DE MALINFERN</desc>
+  </wpt>
+  <wpt lat="42.422969" lon="2.217040">
+    <ele>2790.1</ele>
+    <time>2014-04-25T15:11:25Z</time>
+    <name>COLL 2790</name>
+    <desc>COLL 2790</desc>
+  </wpt>
+  <wpt lat="42.419846" lon="2.209736">
+    <ele>2740.2</ele>
+    <time>2014-04-25T15:11:26Z</time>
+    <name>EL PORTELL</name>
+    <desc>EL PORTELL</desc>
+  </wpt>
+  <trk>
+    <name>Del refugi d'Ulldeter al pic de l'Infern pels pics de Bastiments i de Freser</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Del refugi d'Ulldeter al pic de l'Infern pels pics de Bastiments i de Freser&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Aquesta excursió a alguns dels cims més espectaculars de l'alta vall del Ter i del Freser discorre durant molta estona per la carena i permet gaudir d'una dilatada panoràmica sobre els dos vessants, el del Ripollès, relativament més suau, i el de l'Alta Cerdanya, abrupte, alpí i obac. Puja a tres cims diferents i, per tant, les perspectives canvien cada vegada. Des del pic de Bastiments, i si el dia és clar, es pot arribar a veure el mar. Des d'aquests cims, es poden contemplar perfectament Montserrat i el Montseny sobresortint per sobre dels núvols. A l'est, s'albira el Canigó, a l'altra banda de la Roca Colom, el Costabona i el Pla Guillem. El pic de Freser o de Vetes Blanques, el de menys altitud dels tres, és, però, molt alterós i conté una bella creu de ferro mig amagada entre les pedres. El pic de l'Infern se separa de la carena fronterera i s'endinsa a la vall de Carançà. Des del cim, es pot contemplar una bella panoràmica sobre els estanys de Carançà i de l'Infern. 
+ 
+Aquest itinerari permet integrar una altra ruta, &lt;i&gt;El naixement del riu Ter a la vall de Camprodon&lt;/i&gt;, atès que el naixement del Ter, a Ull de Ter, i les runes de l'antic refugi es troben gairebé de pas.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;Per arribar al refugi d'Ulldeter des de Ripoll, es pren la C-151 fins a Camprodon, se segueix per la GIV-5264 fins a Setcases i, des d'aquesta població, es continua fins a l'estació d'esquí alpí Vallter 2000. Passat el telecadira que surt al final del pla dels Hospitals (2.000 m, on poc abans hi ha l'Hostatge Pastuira), la carretera encadena 8 revolts. En el darrer, a la cota 2.100 m i 1 km abans d'arribar a les instal·lacions de Vallter 2000, just abans d'un replà sota de la carretera que s'ha condicionat per a l'aterratge d'helicòpters (l'heliport), hi ha un aparcament on es deixa el cotxe. També es pot estacionar més avall, a l'aparcament de l'esmentat telecadira (cota 2.000 m), o una mica més amunt, en el segon revolt (cota 2.015 m), perquè el GR 11 de Setcases va pujant pel marge esquerre del riu Ter tocant tots els revolts parells. Caldrà afegir uns 15 min més de pujada. 
+ 
+0,00 km (2.090 m). Aparcament situat al costat del revolt de la carretera GIV-5264 (pal indicador). Es pren cap a ponent (SO) el camí que surt a l'esquerra del revolt, senyalitzat com a GR 11, remuntant l'embrionari riu Ter, aquí encara un rierol. 
+ 
+0,69 km (2.220 m), 0 h 20 min. Refugi d'Ulldeter, pertanyent al Centre Excursionista de Catalunya. Se surt del refugi pujant pel GR 11 cap a l'oest. Als 200 m (cota 2.260 m), es coincideix amb una pista d'esquí alpí, que cal seguir 300 m més fins a la cota 2.300 m. Es deixa la pista i es planeja 100 m cap al barranc girant una mica cap al NO i es remunta fortament el Ter. Quan el pendent se suavitza, es veuen a la dreta (E) unes runes (cal desviar-se 150 m per visitar-les). 
+ 
+1,49 km (2.378 m), 0 h 40 min. Restes del refugi inicial d'Ulldeter, destruït durant la guerra de 1936-1939. De les runes, cal anar fins a les fonts del Ter (2.390 m), uns 250 m més amunt en direcció NO, en el riuet que s'acaba de deixar. Estan just a la vora de la pista d'esquí alpí per la qual s'ha pujat anteriorment. 
+ 
+1,71 km (2.387 m), 0 h 43 min. Fonts del Ter. Des d'aquí, es puja suaument cap al SO seguint pel camí vell fins al coll de la Marrana que, de seguida, s'ajunta amb el camí actual, coincident amb el GR 11. Sota el coll (km 2,46, 2.441 m), el camí s'enfila més pronunciadament per algun dels diferents ramals existents o bé fent llaçades més suaus. 
+ 
+2,66 km (2.529 m), 1 h 20 min. Coll de la Marrana. Important i ampli pas de comunicació entre les valls d'Ulldeter i de Coma de Vaca. S'ha de deixar el GR 11 i girar a la dreta (NO) per tal de començar la llarga caminada pel llom que porta directament al pic de Bastiments. Els darrers metres, el camí flanqueja el vessant d'Ull de Ter. 
+ 
+4,09 km (2.882 m), 1 h 55 min. Pic de Bastiments. Cal seguir caminant pel fil de la carena en direcció O i, als pocs minuts, s'arriba a la punta oest de la muntanya, un pèl més baixa i que des del vessant de l'Estat francès s'anomena pic del Gegant (km 4,27, 2.882 m). Es continua cap al SO descendint per la carena. 
+ 
+4,86 km (2.705 m), 2 h 05 min. Collada de les Comes del Mal Infern o del Freser. És un pas elevat que comunica la vall de la coma del Freser amb la de coma Mitjana. Cal pujar seguidament cap al SO pels forts pendents de la carena del següent cim. 
+ 
+5,43 km (2.835 m), 2 h 35 min. Pic de Vetes Blanques o de Freser. Tot seguit, es baixa sempre per la carena fins al coll de la Coma de l'Infern (2.790 m). Des d'aquest coll, es pot anar directament al pic de l'Infern flanquejant lleugerament el vessant nord, obac, del pic dels Gorgs (2.850 m). Si al començament de l'estiu o de la tardor es trobés neu o gel i no es dugués equipament adient (grampons i piolet), no cal dubtar a trigar uns minuts més i seguir pel fil de la carena per evitar el mínim risc de relliscar. 
+ 
+5,92 km (2.869 m), 3 h 05 min. Pic de l'Infern. Des d'aquest cim, se segueix en direcció SO per la carena fins al pic Inferior de la Vaca (km 7,09, 2.820 m) per evitar els pendents dels vessants nord. Des d'aquest punt, en només 100 m, es troba el coll de la Vaca (2.793 m), per on arriba el conegut camí d'Ulldeter a Núria (el GR 11 que s'havia deixat al coll de la Marrana), que ara es pren a l'esquerra (SE) fent un volt pel coll i la cabana de Tirapits (km 8,23, 2.711 m). Es continua cap a llevant fins a tornar al coll de la Marrana (km 11,35, 2.529 m), des d'on es desfà el camí. 
+ 
+13,65 km (2.090 m), 5 h. Aparcament situat al costat del revolt de la carretera GIV-5264, punt de partida i final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Del refugio de Ulldeter al pico de L'Infern por los picos de Bastiments y de Freser&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Esta excursión a algunas de las cimas más espectaculares del alto valle del Ter y del Freser discurre durante mucho rato por el cordal y permite disfrutar de una dilatada panorámica sobre las dos vertientes, la del Ripollès, relativamente más suave, y la de L'Alta Cerdanya, abrupta, alpina y sombría. Sube a tres cimas diferentes y, por tanto, las vistas cambian cada vez. Desde el pico de Bastiments, y si el día es claro, se puede llegar a ver el mar. Desde estos picos, se pueden contemplar perfectamente Montserrat y el Montseny sobresaliendo por encima de las nubes. Al este, se divisa el Canigó, al otro lado de la Roca Colom, el Costabona y el Pla Guillem. El pico de Freser o de Vetes Blanques, el de menor altitud de los tres, es, sin embargo, muy altivo y contiene una bella cruz de hierro medio escondida entre las piedras. El pico de L'Infern se separa del cordal fronterizo y se adentra en el valle de Carançà. Desde la cima, se puede contemplar una bella panorámica sobre los lagos de Carançà y de L'Infern. 
+ 
+Este itinerario permite integrar otra ruta, &lt;i&gt;El nacimiento del río Ter en el valle de Camprodon&lt;/i&gt;, dado que el nacimiento del Ter, en Ull de Ter, y las ruinas del antiguo refugio se encuentran casi de paso.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;Para llegar al refugio de Ulldeter desde Ripoll, se toma la C-151 hasta Camprodon, se sigue por la GIV-5264 hasta Setcases y, desde esta población, se continúa hasta la estación de esquí alpino Vallter 2000. Pasado el telesilla que sale al final del llano de Els Hospitals (2.000 m, donde poco antes se encuentra L'Hostatge Pastuira), la carretera encadena 8 curvas. En la última, en la cota 2.100 m y 1 km antes de llegar a las instalaciones de Vallter 2000, justo antes de un rellano debajo de la carretera que se ha acondicionado para el aterrizaje de helicópteros (el helipuerto), hay un aparcamiento donde se deja el coche. También se puede estacionar más abajo, en el aparcamiento del mencionado telesilla (cota 2.000 m), o un poco más arriba, en la segunda curva (cota 2.015 m), porque el GR 11 de Setcases va subiendo por el margen izquierdo del río Ter tocando todas las curvas pares. Habrá que añadir otros 15 minutos de subida. 
+ 
+0,00 km (2.090 m). Aparcamiento situado junto a la curva de la carretera GIV-5264 (poste indicador). Se toma hacia poniente (SO) el camino que sale a la izquierda de la curva, señalizado como GR 11, remontando el embrionario río Ter, aquí todavía un arroyo. 
+ 
+0,69 km (2.220 m), 0 h 20 min. Refugio de Ulldeter, perteneciente al Centre Excursionista de Catalunya. Se sale del refugio subiendo por el GR 11 hacia el oeste. A los 200 m (cota 2.260 m), se coincide con una pista de esquí alpino, por donde se debe seguir 300 m más hasta la cota 2.300 m. Se deja la pista y se llanea durante 100 m hacia el barranco girando un poco hacia el NO y subiendo fuertemente junto al Ter. Cuando la pendiente se suaviza, se ven a la derecha (E) unas ruinas (hay que desviarse 150 m para visitarlas). 
+ 
+1,49 km (2.378 m), 0 h 40 min. Restos del refugio inicial de Ulldeter, destruido durante la guerra de 1936-1939. De las ruinas, hay que ir hasta las fuentes del Ter (2.390 m), unos 250 m más arriba en dirección NO, en el riachuelo que se acaba de dejar. Están justo en el borde de la pista de esquí alpino por la que se ha subido anteriormente. 
+ 
+1,71 km (2.387 m), 0 h 43 min. Fuentes del Ter. Desde aquí, se sube suavemente hacia el SO siguiendo por el camino viejo hasta el collado de la Marrana que, enseguida, se junta con el camino actual, coincidente con el GR 11. Bajo el collado (km 2,46, 2.441 m), el camino sube más pronunciadamente por alguno de los diferentes ramales existentes o bien haciendo zigzags más suaves. 
+ 
+2,66 km (2.529 m), 1 h 20 min. Collado de la Marrana. Importante y amplio paso de comunicación entre los valles de Ulldeter y de Coma de Vaca. Hay que dejar el GR 11 y girar a la derecha (NO) para empezar la larga caminata por el lomo que lleva directamente al pico de Bastiments. Los últimos metros, el camino flanquea la vertiente de Ull de Ter. 
+ 
+4,09 km (2.882 m), 1 h 55 min. Pico de Bastiments. Hay que seguir caminando por el filo del cordal en dirección O y, a los pocos minutos, se llega a la punta oeste de la montaña, un poco más baja y que desde la vertiente del Estado francés se llama pico del Gegant (km 4,27, 2.882 m). Se continúa hacia el SO descendiendo por el cordal. 
+ 
+4,86 km (2.705 m), 2 h 05 min. Collado de Les Comes del Mal Infern o del Freser. Es un paso elevado que comunica el valle del Freser con el de Mitjana. Hay que subir seguidamente hacia el SO por la fuerte pendiente del cordal de la siguiente cima. 
+ 
+5,43 km (2.835 m), 2 h 35 min. Pico de Vetes Blanques o de Freser. A continuación, se baja siempre por el cordal hasta el collado de la Coma de l'Infern (2.790 m). Desde este collado, se puede ir directamente al pico de L'Infern flanqueando ligeramente la vertiente norte, umbría, del pico de Els Gorgs (2.850 m). Si al comienzo del verano o del otoño se encontrara nieve o hielo y no se llevara equipamiento adecuado (crampones y piolet), no hay que dudar en tardar unos minutos más y seguir por el filo del cordal para evitar el mínimo riesgo de resbalar. 
+ 
+5,92 km (2.869 m), 3 h 05 min. Pico de L'Infern. Desde esta cima, se sigue en dirección SO por el cordal hasta el pico Inferior de la Vaca (km 7,09, 2.820 m) para evitar las pendientes de las laderas del norte. Desde este punto, en sólo 100 m, se encuentra el collado de la Vaca (2.793 m), por donde llega el conocido camino de Ulldeter a Núria (el GR 11 que se había dejado en el collado de la Marrana), que ahora se toma a la izquierda (SE) dando una vuelta por el collado y la cabaña de Tirapits (km 8,23, 2.711 m). Se continúa hacia levante hasta volver al collado de la Marrana (km 11,35, 2.529 m), desde donde se desanda el camino. 
+ 
+13,65 km (2.090 m), 5 h. Aparcamiento situado junto a la curva de la carretera GIV-5264, punto de partida y final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Refugi d'Ulldeter to Pic de l'infern via Pic de Bastiments and Pic de Freser&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;This is a high ridge walk along one of the most spectacular peaks of the upper valley of Ter and Freser and, as such, provides panoramic views for much of its length over the two slopes: that of Ripollès which is gentle and that of Alta Cerdanya, more abrupt, Alpine and shady.&lt;/i&gt; 
+Marked trail.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/12/14&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.421732" lon="2.263830">
+        <ele>2090.0</ele>
+        <time>2005-10-09T06:29:17Z</time>
+      </trkpt>
+      <trkpt lat="42.421457" lon="2.263810">
+        <ele>2094.9</ele>
+        <time>2005-11-29T16:53:57Z</time>
+      </trkpt>
+      <trkpt lat="42.421128" lon="2.262464">
+        <ele>2119.9</ele>
+        <time>2005-11-29T16:56:29Z</time>
+      </trkpt>
+      <trkpt lat="42.420513" lon="2.261499">
+        <ele>2144.0</ele>
+        <time>2005-11-29T16:58:32Z</time>
+      </trkpt>
+      <trkpt lat="42.420677" lon="2.260744">
+        <ele>2160.1</ele>
+        <time>2005-10-09T06:35:43Z</time>
+      </trkpt>
+      <trkpt lat="42.420523" lon="2.258874">
+        <ele>2190.0</ele>
+        <time>2005-11-29T17:03:03Z</time>
+      </trkpt>
+      <trkpt lat="42.420097" lon="2.258039">
+        <ele>2218.9</ele>
+        <time>2005-10-09T06:42:50Z</time>
+      </trkpt>
+      <trkpt lat="42.419675" lon="2.257850">
+        <ele>2229.0</ele>
+        <time>2005-11-29T16:50:50Z</time>
+      </trkpt>
+      <trkpt lat="42.419828" lon="2.257009">
+        <ele>2238.1</ele>
+        <time>2005-10-09T06:45:58Z</time>
+      </trkpt>
+      <trkpt lat="42.419762" lon="2.255240">
+        <ele>2263.1</ele>
+        <time>2005-10-09T06:47:54Z</time>
+      </trkpt>
+      <trkpt lat="42.420105" lon="2.254649">
+        <ele>2279.9</ele>
+        <time>2005-10-09T06:49:39Z</time>
+      </trkpt>
+      <trkpt lat="42.420607" lon="2.252934">
+        <ele>2305.4</ele>
+        <time>2005-10-09T06:52:37Z</time>
+      </trkpt>
+      <trkpt lat="42.420987" lon="2.252389">
+        <ele>2319.0</ele>
+        <time>2005-10-26T01:37:38Z</time>
+      </trkpt>
+      <trkpt lat="42.421112" lon="2.251409">
+        <ele>2351.5</ele>
+        <time>2005-10-09T06:57:18Z</time>
+      </trkpt>
+      <trkpt lat="42.421450" lon="2.250869">
+        <ele>2356.8</ele>
+        <time>2005-10-09T06:58:34Z</time>
+      </trkpt>
+      <trkpt lat="42.421993" lon="2.250577">
+        <ele>2362.1</ele>
+        <time>2005-10-09T06:59:02Z</time>
+      </trkpt>
+      <trkpt lat="42.422220" lon="2.250222">
+        <ele>2368.8</ele>
+        <time>2005-10-09T06:59:53Z</time>
+      </trkpt>
+      <trkpt lat="42.422488" lon="2.251275">
+        <ele>2378.4</ele>
+        <time>2005-10-09T07:11:38Z</time>
+      </trkpt>
+      <trkpt lat="42.423062" lon="2.248880">
+        <ele>2387.0</ele>
+        <time>2005-10-22T13:33:07Z</time>
+      </trkpt>
+      <trkpt lat="42.422562" lon="2.248724">
+        <ele>2383.2</ele>
+        <time>2005-10-09T07:19:40Z</time>
+      </trkpt>
+      <trkpt lat="42.422070" lon="2.247270">
+        <ele>2388.5</ele>
+        <time>2005-10-09T07:21:02Z</time>
+      </trkpt>
+      <trkpt lat="42.421668" lon="2.247225">
+        <ele>2391.4</ele>
+        <time>2005-10-09T07:21:37Z</time>
+      </trkpt>
+      <trkpt lat="42.420872" lon="2.246620">
+        <ele>2398.6</ele>
+        <time>2005-10-09T07:22:52Z</time>
+      </trkpt>
+      <trkpt lat="42.420633" lon="2.245992">
+        <ele>2397.2</ele>
+        <time>2005-10-09T07:23:47Z</time>
+      </trkpt>
+      <trkpt lat="42.420377" lon="2.245862">
+        <ele>2399.1</ele>
+        <time>2005-10-09T07:24:22Z</time>
+      </trkpt>
+      <trkpt lat="42.420288" lon="2.245370">
+        <ele>2398.1</ele>
+        <time>2005-10-09T07:24:56Z</time>
+      </trkpt>
+      <trkpt lat="42.419780" lon="2.244790">
+        <ele>2402.5</ele>
+        <time>2005-10-09T07:25:26Z</time>
+      </trkpt>
+      <trkpt lat="42.419527" lon="2.244639">
+        <ele>2408.7</ele>
+        <time>2005-10-09T07:25:58Z</time>
+      </trkpt>
+      <trkpt lat="42.418693" lon="2.244564">
+        <ele>2424.1</ele>
+        <time>2005-10-09T07:27:26Z</time>
+      </trkpt>
+      <trkpt lat="42.417992" lon="2.244244">
+        <ele>2440.9</ele>
+        <time>2005-10-09T07:29:02Z</time>
+      </trkpt>
+      <trkpt lat="42.417607" lon="2.243689">
+        <ele>2508.7</ele>
+        <time>2005-10-09T07:34:54Z</time>
+      </trkpt>
+      <trkpt lat="42.417480" lon="2.243739">
+        <ele>2518.0</ele>
+        <time>2005-10-25T02:38:42Z</time>
+      </trkpt>
+      <trkpt lat="42.417228" lon="2.242569">
+        <ele>2519.0</ele>
+        <time>2005-10-25T02:41:57Z</time>
+      </trkpt>
+      <trkpt lat="42.417972" lon="2.241605">
+        <ele>2542.3</ele>
+        <time>2005-10-09T08:11:03Z</time>
+      </trkpt>
+      <trkpt lat="42.418452" lon="2.241399">
+        <ele>2553.4</ele>
+        <time>2005-10-09T08:12:00Z</time>
+      </trkpt>
+      <trkpt lat="42.418810" lon="2.240962">
+        <ele>2559.2</ele>
+        <time>2005-10-09T08:12:45Z</time>
+      </trkpt>
+      <trkpt lat="42.419630" lon="2.240532">
+        <ele>2574.1</ele>
+        <time>2005-10-09T08:14:14Z</time>
+      </trkpt>
+      <trkpt lat="42.420037" lon="2.240115">
+        <ele>2581.7</ele>
+        <time>2005-10-09T08:15:05Z</time>
+      </trkpt>
+      <trkpt lat="42.421170" lon="2.238642">
+        <ele>2610.6</ele>
+        <time>2005-10-09T08:17:51Z</time>
+      </trkpt>
+      <trkpt lat="42.422403" lon="2.236324">
+        <ele>2658.6</ele>
+        <time>2005-10-09T08:22:06Z</time>
+      </trkpt>
+      <trkpt lat="42.423068" lon="2.235586">
+        <ele>2688.9</ele>
+        <time>2005-10-09T08:24:41Z</time>
+      </trkpt>
+      <trkpt lat="42.423098" lon="2.235269">
+        <ele>2695.7</ele>
+        <time>2005-10-09T08:25:21Z</time>
+      </trkpt>
+      <trkpt lat="42.423318" lon="2.235018">
+        <ele>2705.8</ele>
+        <time>2005-10-09T08:26:13Z</time>
+      </trkpt>
+      <trkpt lat="42.423440" lon="2.235078">
+        <ele>2712.0</ele>
+        <time>2005-10-09T08:26:46Z</time>
+      </trkpt>
+      <trkpt lat="42.423910" lon="2.234631">
+        <ele>2743.3</ele>
+        <time>2005-10-09T08:29:41Z</time>
+      </trkpt>
+      <trkpt lat="42.424342" lon="2.234538">
+        <ele>2766.8</ele>
+        <time>2005-10-09T08:31:56Z</time>
+      </trkpt>
+      <trkpt lat="42.424380" lon="2.234348">
+        <ele>2774.5</ele>
+        <time>2005-10-09T08:32:41Z</time>
+      </trkpt>
+      <trkpt lat="42.425653" lon="2.234753">
+        <ele>2822.6</ele>
+        <time>2005-10-09T08:37:00Z</time>
+      </trkpt>
+      <trkpt lat="42.425930" lon="2.234611">
+        <ele>2839.4</ele>
+        <time>2005-10-09T08:38:34Z</time>
+      </trkpt>
+      <trkpt lat="42.426453" lon="2.231831">
+        <ele>2867.3</ele>
+        <time>2005-10-09T08:43:42Z</time>
+      </trkpt>
+      <trkpt lat="42.426907" lon="2.230859">
+        <ele>2874.0</ele>
+        <time>2005-10-09T08:45:06Z</time>
+      </trkpt>
+      <trkpt lat="42.426417" lon="2.229579">
+        <ele>2821.6</ele>
+        <time>2005-10-09T09:14:41Z</time>
+      </trkpt>
+      <trkpt lat="42.426228" lon="2.227704">
+        <ele>2774.5</ele>
+        <time>2005-10-09T09:17:31Z</time>
+      </trkpt>
+      <trkpt lat="42.426257" lon="2.226513">
+        <ele>2749.0</ele>
+        <time>2005-10-09T09:18:59Z</time>
+      </trkpt>
+      <trkpt lat="42.425910" lon="2.224151">
+        <ele>2708.7</ele>
+        <time>2005-10-09T09:21:22Z</time>
+      </trkpt>
+      <trkpt lat="42.425612" lon="2.223774">
+        <ele>2723.1</ele>
+        <time>2005-10-09T09:22:50Z</time>
+      </trkpt>
+      <trkpt lat="42.425637" lon="2.223579">
+        <ele>2733.2</ele>
+        <time>2005-10-09T09:23:44Z</time>
+      </trkpt>
+      <trkpt lat="42.425135" lon="2.223129">
+        <ele>2737.5</ele>
+        <time>2005-10-09T09:24:45Z</time>
+      </trkpt>
+      <trkpt lat="42.423970" lon="2.220821">
+        <ele>2763.0</ele>
+        <time>2005-10-09T09:30:26Z</time>
+      </trkpt>
+      <trkpt lat="42.423693" lon="2.220498">
+        <ele>2777.9</ele>
+        <time>2005-10-09T09:31:55Z</time>
+      </trkpt>
+      <trkpt lat="42.423537" lon="2.220603">
+        <ele>2785.6</ele>
+        <time>2005-10-09T09:33:15Z</time>
+      </trkpt>
+      <trkpt lat="42.423440" lon="2.220521">
+        <ele>2788.4</ele>
+        <time>2005-10-09T09:33:38Z</time>
+      </trkpt>
+      <trkpt lat="42.422940" lon="2.219111">
+        <ele>2829.3</ele>
+        <time>2005-10-09T09:38:59Z</time>
+      </trkpt>
+      <trkpt lat="42.423040" lon="2.218321">
+        <ele>2814.4</ele>
+        <time>2005-10-09T09:40:12Z</time>
+      </trkpt>
+      <trkpt lat="42.422938" lon="2.216083">
+        <ele>2802.8</ele>
+        <time>2005-10-09T09:44:58Z</time>
+      </trkpt>
+      <trkpt lat="42.423327" lon="2.214833">
+        <ele>2833.1</ele>
+        <time>2005-10-09T09:48:32Z</time>
+      </trkpt>
+      <trkpt lat="42.423945" lon="2.213731">
+        <ele>2869.7</ele>
+        <time>2005-10-09T09:53:46Z</time>
+      </trkpt>
+      <trkpt lat="42.423388" lon="2.214578">
+        <ele>2844.2</ele>
+        <time>2005-10-09T10:00:16Z</time>
+      </trkpt>
+      <trkpt lat="42.423167" lon="2.214586">
+        <ele>2841.3</ele>
+        <time>2005-10-09T10:00:41Z</time>
+      </trkpt>
+      <trkpt lat="42.422203" lon="2.213868">
+        <ele>2823.1</ele>
+        <time>2005-10-09T10:01:26Z</time>
+      </trkpt>
+      <trkpt lat="42.421553" lon="2.212978">
+        <ele>2815.8</ele>
+        <time>2005-10-09T10:03:52Z</time>
+      </trkpt>
+      <trkpt lat="42.421350" lon="2.212891">
+        <ele>2803.3</ele>
+        <time>2005-10-09T10:05:43Z</time>
+      </trkpt>
+      <trkpt lat="42.420005" lon="2.210463">
+        <ele>2743.7</ele>
+        <time>2005-10-09T10:13:56Z</time>
+      </trkpt>
+      <trkpt lat="42.419675" lon="2.209021">
+        <ele>2747.1</ele>
+        <time>2005-10-09T10:15:22Z</time>
+      </trkpt>
+      <trkpt lat="42.419738" lon="2.208429">
+        <ele>2766.8</ele>
+        <time>2005-10-09T10:17:07Z</time>
+      </trkpt>
+      <trkpt lat="42.419460" lon="2.207411">
+        <ele>2786.5</ele>
+        <time>2005-10-09T10:18:58Z</time>
+      </trkpt>
+      <trkpt lat="42.419043" lon="2.206958">
+        <ele>2793.7</ele>
+        <time>2005-10-09T10:19:41Z</time>
+      </trkpt>
+      <trkpt lat="42.418398" lon="2.206643">
+        <ele>2805.3</ele>
+        <time>2005-10-09T10:20:56Z</time>
+      </trkpt>
+      <trkpt lat="42.417510" lon="2.206621">
+        <ele>2821.6</ele>
+        <time>2005-10-09T10:22:37Z</time>
+      </trkpt>
+      <trkpt lat="42.417325" lon="2.206456">
+        <ele>2821.6</ele>
+        <time>2005-10-09T10:30:40Z</time>
+      </trkpt>
+      <trkpt lat="42.417350" lon="2.205721">
+        <ele>2815.8</ele>
+        <time>2005-10-09T10:31:22Z</time>
+      </trkpt>
+      <trkpt lat="42.416960" lon="2.203798">
+        <ele>2797.6</ele>
+        <time>2005-10-09T10:32:52Z</time>
+      </trkpt>
+      <trkpt lat="42.416897" lon="2.205203">
+        <ele>2796.6</ele>
+        <time>2005-10-09T11:12:39Z</time>
+      </trkpt>
+      <trkpt lat="42.415578" lon="2.209181">
+        <ele>2788.9</ele>
+        <time>2005-10-09T11:15:45Z</time>
+      </trkpt>
+      <trkpt lat="42.415657" lon="2.209958">
+        <ele>2775.5</ele>
+        <time>2005-10-09T11:16:29Z</time>
+      </trkpt>
+      <trkpt lat="42.416258" lon="2.209214">
+        <ele>2753.0</ele>
+        <time>2005-10-29T03:00:59Z</time>
+      </trkpt>
+      <trkpt lat="42.417128" lon="2.208754">
+        <ele>2735.0</ele>
+        <time>2005-10-28T03:31:32Z</time>
+      </trkpt>
+      <trkpt lat="42.417982" lon="2.209078">
+        <ele>2711.0</ele>
+        <time>2005-10-28T03:33:28Z</time>
+      </trkpt>
+      <trkpt lat="42.418238" lon="2.208966">
+        <ele>2710.6</ele>
+        <time>2005-10-09T11:19:16Z</time>
+      </trkpt>
+      <trkpt lat="42.418508" lon="2.209059">
+        <ele>2710.6</ele>
+        <time>2005-10-09T11:20:02Z</time>
+      </trkpt>
+      <trkpt lat="42.418253" lon="2.209166">
+        <ele>2697.0</ele>
+        <time>2005-10-28T03:36:30Z</time>
+      </trkpt>
+      <trkpt lat="42.418407" lon="2.209754">
+        <ele>2681.0</ele>
+        <time>2005-10-28T13:17:31Z</time>
+      </trkpt>
+      <trkpt lat="42.417267" lon="2.213061">
+        <ele>2639.0</ele>
+        <time>2005-10-09T11:22:56Z</time>
+      </trkpt>
+      <trkpt lat="42.417083" lon="2.214406">
+        <ele>2622.1</ele>
+        <time>2005-10-09T11:23:43Z</time>
+      </trkpt>
+      <trkpt lat="42.417252" lon="2.215413">
+        <ele>2607.7</ele>
+        <time>2005-10-09T11:24:21Z</time>
+      </trkpt>
+      <trkpt lat="42.417048" lon="2.216108">
+        <ele>2597.0</ele>
+        <time>2005-10-28T13:24:19Z</time>
+      </trkpt>
+      <trkpt lat="42.417125" lon="2.216728">
+        <ele>2592.0</ele>
+        <time>2005-10-28T13:24:53Z</time>
+      </trkpt>
+      <trkpt lat="42.416660" lon="2.218831">
+        <ele>2587.1</ele>
+        <time>2005-10-09T11:25:53Z</time>
+      </trkpt>
+      <trkpt lat="42.416423" lon="2.220923">
+        <ele>2562.1</ele>
+        <time>2005-10-09T11:27:03Z</time>
+      </trkpt>
+      <trkpt lat="42.416537" lon="2.221608">
+        <ele>2540.9</ele>
+        <time>2005-10-09T11:28:04Z</time>
+      </trkpt>
+      <trkpt lat="42.416838" lon="2.222073">
+        <ele>2521.7</ele>
+        <time>2005-10-09T11:28:51Z</time>
+      </trkpt>
+      <trkpt lat="42.416887" lon="2.222654">
+        <ele>2521.0</ele>
+        <time>2005-10-28T13:28:24Z</time>
+      </trkpt>
+      <trkpt lat="42.417212" lon="2.223464">
+        <ele>2504.0</ele>
+        <time>2005-10-28T13:29:03Z</time>
+      </trkpt>
+      <trkpt lat="42.417818" lon="2.223238">
+        <ele>2492.3</ele>
+        <time>2005-10-09T11:30:31Z</time>
+      </trkpt>
+      <trkpt lat="42.417988" lon="2.223339">
+        <ele>2485.6</ele>
+        <time>2005-10-09T11:30:50Z</time>
+      </trkpt>
+      <trkpt lat="42.418313" lon="2.225339">
+        <ele>2472.7</ele>
+        <time>2005-10-09T11:31:25Z</time>
+      </trkpt>
+      <trkpt lat="42.418747" lon="2.226154">
+        <ele>2460.2</ele>
+        <time>2005-10-09T11:32:00Z</time>
+      </trkpt>
+      <trkpt lat="42.418978" lon="2.229003">
+        <ele>2455.0</ele>
+        <time>2005-10-28T13:37:03Z</time>
+      </trkpt>
+      <trkpt lat="42.418663" lon="2.229478">
+        <ele>2457.8</ele>
+        <time>2005-10-09T11:34:15Z</time>
+      </trkpt>
+      <trkpt lat="42.418448" lon="2.230731">
+        <ele>2459.0</ele>
+        <time>2005-10-27T04:26:08Z</time>
+      </trkpt>
+      <trkpt lat="42.417927" lon="2.231619">
+        <ele>2463.0</ele>
+        <time>2005-10-27T04:25:30Z</time>
+      </trkpt>
+      <trkpt lat="42.417732" lon="2.233434">
+        <ele>2463.0</ele>
+        <time>2005-10-09T11:37:51Z</time>
+      </trkpt>
+      <trkpt lat="42.417388" lon="2.234130">
+        <ele>2471.0</ele>
+        <time>2005-10-27T04:24:03Z</time>
+      </trkpt>
+      <trkpt lat="42.417453" lon="2.235017">
+        <ele>2474.6</ele>
+        <time>2005-10-09T11:39:47Z</time>
+      </trkpt>
+      <trkpt lat="42.416598" lon="2.237045">
+        <ele>2510.0</ele>
+        <time>2005-10-27T04:22:35Z</time>
+      </trkpt>
+      <trkpt lat="42.416237" lon="2.238199">
+        <ele>2518.8</ele>
+        <time>2005-10-09T11:44:05Z</time>
+      </trkpt>
+      <trkpt lat="42.416223" lon="2.238860">
+        <ele>2527.4</ele>
+        <time>2005-10-09T11:45:02Z</time>
+      </trkpt>
+      <trkpt lat="42.416532" lon="2.239989">
+        <ele>2531.0</ele>
+        <time>2005-10-27T04:20:12Z</time>
+      </trkpt>
+      <trkpt lat="42.416932" lon="2.240590">
+        <ele>2537.1</ele>
+        <time>2005-10-09T11:46:44Z</time>
+      </trkpt>
+      <trkpt lat="42.417153" lon="2.242569">
+        <ele>2530.3</ele>
+        <time>2005-10-09T08:09:19Z</time>
+      </trkpt>
+      <trkpt lat="42.416943" lon="2.244292">
+        <ele>2526.0</ele>
+        <time>2005-10-09T11:50:37Z</time>
+      </trkpt>
+      <trkpt lat="42.417163" lon="2.244144">
+        <ele>2511.6</ele>
+        <time>2005-10-09T11:51:06Z</time>
+      </trkpt>
+      <trkpt lat="42.417757" lon="2.245084">
+        <ele>2491.9</ele>
+        <time>2005-10-09T11:51:45Z</time>
+      </trkpt>
+      <trkpt lat="42.417880" lon="2.244264">
+        <ele>2477.9</ele>
+        <time>2005-10-09T11:52:11Z</time>
+      </trkpt>
+      <trkpt lat="42.418562" lon="2.244522">
+        <ele>2460.2</ele>
+        <time>2005-10-09T11:52:42Z</time>
+      </trkpt>
+      <trkpt lat="42.419070" lon="2.245050">
+        <ele>2445.0</ele>
+        <time>2005-10-22T18:40:09Z</time>
+      </trkpt>
+      <trkpt lat="42.419723" lon="2.246617">
+        <ele>2415.0</ele>
+        <time>2005-10-09T11:54:53Z</time>
+      </trkpt>
+      <trkpt lat="42.420117" lon="2.249450">
+        <ele>2400.5</ele>
+        <time>2005-10-09T11:55:53Z</time>
+      </trkpt>
+      <trkpt lat="42.419998" lon="2.249895">
+        <ele>2390.9</ele>
+        <time>2005-10-09T11:56:56Z</time>
+      </trkpt>
+      <trkpt lat="42.420455" lon="2.251464">
+        <ele>2371.2</ele>
+        <time>2005-10-09T11:57:54Z</time>
+      </trkpt>
+      <trkpt lat="42.420167" lon="2.254477">
+        <ele>2285.1</ele>
+        <time>2005-10-09T06:50:06Z</time>
+      </trkpt>
+      <trkpt lat="42.419767" lon="2.255187">
+        <ele>2264.1</ele>
+        <time>2005-11-29T16:47:49Z</time>
+      </trkpt>
+      <trkpt lat="42.419828" lon="2.257009">
+        <ele>2238.1</ele>
+        <time>2005-10-09T06:45:58Z</time>
+      </trkpt>
+      <trkpt lat="42.419675" lon="2.257850">
+        <ele>2229.0</ele>
+        <time>2005-11-29T16:50:50Z</time>
+      </trkpt>
+      <trkpt lat="42.420097" lon="2.258039">
+        <ele>2218.9</ele>
+        <time>2005-10-09T06:42:50Z</time>
+      </trkpt>
+      <trkpt lat="42.420523" lon="2.258874">
+        <ele>2190.0</ele>
+        <time>2005-11-29T17:03:03Z</time>
+      </trkpt>
+      <trkpt lat="42.420677" lon="2.260744">
+        <ele>2160.1</ele>
+        <time>2005-10-09T06:35:43Z</time>
+      </trkpt>
+      <trkpt lat="42.420513" lon="2.261499">
+        <ele>2144.0</ele>
+        <time>2005-11-29T16:58:32Z</time>
+      </trkpt>
+      <trkpt lat="42.421128" lon="2.262464">
+        <ele>2119.9</ele>
+        <time>2005-11-29T16:56:29Z</time>
+      </trkpt>
+      <trkpt lat="42.421457" lon="2.263810">
+        <ele>2094.9</ele>
+        <time>2005-11-29T16:53:57Z</time>
+      </trkpt>
+      <trkpt lat="42.421732" lon="2.263830">
+        <ele>2090.0</ele>
+        <time>2005-10-09T06:29:17Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

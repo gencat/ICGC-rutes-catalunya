@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.470327" lon="1.083324">
+    <ele>605.3</ele>
+    <time>2014-04-28T10:40:25Z</time>
+    <name>La Font</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.469954" lon="1.088496">
+    <ele>654.7</ele>
+    <time>2014-04-28T10:40:26Z</time>
+    <name>Senan</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.494907" lon="1.004937">
+    <ele>435.3</ele>
+    <time>2016-03-07T17:27:44Z</time>
+    <name>L'Espluga Calba</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.492069" lon="1.042239">
+    <ele>539.8</ele>
+    <time>2016-11-03T15:09:52Z</time>
+    <name>cabana de pedra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.461229" lon="1.074775">
+    <ele>698.0</ele>
+    <time>2016-11-03T15:40:54Z</time>
+    <name>GR 3</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.464193" lon="1.079211">
+    <ele>697.4</ele>
+    <time>2016-11-03T15:53:35Z</time>
+    <name>GR 3</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.459816" lon="1.076610">
+    <ele>726.0</ele>
+    <time>2016-11-30T08:52:58Z</time>
+    <name>els Morellons</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De l'Espluga Calba a Senan</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt; De l'Espluga Calba a Senan&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari circular a cavall de les comarques de les Garrigues i de la Conca de Barberà, fàcil però considerablement llarg, que recorre les rodalies de l’Espluga Calba i Senan en un entorn rural de característiques continentals, eixut i harmoniós, format per camps de blat, ametllerars, oliverars i rodals de bosc. L’itinerari permet conèixer, a més, el patrimoni arquitectònic i cultural de les dues localitats, on destaca el castell de l’Espluga Calba.&lt;/i&gt; 
+Ruta senyalitzada parcialment. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;00,00 km (436 m). L’Espluga Calba, carrer de Pau Casals, davant de l’ajuntament de la vila. Se surt del poble en direcció a llevant, deixant el castell a mà dreta (al sud). A la sortida del poble es deixa un trencall particular a la dreta, després es deixa l’accés a la carretera a l’esquerra i es continua recte per la pista de terra que es dirigeix a l’E. Se segueix la pista principal deixant trencalls secundaris a banda i banda. Als 24 minuts (km 1,61, 454 m), es passa pel costat d’una barraca d’obra; 50 m més enllà es deixa una bifurcació a la dreta, es gira al N, es creua el fons de la vall i es desemboca en una altra pista. 
+ 
+1,80 km (452 m), 27 min. Camí de les Catalanes. Es gira a la dreta (E); després es tornarà a aquest punt. La pista, a cops amb trams asfaltats, va pujant suaument. Al cap d’1,1 km gira cap al SE, lentament, fins a encarar-se al S; sempre en pujada, es deixen diversos trencalls a la dreta; es travessa el pla del Mut i s’enfila una carena, amb vistes a banda i banda quan el bosc ho permet. Després, el llom s’expandeix; seguint la pista principal es travessen els Plans; continuant en pujada suau es deixen fins a quatre trencalls a la dreta i s’arriba al que s’intueix com a carena de la serra, on hi ha una desviació. 
+ 
+8,40 km (692 m), 2 h 13 min. Bifurcació on es troben els senyals blancs i vermells del sender GR 3. Es deixa la desviació de la dreta, per on se’n va el GR. Se segueix cap a l’esquerra, girant cap a llevant, seguint el GR. Al cap de 370 m el camí gira al N; a la dreta hi ha un trencall que puja entre dos camps i que permet arribar al cim de la Serreta. Es pren. 
+ 
+9,00 km (726 m), 2 h 23 min. Puig dels Morellons. El bosc impedeix parcialment la vista sobre els entorns; al SO destaquen els aerogeneradors del Parc Eòlic de Vilobí. Es torna al trencall anterior i, ara cap a la dreta, se segueix, en decidida baixada, cap a Senan, aviat ben visible. Seguint el GR es deixa un trencall a la dreta (9,50 km, 342 m). Sota Senan, es creua la carretera T-232 i s’entra al poble pel carrer Nou i el carrer Major. 
+ 
+10,92 km (654 m), 2 h 50 min. Senan, plaça Major, davant de l’ajuntament. Cal passejar-se pel nucli i veure l’església de Santa Maria. En acabat, es baixa pel carrer Major, es creua la carretera i, pel Raval de la Creu, s’arriba al Racó de la Font, un indret d’esbarjo, amb aigua, taules i barbacoa. Es torna enrere i es puja fins a la carretera, que cal prendre a l'esquerra (NO) durant 400 m, en direcció als Omells de na Gaia. 
+ 
+12,21 km (607 m), 3 h 8 min. Bifurcació. Es deixa la carretera i es trenca per un camí de l'esquerra (O) que puja cap al N i després gira al NO. Al cap de poc (12,40 km, 603 m) se surt a una pista; s'ha de seguir a l'esquerra en direcció SO i després NO, sempre en suau baixada durant la resta del recorregut. Aquesta pista, en bones condicions, recorre, entre camps de blat i oliverars, l'anomenat fondo del Pou, deixant als costats masos com els del Batllevell i de l'Hereu. Es deixen alguns trencalls secundaris a esquerra (13,27 km, 586 m) i a dreta (km 13,60, 465 m) i se segueix sempre per la pista principal en direcció NO. Quan es porten 17,5 km de recorregut, la pista gira a l’O i es troba una bifurcació. 
+ 
+18,37 km (465 m), 4 h 32 min. Trencall d’accés a la carretera dels Omells de na Gaia, que es deixa a la dreta. La pista gira al SO i arriba al trencall del camí de les Catalanes on, a l’anada, l’itinerari es dirigia cap a la carena dels Plans i el puig dels Morellons. S’arriba en aquest punt (19,62 km, 452 m) i es desfà el camí, ja conegut, fins a l’origen de l’excursió. 
+ 
+20,86 km (436 m), 5 h 7 min. L’Espluga Calba, carrer de Pau Casals, davant de l’ajuntament de la vila. Fi de l'itinerari. 
+ 
+L’Espluga Calba -el nom “espluga” fa referència a les coves existents al lloc- posseeix carta de població des de l’any 1148; posteriorment s’institueix com a parròquia i Jaume I transfereix el lloc al monestir de Vallbona. La construcció de l’actual castell es va fer aprofitant una fortalesa musulmana; després va passar per diferents propietaris, com els Hospitalers de Sant Joan. El castell és visitable (cal informar-se dels horaris de visita al web de l’ajuntament). 
+ 
+Senan es caracteritza per les construccions de pedra vista que s'han anat recuperant els darrers anys. L’església de Santa Maria de Senan és l’edifici més característic de la població; d’estil romànic, va ser construïda a finals del segle XII sota l’impuls del monestir de Montserrat. A la façana destaca la triple arquivolta amb dues columnes rematades amb capitells. La façana està coronada per un campanar d'espadanya.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Des de L’Espluga Calba a Senan&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario circular entre las comarcas de Les Garrigues y de la Conca de Barberà, fácil pero considerablemente largo, que recorre los alrededores de la Espluga Calba y de Senan en un entorno rural de características continentales, seco y armonioso , formado por campos de trigo, almendros, olivares y rodales de bosque. El itinerario permite conocer, además, el patrimonio arquitectónico y cultural de las dos localidades, donde destaca el castillo de la Espluga Calba.&lt;/i&gt; 
+ 
+Ruta señalizada parcialmente. Esta ruta también se puede resalizar con bicicleta de montaña. &lt;/p&gt; &lt;br&gt; 
+&lt;p&gt; 00,00 km (436 m). La Espluga Calva, calle Pau Casals, frente al ayuntamiento. Se sale del pueblo en dirección a levante, dejando el castillo a mano derecha (al sur). A la salida del pueblo se deja un desvío particular a la derecha, luego se deja el acceso a la carretera a la izquierda y se sigue recto por la pista de tierra que se dirige al E. Se sigue la pista principal dejando desvíos secundarios a ambos lados. A los 24 minutos (km 1,61, 454 m), se pasa junto a una barraca de piedra; 50 m más allá se deja una bifurcación a la derecha, se gira al N, se cruza el fondo del valle y se desemboca en otra pista. 
+ 
+1,80 km (452 m), 27 min. Camino de Les Catalanes. Se gira a la derecha (E); después se volverá a este punto. La pista, a veces con tramos asfaltados, va subiendo suavemente. Al cabo de 1,1 km gira hacia el SE, lentamente, hasta encararse al S; siempre en subida, se dejan varios desvíos a la derecha; se atraviesa el llano del Mut y sube hasta la loma, con vistas a ambos lados cuando el bosque lo permite. Después, el lomo se expande; siguiendo la pista principal se atraviesan Els Plans; continuando en subida suave se dejan hasta cuatro desvíos a la derecha y se llega a lo que se intuye como el cordal divisorio de la sierra, donde hay una desviación. 
+ 
+8,40 km (692 m), 2 h 13 min. Bifurcación donde se encuentran las señales blancas y rojas del sendero GR 3. Se deja el desvío de la derecha, por donde se va el GR. Se sigue hacia la izquierda, girando hacia levante, siguiendo el GR. Al cabo de 370 m el camino gira al N; a la derecha hay un desvío que sube entre dos campos y que permite llegar a la cima de La Serreta. Se toma. 
+ 
+9,00 km (726 m), 2 h 23 min. Puig dels Morellons. El bosque impide parcialmente la vista sobre los entornos; al SO destacan los aerogeneradores del Parque Eólico de Vilobí. Se vuelve al desvío anterior y, ahora hacia la derecha, se sigue, en decidida bajada, hacia Senan, pronto visible. Siguiendo el GR se deja un desvío a la derecha (9,50 km, 342 m). Bajo Senan, se cruza la carretera T-232 y se entra en el pueblo por la calle Nou y la calle Major. 
+ 
+10,92 km (654 m), 2 h 50 min. Senan, plaza Major, frente al ayuntamiento. Hay que pasearse por el núcleo y ver la iglesia de Santa María. Después, se baja por la calle Major, se cruza la carretera y, por el Raval de la Creu, se llega al Racó de la Font, un espacio de ocio, con agua, mesas y barbacoa. Se vuelve atrás y se sube hasta la carretera, que hay que tomar a la izquierda (NO) durante 400 m, en dirección a Els Omells de na Gaia. 
+ 
+12,21 km (607 m), 3 h 8 min. Bifurcación. Se deja la carretera y se toma un camino de la izquierda (O) que sube hacia el N y luego gira al NO. Al poco (12,40 km, 603 m) se sale a una pista; seguir a la izquierda en dirección SO y luego NO, siempre en suave bajada durante el resto del recorrido. Esta pista, en buenas condiciones, recorre, entre campos de trigo y olivares, el llamado Fondo del Pou, dejando a los lados masías como los del Batllevell y del Hereu. Se dejan algunos desvíos secundarios a izquierda (13,27 km, 586 m) y a derecha (km 13,60, 465 m) y se sigue siempre por la pista principal en dirección NO. Cuando se llevan 17,5 km de recorrido, la pista gira al O y se encuentra una bifurcación. 
+ 
+18,37 km (465 m), 4 h 32 min. Desvío de acceso a la carretera de Els Omells de na Gaia, que se deja a la derecha. La pista gira al SO y se llega al desvío del camino de Les Catalanes donde, a la ida, el itinerario se dirigía hacia Els Plans y Els Morellons. 
+ 
+Se llega a este punto (19,62 km, 452 m) y se deshace el camino, ya conocido, hasta el origen de la excursión. 
+ 
+20,86 km (436 m), 5 h 7 min. La Espluga Calva, calle Pau Casals, frente al ayuntamiento de la ciudad. Fin del itinerario. 
+ 
+La Espluga Calva -el nombre "espluga" hace referencia a las cuevas existentes en el lugar- posee carta de población desde el año 1148; posteriormente se instituye como parroquia y Jaume I transfiere el lugar al monasterio de Vallbona. La construcción del actual castillo se hizo aprovechando una fortaleza musulmana; luego pasó por diferentes propietarios, como los Hospitalarios de San Juan. El castillo es visitable (hay que informarse de los horarios de visita en la web del ayuntamiento). 
+ 
+Senan se caracteriza por las construcciones de piedra vista que se han ido recuperando en los últimos años. La iglesia de Santa María es el edificio más característico de la población; de estilo románico, fue construida a finales del siglo XII bajo el impulso del monasterio de Montserrat. En la fachada destaca la triple arquivolta con dos columnas rematadas con capiteles. La fachada está coronada por un campanario de espadaña.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.494924" lon="1.005140">
+        <ele>435.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494604" lon="1.005947">
+        <ele>436.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494651" lon="1.007311">
+        <ele>439.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495503" lon="1.009939">
+        <ele>437.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495993" lon="1.011978">
+        <ele>436.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496089" lon="1.013131">
+        <ele>438.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495850" lon="1.014648">
+        <ele>445.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495118" lon="1.016863">
+        <ele>450.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494649" lon="1.018926">
+        <ele>453.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494956" lon="1.020007">
+        <ele>451.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494970" lon="1.020827">
+        <ele>451.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494780" lon="1.022838">
+        <ele>451.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494539" lon="1.023217">
+        <ele>453.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494356" lon="1.024109">
+        <ele>453.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494659" lon="1.024435">
+        <ele>451.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495331" lon="1.024738">
+        <ele>452.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494796" lon="1.030343">
+        <ele>469.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495045" lon="1.032540">
+        <ele>484.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495510" lon="1.034215">
+        <ele>495.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495225" lon="1.035674">
+        <ele>502.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495272" lon="1.037386">
+        <ele>509.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494741" lon="1.038768">
+        <ele>518.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493959" lon="1.039114">
+        <ele>521.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493533" lon="1.040278">
+        <ele>529.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492458" lon="1.041413">
+        <ele>535.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491950" lon="1.043033">
+        <ele>545.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491370" lon="1.043440">
+        <ele>550.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491121" lon="1.043813">
+        <ele>553.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491090" lon="1.044149">
+        <ele>555.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491481" lon="1.045156">
+        <ele>567.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491430" lon="1.045565">
+        <ele>569.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491182" lon="1.045830">
+        <ele>570.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490651" lon="1.045875">
+        <ele>572.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489798" lon="1.047051">
+        <ele>574.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488992" lon="1.047354">
+        <ele>578.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488140" lon="1.048128">
+        <ele>582.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487661" lon="1.048295">
+        <ele>580.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.487253" lon="1.048900">
+        <ele>582.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486975" lon="1.048969">
+        <ele>584.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486555" lon="1.048646">
+        <ele>586.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485779" lon="1.048561">
+        <ele>587.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484914" lon="1.049078">
+        <ele>589.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483439" lon="1.050296">
+        <ele>595.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482612" lon="1.051747">
+        <ele>598.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481882" lon="1.053577">
+        <ele>603.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480816" lon="1.054974">
+        <ele>608.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479001" lon="1.058981">
+        <ele>620.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477277" lon="1.060629">
+        <ele>628.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476270" lon="1.062300">
+        <ele>633.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475571" lon="1.062472">
+        <ele>634.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475009" lon="1.063309">
+        <ele>636.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474657" lon="1.063266">
+        <ele>635.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473784" lon="1.062765">
+        <ele>638.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471466" lon="1.063672">
+        <ele>645.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471116" lon="1.064245">
+        <ele>647.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470924" lon="1.065449">
+        <ele>649.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470126" lon="1.065939">
+        <ele>652.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469616" lon="1.066668">
+        <ele>655.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468826" lon="1.066787">
+        <ele>657.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468490" lon="1.066654">
+        <ele>658.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467986" lon="1.066944">
+        <ele>660.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467725" lon="1.066694">
+        <ele>660.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466820" lon="1.066440">
+        <ele>662.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466476" lon="1.066576">
+        <ele>663.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465834" lon="1.067242">
+        <ele>667.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465618" lon="1.067248">
+        <ele>667.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465407" lon="1.067033">
+        <ele>667.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465000" lon="1.067194">
+        <ele>668.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464187" lon="1.068368">
+        <ele>673.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463030" lon="1.072192">
+        <ele>684.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462141" lon="1.072578">
+        <ele>686.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461639" lon="1.072994">
+        <ele>689.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461073" lon="1.073065">
+        <ele>690.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460806" lon="1.073282">
+        <ele>691.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460811" lon="1.073588">
+        <ele>692.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461286" lon="1.074490">
+        <ele>697.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460856" lon="1.077376">
+        <ele>700.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460592" lon="1.077485">
+        <ele>704.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460217" lon="1.077999">
+        <ele>711.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460013" lon="1.077868">
+        <ele>710.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459718" lon="1.077194">
+        <ele>718.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459813" lon="1.076700">
+        <ele>724.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.459718" lon="1.077194">
+        <ele>718.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460109" lon="1.077991">
+        <ele>710.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460244" lon="1.077981">
+        <ele>711.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460618" lon="1.077461">
+        <ele>703.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.460843" lon="1.077448">
+        <ele>700.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.461139" lon="1.077835">
+        <ele>700.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462159" lon="1.077942">
+        <ele>702.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.462711" lon="1.078411">
+        <ele>702.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.463713" lon="1.078262">
+        <ele>699.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.464176" lon="1.079314">
+        <ele>696.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465100" lon="1.079358">
+        <ele>680.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.465273" lon="1.080515">
+        <ele>670.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466126" lon="1.081478">
+        <ele>660.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.466618" lon="1.082356">
+        <ele>644.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467391" lon="1.083051">
+        <ele>636.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467416" lon="1.084021">
+        <ele>631.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467657" lon="1.084696">
+        <ele>626.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.467386" lon="1.085746">
+        <ele>628.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.468089" lon="1.086576">
+        <ele>629.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469480" lon="1.086816">
+        <ele>635.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469941" lon="1.086622">
+        <ele>639.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469812" lon="1.087560">
+        <ele>648.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469931" lon="1.088485">
+        <ele>654.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469812" lon="1.087560">
+        <ele>648.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469992" lon="1.085633">
+        <ele>630.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469338" lon="1.083946">
+        <ele>612.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469500" lon="1.083708">
+        <ele>610.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469950" lon="1.083694">
+        <ele>609.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470372" lon="1.083311">
+        <ele>605.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469950" lon="1.083694">
+        <ele>609.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469500" lon="1.083708">
+        <ele>610.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469312" lon="1.084037">
+        <ele>613.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.469556" lon="1.084586">
+        <ele>616.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470310" lon="1.084438">
+        <ele>619.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.470168" lon="1.085119">
+        <ele>626.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.471407" lon="1.083556">
+        <ele>617.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.472791" lon="1.083605">
+        <ele>609.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473145" lon="1.083804">
+        <ele>606.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473279" lon="1.082810">
+        <ele>600.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.473806" lon="1.082665">
+        <ele>600.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474210" lon="1.082294">
+        <ele>600.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474305" lon="1.082069">
+        <ele>603.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474120" lon="1.081206">
+        <ele>604.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474300" lon="1.080668">
+        <ele>604.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474636" lon="1.080287">
+        <ele>605.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.474709" lon="1.079696">
+        <ele>604.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475535" lon="1.077511">
+        <ele>595.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.475643" lon="1.076688">
+        <ele>590.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476282" lon="1.075890">
+        <ele>589.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.476938" lon="1.074715">
+        <ele>585.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.477281" lon="1.073429">
+        <ele>585.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.478678" lon="1.071824">
+        <ele>576.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.479669" lon="1.069716">
+        <ele>568.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480443" lon="1.068684">
+        <ele>563.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480638" lon="1.067793">
+        <ele>557.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.480840" lon="1.067740">
+        <ele>557.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481554" lon="1.068150">
+        <ele>555.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481763" lon="1.068000">
+        <ele>555.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481898" lon="1.067463">
+        <ele>556.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.481551" lon="1.066137">
+        <ele>551.9</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482190" lon="1.064848">
+        <ele>546.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482447" lon="1.062984">
+        <ele>544.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.482989" lon="1.061521">
+        <ele>538.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483094" lon="1.060776">
+        <ele>537.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.483622" lon="1.060107">
+        <ele>538.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484017" lon="1.059191">
+        <ele>535.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.484673" lon="1.058512">
+        <ele>532.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485069" lon="1.057171">
+        <ele>532.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.485561" lon="1.056438">
+        <ele>529.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.486102" lon="1.054900">
+        <ele>525.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.488102" lon="1.054373">
+        <ele>519.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489275" lon="1.054777">
+        <ele>517.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489557" lon="1.054396">
+        <ele>516.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.489921" lon="1.054331">
+        <ele>515.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490392" lon="1.053987">
+        <ele>512.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490340" lon="1.053252">
+        <ele>504.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490027" lon="1.052641">
+        <ele>504.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490059" lon="1.052418">
+        <ele>504.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.490749" lon="1.050556">
+        <ele>504.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.491483" lon="1.049768">
+        <ele>503.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492213" lon="1.049530">
+        <ele>504.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493078" lon="1.047665">
+        <ele>498.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493152" lon="1.047274">
+        <ele>497.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.492995" lon="1.046222">
+        <ele>493.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493112" lon="1.045418">
+        <ele>491.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.493509" lon="1.044711">
+        <ele>487.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495163" lon="1.043176">
+        <ele>483.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495619" lon="1.042455">
+        <ele>483.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496037" lon="1.041317">
+        <ele>480.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496628" lon="1.040844">
+        <ele>478.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497074" lon="1.040842">
+        <ele>476.3</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497460" lon="1.039997">
+        <ele>474.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498107" lon="1.039127">
+        <ele>472.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498148" lon="1.035969">
+        <ele>465.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498272" lon="1.035270">
+        <ele>464.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498140" lon="1.032543">
+        <ele>461.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498323" lon="1.031406">
+        <ele>460.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.499007" lon="1.029293">
+        <ele>465.2</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498989" lon="1.028767">
+        <ele>466.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.498409" lon="1.027760">
+        <ele>466.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.497650" lon="1.025930">
+        <ele>465.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496487" lon="1.024401">
+        <ele>459.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496183" lon="1.023796">
+        <ele>457.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495788" lon="1.023892">
+        <ele>456.0</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495331" lon="1.024738">
+        <ele>452.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494357" lon="1.024187">
+        <ele>452.5</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494522" lon="1.023271">
+        <ele>453.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494780" lon="1.022838">
+        <ele>451.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494970" lon="1.020827">
+        <ele>451.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494956" lon="1.020007">
+        <ele>451.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494649" lon="1.018926">
+        <ele>453.8</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495118" lon="1.016863">
+        <ele>450.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495850" lon="1.014648">
+        <ele>445.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.496089" lon="1.013131">
+        <ele>438.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495993" lon="1.011978">
+        <ele>436.4</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.495503" lon="1.009939">
+        <ele>437.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494651" lon="1.007311">
+        <ele>439.1</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494604" lon="1.005947">
+        <ele>436.7</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.494924" lon="1.005140">
+        <ele>435.6</ele>
+        <time>2016-10-30T10:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.380813" lon="1.765473">
+    <ele>212.1</ele>
+    <time>2006-10-29T17:24:30Z</time>
+    <name>Sant Sebastià dels Gorgs</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.364675" lon="1.753694">
+    <ele>265.1</ele>
+    <time>2006-10-29T17:30:04Z</time>
+    <name>Sant Cugat Sesgarrigues</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.367853" lon="1.798747">
+    <ele>284.2</ele>
+    <time>2006-10-29T17:52:50Z</time>
+    <name>Carrer dels Xops</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.380442" lon="1.771731">
+    <ele>196.9</ele>
+    <time>2006-10-29T17:54:29Z</time>
+    <name>Torrent del Gendret</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.381122" lon="1.769392">
+    <ele>192.5</ele>
+    <time>2006-10-29T17:55:05Z</time>
+    <name>Torrent de Baix</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.366732" lon="1.799706">
+    <ele>288.1</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Cantallops</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.380410" lon="1.771170">
+    <ele>199.5</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>PR C-148</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.362917" lon="1.794528">
+    <ele>318.1</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Quatre Camins</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.365860" lon="1.801590">
+    <ele>295.9</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>PR C-152</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.360210" lon="1.778100">
+    <ele>277.6</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>PR C-152</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.367210" lon="1.757090">
+    <ele>274.1</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>PR C-152.2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.361189" lon="1.776794">
+    <ele>277.0</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Avinyó Nou o les Cabòries</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.360490" lon="1.786020">
+    <ele>299.0</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Camí de la Plana d'en Bord</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.380920" lon="1.766100">
+    <ele>211.0</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Carrer de Baix</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.381120" lon="1.764720">
+    <ele>214.0</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>Carrer de Dalt</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.382420" lon="1.759060">
+    <ele>220.5</ele>
+    <time>2013-12-23T12:10:33Z</time>
+    <name>A la Mare de Déu de Llinda</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Sant Sebastià dels Gorgs i Avinyonet del Penedès</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Sant Sebastià dels Gorgs i Avinyonet del Penedès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerari en bicicleta que discorre per un entorn plenament rural dedicat, quasi exclusivament, al conreu de la vinya i a la producció de vi i cava de la denominació d’origen Penedès. Del recorregut en destaca l'antic monestir romànic de Sant Sebastià dels Gorgs, restaurat el 2011 i de visita inexcusable. El conjunt romànic, vestigi d'un vell cenobi benedictí del s. XI, està format per l'església de Sant Sebastià, del segles XI i XII, on destaca la portalada, el campanar romànic amb finestres dobles i capitells i el claustre, amb capitells singulars i bellament esculpits.&lt;/i&gt; 
+Ruta senyalitzada parcialment.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El punt d’inici de la sortida és a Sant Sebastià dels Gorgs, petit nucli rural pertanyent al municipi d’Avinyonet del Penedès, situat a 8,5 km de Vilafranca del Penedès. S’hi pot arribar des de la carretera N-340 prenent la desviació de la BV-2429 a l'alçada de Sant Cugat Sesgarrigues o des de la C-243a, entre Sant Sadurní d’Anoia i Vilafranca del Penedès. El vehicle es pot aparcar a l’espai d’estacionament situat a l’entrada del nucli venint de Sant Cugat Sesgarrigues. 
+ 
+0,00 km (213 m). Situats a la plaça de l’Església, a l’entrada del monestir, se surt cap al nord deixant l’antic cenobi a la dreta. Immediatament després es gira a l’esquerra (O) i es pren el carrer de Dalt. Se surt en un camí asfaltat i es continua recte, cap a ponent, deixant trencalls secundaris a banda i banda. 
+ 
+0,59 km (220 m). S’acaba l’asfalt i es deixa un trencall a mà dreta (N) que du a l’ermita de la Mare de Déu de Llinda (a 350 m d’aquí), petita capella romànica del s. XII adossada a la masia del mateix nom. Es continua recte, cap a ponent. El recorregut s’acosta a l’autopista AP-7; passat el mas de cal Cremat (2,50 km, 242 m) quan s’és just davant de l’autovia, es gira a l’esquerra (S). Una mica més enllà es travessa un camí asfaltat que comunica la Granada amb Sant Cugat Sesgarrigues amb un pont sobre l'autopista (2,93 km, 253 m). Se segueix recte. 
+ 
+3,08 km (253 m). Es deixa la pista per on s’anava i es gira a l'esquerra (E) pel costat de les vinyes tot vorejant el polígon de telecomunicacions Fons de l’Estació, que queda a l’esquerra del recorregut (N). 
+ 
+3,95 km (258 m). Bifurcació. Es deixa una pista a la dreta i es continua cap al NE. Una mica més endavant (4,29 km) es deixa un trencall a l’esquerra i s’enfila el camí en direcció a Sant Cugat Sesgarrigues, on s’entra pel carrer de la Torre del Gall. 
+ 
+5,09 km (266 m). Sant Cugat Sesgarrigues. Es creua la carretera BV-2429 i, a l’altra banda, es pren el carrer Àngel Guimerà en direcció E; es continua pel carrer de les Creus i se surt del nucli urbà. Cal creuar una carretera secundària que va a Avinyonet (5,62 km; senyalització del sender de petit recorregut PR C-152.2) i continuar recte, cap al NE, seguint una pista de terra que, més endavant (6,19 km) gira a llevant. 
+ 
+6,40 km (247 m). Cruïlla de camins. Es deixa la continuació de la pista per on s’anava, es gira a la dreta i immediatament després es pren la segona pista que s’en va en direcció SE. S’arriba a les caves Avinyó, que es voregen deixant-les a l’esquerra. Se surt a la pista asfaltada que comunica Sant Sebastià dels Gorgs amb Avinyó Nou (7,04 km, 233 m) i que es pren avall, cap a la dreta (SE), fins a creuar un torrent enmig d’una zona humida i boscosa (7,33 km, 218 m). Es puja a can Batlle (7,64 km, 239 m) i es continua fins al nucli d’Avinyó Nou, municipi d'Avinyonet del Penedès. 
+ 
+8,46 km (276 m). Avinyó Nou o les Cabòries; es creua la carretera N-340 i es continua per l’altra banda seguint el carrer del Doctor Parellada i la BV-2411 en direcció a Olesa de Bonesvalls. La carretera gira a llevant; setanta-cinc metres després, es deixa i es gira a l’esquerra (NE) pel carrer de les Cabòries (senyalització del PR C-152). 
+ 
+9,37 km (299 m). Bifurcació als afores del poble i al costat del camp de futbol; es deixa l’asfalt i s'agafa el camí de la Plana d’en Bord, que surt recte en pujada i s'endinsa en el bosc. Es passa el punt més alt de la ruta (325 m), segueix un tram rocallós i s’arriba a la cruïlla de Quatre Camins (10,17 km, 318 m) on es continua recte, en suau baixada fins a Cantallops. 
+ 
+10,94 km (295 m). Cantallops. Es gira al N seguint el carrer Cantallops en baixada i deixant a l’esquerra l’església rodona de Santa Margarida (senyals del PR C-152). Es passa la plaça Nova i s’arriba a l’alçada de la carretera general N-340, davant de l’esglesiola de Santa Margarida, de color rogenc. Es gira a la dreta i, quaranta metres després, es creua la carretera i es continua per l’altra banda prenent el carrer dels Xops en direcció N i deixant un restaurant a la dreta (11,32 km, 283 m). El carrer desemboca en el camí dels Xops, que cal seguir cap al nord-oest fins al final del recorregut. Després de resseguir longitudinalment el serrat dels Xops es baixa i es creua el torrent del Gendret (14,20 km 197 m). Es desemboca en una pista, es gira a l’esquerra i es travessa un segon torrent, el de Baix, des d’on es remunta a Sant Sebastià. 
+ 
+14,70 km (212 m). Plaça de l’Església de Sant Sebastià dels Gorgs, fi de l’itinerari. 
+ 
+El monestir de Sant Sebastià dels Gorgs s’obre al públic els primers i tercers dissabtes de cada mes. Per a visites particulars cal posar-se en contacte amb l’ajuntament d’Avinyonet del Penedès.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Sant Sebastià dels Gorgs i Avinyonet del Penedès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Itinerario en bicicleta que discurre por un entorno rural dedicado casi exclusivamente al cultivo de la vid y a la producción de vino y cava de la denominación de origen Penedés. En el recorrido sobresale el antiguo monasterio románico de Sant Sebastià dels Gorgs, restaurado en 2011. El conjunto, vestigio de un antiguo cenobio benedictino del s. XI, está formado básicamente por la iglesia de Sant Sebastià y un claustro. La iglesia se remonta a los siglos XI y XII, en el edificio destacan la portada y el campanario románico, con ventanas dobles y capiteles. En el pequeño claustro son apreciables sus capiteles singulares bellamente esculpidos.&lt;/i&gt; 
+Ruta señalizada parcialmente.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; El punto de salida es Sant Sebastià dels Gorgs, pequeño núcleo rural perteneciente al municipio de Avinyonet del Penedès, situado a 8,5 km de Vilafranca del Penedès. Allí se puede llegar desde la carretera N-340 tomando la desviación de la BV-2429 a la altura de Sant Cugat Sesgarrigues o desde la C-243a, entre Sant Sadurní y Vilafranca del Penedès. El vehículo se puede aparcar en el espacio de estacionamiento situado en la entrada del núcleo viniendo de Sant Cugat Sesgarrigues. 
+ 
+0,00 km (213 m). Situados en la plaza de L’Església, a la entrada del monasterio, se sale hacia el norte dejando el antiguo cenobio a la derecha. Inmediatamente después se gira a la izquierda (O) y se toma la calle de Dalt. Se sale a un camino asfaltado y se sigue recto, hacia poniente, dejando desvíos secundarios a ambos lados. 
+ 
+0,59 km (220 m). Se acaba el asfalto y se deja un desvío a mano derecha (N) que lleva a la ermita de la Virgen de Llinda (a 350 metros de aquí), pequeña capilla románica del s. XII adosada a la masía del mismo nombre. Se sigue recto, hacia poniente. El recorrido se acerca a la autopista AP-7; pasado el Mas de Cal Cremat (2,50 km, 242 m), frente a la autopista se gira a la izquierda (S). Un poco más allá se cruza un camino asfaltado que comunica la Granada y Sant Cugat Sesgarrigues por un puente sobre la autopista (2,93 km, 253 m). Se sigue recto. 
+ 
+3,08 km (253 m). Se deja la pista por donde se iba y se gira a la izquierda (E) entre viñedos, bordeando el polígono de telecomunicaciones Fons de l’Estació, que queda a la izquierda del recorrido (N). 
+ 
+3,95 km (258 m). Bifurcación. Se deja una pista a la derecha y se continúa hacia el NE. Un poco más allá (4,29 km) se deja un desvío a la izquierda y se sigue por el camino en dirección a Sant Cugat Sesgarrigues, donde se entra por la calle de la Torre del Gall. 
+ 
+5,09 km (266 m). Sant Cugat Sesgarrigues. Se cruza la carretera BV-2429 y, en el otro lado, se toma la calle Àngel Guimerà en dirección E; se continúa por la calle de Les Creus y se sale del núcleo urbano. Hay que cruzar una carretera secundaria que va a Avinyonet (5,62 km; señalización del sendero de pequeño recorrido PR C-152.2) y continuar recto, hacia el NE, siguiendo una pista de tierra que, más adelante (6,19 km) gira a levante. 
+ 
+6,40 km (247 m). Cruce de caminos. Se deja la continuación de la pista por donde se iba, se gira a la derecha e inmediatamente después se toma la segunda pista que se va en dirección SE. Se llega a las cavas Avinyó, que se bordean dejándolas a la izquierda. Se sale a la pista asfaltada que comunica Sant Sebastià dels Gorgs con Avinyó Nou (7,04 km, 233 m) y que se toma hacia la derecha (SE), bajando hasta cruzar un torrente en medio de una zona húmeda y boscosa (7,33 km, 218 m). Se sube a Can Batlle (7,64 km, 239 m) y se continúa hasta el núcleo de Avinyó Nou, perteneciente al municipio de Avinyonet del Penedès. 
+ 
+8,46 km (276 m). Avinyó Nou, tambien conocido como Les Cabòries; se cruza la carretera N-340 y se continúa, al otro lado, por la calle del Doctor Parellada y por la BV-2411 en dirección a Olesa de Bonesvalls. La carretera gira a levante; setenta y cinco metros después, se deja y se gira a la izquierda (NE) por la calle de Les Cabòries (señalización del PR C-152). 
+ 
+9,37 km (299 m). Bifurcación en las afueras del pueblo y junto al campo de fútbol; se deja el asfalto y se toma el camino de la Plana d'en Bord, que sale recto en subida y se adentra en el bosque. Se pasa el punto más alto de la ruta (325 m), después sigue un tramo rocoso y se llega al cruce de Quatre Camins (10,17 km, 318 m) donde se sigue recto, en suave descenso hasta Cantallops. 
+ 
+10,94 km (295 m). Cantallops. Se gira al N siguiendo la calle Cantallops en bajada y dejando a la izquierda la iglesia redonda de Santa Margarida (señales del PR C-152). Se pasa la plaza Nova y se llega a la altura de la carretera general N-340, frente a la pequeña iglesia de Santa Margarida, de color rojizo. Se gira a la derecha y, cuarenta metros después, se cruza la carretera y se continúa por el otro lado tomando la calle de Els Xops en dirección N, dejando un restaurante a la derecha (11,32 km, 283 m). La calle desemboca en el camino de Els Xops que se sigue hacia el noroeste. Tras recorrer longitudinalmente el lomo orográfico de Els Xops se baja y se cruza el torrente del Gendret (14,20 km 197 m). Se desemboca en una pista, se gira a la izquierda y se cruza un segundo torrente, el de Baix, desde donde se remonta a Sant Sebastià. 
+ 
+14,70 km (212 m). Plaza de L’Església de Sant Sebastià dels Gorgs, fin del itinerario. 
+ 
+El monasterio de Sant Sebastià abre al público los primeros y terceros sábados de cada mes. Para visitas particulares hay que ponerse en contacto con el ayuntamiento de Avinyonet del Penedès.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[EN] &lt;b&gt;Sant Sebastià dels Gorgs and Avinyonet del Penedès&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Cycling tour that starts off in Sant Sebastià dels Gorgs, 8.5 kms away from Vilafranca del Penedès, along the BV-2429 that branches off from the N-340 around Sant Cugat Sesgarrigues.&lt;/i&gt; 
+Partially marked trail.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/12/2013&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.380831" lon="1.765443">
+        <ele>211.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380984" lon="1.765428">
+        <ele>212.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381664" lon="1.763467">
+        <ele>215.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381964" lon="1.760824">
+        <ele>217.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382500" lon="1.758703">
+        <ele>221.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.382035" lon="1.755298">
+        <ele>225.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381532" lon="1.754207">
+        <ele>227.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380970" lon="1.752227">
+        <ele>228.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380851" lon="1.751188">
+        <ele>231.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380479" lon="1.750191">
+        <ele>232.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.379917" lon="1.746483">
+        <ele>238.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378948" lon="1.743631">
+        <ele>235.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378718" lon="1.741483">
+        <ele>235.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378856" lon="1.739711">
+        <ele>238.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378718" lon="1.738266">
+        <ele>242.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378131" lon="1.736914">
+        <ele>242.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374917" lon="1.735099">
+        <ele>252.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.373782" lon="1.733985">
+        <ele>253.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.373223" lon="1.735556">
+        <ele>254.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.372623" lon="1.735908">
+        <ele>254.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370289" lon="1.739044">
+        <ele>258.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368961" lon="1.740331">
+        <ele>257.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368536" lon="1.741068">
+        <ele>258.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368458" lon="1.741338">
+        <ele>257.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368645" lon="1.742740">
+        <ele>262.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369346" lon="1.745129">
+        <ele>265.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367739" lon="1.748113">
+        <ele>264.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365278" lon="1.751567">
+        <ele>264.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364965" lon="1.752230">
+        <ele>266.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364980" lon="1.752744">
+        <ele>267.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364692" lon="1.753634">
+        <ele>265.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365446" lon="1.755520">
+        <ele>263.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.366627" lon="1.756836">
+        <ele>270.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367729" lon="1.757168">
+        <ele>269.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369602" lon="1.758364">
+        <ele>259.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369933" lon="1.758172">
+        <ele>257.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.372022" lon="1.759292">
+        <ele>248.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371648" lon="1.760525">
+        <ele>247.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371655" lon="1.761652">
+        <ele>246.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371490" lon="1.761757">
+        <ele>245.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370620" lon="1.763844">
+        <ele>243.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370988" lon="1.764512">
+        <ele>242.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371291" lon="1.764686">
+        <ele>240.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371055" lon="1.768223">
+        <ele>233.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370699" lon="1.768666">
+        <ele>232.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370316" lon="1.769522">
+        <ele>223.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370469" lon="1.770775">
+        <ele>219.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.370011" lon="1.770855">
+        <ele>218.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369788" lon="1.771044">
+        <ele>222.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369021" lon="1.770945">
+        <ele>230.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368409" lon="1.771801">
+        <ele>236.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367936" lon="1.772217">
+        <ele>238.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367631" lon="1.772784">
+        <ele>242.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.366600" lon="1.773618">
+        <ele>250.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365175" lon="1.775109">
+        <ele>258.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.363409" lon="1.775047">
+        <ele>268.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.361586" lon="1.776462">
+        <ele>275.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360391" lon="1.777082">
+        <ele>278.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360223" lon="1.777432">
+        <ele>278.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360203" lon="1.778078">
+        <ele>277.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360767" lon="1.779884">
+        <ele>284.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.359983" lon="1.782792">
+        <ele>285.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360165" lon="1.784666">
+        <ele>294.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360490" lon="1.786011">
+        <ele>299.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.360556" lon="1.788950">
+        <ele>315.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.361353" lon="1.791028">
+        <ele>325.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.362049" lon="1.792175">
+        <ele>325.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.362936" lon="1.794681">
+        <ele>318.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.363029" lon="1.795450">
+        <ele>319.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364006" lon="1.797567">
+        <ele>317.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.363847" lon="1.799554">
+        <ele>318.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.364271" lon="1.800539">
+        <ele>314.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365365" lon="1.801774">
+        <ele>300.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.365984" lon="1.801500">
+        <ele>294.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.366070" lon="1.800769">
+        <ele>291.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.366480" lon="1.799900">
+        <ele>288.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367454" lon="1.798663">
+        <ele>289.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367482" lon="1.798405">
+        <ele>284.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.367766" lon="1.798807">
+        <ele>283.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.368303" lon="1.798546">
+        <ele>283.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.369565" lon="1.796412">
+        <ele>274.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.371303" lon="1.794276">
+        <ele>259.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.373540" lon="1.789415">
+        <ele>251.9</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374252" lon="1.786897">
+        <ele>246.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.374485" lon="1.785069">
+        <ele>241.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.375910" lon="1.781080">
+        <ele>239.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.376663" lon="1.779243">
+        <ele>240.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.377689" lon="1.777466">
+        <ele>238.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.378582" lon="1.774640">
+        <ele>229.1</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.379652" lon="1.773209">
+        <ele>217.2</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380222" lon="1.773007">
+        <ele>209.4</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380494" lon="1.771883">
+        <ele>199.6</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380400" lon="1.771240">
+        <ele>199.5</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381080" lon="1.770354">
+        <ele>195.7</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381250" lon="1.769849">
+        <ele>194.8</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381247" lon="1.769544">
+        <ele>193.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380924" lon="1.768874">
+        <ele>198.3</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380403" lon="1.768179">
+        <ele>206.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.381027" lon="1.765691">
+        <ele>212.0</ele>
+        <time>2013-12-30T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.380827" lon="1.765509">
+        <ele>212.4</ele>
+        <time>2013-12-30T23:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

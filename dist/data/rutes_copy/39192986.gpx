@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.663456" lon="0.928032">
+    <ele>249.0</ele>
+    <time>2014-04-25T14:55:20Z</time>
+    <name>Vila-sana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.648361" lon="0.970955">
+    <ele>271.0</ele>
+    <time>2014-04-25T14:55:20Z</time>
+    <name>Castellnou de Seana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.662657" lon="0.994076">
+    <ele>281.0</ele>
+    <time>2014-04-25T14:55:20Z</time>
+    <name>LV-3344</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.679028" lon="1.018344">
+    <ele>281.9</ele>
+    <time>2014-04-25T14:55:21Z</time>
+    <name>Barbens</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.691708" lon="1.015845">
+    <ele>274.0</ele>
+    <time>2014-04-25T14:55:23Z</time>
+    <name>El Bullidor</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.697889" lon="1.004632">
+    <ele>267.9</ele>
+    <time>2014-04-25T14:55:23Z</time>
+    <name>Montalé</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.689821" lon="1.002883">
+    <ele>264.9</ele>
+    <time>2014-04-25T14:55:24Z</time>
+    <name>Sèquia Segona</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.680390" lon="0.991729">
+    <ele>267.0</ele>
+    <time>2014-04-25T14:55:24Z</time>
+    <name>Mare de Déu de l'Horta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.682360" lon="0.986839">
+    <ele>260.9</ele>
+    <time>2014-04-25T14:55:24Z</time>
+    <name>Ivars d'Urgell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.679867" lon="0.946964">
+    <ele>230.1</ele>
+    <time>2014-04-25T14:55:24Z</time>
+    <name>Estany d'Ivars</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.682904" lon="0.921023">
+    <ele>232.9</ele>
+    <time>2014-04-25T14:55:26Z</time>
+    <name>Canal Auxiliar d'Urgell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.678541" lon="0.917992">
+    <ele>230.1</ele>
+    <time>2014-04-25T14:55:26Z</time>
+    <name>Canal Auxiliar d'Urgell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.683801" lon="1.018137">
+    <ele>280.1</ele>
+    <time>2014-04-25T14:55:27Z</time>
+    <name>Sèquia Segona</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.686082" lon="0.945056">
+    <ele>246.0</ele>
+    <time>2017-04-27T10:12:26Z</time>
+    <name>Cal Sinent</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.681914" lon="0.938320">
+    <ele>232.9</ele>
+    <time>2017-04-27T10:12:35Z</time>
+    <name>Bassa de l'Estany</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.681186" lon="0.939106">
+    <ele>231.0</ele>
+    <time>2017-04-27T10:12:44Z</time>
+    <name>Observatori</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.661575" lon="0.923163">
+    <ele>247.0</ele>
+    <time>2019-05-16T13:12:50Z</time>
+    <name>Plataner de Seana i Zona Esportiva</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Voltant l'estany d'Ivars. De Vila-sana a Castellnou de Seana, Barbens i Ivars d'Urgell</name>
+    <desc>&lt;iframe height="315" src="https://www.youtube.com/embed/FRupsXLy6r0"&gt;&lt;/iframe&gt;&lt;br&gt; 
+&lt;p&gt;[CA] &lt;b&gt;Voltant l'estany d'Ivars. De Vila-sana a Castellnou de Seana, Barbens i Ivars d'Urgell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;L’estany d’Ivars, per si sol, és digne d’una visita però l’Itinerari va més enllà i permet conèixer un entorn ampli i interessant. Es tracta d’un recorregut de perfil suau que ofereix diverses possibilitats d’escurçament, per la qual cosa esdevé ideal per anar-hi en grup. L'estany d'Ivars i Vila-sana és una llacuna sàviament recuperada per a la vida natural i cultural que havia estat assecada el 1950. Reomplert el 2005 amb suports europeus i sota la direcció de la Fundació Catalunya-La Pedrera, té una superfície de 126 ha, un perímetre de 5,80 km i una profunditat mitjana de 2 m; es manté amb la mateixa quantitat d’aigua del canal d'Urgell que es destinava al reg de les finques prèvies a la inundació. A l’interior s'hi han creat illes que afavoreixen l’existència de fauna, especialment d’ocells, oferint-los punts d’aixopluc; els interessats en l’ornitologia hauran d'agafar binocles i aprofitar els diversos punts d’aguait existents. Com a anotació lingüística cal considerar que &lt;/i&gt;ivars&lt;i&gt; significava, precisament, &lt;/i&gt;estany&lt;i&gt; en la vella parla ibera utilitzada pels ancestres dels catalans. 
+ 
+El Pla d'Urgell, comarca de la plana central catalana, amb pluviometria escassa i forta insolació, va ser una terra de característiques estepàries fins a la construcció del canal d'Urgell. Així, l'arribada de l'aigua al segle XIX va permetre la introducció de conreus de regadiu i la reproducció d'espècies vegetals de ribera. Plàtans, verns, pollancres, freixes, salzes i oms es retallen contra el cel damunt dels camps en llargues files, resseguint les sèquies i fent ombra als camins. Fora dels mesos calorosos de l'any, el Pla d'Urgell és un lloc idoni per a la pràctica de la bicicleta familiar. 
+Aquesta ruta es pot fer en bicicleta de cicloturisme de cobertes gravades.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta comença a la població de Vila-sana, on s'accedeix des de la sortida 487 de l'autovia A-2, situada entre Mollerussa i Bellpuig. Cal anar a la zona esportiva municipal, al costat del gran plataner de Vila-sana. 
+ 
+0,00 km (247 m). Vila-sana. Des de la zona esportiva es va cap a l’interior del poble (direcció NE) pel carrer de Lleida i, després, pel carrer Major. En ser a la plaça Major, davant de l’església de Sant Miquel, es tomba a la dreta (SE) pel carrer de l’Església i, després, es continua recte pel de Castellnou de Seana. Es desemboca al camí de Castellnou, on es troba un plafó de senyalització. Se segueix la pista, sempre en direcció SE. Ja a tocar de Castellnou es desemboca en una pista d’asfalt, que es pren cap a l’esquerra per entrar al poble. 
+ 
+4,30 km (264 m). Castellnou de Seana. S’entra al nucli urbà pel carrer Major, on destaca la façana de cal Rafel, abans cal Blassó, d'estil gòtic. Es creua la plaça de l’Església, presidida pel bell edifici parroquial de Sant Joan, del s. XVIII, d'estil renaixentista tardà, amb una elegant porta amb escalinata i un notable campanar d'escola comarcana; immediatament després, es gira a l'esquerra i es passa la plaça Major descrivint un angle recte cap al NE, tot seguint els senyals. Se surt al carrer de l’Abad Carrera, que es pren a l’esquerra (NO) durant uns metres. Passada la zona esportiva, es gira a la dreta (NE) pel camí d’Ivars, asfaltat i amb característiques de carretera local. 
+ 
+5,30 km (261 m). Bifurcació. Es deixa la carretera d’Ivars i es gira a la dreta (NE) per la pista de terra de Barbens. Més endavant, es creua la carretera LV-3344 (km 7,40, 280 m), es continua en direcció NE i s'arriba a Barbens, on s’entra pel carrer de Ponent. 
+ 
+9,88 km (281 m). Barbens. Cruïlla del carrer de Ponent amb el d’Urgell. Es gira a la dreta i, dos cents metres després, es tomba a l’esquerra (N) en direcció al carrer Major. En ser a la plaça de l’Església cal aturar-se per veure els vestigis del castell templer, actualment casa consistorial, la magnífica creu de terme gòtica originària del Bullidor i la casa dels Veciana, amb les seves torres i el cimbori característic. Acabada la visita, es continua girant a la dreta per on es venia, se surt a la plaça de Catalunya i, girant a l’esquerra, se surt del poble cap al N passant pel costat del poliesportiu i prenent el camí del Bullidor. Una mica més enllà, es creua la sèquia Segona del Canal d’Urgell i s’arriba, al punt 11,68 km, a la cruïlla de la Creueta; es tomba a l'esquerra en angle recte (NO). 
+ 
+12,20 km (275 m). Nucli del Bullidor. El nom prové de la barbullosa deu d'aigua que neix a flor de terra, ara tapada. Es creuen les cases deixant a l’esquerra les restes de l'església de Santa Maria, edificada sobre un antic castell del segle XII cedit als templers. La magnífica creu de terme que hi havia a l'entrada va ser traslladada a la plaça de Barbens. Es continua cap a ponent. 
+ 
+12,70 km (271 m). Cruïlla on després es tornarà. Se segueix recte (NO). 
+ 
+13,40 km (269 m). Montalé, vell mas documentat ja al segle XII. Es fa la volta completa al conjunt d’edificis i es torna a la cruïlla anterior (ara km 14,45), on es torça a la dreta (SO) seguint la pista de terra. Es passa la sèquia Segona del Canal d’Urgell (15,35 km) i s’arriba a Ivars. 
+ 
+16,88 km (264 m). Ivars d'Urgell, carrer de l’Ermita. Es gira a l’esquerra (E) per anar a visitar l’ermita de la Mare de Déu d'Horta, un indret amb aigua i ombra ideal per fer-hi un mos i descansar (17,45 km). Es torna enrere fins a la desviació de l’ermita i es continua cap a l’esquerra (SO) per l’avinguda del Primer de Maig. Es passa per davant de l’Ajuntament i se surt a la plaça del Bisbe Coll. Cal tombar a la dreta (O), pel carrer de l’Estany, seguint els indicadors a l'estany d'Ivars. 
+ 
+19,40 km (262 m). Bifurcació. Es deixa l’asfalt i es pren el camí de l’esquerra (O), senyalitzat, que, passant pel Molí de l’Estany, desemboca a l’extrem SE de la llacuna. 
+ 
+20,99 km (234 m). Estany d’Ivars. Aparcament de vehicles i, a pocs metres enllà, accés a l’aguait d’Ivars. L’itinerari gira completament al N i després a ponent, resseguint la riba septentrional de l'estany. 
+ 
+22,75 km (247 m). Cal Sinén, centre d’informació de l’estany i àrea de repòs. Val la pena d’aturar-s’hi i completar coneixements sobre l’entorn. Es continua cap a ponent (ara SO). Una mica més enllà (23,52 km) es passa pel costat de la torre d’aguait de l’Estany i de l’aguait de Vila-sana. Finalment se surt a l’àrea de recepció de visitants i aparcament central de l’estany, que es creua fins a la pista d’arribada. Es gira a la dreta (pista asfaltada). 
+ 
+24,33 km (234 m). Cruïlla amb el camí de Vila-sana a Vallverd. Es gira a l’esquerra (SO) prenent la pista de terra que creua el canal Auxiliar d'Urgell (25,28 km) i es desemboca al camí de Linyola (25,75 km), que se segueix a l'esquerra (SE). Poc després, es torna a travessar el canal Auxiliar d'Urgell. 
+ 
+28,39 km (247 m). Vila-sana, punt final de l'itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Rodeando el lago de Ivars. De Vila-sana a Castellnou de Seana, Barbens e Ivars d'Urgell&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; El lago de Ivars, por sí solo, es digno de una visita pero el Itinerario va más allá i permite conocer un entorno amplio e interesante. Se trata de un recorrido de perfil suave que ofrece diversas posibilidades de acortamiento, lo que le convierte en ideal para ir en grupo. El estanque de Ivars y Vila-sana es una laguna sabiamente recuperada para la vida natural y cultural que había sido desecada en 1950. Rellenada en 2005 con apoyos europeos y bajo la dirección de la Fundació Catalunya-La Pedrera, tiene una superficie de 126 ha, un perímetro de 5,80 km y una profundidad media de 2 m; se mantiene con la misma cantidad de agua del canal de Urgell que se destinaba el riego de las fincas previas a la inundación. En el interior se han creado islas que favorecen la existencia de fauna, especialmente de aves, ofreciéndoles puntos de refugio; los interesados en la ornitología deberán llevar consigo prismáticos y aprovechar los diversos puntos de acecho existentes. Como anotación lingüística, hay que considerar que &lt;/i&gt;ivars&lt;i&gt; significaba, precisamente, &lt;/i&gt;lago, laguna&lt;i&gt; en el idioma íbero hablado por los ancestros catalanes. 
+ 
+El Pla d’Urgell, comarca de la llanura central catalana, con pluviometría escasa y fuerte insolación, fue una tierra de características esteparias hasta la construcción del canal de Urgell. Así, la llegada del agua en el siglo XIX permitió la introducción de cultivos de regadío y la reproducción de especies vegetales de ribera. Plátanos, alisos, chopos, fresnos, sauces y olmos se recortan contra el cielo encima de los campos en largas hileras, siguiendo las acequias y ofreciendo sombra a los caminos. Fuera de los meses calurosos del año, el Pla d’Urgell es un lugar idóneo para la práctica de la bicicleta familiar. 
+Esta ruta se puede realizar con una bicicleta de cicloturismo de ruedas grabadas.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La ruta comienza en la población de Vila-sana, donde se accede desde la salida 487 de la autovía A-2, situada entre Mollerussa y Bellpuig. Hay que ir a la zona deportiva municipal, junto al gran plátano de Vila-sana. 
+ 
+0,00 km (247 m). Vila-sana. Desde la zona deportiva se va hacia el interior del pueblo (dirección NE) por la calle de Lleida y, después, por la calle Major. Al llegar a la plaza Major, frente a la iglesia de Sant Miquel, se gira a la derecha (SE) por la calle de L’Església y, después, se sigue recto por la de Castellnou de Seana. Se desemboca en el camino de Castellnou, donde se encuentra un panel de señalización. Se sigue la pista, siempre en dirección SE. Ya cerca de Castellnou, se desemboca en una pista de asfalto, que se toma hacia la izquierda para entrar en el pueblo. 
+ 
+4,30 km (264 m). Castellnou de Seana. Se entra en el núcleo urbano por la calle Major, donde destaca la fachada de Cal Rafael, antes Cal Blassó, de estilo gótico. Se cruza la plaza de L’Església, presidida por el bello edificio parroquial de Sant Joan, del s. XVIII, de estilo renacentista tardío, con una elegante puerta con escalinata y un notable campanario de escuela comarcana; inmediatamente después, se gira a la izquierda y se pasa la plaza Major describiendo un ángulo recto hacia el NE, siguiendo las señales. Se sale a la calle del Abad Carrera, que se toma a la izquierda (NO) durante unos metros. Pasada la zona deportiva, se gira a la derecha (NE) por el camino de Ivars, asfaltado y con características de carretera local. 
+ 
+5,30 km (261 m). Bifurcación. Se deja la carretera de Ivars y se gira a la derecha (NE) por la pista de tierra de Barbens. Más adelante, se cruza la carretera LV-3344 (km 7,40, 280 m), se continúa en dirección NE y se llega a Barbens, donde se entra por la calle de Ponent. 
+ 
+9,88 km (281 m). Barbens. Cruce de la calle de Ponent con la de Urgell. Se gira a la derecha y, doscientos metros después, se gira a la izquierda (N) en dirección a la calle Major. Al llegar a la plaza de L’Església hay que detenerse para ver los vestigios del castillo templario, actualmente casa consistorial, la magnífica cruz gótica originaria de El Bullidor y la casa Veciana, con sus torres y el cimborio característico. Terminada la visita, se continúa girando a la derecha por donde se venía, se sale a la plaza de Catalunya y, girando a la izquierda, se sale del pueblo hacia el N pasando junto al polideportivo y tomando el camino de El Bullidor. Un poco más allá, se cruza la acequia Segona del Canal d’Urgell y se llega, en el punto 11,68 km, al cruce de la Creueta; se gira a la izquierda en ángulo recto (NO). 
+ 
+12,20 km (275 m). Núcleo de El Bullidor. El nombre proviene del manantial de agua que nace a flor de tierra, ahora tapado. Se cruzan las casas dejando a la izquierda los restos de la iglesia de Santa Maria, edificada sobre un antiguo castillo del siglo XII cedido a los templarios. La magnífica cruz de término que había en la entrada fue trasladada a la plaza de Barbens. Se sigue hacia poniente. 
+ 
+12,70 km (271 m). Cruce al que después se volverá. Se sigue recto (NO). 
+ 
+13,40 km (269 m). Montalé, viejo caserío documentado ya en el siglo XII. Se da la vuelta completa al conjunto de edificios y se vuelve al cruce anterior (ahora km 14,45), donde se tuerce a la derecha (SO) siguiendo la pista de tierra. Se pasa la acequia (15,35 km) y se llega a Ivars. 
+ 
+16,88 km (264 m). Ivars d'Urgell, calle de la Ermita. Se gira a la izquierda (E) para ir a visitar la ermita de la Virgen de Horta, un lugar con agua y sombra ideal para descansar (17,45 km). Se vuelve atrás hasta la desviación de la ermita y se continúa hacia la izquierda (SO) por la avenida del Primer de Maig. Se pasa por delante del Ayuntamiento y se sale a la plaza del Bisbe Coll. Hay que girar a la derecha (O), por la calle de L’Estany, siguiendo los indicadores al estanque de Ivars. 
+ 
+19,40 km (262 m). Bifurcación. Se deja el asfalto y se toma el camino de la izquierda (O), señalizado, que, pasando por el Molí de l’Estany, desemboca en el extremo SE de la laguna. 
+ 
+20,99 km (234 m). Estanque o lago de Ivars. Aparcamiento de vehículos y, a pocos metros más allá, acceso al &lt;i&gt;hide&lt;i&gt;&lt;/i&gt; de acecho de Ivars. El itinerario gira completamente el N y después a poniente, siguiendo la orilla septentrional del lago. 
+ 
+22,75 km (247 m). Cal Sinén, centro de información del estanque y área de reposo. Vale la pena detenerse y completar conocimientos sobre el entorno. Se sigue hacia poniente (ahora SO). Un poco más allá (23,52 km) se pasa por el lado de la torre de acecho del Lago y del &lt;i&gt;hide&lt;i&gt;&lt;/i&gt; de Vila-sana. Finalmente se sale al área de recepción de visitantes y aparcamiento central del lago, que se cruza hasta la pista de llegada. Se gira a la derecha (pista asfaltada). 
+ 
+24,33 km (234 m). Cruce con el camino de Vila-sana a Vallverd. Se gira a la izquierda (SO) tomando la pista de tierra que cruza el canal Auxiliar d’Urgell (25,28 km) y se desemboca en el camino de Linyola (25,75 km), que se sigue a la izquierda ( SE). Poco después, se vuelve a atravesar el canal. 
+ 
+28,39 km (247 m). Vila-sana, punto final del itinerario.&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;&lt;i&gt;&lt;i&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;&lt;/i&gt;&lt;/i&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.661528" lon="0.923332">
+        <ele>247.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.662101" lon="0.925109">
+        <ele>247.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.662072" lon="0.925501">
+        <ele>247.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.663312" lon="0.928026">
+        <ele>248.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.661911" lon="0.929248">
+        <ele>248.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.661490" lon="0.930678">
+        <ele>248.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.660679" lon="0.931899">
+        <ele>249.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.659254" lon="0.935559">
+        <ele>252.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.657996" lon="0.937034">
+        <ele>253.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.657545" lon="0.938662">
+        <ele>253.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.657291" lon="0.941611">
+        <ele>256.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.656696" lon="0.943887">
+        <ele>258.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.656371" lon="0.945885">
+        <ele>259.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.655718" lon="0.946669">
+        <ele>258.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.654857" lon="0.949398">
+        <ele>261.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.653153" lon="0.952094">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.652521" lon="0.953747">
+        <ele>264.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.651884" lon="0.954920">
+        <ele>265.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.651267" lon="0.957221">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.651079" lon="0.958554">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.650309" lon="0.960578">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.650238" lon="0.961391">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649784" lon="0.962228">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649448" lon="0.963835">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.648994" lon="0.966696">
+        <ele>265.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649003" lon="0.968134">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649168" lon="0.968537">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.648030" lon="0.970398">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.648219" lon="0.970650">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649220" lon="0.970721">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649700" lon="0.969355">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.649835" lon="0.969333">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.651290" lon="0.970922">
+        <ele>258.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.651647" lon="0.971538">
+        <ele>258.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.653195" lon="0.973032">
+        <ele>261.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.654439" lon="0.974849">
+        <ele>258.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.655291" lon="0.979000">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.656097" lon="0.980752">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.656435" lon="0.981846">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.656942" lon="0.982239">
+        <ele>275.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.657481" lon="0.983147">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.658449" lon="0.987007">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.658918" lon="0.988074">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.660712" lon="0.990203">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.661254" lon="0.991592">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.662611" lon="0.994023">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.663973" lon="0.995633">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.666181" lon="0.999582">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.667747" lon="1.001334">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.667853" lon="1.002207">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.669632" lon="1.004068">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.669572" lon="1.004761">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.672543" lon="1.008171">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.675311" lon="1.010476">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.676463" lon="1.011702">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.677233" lon="1.013516">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.677641" lon="1.014969">
+        <ele>280.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.676789" lon="1.017314">
+        <ele>282.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.678321" lon="1.017603">
+        <ele>280.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.679481" lon="1.018283">
+        <ele>280.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.679677" lon="1.017868">
+        <ele>280.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.679840" lon="1.017941">
+        <ele>279.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.680579" lon="1.016381">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.680779" lon="1.016267">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683893" lon="1.018183">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.686552" lon="1.019315">
+        <ele>279.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.689275" lon="1.020981">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.689510" lon="1.020013">
+        <ele>278.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.690535" lon="1.018600">
+        <ele>275.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.690832" lon="1.016746">
+        <ele>275.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.691483" lon="1.015867">
+        <ele>274.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.691928" lon="1.014550">
+        <ele>273.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.692329" lon="1.014005">
+        <ele>273.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.692775" lon="1.013708">
+        <ele>273.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.694055" lon="1.011452">
+        <ele>272.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.695412" lon="1.010245">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.695969" lon="1.008888">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.696805" lon="1.007486">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697279" lon="1.005759">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.698050" lon="1.004798">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697963" lon="1.004722">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697663" lon="1.005074">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697281" lon="1.004587">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697729" lon="1.003666">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.698393" lon="1.004295">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.697279" lon="1.005759">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.696805" lon="1.007486">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.695969" lon="1.008888">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.695412" lon="1.010245">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.694352" lon="1.011179">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.693937" lon="1.010392">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.694010" lon="1.009369">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.691724" lon="1.006105">
+        <ele>269.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.689707" lon="1.002725">
+        <ele>270.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.689353" lon="1.001798">
+        <ele>268.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.688906" lon="0.999866">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687901" lon="0.999125">
+        <ele>268.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687225" lon="0.997801">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687122" lon="0.993989">
+        <ele>265.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.685147" lon="0.991497">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.684701" lon="0.990201">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683376" lon="0.987611">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682986" lon="0.988981">
+        <ele>264.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682124" lon="0.990696">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681901" lon="0.991550">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.680406" lon="0.991578">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681901" lon="0.991550">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682124" lon="0.990696">
+        <ele>267.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682986" lon="0.988981">
+        <ele>264.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683241" lon="0.988102">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683177" lon="0.987005">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682551" lon="0.986291">
+        <ele>262.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681905" lon="0.986480">
+        <ele>261.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681291" lon="0.986379">
+        <ele>262.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681208" lon="0.986249">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681576" lon="0.983078">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681995" lon="0.981885">
+        <ele>263.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682023" lon="0.980155">
+        <ele>264.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682880" lon="0.977928">
+        <ele>263.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683616" lon="0.974756">
+        <ele>262.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683442" lon="0.970031">
+        <ele>254.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683049" lon="0.968950">
+        <ele>247.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683128" lon="0.968329">
+        <ele>246.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682664" lon="0.965760">
+        <ele>239.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681567" lon="0.962094">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681830" lon="0.960180">
+        <ele>237.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681824" lon="0.958794">
+        <ele>235.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.680792" lon="0.958508">
+        <ele>233.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.680628" lon="0.957660">
+        <ele>233.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683048" lon="0.957830">
+        <ele>232.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.685060" lon="0.957435">
+        <ele>231.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.685902" lon="0.956897">
+        <ele>232.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.686399" lon="0.957002">
+        <ele>237.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687423" lon="0.954265">
+        <ele>237.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687678" lon="0.954081">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687734" lon="0.953580">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687587" lon="0.951404">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.687347" lon="0.951040">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.686945" lon="0.949173">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.686049" lon="0.947501">
+        <ele>237.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.686125" lon="0.946347">
+        <ele>243.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.685923" lon="0.944606">
+        <ele>244.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.685511" lon="0.943723">
+        <ele>242.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.684954" lon="0.943190">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.684097" lon="0.941729">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683357" lon="0.941043">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683002" lon="0.941101">
+        <ele>231.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682725" lon="0.940908">
+        <ele>231.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682260" lon="0.940099">
+        <ele>232.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681998" lon="0.939042">
+        <ele>232.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681656" lon="0.938719">
+        <ele>231.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681132" lon="0.937652">
+        <ele>232.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681606" lon="0.937175">
+        <ele>235.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681985" lon="0.935482">
+        <ele>235.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681464" lon="0.934704">
+        <ele>242.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681910" lon="0.934530">
+        <ele>238.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.684432" lon="0.932063">
+        <ele>233.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.684027" lon="0.931066">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682955" lon="0.926079">
+        <ele>238.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682881" lon="0.924718">
+        <ele>237.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683002" lon="0.922407">
+        <ele>235.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682886" lon="0.920975">
+        <ele>232.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683236" lon="0.919931">
+        <ele>235.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683193" lon="0.918322">
+        <ele>232.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683338" lon="0.917861">
+        <ele>232.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.683159" lon="0.916906">
+        <ele>232.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.682596" lon="0.915698">
+        <ele>232.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.681719" lon="0.915961">
+        <ele>228.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.679804" lon="0.917122">
+        <ele>227.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.678831" lon="0.918090">
+        <ele>230.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.678261" lon="0.918950">
+        <ele>227.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.677805" lon="0.918844">
+        <ele>227.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.676781" lon="0.919730">
+        <ele>228.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.676185" lon="0.919881">
+        <ele>230.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.675227" lon="0.919684">
+        <ele>230.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.674751" lon="0.919771">
+        <ele>231.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.674116" lon="0.920248">
+        <ele>236.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.672968" lon="0.921474">
+        <ele>242.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.672461" lon="0.921803">
+        <ele>242.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.666130" lon="0.923724">
+        <ele>241.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.662763" lon="0.926829">
+        <ele>247.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.662312" lon="0.925835">
+        <ele>247.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.661564" lon="0.923307">
+        <ele>247.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

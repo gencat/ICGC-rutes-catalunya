@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.222439" lon="1.895026">
+    <ele>958.5</ele>
+    <time>2017-04-20T09:14:33Z</time>
+    <name>Font del Castell</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.223419" lon="1.893439">
+    <ele>957.6</ele>
+    <time>2017-04-20T09:14:43Z</time>
+    <name>Parada d'autobús</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.223446" lon="1.892936">
+    <ele>961.3</ele>
+    <time>2017-04-20T09:14:51Z</time>
+    <name>Sant Julià de Cerdanyola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.230487" lon="1.907644">
+    <ele>1252.9</ele>
+    <time>2017-04-20T09:16:05Z</time>
+    <name>Coll de Jou</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.226295" lon="1.912529">
+    <ele>1428.1</ele>
+    <time>2017-04-20T09:16:13Z</time>
+    <name>Cap dels Banyadors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.222141" lon="1.928131">
+    <ele>1212.0</ele>
+    <time>2017-04-20T09:16:30Z</time>
+    <name>Collada de Sobirana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.215380" lon="1.937295">
+    <ele>1434.5</ele>
+    <time>2017-04-20T09:16:48Z</time>
+    <name>Pla de Sant Cristòfol</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.205219" lon="1.933229">
+    <ele>1627.8</ele>
+    <time>2017-04-20T09:17:51Z</time>
+    <name>Collet de Llebató</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.202247" lon="1.927185">
+    <ele>1701.6</ele>
+    <time>2017-04-20T09:18:03Z</time>
+    <name>Roc de la Clusa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.207742" lon="1.891661">
+    <ele>1393.7</ele>
+    <time>2017-04-20T09:18:23Z</time>
+    <name>La Creueta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.209548" lon="1.887359">
+    <ele>1299.9</ele>
+    <time>2017-04-20T09:18:29Z</time>
+    <name>El Mal Pas</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.212363" lon="1.894457">
+    <ele>1067.9</ele>
+    <time>2017-04-20T09:18:37Z</time>
+    <name>Font del Bullidor</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.218500" lon="1.888573">
+    <ele>1101.6</ele>
+    <time>2017-04-20T09:18:53Z</time>
+    <name>El Puig</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.226598" lon="1.895232">
+    <ele>984.1</ele>
+    <time>2017-04-20T09:26:00Z</time>
+    <name>Torrent de la Coma Verda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.229102" lon="1.893395">
+    <ele>1119.4</ele>
+    <time>2017-04-20T09:26:20Z</time>
+    <name>Serra del Candara</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.229799" lon="1.901482">
+    <ele>1189.1</ele>
+    <time>2017-04-20T09:27:55Z</time>
+    <name>L'Enzinet</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.231647" lon="1.901778">
+    <ele>1117.3</ele>
+    <time>2017-04-20T09:28:00Z</time>
+    <name>Cingles dels Banyadors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.230988" lon="1.905867">
+    <ele>1282.9</ele>
+    <time>2017-04-20T09:28:26Z</time>
+    <name>Vistes a N</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.228073" lon="1.911359">
+    <ele>1285.7</ele>
+    <time>2017-04-20T09:28:53Z</time>
+    <name>Fageda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.223518" lon="1.924140">
+    <ele>1294.7</ele>
+    <time>2017-04-20T09:29:25Z</time>
+    <name>L'Artigassa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.211635" lon="1.935062">
+    <ele>1481.2</ele>
+    <time>2017-04-20T09:32:00Z</time>
+    <name>Camp de l'Ermità</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.205134" lon="1.933812">
+    <ele>1625.3</ele>
+    <time>2017-04-20T09:33:18Z</time>
+    <name>Panoràmica</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.213722" lon="1.937656">
+    <ele>1453.6</ele>
+    <time>2017-04-20T09:35:20Z</time>
+    <name>GR-4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.202932" lon="1.931318">
+    <ele>1674.9</ele>
+    <time>2017-04-20T09:35:49Z</time>
+    <name>GR-4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.201959" lon="1.930785">
+    <ele>1671.4</ele>
+    <time>2017-04-20T09:36:09Z</time>
+    <name>Font del Llop</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.206166" lon="1.918050">
+    <ele>1429.4</ele>
+    <time>2017-04-20T09:55:57Z</time>
+    <name>Cresta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.206282" lon="1.916970">
+    <ele>1445.5</ele>
+    <time>2017-04-20T09:56:08Z</time>
+    <name>La Taleia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.206090" lon="1.918596">
+    <ele>1427.3</ele>
+    <time>2017-04-20T09:56:12Z</time>
+    <name>Collada de la Taleia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.208105" lon="1.890134">
+    <ele>1345.9</ele>
+    <time>2017-04-20T09:57:04Z</time>
+    <name>Balma dels Desertors</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.210575" lon="1.888801">
+    <ele>1204.9</ele>
+    <time>2017-04-20T09:57:45Z</time>
+    <name>Carboneres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.214665" lon="1.887476">
+    <ele>1007.1</ele>
+    <time>2017-04-20T10:01:04Z</time>
+    <name>Font de la Baga</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Sant Julià de Cerdanyola al Catllaràs pel PR-C 129</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Sant Julià de Cerdanyola al Catllaràs pel PR-C 129&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El sender de petit recorregut PR-C 129 és un itinerari circular que fa la volta al terme de Sant Julià de Cerdanyola passant per la serra del Catllaràs, a la comarca del Berguedà. Ofereix una perspectiva alçada sobre la vall del Llobregat, des de la Pobla de Lillet fins a Vallcebre, des del Puigllançada fins al Pedraforca. Especialment atractiva és la visió de la petita vall de Malanyeu que es pot veure desde l’afilada carena de la serra del Mill. Malgrat moure’s per terreny fàcil, aquesta és una ruta per excursionistes habituats a causa del desnivell final acumulat.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;La ruta s’inicia a la parada d’autobús de Sant Julià de Cerdanyola. A la població s’hi arriba per la carretera BV-4021, que parteix de la carretera C-16 a l’alçada de Guardiola de Berguedà. El camí és fresat i ben indicat amb marques de pintura blanques i grogues i amb senyalització vertical de reforç, fàcil de seguir. Abans de començar l’itinerari val la pena d’omplir les cantimplores a la font del Castell, situada a 100 metres en direcció SE per la carretera de Falgars, seguint el GR 4.2. 
+ 
+0,00 km (956 m). Sant Julià de Cerdanyola. Des de la parada d’autobús es baixa per la carretera BV-4021, es creua el pont del torrent de la Font del Castell i, seguint els senyals, es pren el camí que s’inicia amb unes escales. Després de pujar lleugerament el camí baixa per trobar el torrent de la Coma Verda. Les parets i un petit arc per on baixava l'aigua pluvial són restes de la canalització que es construí per aprofitar la terra de la llera. El camí torna a pujar per enfilar-se cap a l’Enzinet entre antigues feixes de vinya que la temible plaga de fil·loxera de finals del segle XIX va arruïnar. 
+ 
+1,70 km (1.189 m), 40 min. L’Enzinet. Des de la serra es té una fantàstica panoràmica sobre la vall del Llobregat: a baix es veu la Pobla de Lillet (NE), Bagà (NO), Vallcebre (SO, enfilat sobre els cingles) i Sant Julià de Cerdanyola (S); per la part de dalt, El Puigllançada (2.409 m) i la Tosa d’Alp (2.536 m) a N, les Penyes Altes de Moixeró (2.276 m), el Comabona (2.547 m) i la serra de Cadí a NO, el Pedraforca (2.497 m) a O, i el Cap de la Gallina Pelada (2.320 m) i la serra d’Ensija a SO. Cap al SE hi ha la figura imponent del Cap dels Banyadors (1.429 m), cap a on segueix el camí resseguint els cingles dels Banyadors. 
+ 
+2,27 km (1.252 m), 52 min. Coll de Jou. El sender creua una pista forestal i continua dirigint-se cap al Cap dels Banyadors (S), que es vorejarà, per la seva vessant obaga. Sense solució de continuïtat s’entra a una fageda frondosa que acompanya el camí fins a la collada de Sobirana, en pujada i vorejant també l’Artigassa, on es poden observar algunes feixes (una artiga era una zona que es conreava de forma periòdica, cinc anys sí i deu anys no). 
+ 
+4,41 km (1.213 m), 1 h 22 min. Collada de Sobirana. Després d’una curta baixada es creua la pista asfaltada de Sant Julià de Cerdanyola a Falgars. Primer en direcció SE i després S, es remunta fins al Planàs, zona també d’antics conreus. Vorejant-lo, el PR-C 129 s’uneix amb el GR 4 i el PR-C 52 durant un tram; cap al NE, aquests itineraris connecten amb Falgars i la Pobla de Lillet. Es continua remuntant, cap al SO: després del Camp de l’Ermità es creua una pista i la pujada es fa més pronunciada. Al collet de Llebató es torna a trobar la pista, que ara es segueix fins la font del Llop continuant en forta pujada. 
+ 
+7,84 km (1.672 m), 2 h 42 min. Font del Llop. S’arriba al pla de la Clusa, just a sota de la collada de Sant Miquel i l'imponent Roc de la Clusa. Passant per sota els cingles de la Clusa el sender es dirigeix ara cap a NO baixant directament fins la cresta de la serra del Mill, que es recorre sencera d’est a oest. El camí és cada vegada més estret i exposat. Cal posar molta atenció en les marques, ja que la ruta va buscant el millor pas, alternant entre la solana i l’obaga o passant per la mateixa cresta. 
+ 
+11,90 km (1.300 m), 3 h 40 min. El Mal Pas. A l’extrem occidental de la serra del Mill l’itinerari enllaça amb el camí que ve de Malanyeu: es baixa cap a la dreta (NO) amb fort pendent entre antigues carboneres. El sender desemboca a la pista que baixa de la collada de les Bassotes i es segueix cap avall durant 7 minuts (480 m). 
+ 
+Cal parar atenció i desviar-se per un camí ample a l’esquerra (O), deixant la pista abans d’un pronunciat revolt. Aquest camí marca el traçat d'un antic ferrocarril de tracció animal construït als anys 1920 per baixar troncs. El recorregut començava sota la casa del Cap del Pla i baixava en suau pendent fins a un telefèric sobre del Collet, prop de l’actual túnel de Guardiola. A partir d'allí, la fusta es portava a les mines de Fígols. El sender passa per la font de la Baga i fa una ziga-zaga per creuar el torrent de Lavaiol. 
+ 
+13,76 km (984 m), 4 h 13 min. Torrent de Lavaiol. Ara el camí torna a remuntar (N/NO) per la solana fins al cap del Grau, sota el Puig, també anomenat el Confessionari (14,30 km, 1.060 m, 4 h 25 min). Vorejant marges antics i horts es va baixant pel costat del canal que rega totes les hortes del voltant. El sender desemboca als carrers del poble passant per la creu del terme. Es continua baixant fins que es troba la parada d’autobús. 
+ 
+15,36 km (956 m). 4 h 40 min. Sant Julià de Cerdanyola. Parada d’autobús, fi de l’itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Sant Julià de Cerdanyola al Catllaràs por el PR-C 129&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; El sendero de pequeño recorrido PR-C 129 es un itinerario circular que da la vuelta al término municipal de Sant Julià de Cerdanyola pasando por la sierra de Catllaràs, en la comarca del Berguedà. Ofrece una perspectiva de altura sobre el valle del Llobregat, desde la Pobla de Lillet hasta Vallcebre, desde el Puigllançada hasta el Pedraforca. Especialmente atractiva es la visión del pequeño valle de Malanyeu que se puede ver desde la afilada cresta de la sierra del Mill. Sin moverse del terreno fácil, esta es una ruta para excursionistas habituados a causa del desnivel final acumulado.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+ 
+&lt;br&gt;&lt;p&gt; La ruta se inicia en la parada de autobús de Sant Julià de Cerdanyola. Se llega a la población por la carretera BV-4021, que parte de la carretera C-16 a la altura de Guardiola de Berguedà. El camino está abierto y bien indicado con marcas de pintura blancas y amarillas y con señalización vertical de refuerzo, fácil de seguir. Antes de comenzar el itinerario vale la pena tomar agua a la fuente del Castell, situada a 100 metros en dirección SE por la carretera de Falgars, siguiendo el GR 4.2. 
+ 
+0,00 km (956 m). Sant Julià de Cerdanyola. Desde la parada de autobús se baja por la carretera BV-4021, se cruza el puente del torrente de la Font del Castell y, siguiendo las señales, se toma el camino que se inicia con unas escaleras. Después de subir ligeramente el camino baja para encontrar el torrente de la Coma Verda. Las paredes y un pequeño arco por donde bajaba el agua pluvial son restos de la canalización que se construyó para aprovechar la tierra del cauce. El camino sube hacia el Enzinet, entre antiguos bancales de viñedos que la temible plaga de filoxera de finales del siglo XIX arruinó. 
+ 
+1,70 km (1.189 m), 40 min. El Enzinet. Desde la sierra se tiene una fantástica panorámica sobre el valle del Llobregat: abajo se ve la Pobla de Lillet (NE), Bagà (NO), Vallcebre (SO, subido sobre los riscos) y Sant Julià de Cerdanyola (S); por la parte de arriba, El Puigllançada (2.409 m) y la Tosa (2.536 m) en N, las Penyes Altes de Moixeró (2.276 m), el Comabona (2.547 m) y la sierra de Cadí a NO, el Pedraforca (2.497 m) a O, y el Cap de la Gallina Pelada (2.320 m) y la sierra de Ensija, al SO. Hacia el SE existe la figura imponente del Cap dels Banyadors (1.429 m), hacia donde sigue el camino siguiendo los riscos de Els Banyadors. 
+ 
+2,27 km (1.252 m), 52 min. Coll de Jou. El sendero cruza una pista forestal y continúa dirigiéndose hacia el Cap dels Banyadors (S), que se bordeará, por su vertiente umbría. Sin solución de continuidad se entra en un hayedo frondosa que acompaña el camino hasta el collado de Sobirana, en subida y bordeando también la Artigassa, donde se pueden observar algunos bancales (una artiga era una zona que se cultivaba de forma periódica, cinco años sí y diez años no). 
+ 
+4,41 km (1.213 m), 1 h 22 min. Collada de Sobirana. Después de una corta bajada se cruza la pista asfaltada de Sant Julià de Cerdanyola a Falgars. Primero en dirección SE y luego S, se remonta hasta el Planàs, zona también de antiguos cultivos. Bordeándolo, el PR-C 129 se une con el GR 4 y el PR-C 52 durante un tramo; hacia el NE, estos itinerarios conectan con Falgars y la Pobla de Lillet. Se sigue remontando, hacia el SO: después del Camp de l’Ermità se cruza una pista y la subida se hace más pronunciada. En el Collet de Llebató se vuelve a encontrar la pista, que ahora se sigue hasta la fuente del Llop, continuando en fuerte subida. 
+ 
+7,84 km (1.672 m), 2 h 42 min. Fuente del Llop. Se llega al llano de la Clusa, justo debajo del collado de Sant Miquel y el imponente Roc de la Clusa. Pasando por debajo de los riscos de la Clusa el sendero se dirige ahora hacia NO bajando directamente hasta la cresta de la sierra del Mill, que se recorre entera de este a oeste. El camino es cada vez más estrecho y expuesto. Hay que poner mucha atención en las marcas, ya que la ruta va buscando el mejor paso, alternando entre la solana y la umbría o pasando por la misma cresta. 
+ 
+11,90 km (1.300 m), 3 h 40 min. El Mal Pas. En el extremo occidental de la sierra del Mill el itinerario enlaza con el camino que viene de Malanyeu: se baja hacia la derecha (NO) con fuerte pendiente entre antiguas carboneras. El sendero desemboca en la pista que baja del collado de Bassotes y se sigue hacia abajo durante 7 minutos (480 m). 
+ 
+Hay que prestar atención y desviarse por un camino ancho a la izquierda (O), dejando la pista antes de una curva pronunciada. Este camino marca el trazado de un antiguo ferrocarril de tracción animal construido en los años 1920 para bajar troncos. El recorrido comenzaba bajo la casa del Cap del Pla y bajaba en suave pendiente hasta un teleférico encima del Collet, cerca del actual túnel de Guardiola. A partir de allí, la madera se llevaba a las minas de Fígols. El sendero pasa por la fuente de la Baga y hace un zigzag para cruzar el torrente de Lavaiol. 
+ 
+13,76 km (984 m), 4 h 13 min. Torrent de Lavaiol. Ahora el camino vuelve a remontar (N/NO) por la solana hasta después del Grau, bajo el Puig, también llamado el Confessionari (14,30 km, 1.060 m, 4 h 25 min). Bordeando márgenes antiguos y huertos, se va bajando por el lado del canal que riega todas las huertas de los alrededores. El sendero desemboca en las calles del pueblo pasando por la cruz de término. Se continúa bajando hasta que se encuentra la parada de autobús. 
+ 
+15,36 km (956 m). 4 h 40 min. Sant Julià de Cerdanyola. Parada de autobús, fin del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/06/2017&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.223357" lon="1.893538">
+        <ele>956.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223678" lon="1.894132">
+        <ele>950.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.225265" lon="1.894813">
+        <ele>994.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.225696" lon="1.894691">
+        <ele>1001.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.226715" lon="1.895370">
+        <ele>986.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.226892" lon="1.894894">
+        <ele>998.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227110" lon="1.895054">
+        <ele>1005.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227080" lon="1.893885">
+        <ele>1011.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227219" lon="1.893785">
+        <ele>1018.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227250" lon="1.893288">
+        <ele>1022.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227473" lon="1.893024">
+        <ele>1030.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227497" lon="1.893169">
+        <ele>1034.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227640" lon="1.893057">
+        <ele>1039.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227610" lon="1.893264">
+        <ele>1042.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227853" lon="1.893169">
+        <ele>1051.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227816" lon="1.893624">
+        <ele>1057.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227977" lon="1.893457">
+        <ele>1067.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.228310" lon="1.893759">
+        <ele>1090.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.228668" lon="1.893669">
+        <ele>1102.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.228877" lon="1.893405">
+        <ele>1109.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229125" lon="1.893406">
+        <ele>1120.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229666" lon="1.895571">
+        <ele>1149.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229336" lon="1.896180">
+        <ele>1134.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229940" lon="1.898993">
+        <ele>1185.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229798" lon="1.901546">
+        <ele>1189.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230792" lon="1.904316">
+        <ele>1258.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230986" lon="1.905596">
+        <ele>1281.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230803" lon="1.906379">
+        <ele>1275.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230454" lon="1.906866">
+        <ele>1252.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230473" lon="1.908169">
+        <ele>1261.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230618" lon="1.908681">
+        <ele>1270.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230542" lon="1.909240">
+        <ele>1268.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.230123" lon="1.910592">
+        <ele>1266.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229700" lon="1.910630">
+        <ele>1280.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.229273" lon="1.911207">
+        <ele>1279.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227971" lon="1.911361">
+        <ele>1285.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227814" lon="1.911609">
+        <ele>1286.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.227484" lon="1.912887">
+        <ele>1284.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.226784" lon="1.914565">
+        <ele>1293.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.226769" lon="1.916395">
+        <ele>1282.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.226611" lon="1.917234">
+        <ele>1269.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.225470" lon="1.919412">
+        <ele>1259.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.225174" lon="1.921053">
+        <ele>1261.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.225186" lon="1.921869">
+        <ele>1262.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.224904" lon="1.922546">
+        <ele>1274.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223880" lon="1.923933">
+        <ele>1287.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223095" lon="1.924643">
+        <ele>1283.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222881" lon="1.927312">
+        <ele>1236.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222172" lon="1.928045">
+        <ele>1212.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.221817" lon="1.929541">
+        <ele>1223.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.221660" lon="1.929641">
+        <ele>1227.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.220078" lon="1.929571">
+        <ele>1271.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.219028" lon="1.929928">
+        <ele>1305.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218815" lon="1.930337">
+        <ele>1319.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.219123" lon="1.930539">
+        <ele>1336.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.219125" lon="1.930684">
+        <ele>1341.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218673" lon="1.931449">
+        <ele>1365.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218560" lon="1.931923">
+        <ele>1372.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218237" lon="1.932135">
+        <ele>1375.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218348" lon="1.932848">
+        <ele>1379.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.217301" lon="1.932637">
+        <ele>1379.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.216556" lon="1.931509">
+        <ele>1384.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.216531" lon="1.932630">
+        <ele>1392.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.216924" lon="1.935210">
+        <ele>1411.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.216869" lon="1.935556">
+        <ele>1415.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.215785" lon="1.937240">
+        <ele>1432.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.215067" lon="1.937383">
+        <ele>1436.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214304" lon="1.937810">
+        <ele>1445.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213438" lon="1.937631">
+        <ele>1456.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213088" lon="1.937788">
+        <ele>1462.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.212541" lon="1.937161">
+        <ele>1466.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211459" lon="1.935114">
+        <ele>1479.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210973" lon="1.933647">
+        <ele>1470.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.209438" lon="1.933824">
+        <ele>1481.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206497" lon="1.934947">
+        <ele>1567.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.205629" lon="1.934270">
+        <ele>1601.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.205195" lon="1.933563">
+        <ele>1622.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.204233" lon="1.932786">
+        <ele>1652.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203474" lon="1.931497">
+        <ele>1661.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203104" lon="1.930437">
+        <ele>1672.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.202851" lon="1.931331">
+        <ele>1672.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.202182" lon="1.931010">
+        <ele>1673.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.201928" lon="1.930706">
+        <ele>1671.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.201994" lon="1.930135">
+        <ele>1662.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.202801" lon="1.928401">
+        <ele>1614.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.202816" lon="1.927087">
+        <ele>1589.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203004" lon="1.926448">
+        <ele>1586.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203262" lon="1.926153">
+        <ele>1566.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203836" lon="1.923970">
+        <ele>1541.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203696" lon="1.923421">
+        <ele>1528.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.203886" lon="1.923030">
+        <ele>1509.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.204089" lon="1.921700">
+        <ele>1497.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.204371" lon="1.921502">
+        <ele>1479.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.204483" lon="1.920041">
+        <ele>1463.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.204750" lon="1.919685">
+        <ele>1455.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.205121" lon="1.919897">
+        <ele>1453.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.205381" lon="1.919726">
+        <ele>1445.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206143" lon="1.918396">
+        <ele>1426.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206365" lon="1.914280">
+        <ele>1425.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206273" lon="1.911989">
+        <ele>1399.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206638" lon="1.910315">
+        <ele>1382.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206628" lon="1.908497">
+        <ele>1381.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206334" lon="1.905851">
+        <ele>1399.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206508" lon="1.904740">
+        <ele>1397.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206496" lon="1.902469">
+        <ele>1413.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206665" lon="1.899911">
+        <ele>1409.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.206919" lon="1.899240">
+        <ele>1401.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.207299" lon="1.897053">
+        <ele>1385.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.207398" lon="1.896089">
+        <ele>1382.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.207268" lon="1.895673">
+        <ele>1385.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.207438" lon="1.895155">
+        <ele>1398.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.207686" lon="1.891949">
+        <ele>1392.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.208280" lon="1.890076">
+        <ele>1353.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.208829" lon="1.889597">
+        <ele>1327.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.208888" lon="1.888976">
+        <ele>1313.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.209155" lon="1.888528">
+        <ele>1306.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.209212" lon="1.888092">
+        <ele>1305.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.209394" lon="1.887948">
+        <ele>1301.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.209449" lon="1.887434">
+        <ele>1300.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210157" lon="1.887034">
+        <ele>1276.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210185" lon="1.888698">
+        <ele>1229.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210310" lon="1.888866">
+        <ele>1214.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210570" lon="1.888777">
+        <ele>1206.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210337" lon="1.889805">
+        <ele>1180.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.210734" lon="1.891054">
+        <ele>1162.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211199" lon="1.891376">
+        <ele>1129.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211351" lon="1.891725">
+        <ele>1115.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211516" lon="1.891116">
+        <ele>1108.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211383" lon="1.890404">
+        <ele>1101.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211608" lon="1.890872">
+        <ele>1101.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211686" lon="1.891501">
+        <ele>1098.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211472" lon="1.892147">
+        <ele>1089.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.211494" lon="1.892522">
+        <ele>1089.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.212225" lon="1.894183">
+        <ele>1072.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.212271" lon="1.893382">
+        <ele>1059.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213100" lon="1.890501">
+        <ele>1029.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213089" lon="1.889957">
+        <ele>1027.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213526" lon="1.889882">
+        <ele>1016.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.213993" lon="1.889244">
+        <ele>1011.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214612" lon="1.887598">
+        <ele>1007.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214730" lon="1.887656">
+        <ele>1002.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214751" lon="1.888081">
+        <ele>994.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214539" lon="1.889225">
+        <ele>983.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214745" lon="1.889255">
+        <ele>988.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.214856" lon="1.889483">
+        <ele>998.1</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.215223" lon="1.889232">
+        <ele>1000.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.215457" lon="1.889273">
+        <ele>1006.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.215744" lon="1.889116">
+        <ele>1005.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.216377" lon="1.888606">
+        <ele>1003.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.217018" lon="1.888378">
+        <ele>1027.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.217188" lon="1.888079">
+        <ele>1026.9</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.217513" lon="1.888008">
+        <ele>1040.2</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.217835" lon="1.887514">
+        <ele>1051.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218260" lon="1.887182">
+        <ele>1053.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218409" lon="1.886591">
+        <ele>1060.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.218727" lon="1.886532">
+        <ele>1054.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.219995" lon="1.887225">
+        <ele>1028.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.221042" lon="1.887509">
+        <ele>1017.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.221851" lon="1.888258">
+        <ele>1009.6</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222273" lon="1.888090">
+        <ele>1001.4</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222454" lon="1.887751">
+        <ele>995.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223036" lon="1.888298">
+        <ele>992.5</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223126" lon="1.888751">
+        <ele>990.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222685" lon="1.890654">
+        <ele>971.0</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223005" lon="1.891109">
+        <ele>968.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.222839" lon="1.891645">
+        <ele>964.3</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223281" lon="1.892625">
+        <ele>961.8</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+      <trkpt lat="42.223348" lon="1.893490">
+        <ele>956.7</ele>
+        <time>2017-06-30T08:00:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

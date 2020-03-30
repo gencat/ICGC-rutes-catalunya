@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.593623" lon="1.133250">
+    <ele>935.1</ele>
+    <time>2019-06-24T21:41:51Z</time>
+    <name>Pont de Poldo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.589238" lon="1.134447">
+    <ele>935.1</ele>
+    <time>2019-06-24T21:42:06Z</time>
+    <name>Pont de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.582888" lon="1.139139">
+    <ele>939.1</ele>
+    <time>2019-06-24T21:42:29Z</time>
+    <name>Àrea d'esbarjo de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.587102" lon="1.135717">
+    <ele>937.9</ele>
+    <time>2019-06-24T21:43:08Z</time>
+    <name>A les bordes de Badia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.594903" lon="1.131073">
+    <ele>943.1</ele>
+    <time>2019-06-24T21:43:32Z</time>
+    <name>La Guingueta d'Àneu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.599508" lon="1.130853">
+    <ele>937.0</ele>
+    <time>2019-07-10T14:15:40Z</time>
+    <name>Aguait del Pla</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.598907" lon="1.133632">
+    <ele>936.0</ele>
+    <time>2019-07-10T12:59:45Z</time>
+    <name>Àrea d'esbarjo de la Mollera</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.597290" lon="1.133564">
+    <ele>937.9</ele>
+    <time>2019-07-10T13:03:05Z</time>
+    <name>Torre d'aguait</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.594543" lon="1.134189">
+    <ele>940.9</ele>
+    <time>2019-07-10T13:12:17Z</time>
+    <name>Àrea d'esbarjo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.589448" lon="1.135240">
+    <ele>947.0</ele>
+    <time>2019-07-10T13:28:55Z</time>
+    <name>Rampa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="42.593521" lon="1.132758">
+    <ele>936.0</ele>
+    <time>2019-07-10T13:32:51Z</time>
+    <name>La Guingueta. Inici de l'itinerari adaptat</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Mollera d’Escalarre i Esterri d’Àneu. Itineraris adaptats. Part 2</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;Mollera d’Escalarre i Esterri d’Àneu. Itineraris adaptats. Part 2&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;A Esterri d’Àneu i a la Guingueta d'Àneu l’ajuntament d’Esterri, en el primer cas, i el Parc Natural de l'Alt Pirineu, en el segon, han adaptat sengles itineraris d’aproximadament 3 i 6 quilòmetres de recorregut i els han fet accessibles per a què hi circulin persones amb cadira de rodes i amb mobilitat reduïda. El primer és una volta circular que surt del nucli d’Esterri i recorre la plana al·luvial del riu Noguera Pallaresa situada al sud del poble. El segon recorre part de la ribera de l'espai natural protegit de la Mollera d'Escalarre i de l'embassament de la Torrassa. Ambdós trams discorren normalment sota l’arbrat. L'amplada dels camins és igual o superior als 1,5 metres i el terreny s'ha compactat i anivellat o esta asfaltat; s’han construït passeres i ponts i, en determinats trams, s'han col·locat taulons de fusta als marges per contenir el terreny i evitar l'erosió del camí. 
+ 
+Els dos recorreguts permeten gaudir del patrimoni natural de l’entorn de la Mollera d’Escalarre, de l’observació de la vegetació i de la seva fauna, peixos, ocells i mamífers, on la llúdriga és protagonista. Com a complement de la sortida cal visitar el nucli d’Esterri, amb el seu Ecomuseu de les Valls d’Àneu, l’antic monestir de Santa Maria d’Àneu i l’església de Sant Martí d’Escalarre (cal veure horaris d’obertura). Un segment de la ruta de la Guingueta coincideix amb el recorregut del Camí del Búnquer, que visita vestigis d’instal·lacions de defensa militar pertanyents al període de postguerra de 1940.&lt;/i&gt; 
+Ruta senyalitzada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt; 
+L’inici de la segona part dels itineraris adaptats de la vall d’Àneu se situa a la Guingueta d’Àneu, uns 3,8 km abans d’Esterri d’Àneu venint de Sort per la carretera C-13. Just abans d’entrar al nucli urbà es pren, a l’est (a la dreta pujant, a l’esquerra baixant), el camí de Berrós (Jussà i Sobirà) i de Dorve, ben senyalitzat, que creua la Noguera Pallaresa pel pont de Poldo. Abans de passar el pont hi ha els plafons informatius de l’itinerari adaptat i de l’espai natural de la Mollera d’Escalarre. Aquí s’inicia el segon tram d’aquesta proposta però l’aparcament es troba a l’altra banda del pont. 
+S’ha de tenir en compte que Esterri d’Àneu és la població més important de la capçalera del Pallars Sobirà i que disposa de serveis turístics d’allotjament, restauració i comerç. 
+ 
+0,00 km (938 m). Camí de Dorve i Berròs, extrem oest del pont de Poldo. Seguint la senyalització cal dirigir-se al N, en direcció a Esterri, pel camí senyalitzat que discorre entre la Noguera Pallaresa i la carretera C-13. Es passa la zona d’aguaits de la Llobatera, el camí s’acosta a la carretera i arriba a l’aguait del Pla. 
+ 
+0,73 km (938 m). Aguait del Pla sobre la mollera d’Escalarre, amb plafons gràfics informatius sobre la fauna observable. Es torna enrere fins al lloc d’inici (ara situat als 1,46 km de recorregut) i es continua recte, cap al sud, deixant el pont a l’esquerra (E). Al cap de poc el camí surt a tocar de la carretera i la voreja durant un tram fins que es desvia per passar el pont de Badia. 
+ 
+2,00 km (938 m). Pont de Badia, límit entre els espais fluvials de la mollera d’Escalarre i de l’embassament de la Torrassa. Es creua i se surt al camí asfaltat de Dorve i Berròs. Es gira a la dreta (S) per aquest camí; al cap de poc es deixa a l’esquerra (E) la desviació a les bordes de Badia. 
+ 
+3,05 km (937 m). Àrea d’esbarjo de Badia i final de tram. Es torna enrere però, en arribar al pont de Badia (4 km), se segueix el camí asfaltat, recte cap al nord. Aquí cal superar una curta però significativa rampa del 12,5% de pendent(80 m de recorregut per 10 m de desnivell). És la única dificultat d’aquest itinerari. 
+ 
+4,50 km (938 m). Extrem est del pont de Poldo, que es deixa a mà esquerra (O). Se segueix el camí d’Escalarre cap amunt i, al cap de molt poc, es passa pel costat d’una àrea d’esbarjo. 
+ 
+4,97 km (938 m). Torre d’aguait de la Mollera d’Escalarre. Se segueix cap al nord. 
+ 
+5,16 km (938 m). Àrea d’esbarjo de la Mollera d’Escalarre, sota d’una espessa arbreda, que és un bon punt d’observació de la mollera. Aquí s’acaba el recorregut adaptat; es gira al sud i es retorna al punt d’inici, aquesta vegada fent servir el pont de Poldo. 
+ 
+5,89 km (938 m). Extrem oest del pont de Poldo en el camí de la Guingueta a Dorve i Berròs. Final de l’itinerari.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;Mollera d’Escalarre y Esterri d’Àneu. Itinerarios adaptados. Parte 2 &lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt; En Esterri d'Àneu y en la Guingueta d'Àneu el ayuntamiento de Esterri, en el primer caso, y el Parque Natural del Alto Pirineo, en el segundo, han adaptado sendos itinerarios de aproximadamente 3 y 6 kilómetros de recorrido y los han hecho accesibles para que circulen personas con silla de ruedas y con movilidad reducida. El primero es una vuelta circular que sale del núcleo de Esterri y recorre la llanura aluvial del río Noguera Pallaresa situada al sur del pueblo. El segundo recorre parte del humedal de ribera del espacio natural protegido de la Mollera d’Escalarre y del embalse de la Torrassa. Ambos tramos discurren normalmente bajo el arbolado. La anchura de los caminos es igual o superior a 1,5 metros y el terreno se ha compactado y nivelado o está asfaltado; se han construido pasarelas y puentes y, en determinados tramos, se han colocado tablones de madera en las orillas para contener el terreno y evitar la erosión del camino. 
+ 
+Los dos recorridos permiten disfrutar del patrimonio natural del entorno de la Mollera d’Escalarre, de la observación de la vegetación y de su fauna, peces, aves y mamíferos, donde la nutria es protagonista. Como complemento de la salida hay que visitar el núcleo de Esterri, con su Ecomuseo de las Valls d'Àneu, el antiguo monasterio de Santa Maria d’Àneu y la iglesia de Sant Martí d’Escalarre (hay que ver horarios de apertura). Un segmento de la ruta de la Guingueta coincide con el recorrido del Camino del Búnker, que visita vestigios de instalaciones de defensa militar pertenecientes al período de posguerra de 1940.&lt;/i&gt; 
+Ruta señalizada.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;El inicio de la segunda parte de los itinerarios adaptados del valle de Àneu se sitúa en la Guingueta d'Àneu, unos 3,8 km antes de Esterri d'Àneu viniendo de Sort por la carretera C-13. Justo antes de entrar en el núcleo urbano se toma, al este (derecha subiendo, izquierda bajando), el camino de Berrós (Jussà y Sobirà) y de Dorve, bien señalizado, que cruza la Noguera Pallaresa por el puente de Poldo. Antes de pasar el puente están los paneles informativos del itinerario adaptado y del espacio natural de la Mollera d’Escalarre. Aquí se inicia el segundo tramo de esta propuesta pero el aparcamiento se encuentra al otro lado del puente. 
+Hay que tener en cuenta que Esterri d'Àneu es la población más importante de la cabecera del Pallars Sobirà y que dispone de servicios turísticos de alojamiento, restauración y comercio. 
+ 
+0,00 km (938 m). Camino de Dorve y de Berrós, en el extremo oeste del puente de Poldo. Siguiendo la señalización, dirigirse al N, en dirección a Esterri, por el camino señalizado que discurre entre la Noguera Pallaresa y la carretera C-13. Se pasa la zona de observatorios de la Llobatera, el camino se acerca a la carretera y llega al acecho del Pla. 
+ 
+0,73 km (938 m). Acecho del Pla sobre el humedal de Escalarre, con paneles gráficos informativos sobre la fauna observable. Se vuelve atrás hasta el lugar de inicio (ahora situado a 1,46 km de recorrido) y se sigue recto, hacia el sur, dejando el puente a la izquierda (E). Al poco el camino sale al lado de la carretera y la bordea durante un tramo hasta que se desvía para pasar el puente de Bahía. 
+ 
+2,00 km (938 m). Puente de Badia, límite entre los espacios fluviales de la ciénaga de Escalarre y del embalse de la Torrassa. Se cruza y se sale al camino asfaltado de Dorve y Berrós. Se gira a la derecha (S) por este camino; al poco se deja a la izquierda (E) la desviación a las bordas de Bahía. 
+ 
+3,05 km (937 m). Área de recreo de Badia y final de tramo. Se vuelve atrás, pero al llegar al puente de Badia (4 km), se sigue el camino asfaltado, recto hacia el norte. Aquí hay que superar una corta pero significativa rampa del 12,5% de pendiente (80 m de recorrido por 10 m de desnivel). Es la única dificultad de este itinerario. 
+ 
+4,50 km (938 m). Extremo este del puente de Poldo, que se deja a mano izquierda (O). Se sigue el camino de Escalarre hacia arriba y, al cabo de muy poco, se pasa junto a un área de recreo. 
+ 
+4,97 km (938 m). Torre de acecho de la Mollera de Escalarre. Se sigue hacia el norte. 
+ 
+5,16 km (938 m). Área de recreo de la Mollera de Escalarre, debajo de una espesa arboleda, un buen punto de observación de la ciénaga. Aquí se acaba el recorrido adaptado; se gira al sur y se retorna al punto de inicio, esta vez utilizando el puente de Poldo. 
+ 
+5,89 km (938 m). Extremo oeste del puente de Poldo en el camino de la Guingueta a Dorve y Berrós. Final del itinerario.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/07/2019&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.593521" lon="1.132777">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594092" lon="1.133010">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594993" lon="1.132752">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595727" lon="1.132218">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596648" lon="1.131161">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597781" lon="1.130499">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598388" lon="1.130451">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599194" lon="1.130858">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599516" lon="1.130850">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.599194" lon="1.130858">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598388" lon="1.130451">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597620" lon="1.130553">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596626" lon="1.131180">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595656" lon="1.132281">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594456" lon="1.132981">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.594060" lon="1.133005">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593485" lon="1.132772">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591836" lon="1.132730">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591521" lon="1.132502">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589995" lon="1.132828">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589344" lon="1.134005">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589157" lon="1.135016">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587389" lon="1.135635">
+        <ele>947.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587020" lon="1.135677">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586534" lon="1.135399">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585639" lon="1.135212">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585214" lon="1.135371">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583855" lon="1.135437">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583229" lon="1.136540">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.582839" lon="1.139279">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583229" lon="1.136540">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583645" lon="1.135672">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.583944" lon="1.135404">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585214" lon="1.135371">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.585639" lon="1.135212">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.586534" lon="1.135399">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.587088" lon="1.135681">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.588876" lon="1.135170">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.589715" lon="1.135243">
+        <ele>946.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.590759" lon="1.134669">
+        <ele>941.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591166" lon="1.134176">
+        <ele>940.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.591514" lon="1.133983">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.592604" lon="1.134017">
+        <ele>945.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593617" lon="1.133695">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595032" lon="1.134518">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595935" lon="1.134674">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597160" lon="1.133552">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597818" lon="1.133618">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598328" lon="1.133932">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598939" lon="1.133766">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.598328" lon="1.133932">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597818" lon="1.133618">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.597160" lon="1.133552">
+        <ele>936.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596714" lon="1.133840">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.596127" lon="1.134601">
+        <ele>935.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595651" lon="1.134658">
+        <ele>942.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.595032" lon="1.134518">
+        <ele>942.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593617" lon="1.133695">
+        <ele>937.9</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.593526" lon="1.132802">
+        <ele>936.0</ele>
+        <time>2019-07-30T08:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

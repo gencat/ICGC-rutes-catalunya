@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.255773" lon="0.810650">
+    <ele>452.0</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>Cartoixa d'Escaladei</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.220150" lon="0.788301">
+    <ele>339.0</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>Camí de Gratallops</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.213930" lon="0.812091">
+    <ele>307.2</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>GR 174</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.215152" lon="0.805572">
+    <ele>244.7</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>Pont sobre el Siurana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.239225" lon="0.802985">
+    <ele>524.8</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>La Creu Alta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.225454" lon="0.780431">
+    <ele>327.4</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>la Vilella Alta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.213396" lon="0.810681">
+    <ele>332.2</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>Torroja del Priorat</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.225504" lon="0.782075">
+    <ele>360.1</ele>
+    <time>2014-02-10T17:39:12Z</time>
+    <name>Mirador</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.233443" lon="0.845305">
+    <ele>341.2</ele>
+    <time>2006-10-30T10:33:07Z</time>
+    <name>Poboleda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.245450" lon="0.816354">
+    <ele>501.3</ele>
+    <time>2006-11-02T20:14:17Z</time>
+    <name>Collet dels Ous</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.230232" lon="0.837242">
+    <ele>308.8</ele>
+    <time>2006-11-02T20:27:30Z</time>
+    <name>Riu Siurana</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.227392" lon="0.809951">
+    <ele>260.3</ele>
+    <time>2006-11-02T20:29:05Z</time>
+    <name>Presa</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.244697" lon="0.810300">
+    <ele>428.9</ele>
+    <time>2006-11-02T20:30:04Z</time>
+    <name>La Creueta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.247566" lon="0.811530">
+    <ele>411.2</ele>
+    <time>2006-11-02T20:30:18Z</time>
+    <name>la Conreria d'Escaladei</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De Poboleda a Torroja del Priorat, la Vilella Alta i Escaladei</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De Poboleda a Torroja del Priorat, la Vilella Alta i Escaladei&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífic itinerari circular pel Priorat que discorre entre el riu Siurana i el vessant sud de la serra de Montsant. Permet fruir d'un espai natural singular i del patrimoni cultural de quatre pobles: Poboleda, Torroja del Priorat, la Vilella Alta i Escaladei. L'anada a Torroja es fa aprofitant el llit del riu, que s'haurà de travessar repetidament. S'ha de preveure que caldrà mullar-se els peus nombroses vegades; aquest tram és un dels atractius de la ruta però en cas de crescuda s’hauria de canviar el recorregut i seguir el camí ral de Poboleda a Torroja pel coll de Poboleda, senyalitzat (5 km, 1 h 20 min en lloc dels 7 km i 1 h 45 min seguint el curs del riu). La ruta també es pot fer en bicicleta tot terreny (per a la qual cosa cal un bon nivell tècnic) llevat d'un tram de 100 m passada la presa del riu de Siurana i d’un altre de pujada a la Vilella Alta –aquest, però, evitable per pista–, on caldrà dur-la al costat.&lt;/i&gt; 
+Ruta senyalitzada parcialment. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La sortida és a Poboleda; per arribar-hi des de Falset cal prendre la carretera T-740 cap al NE, seguir des de Porrera per la TP-7402 en la mateixa direcció fins a sortir a la C-242, que s'agafa a mà esquerra (NE) per trencar finalment, també a l'esquerra (O), per la T-702. També s’hi pot arribar des de la desviació de l’Hostal del Pubill que hi ha a la carretera C-242 entre el coll d’Alforja i Cornudella de Montsant. Aquesta darrera carretera enllaça amb la N-420 a les Borges del Camp, a uns 4 km de Reus. 
+ 
+0,00 km (341 m). Poboleda, plaça de l’Església, al capdavall del carrer Major. Se surt de la plaça en direcció a ponent deixant la façana de l’església a mà esquerra. Es gira immediatament a l’esquerra pel carrer Nou, que baixa cap al riu passant pel costat d’un càmping. Un cop a baix de tot es troba una pista (0,45 km, 313 m) que se seguirà cap a la dreta (O) arran de riu. Pal de senyalització; es deixa a l’esquerra el camí Ral a Torroja que travessa el riu per una palanca i de seguida es creua el Siurana a gual. 
+ 
+Ara es continua per una pista i el riu es té a la dreta. Cal mantenir-se sempre al costat del riu, seguint les seves sinuositats. Passada la desviació al mas de les Pereres (1,80 km, 300 m), la pista es fa estreta i esdevé un camí. Més endavant es desemboca en una pista que, per la dreta, puja a la carretera (2,90 km, 286 m). Es continua pel costat del riu deixant de banda els accessos a diversos masos que es troben a banda i banda. Es passa una presa (5,09 km; 261 m, 1 h 10 min) i es deixen a l’esquerra unes construccions. Es torna a creuar el riu tres vegades fins que es gira al sud i ja es veu Torroja enfilada dalt d’un turó. Després de desembocar en una pista, es travessa el llit del riu per darrera vegada; ara es té a la dreta (O). 
+ 
+6,38 km (251 m) 1 h 30 min. Arran d’uns pous situats sota un promontori, la pista gira bruscament a l’esquerra (E) i puja decididament a Torroja. Deixant, a l’esquerra, dos trencalls i la deixalleria local s’arriba a l’alçada del cementiri, se surt a la carretera T-711 –on es troben els senyals del sender de gran recorregut del Priorat, GR 174, que ja no s’abandonarà fins a Poboleda i s’entra a Torroja–. Es puja cap a la plaça de l’església. 
+ 
+7,08 km (333 m) 1 h 45 min. Torroja del Priorat, plaça de l’església de Sant Miquel. Després de passejar-se pel nucli urbà i veure les vistes del Priorat des del mirador situat al N de la vila, es torna a la plaça i se’n surt deixant l’església a la dreta. Es rodeja l’edifici pel darrere, cap a la dreta (NO), i, seguint els senyals del GR, se surt del poble per un corriol que baixa fins a la carretera T-711, just davant del pont que s’utilitza per creuar a l’altra banda (7,65 km, 266 m). Allà es pren la pista asfaltada cap a la dreta (N-NE) que du a Escaladei (la baixada en bicicleta es pot fer directament per la carretera). 
+ 
+Tres-cents metres més endavant es troba un bosquet a la dreta; aquí es deixa l’asfalt i es gira a l’esquerra, cap al NO (8,04 km, 262 m, 1 h 58 min). La pista voreja unes vinyes, es fa estreta i esdevé un camí que s’enfila fins a enllaçar amb una altra pista, el camí Ral de Vilella, que, seguint sempre els senyals del GR, du a la Vilella Alta (en bicicleta és més planer continuar per la pista asfaltada 450 m més i, davant d’un mas, girar a l’esquerra per la pista del camí Ral). Més amunt, en un revolt pronunciat sota el bosc, es deixa a l’esquerra el camí de Gratallops i l’ermita de la Consolació (9,99 km, 340 m); després d’un altre revolt de mig cercle, on es deixa un trencall a la dreta, es deixa la pista i es fa drecera per un corriol que surt a la dreta (10,38 km, 364 m). Aquest corriol desemboca a la mateixa pista en un collet situat sobre la Vilella Alta (en bicicleta cal seguir la pista durant 0,48 km i sortir al collet després d’enllaçar amb un altre camí. Es baixa a la Vilella Alta amb fort pendent. 
+ 
+11,12 km (335 m) 2 h 50 min. La Vilella Alta. S’entra al poble pel carrer Nou deixant l’ajuntament a l’esquerra; a la plaça de la Vila es deixa l’església de Santa Llúcia a l’esquerra prenent el carrer del Nord; una mica més enllà, es gira i es puja cap a la dreta pel carrer de la Bassa; se surt del poble pel costat del mirador i es pren el corriol que puja fins a la pista del camí d’Escaladei, que es pren cap a l’esquerra (11,78 km, 416 m). Si es va en bicicleta, cal arribar a aquest punt tornant a pujar la pista per on s’ha vingut i, un cop al collet, girar a l’esquerra. Es passa la colladeta del Portell i, seguint sempre la pista principal i els senyals del GR cap al NE, es puja fins al serrat de la Creu Alta, on el camí fa una inflexió (14,32 km, 525 m, 3 h 45 min), el punt més alt del recorregut. Es baixa i se surt sobre Escaladei desembocant, primer, a la pista de Torroja i, després, en el coll de la Creueta, a la carretera T-702 (15,54 km, 429 m). Es travessa la carretera, es deixa a la dreta el camí a Poboleda, per on se’n va el GR i on després es tornarà, i s’entra al vilatge. 
+ 
+15,91 km (409 m) 4 h 7 min. Escaladei, nucli de població pertanyent al municipi de la Morera de Montsant, relativament modern i ubicat a les antigues dependències del procurador de la cartoixa; simbolitza el cor vitivinícola de la comarca. Des d’aquí és obligada la visita a la cartoixa de Santa Maria d'Escaladei, al peu del Montsant, situada a 1 km. La cartoixa, el primer centre de l’orde cartoixà de Sant Bru a la península, fundat a finals del s. XII, va ser un centre de poder (d’aquí el nom de “priorat” heretat per la comarca), de cultura, art i espiritualitat pròsper i ric fins que va patir les conseqüències dels decrets de desamortització del s. XIX i dels moviments populars anticlericals que van comportar l'exclaustració dels monjos i la destrucció del monumental monestir. Es torna a la Creueta. 
+ 
+18,29 km (429 m) 4 h 36 min. La Creueta, abans de la cruïlla de carreteres; s'agafa el camí Vell de la Cartoixa cap a l’esquerra (NE) seguint de nou el GR 174. Es puja fins al collet dels Ous (18,96 km, 501 m, 4 h 50 min), on es deixen dos trencalls a l’esquerra, i, ja definitivament en baixada, es retorna a Poboleda. El GR 174 discorre paral·lel a la carretera T-702 i la creua tres vegades fent dos trams de 200 m cadascun per l’asfalt. 
+ 
+22,44 km (341 m) 5 h 40 min. Poboleda, plaça de Església. Final del recorregut. 
+ 
+La cartoixa de Santa Maria d’Escaladei forma part de la xarxa de seus del Museu d’Història de Catalunya. Consulteu horaris i condicions de la visita a la seva web. 
+&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Poboleda a Torroja del Priorat, la Vilella Alta y Escaladei&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Magnífico itinerario circular por el Priorat que discurre entre el río Siurana y la vertiente sur de la sierra de Montsant. Permite disfrutar de un espacio natural singular y del patrimonio cultural de cuatro pueblos: Poboleda, Torroja del Priorat, la Vilella Alta y Escaladei. La ida a Torroja se hace aprovechando el cauce del río, que se deberá cruzar repetidamente. Se debe prever que habrá que mojarse los pies numerosas veces; este tramo es uno de los atractivos de la ruta pero en caso de crecida se debería cambiar el recorrido y seguir el camino real de Poboleda a Torroja por el collado de Poboleda, señalizado (5 km, 1 h 20 min en lugar de los 7 km y 1 h 45 min siguiendo el curso del río). La ruta también se puede hacer en bicicleta todo terreno (para lo cual es necesario un buen nivel técnico) salvo un tramo de 100 m pasada la presa del río Siurana y de otro de subida a la Vilella Alta -este pero evitable por pista-, donde habrá que llevarla al lado.&lt;/i&gt; 
+Ruta señalizada parcialmente. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt; 
+&lt;br&gt; 
+&lt;p&gt;La salida es a Poboleda; para llegar desde Falset hay que tomar la carretera T-740 hacia el NE, seguir desde Porrera por la TP-7402 en la misma dirección hasta salir a la C-242, que se toma a mano izquierda (NE) para romper finalmente, también a la izquierda (O), por la T-702. También se puede llegar desde la desviación del Hostal del Pubill que hay en la carretera C-242 entre el collado de Alforja y Cornudella de Montsant. Esta última carretera enlaza con la N-420 en Les Borges del Camp, a unos 4 km de Reus. 
+ 
+0,00 km (341 m). Poboleda, plaza de L’Església, al final de la calle Major. Se sale de la plaza en dirección oeste dejando la fachada de la iglesia a mano izquierda. Se gira inmediatamente a la izquierda por la calle Nova, que baja hacia el río pasando por el lado de un camping. Una vez abajo se encuentra una pista (0,45 km, 313 m) que se seguirá hacia la derecha (O) por el río. Poste de señalización; se deja a la izquierda el camino real a Torroja que atraviesa el río por una pasarela y enseguida se cruza el Siurana por un vado. 
+ 
+Ahora se sigue por una pista y el río se tiene a la derecha. Hay que mantenerse siempre al lado del río, siguiendo sus sinuosidades. Pasada la desviación al Mas de les Pereres (1,80 km, 300 m), la pista se hace estrecha y se convierte en un camino. Más adelante se desemboca en una pista que, por la derecha, sube a la carretera (2,90 km, 286 m). Se continúa por el lado del río dejando de lado los accesos a varias masías que se encuentran a ambos lados. Se pasa una presa (5,09 km; 261 m, 1 h 10 min) y se dejan a la izquierda unas construcciones. Se vuelve a cruzar el río tres veces hasta que se gira al sur y ya se ve Torroja subida encima de una colina. Después de desembocar a una pista, se atraviesa el cauce del río por última vez; ahora se tiene a la derecha (O). 
+ 
+6,38 km (251 m) 1 h 30 min. Cerca de unos pozos situados bajo un promontorio, la pista gira bruscamente a la izquierda (E) y sube decididamente en Torroja. Dejando, a la izquierda, dos desvíos y el vertedero local se llega a la altura del cementerio, se sale a la carretera T-711 -donde se encuentran las señales del sendero de gran recorrido del Priorat, GR 174, que ya no se abandonará hasta Poboleda y se entra en Torroja-. Se sube hacia la plaza de la iglesia. 
+ 
+7,08 km (333 m) 1 h 45 min. Torroja del Priorat, plaza de la iglesia de Sant Miquel. Después de pasearse por el casco urbano y ver las vistas del Priorat desde el mirador situado al N de la villa, se vuelve a la plaza y se sale dejando la iglesia a la derecha. Se rodea el edificio por detrás, hacia la derecha (NO), y, siguiendo las señales del GR, se sale del pueblo por un sendero que baja hasta la carretera T-711, justo enfrente del puente que se utiliza para cruzar al otro lado (7,65 km, 266 m). Allí se toma la pista asfaltada hacia la derecha (N-NE) que lleva a Escaladei (la bajada en bicicleta se puede hacer directamente por la carretera). 
+ 
+Trescientos metros más adelante se encuentra un bosque a la derecha; aquí se deja el asfalto y se gira a la izquierda, hacia el NO (8,04 km, 262 m, 1 h 58 min). La pista bordea unas viñas, se hace estrecha y se convierte en un camino que sube hasta enlazar con otra pista, el camino real de Vilella, que, siguiendo siempre las señales del GR, lleva a la Vilella Alta (en bicicleta es más llano continuar por la pista asfaltada 450 metros más y, ante una masía, girar a la izquierda por la pista del camino real). Más arriba, en una curva pronunciada bajo el bosque, se deja a la izquierda el camino de Gratallops y la ermita de la Consolació (9,99 km, 340 m); después de otra curva de medio círculo, donde se deja un desvío a la derecha, se deja la pista y se hace atajo por un sendero que sale a la derecha (10,38 km, 364 m). Este sendero desemboca a la misma pista en un collado situado sobre la Vilella Alta (en bicicleta hay que seguir la pista durante 0,48 km y salir al collado después de enlazar con otro camino. Se baja a la Vilella Alta con fuerte pendiente. 
+ 
+11,12 km (335 m) 2 h 50 min. La Vilella Alta. Se entra en el pueblo por la calle Nou dejando el ayuntamiento a la izquierda; en la plaza de la Vila se deja la iglesia de Santa Llucia a la izquierda tomando la calle del Nord; un poco más allá, se gira y se sube hacia la derecha por la calle de la Bassa; se sale del pueblo por el lado del mirador y se toma el sendero que sube hasta la pista del camino de Escaladei, que se toma hacia la izquierda (11,78 km, 416 m). Si se va en bicicleta, hay que llegar a este punto volviendo a subir la pista por donde ha venido y, una vez en el collado, girar a la izquierda. Se pasa el collado del Portillo y, siguiendo siempre la pista principal y las señales del GR hacia el NE, se sube hasta la loma de la Creu Alta, donde el camino hace una inflexión (14,32 km, 525 m, 3 h 45 min), el punto más alto del recorrido. Se baja y se sale sobre Escaladei desembocando, primero, en la pista de Torroja y, después, en el collado de la Creueta, en la carretera T-702 (15,54 km, 429 m). se cruza la carretera, se deja a la derecha el camino a Poboleda, por donde se va el GR y que después se volverá, y se entra a la aldea. 
+ 
+15,91 km (409 m) 4 h 7 min. Escaladei, núcleo de población perteneciente al municipio de La Morera de Montsant, relativamente moderno y ubicado en las dependencias del procurador de la cartuja; simboliza el corazón vitivinícola de la comarca. Desde aquí es obligada la visita a la cartuja de Santa Maria d’Escaladei, al pie del Montsant, situada a 1 km. La cartuja, el primer centro de la orden cartujana de San Bruno en la península, fundado a finales del s. XII, fue un centro de poder (de ahí el nombre de "priorato" heredado por la comarca), de cultura, arte y espiritualidad próspero y rico hasta que sufrió las consecuencias de los decretos de desamortización del s. XIX y los movimientos populares anticlericales que comportaron la exclaustración de los monjes y la destrucción del monumental monasterio. Se vuelve a la Creueta. 
+ 
+18,29 km (429 m) 4 h 36 min. La Creueta, antes del cruce de carreteras; se toma el Camí Vell de la Cartoixa hacia la izquierda (NE) siguiendo de nuevo el GR 174. Se sube hasta el collado de Els Ous(18,96 km, 501 m, 4 h 50 min), donde se dejan dos desvíos a la izquierda, y ya definitivamente en bajada, se devuelve a Poboleda. El GR 174 discurre paralelo a la carretera T-702 y la cruza tres veces haciendo dos tramos de 200 m cada uno por el asfalto. 
+ 
+22,44 km (341 m) 5 h 40 min. Poboleda, plaza de L’Església. Final del recorrido. 
+ 
+La cartuja de Santa Maria d’Escaladei forma parte de la red de sedes del Museu d’Història de Catalunya. Consultar horarios y condiciones de la visita a su web.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[EN] &lt;b&gt;From Poboleda to Torroja del Priorat, la Vilella Alta and Escaladei&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;An itinerary across the southern slopes of the Serra de Montsant Natural Park, recommended for those who wish to enjoy the historical and cultural heritage of the Priorat region, in exceptional natural surroundings. You visit the Hospice of Escaladei, a modern urban location standing in land formerly belonging to the Procurator of the Carthusian Monastery, which represents the wine-producing heart of the area. The Carthusian Monastery of Escaladei, built in the year 1194, was the first monastery of the Carthusian order in the Iberian peninsula and today it is the most outstanding example of the Priorat region's cultural heritage. 
+&lt;/i&gt; 
+Partially marked trail. This itinerary is also ideal for mountain bike.&lt;/p&gt; 
+&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;More information&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 31/12/2013&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.233420" lon="0.845159">
+        <ele>341.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233432" lon="0.844836">
+        <ele>340.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233142" lon="0.844774">
+        <ele>338.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232041" lon="0.842840">
+        <ele>325.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232233" lon="0.842505">
+        <ele>322.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231347" lon="0.841091">
+        <ele>312.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232202" lon="0.839183">
+        <ele>309.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232100" lon="0.838513">
+        <ele>310.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231886" lon="0.838179">
+        <ele>310.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231105" lon="0.837788">
+        <ele>309.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230296" lon="0.837152">
+        <ele>308.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229776" lon="0.836095">
+        <ele>306.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230268" lon="0.834928">
+        <ele>306.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230719" lon="0.834758">
+        <ele>305.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231114" lon="0.834912">
+        <ele>303.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232381" lon="0.836161">
+        <ele>302.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233072" lon="0.836124">
+        <ele>302.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233649" lon="0.835529">
+        <ele>301.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234213" lon="0.834332">
+        <ele>301.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234139" lon="0.833983">
+        <ele>300.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233643" lon="0.833707">
+        <ele>300.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233711" lon="0.833251">
+        <ele>296.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233326" lon="0.831456">
+        <ele>294.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232977" lon="0.831306">
+        <ele>296.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232339" lon="0.831418">
+        <ele>293.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231830" lon="0.831283">
+        <ele>293.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230997" lon="0.830393">
+        <ele>291.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230008" lon="0.830192">
+        <ele>290.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229782" lon="0.829968">
+        <ele>289.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230375" lon="0.828666">
+        <ele>288.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230956" lon="0.827770">
+        <ele>287.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230916" lon="0.826345">
+        <ele>286.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231562" lon="0.825011">
+        <ele>285.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231494" lon="0.824507">
+        <ele>288.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230918" lon="0.823607">
+        <ele>284.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230914" lon="0.821925">
+        <ele>283.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230723" lon="0.820875">
+        <ele>284.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229557" lon="0.818754">
+        <ele>282.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229220" lon="0.818801">
+        <ele>280.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228528" lon="0.819367">
+        <ele>279.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228070" lon="0.819454">
+        <ele>278.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226801" lon="0.819018">
+        <ele>276.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226274" lon="0.818070">
+        <ele>274.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226735" lon="0.817404">
+        <ele>275.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.227860" lon="0.816680">
+        <ele>274.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228764" lon="0.816347">
+        <ele>272.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229924" lon="0.815295">
+        <ele>269.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230515" lon="0.814188">
+        <ele>267.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230372" lon="0.813322">
+        <ele>266.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229706" lon="0.812825">
+        <ele>264.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228541" lon="0.812452">
+        <ele>264.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.227728" lon="0.810572">
+        <ele>261.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.227167" lon="0.809738">
+        <ele>260.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225470" lon="0.809305">
+        <ele>256.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225143" lon="0.808917">
+        <ele>257.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225051" lon="0.808096">
+        <ele>255.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224486" lon="0.807286">
+        <ele>257.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223932" lon="0.806809">
+        <ele>254.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223425" lon="0.806653">
+        <ele>253.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.222012" lon="0.807679">
+        <ele>251.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221559" lon="0.807754">
+        <ele>252.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220985" lon="0.808113">
+        <ele>251.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.219717" lon="0.808471">
+        <ele>250.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.217331" lon="0.808766">
+        <ele>250.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.217135" lon="0.809566">
+        <ele>262.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216938" lon="0.809650">
+        <ele>262.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216828" lon="0.809982">
+        <ele>259.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216570" lon="0.810169">
+        <ele>260.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216383" lon="0.810056">
+        <ele>267.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.215759" lon="0.811097">
+        <ele>279.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.215017" lon="0.811169">
+        <ele>293.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.215027" lon="0.811658">
+        <ele>292.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.214509" lon="0.811914">
+        <ele>299.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213667" lon="0.812127">
+        <ele>311.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213462" lon="0.810845">
+        <ele>330.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213083" lon="0.810430">
+        <ele>331.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213340" lon="0.809651">
+        <ele>317.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213379" lon="0.808856">
+        <ele>309.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213801" lon="0.808544">
+        <ele>309.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.213868" lon="0.807784">
+        <ele>303.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.214233" lon="0.807814">
+        <ele>303.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.214369" lon="0.807606">
+        <ele>301.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.214450" lon="0.805749">
+        <ele>271.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.214888" lon="0.805806">
+        <ele>266.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.215611" lon="0.805197">
+        <ele>266.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216018" lon="0.805541">
+        <ele>263.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216186" lon="0.806573">
+        <ele>262.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216555" lon="0.807020">
+        <ele>260.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.216799" lon="0.807036">
+        <ele>259.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.217361" lon="0.806528">
+        <ele>262.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.217564" lon="0.805609">
+        <ele>266.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.217498" lon="0.804967">
+        <ele>271.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.218197" lon="0.803846">
+        <ele>275.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.218331" lon="0.802636">
+        <ele>286.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.219133" lon="0.800993">
+        <ele>305.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.219708" lon="0.800180">
+        <ele>313.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.219976" lon="0.798668">
+        <ele>323.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220940" lon="0.797037">
+        <ele>324.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220865" lon="0.796652">
+        <ele>322.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220341" lon="0.795870">
+        <ele>317.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220621" lon="0.795426">
+        <ele>314.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221004" lon="0.795210">
+        <ele>313.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221207" lon="0.792656">
+        <ele>327.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221495" lon="0.792169">
+        <ele>325.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221263" lon="0.791115">
+        <ele>321.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221549" lon="0.790724">
+        <ele>320.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220796" lon="0.790701">
+        <ele>324.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220586" lon="0.790535">
+        <ele>326.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220771" lon="0.789372">
+        <ele>332.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220399" lon="0.789265">
+        <ele>336.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220192" lon="0.788318">
+        <ele>337.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220471" lon="0.789018">
+        <ele>342.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.220999" lon="0.788601">
+        <ele>348.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221270" lon="0.788866">
+        <ele>351.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221702" lon="0.787939">
+        <ele>356.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.221965" lon="0.788258">
+        <ele>357.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.222277" lon="0.788301">
+        <ele>359.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.222084" lon="0.787890">
+        <ele>365.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.222464" lon="0.787281">
+        <ele>375.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.222298" lon="0.786111">
+        <ele>389.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223275" lon="0.785410">
+        <ele>386.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223358" lon="0.784829">
+        <ele>383.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223225" lon="0.784451">
+        <ele>382.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223366" lon="0.784041">
+        <ele>376.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.223859" lon="0.783953">
+        <ele>367.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224248" lon="0.783546">
+        <ele>357.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224713" lon="0.783626">
+        <ele>343.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224872" lon="0.782988">
+        <ele>337.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224648" lon="0.782113">
+        <ele>334.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.224831" lon="0.781582">
+        <ele>333.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225370" lon="0.781235">
+        <ele>333.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225372" lon="0.780645">
+        <ele>326.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225513" lon="0.780520">
+        <ele>329.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225760" lon="0.780715">
+        <ele>337.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225600" lon="0.781484">
+        <ele>347.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225242" lon="0.782081">
+        <ele>359.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225393" lon="0.782622">
+        <ele>369.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225547" lon="0.782500">
+        <ele>374.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.225964" lon="0.783595">
+        <ele>392.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226085" lon="0.784922">
+        <ele>415.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226475" lon="0.785535">
+        <ele>425.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.226561" lon="0.786251">
+        <ele>421.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.227492" lon="0.787135">
+        <ele>426.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228136" lon="0.788581">
+        <ele>434.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.228704" lon="0.788800">
+        <ele>438.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229015" lon="0.789159">
+        <ele>438.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229160" lon="0.789429">
+        <ele>441.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229134" lon="0.790211">
+        <ele>446.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229672" lon="0.790318">
+        <ele>451.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.229936" lon="0.790685">
+        <ele>456.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230718" lon="0.790844">
+        <ele>460.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.230775" lon="0.791438">
+        <ele>462.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231005" lon="0.791687">
+        <ele>464.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.231506" lon="0.791551">
+        <ele>464.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232007" lon="0.792077">
+        <ele>468.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.232388" lon="0.791969">
+        <ele>469.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233481" lon="0.792361">
+        <ele>475.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234205" lon="0.792301">
+        <ele>479.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234727" lon="0.792749">
+        <ele>481.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235172" lon="0.793426">
+        <ele>484.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236078" lon="0.793932">
+        <ele>491.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236764" lon="0.794924">
+        <ele>497.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237158" lon="0.795077">
+        <ele>497.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237400" lon="0.795922">
+        <ele>495.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237542" lon="0.796090">
+        <ele>494.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237912" lon="0.796126">
+        <ele>499.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238187" lon="0.796821">
+        <ele>496.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237989" lon="0.797304">
+        <ele>495.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237959" lon="0.798069">
+        <ele>494.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238351" lon="0.799732">
+        <ele>497.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238016" lon="0.800573">
+        <ele>502.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237983" lon="0.801684">
+        <ele>509.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238461" lon="0.801757">
+        <ele>512.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238864" lon="0.801588">
+        <ele>517.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.239215" lon="0.802990">
+        <ele>524.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240357" lon="0.803376">
+        <ele>519.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240875" lon="0.802941">
+        <ele>512.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241073" lon="0.802928">
+        <ele>511.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241523" lon="0.803122">
+        <ele>506.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241802" lon="0.803602">
+        <ele>503.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242326" lon="0.803912">
+        <ele>499.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241968" lon="0.804957">
+        <ele>489.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241834" lon="0.805957">
+        <ele>482.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242019" lon="0.806005">
+        <ele>477.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242853" lon="0.805571">
+        <ele>469.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243254" lon="0.806065">
+        <ele>464.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243962" lon="0.806566">
+        <ele>458.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244453" lon="0.807767">
+        <ele>449.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244342" lon="0.808767">
+        <ele>440.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244704" lon="0.810282">
+        <ele>429.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245293" lon="0.810369">
+        <ele>428.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245851" lon="0.810834">
+        <ele>425.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246377" lon="0.811007">
+        <ele>424.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246849" lon="0.811671">
+        <ele>418.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247239" lon="0.811946">
+        <ele>413.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247452" lon="0.811821">
+        <ele>408.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248125" lon="0.811875">
+        <ele>410.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248708" lon="0.811282">
+        <ele>417.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250098" lon="0.810729">
+        <ele>420.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250726" lon="0.811549">
+        <ele>424.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251603" lon="0.811844">
+        <ele>430.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252297" lon="0.812352">
+        <ele>432.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254466" lon="0.811791">
+        <ele>445.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255220" lon="0.810918">
+        <ele>451.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255389" lon="0.811044">
+        <ele>451.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255699" lon="0.810808">
+        <ele>451.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255389" lon="0.811044">
+        <ele>451.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.255220" lon="0.810918">
+        <ele>451.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.254466" lon="0.811791">
+        <ele>445.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.252297" lon="0.812352">
+        <ele>432.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.251603" lon="0.811844">
+        <ele>430.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250726" lon="0.811549">
+        <ele>424.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.250098" lon="0.810729">
+        <ele>420.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248708" lon="0.811282">
+        <ele>417.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.248125" lon="0.811875">
+        <ele>410.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247452" lon="0.811821">
+        <ele>408.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.247239" lon="0.811946">
+        <ele>413.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246849" lon="0.811671">
+        <ele>418.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246377" lon="0.811007">
+        <ele>424.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245851" lon="0.810834">
+        <ele>425.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245293" lon="0.810369">
+        <ele>428.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244863" lon="0.810396">
+        <ele>430.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244836" lon="0.810612">
+        <ele>433.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245638" lon="0.811361">
+        <ele>445.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246445" lon="0.812685">
+        <ele>463.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246883" lon="0.814162">
+        <ele>469.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246742" lon="0.814651">
+        <ele>470.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.246808" lon="0.815220">
+        <ele>475.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245877" lon="0.815861">
+        <ele>493.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245033" lon="0.816701">
+        <ele>491.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245306" lon="0.817336">
+        <ele>481.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.245067" lon="0.817535">
+        <ele>478.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.244090" lon="0.817818">
+        <ele>477.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243308" lon="0.818876">
+        <ele>479.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.243297" lon="0.819706">
+        <ele>477.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242852" lon="0.819780">
+        <ele>472.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242045" lon="0.820702">
+        <ele>463.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242088" lon="0.821058">
+        <ele>459.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242295" lon="0.821296">
+        <ele>457.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242170" lon="0.821850">
+        <ele>456.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242816" lon="0.822382">
+        <ele>444.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242650" lon="0.823360">
+        <ele>438.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242756" lon="0.823751">
+        <ele>436.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242644" lon="0.824244">
+        <ele>433.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.242212" lon="0.824980">
+        <ele>431.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241247" lon="0.825871">
+        <ele>418.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.241057" lon="0.826982">
+        <ele>411.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240669" lon="0.827506">
+        <ele>409.1</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.240886" lon="0.828460">
+        <ele>407.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.238817" lon="0.828194">
+        <ele>408.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237849" lon="0.829646">
+        <ele>411.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237725" lon="0.830247">
+        <ele>407.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237960" lon="0.831279">
+        <ele>404.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237744" lon="0.832032">
+        <ele>401.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237782" lon="0.832568">
+        <ele>399.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237465" lon="0.832916">
+        <ele>401.0</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237311" lon="0.833424">
+        <ele>398.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.237280" lon="0.834398">
+        <ele>391.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236798" lon="0.835049">
+        <ele>389.4</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236783" lon="0.835455">
+        <ele>387.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236411" lon="0.836267">
+        <ele>390.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236237" lon="0.837585">
+        <ele>373.2</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.236068" lon="0.837710">
+        <ele>370.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235642" lon="0.838989">
+        <ele>349.6</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235674" lon="0.839739">
+        <ele>335.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235473" lon="0.839841">
+        <ele>331.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235671" lon="0.840032">
+        <ele>327.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.235110" lon="0.840396">
+        <ele>318.3</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234728" lon="0.840206">
+        <ele>316.9</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234305" lon="0.840727">
+        <ele>322.8</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.234297" lon="0.841235">
+        <ele>326.7</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233910" lon="0.841737">
+        <ele>326.5</ele>
+        <time>2013-12-29T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.233442" lon="0.845164">
+        <ele>341.7</ele>
+        <time>2013-12-30T03:41:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

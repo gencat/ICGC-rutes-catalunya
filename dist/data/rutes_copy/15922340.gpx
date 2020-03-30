@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.411357" lon="1.335700">
+    <ele>573.9</ele>
+    <time>2014-04-28T10:57:39Z</time>
+    <name>Cal Figueres</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.417670" lon="1.334387">
+    <ele>774.8</ele>
+    <time>2014-04-28T10:57:40Z</time>
+    <name>Mirador natural</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.421170" lon="1.338508">
+    <ele>802.5</ele>
+    <time>2014-04-28T10:57:41Z</time>
+    <name>Sant Llorenç de Selmella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.421288" lon="1.337955">
+    <ele>829.4</ele>
+    <time>2014-04-28T10:57:43Z</time>
+    <name>Castell de Selmella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.424914" lon="1.363060">
+    <ele>680.6</ele>
+    <time>2016-03-06T19:44:39Z</time>
+    <name>Castell de Saborella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.412214" lon="1.326853">
+    <ele>641.0</ele>
+    <time>2016-11-07T09:11:16Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.418534" lon="1.333063">
+    <ele>755.0</ele>
+    <time>2016-11-07T09:28:10Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.422313" lon="1.337927">
+    <ele>808.0</ele>
+    <time>2016-11-07T10:28:36Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.427156" lon="1.339820">
+    <ele>812.9</ele>
+    <time>2016-11-07T10:32:55Z</time>
+    <name>Font de l'Hort del Mas Seguer</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.429031" lon="1.355185">
+    <ele>769.9</ele>
+    <time>2016-11-07T10:44:18Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.426969" lon="1.354960">
+    <ele>737.9</ele>
+    <time>2016-11-07T10:46:13Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.424949" lon="1.356318">
+    <ele>716.0</ele>
+    <time>2016-11-07T10:48:14Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.424984" lon="1.356506">
+    <ele>712.0</ele>
+    <time>2016-11-07T10:48:44Z</time>
+    <name>Tanca amb cable</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.425906" lon="1.362293">
+    <ele>641.0</ele>
+    <time>2016-11-07T11:37:32Z</time>
+    <name>Corriol</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.419884" lon="1.357497">
+    <ele>665.1</ele>
+    <time>2016-11-07T11:50:19Z</time>
+    <name>Bigues. Tanca oberta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.419426" lon="1.356488">
+    <ele>659.9</ele>
+    <time>2016-11-07T11:52:10Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.418557" lon="1.354811">
+    <ele>636.1</ele>
+    <time>2016-11-07T11:53:42Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.416386" lon="1.352399">
+    <ele>598.0</ele>
+    <time>2016-11-07T11:55:58Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.411886" lon="1.335920">
+    <ele>570.9</ele>
+    <time>2016-11-07T12:25:08Z</time>
+    <name>Senyal</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>De cal Figueres als castells de Selmella i Saborella</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;De cal Figueres als castells de Selmella i Saborella&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Plàcida passejada, tot i que amb desnivells, pel nord de l'Alt Camp que permet visitar dos castells significatius integrats en la línia de fortificacions medievals del Gaià. Aquest riu va definir la frontera catalana amb els dominis de l’Al-Andalus durant els segles X i XI. Selmella estava desplaçat cap a l'oest, avançat a la resta de fortificacions, entre les quals hi havia els castells de Saborella, Vallespinosa, Querol, Santa Perpètua de Gaià, el Catllar i tants d’altres, fins a Tamarit, arran de mar (independentment del seu estat i dimensions, la vall del Gaià conserva la més alta densitat de defenses medievals del Principat). Una bona part dels indrets que recorre l’excursió està inclosa en l’Espai d’Interès Natural de Saborella.&lt;/i&gt; 
+Ruta senyalitzada parcialment. Aquesta ruta també es pot fer amb bicicleta tot terreny.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;El punt de sortida del recorregut se situa a la masia de Cal Figueres. S’hi arriba en 5 km des del Pont d’Armentera seguint la carretera TV-2141, que té el seu extrem inicial un parell de quilòmetres més a llevant d’aquesta masia i que serà utilitzada a la tornada. Al Pont d’Armentera s’hi arriba per la carretera C-37 (Igualada-Valls) i també des de la sortida 10 (el Pla de Santa Maria) de l’AP-2. 
+ 
+00,00 km (572 m). Cal Figueres, al punt PK 2 de la carretera TV-2141. Senyals indicadors. Es deixa la carretera a l’esquena, el mas a l’esquerra, i es pren el camí carreter que s’enfila pronunciadament cap a ponent, travessa un camí (0,50 km, 626 m) i salta la carena de la serra del Peny de Selmella. Un curt tram de baixada permet creuar la torrentada. De nou en pujada es troba un camí que ve de la dreta (punt 1,18 km, senyal). Es continua pujant, es gira al NE, ara per l’obaga, i s’arriba a una bifurcació (2,34 km, 756 m). Qualsevol dels dos brancals du a Selmella; aquest recorregut ho fa per la dreta. A 150 m de la bifurcació, a mà dreta i vora la cinglera, hi ha un punt amb bona vista sobre la vall i el castell. Es continua endavant, es volta Selmella per sota i es fa cap a una bifurcació (3,29 km, 808 m; senyalització una mica més amunt a la dreta) que, per l’esquerra, permet accedir al poble. 
+ 
+3,43 km (803 m), 1 h 0 min. Poble abandonat de Selmella, església de Sant Llorenç. El castell senyoreja altivament sobre el penyal; un corriol permet, quan està obert -en cas contrari és impossible-, pujar-hi directament. El recorregut proposa tornar a la bifurcació anterior i fer la volta pel nord (310 m de camí). 
+ 
+El castell de Selmella va ser una magnífica fortificació medieval (segles XI-XII) situada al turó del mateix nom. Ara pertany al municipi del Pont d'Armentera però des del segle XII fins al primer terç del XIX els rodals van ser administrats pel monestir de Santes Creus. L’indret ja havia estat ocupat des de les edats del bronze i del ferro i allotjava un poblament iber. Cap a l’any 900 els comtats catalans inicien la independència dels francs a l’esdevenir hereditaris després de Guifré I el Pelós. El protagonisme del comtat de Barcelona culmina el 1137 amb Ramon Berenguer IV, a l’annexionar-se el regne d’Aragó casant-se amb Peronella, filla del rei d’Aragó Ramir II. Declarat Bé d’Interès Cultural, conserva restes de les muralles defensives, alguns murs i les bases d’una torre i de diverses estances. Sembla que va ser abandonat cap al començament del segle XV. Al peu del castell hi ha les restes del que fou el poble de Selmella i de l’església romànica -molt desfigurada- de Sant Llorenç, probablement del segle XII. La situació és estratègica: des del castell es pot veure, cap al nord, fins a Montserrat i el Montseny, cap a l'est fins al mar, cap al sud gairebé tot el pla de Tarragona i a ponent el bell serrat de Comaverd i el cim del Cogulló. 
+ 
+Es torna enrere, fins a la bifurcació (ara 3,90 km) i se segueix la pista principal cap al N. Es passa pel costat de la font de l’Hort del Mas Seguer, sovint seca, es gira a llevant i s’arriba al coll de les Agulles en baixada i havent deixat a mà esquerra (senyal) un camí que porta a Vallespinosa (6,12 km, 765 m). Es continua cap al sud pel camí principal i s’arriba a una bifurcació. 
+ 
+6,50 km (713 m), 1 h 44 min. Bifurcació. Cal deixar el camí principal i girar a l’esquerra (NE) passant pel costat d’una tanca per a vehicles. Es castell de Saborella s’aixeca visible sobre un turó, a l’altra banda de la torrentada. Es va girant cap al sud i s’arriba a una cruïlla de camins (7,17 km, 639 m) al costat del mas de Saborella, mig enrunat. Un corriol poc visible, sovint tancat per la vegetació, permetria pujar directament al castell; l’itinerari ho fa seguint la pista, fent una volta sencera al turó per l’oest i el sud. 
+ 
+7,76 km (685 m), 2 h 8 min. Castell de Saborella, que s’alça damunt del puig de les Agulles. L’aspecte de la construcció encara avui és imponent malgrat l’estat dels edificis; se’n conserva el perímetre emmurallat i tres torres defensives circulars. Tot i que forma part dels castells del Gaià va ser construït posteriorment a la desaparició del que, durant dos segles, havia estat la frontera catalana; pertanyia a la família dels Cervelló. 
+ 
+Es torna enrere fins a la bifurcació del mas de Saborella i es pren la pista que ara es dirigeix a l’esquerra, cap al SO, deixant el mas a la dreta. Es passa pel costat d’una altra casa, es puja una mica, es passa una tanca i es desemboca a la pista que ve del coll d’Agulles i que s’havia deixat per anar a Saborella (9,28 km, 660 m; senyal). Es continua recte (SO), es deixa un nou trencall, ara a l’esquerra, que prové del pla de Saborella (9,49 km, 636 m; senyal), es tracen dues ziga-zagues en baixada i es desemboca a la pista de les Guixeres (9,97 km, 597 m; senyal). Es pren cap a la dreta (N-NO). 
+ 
+10,44 km (574 m), 2 h 45 min. El camí desemboca a l’inici de la carretera TV-2141 davant de cal Batllet, mas força malmès que queda a l’esquerra. Se segueix la carretera, asfaltada, durant dos quilòmetres, deixant, més endavant, a l’esquerra l’accés a cal Tous. 
+ 
+12,22 km (572 m), 3 h 10 min. Cal Figueres, final del recorregut. Aquesta masia és un restaurant que obre els caps de setmana i els dies festius. Si es vol aprofitar, cal informar-se’n abans.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Cal Figueres a los castillos de Selmella y Saborella&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;Apacible paseo, aunque con desniveles, por el norte del Alt Camp que permite visitar dos castillos significativos integrados en la línea de fortificaciones medievales del Gaià. Este río definió la frontera catalana con los dominios del Al-Andalus durante los siglos X y XI. Selmella estaba desplazado hacia el oeste, adelantado al resto de fortificaciones, entre las que estaban los castillos de Saborella, Vallespinosa, Querol, Santa Perpètua de Gaià, El Catllar y tantos otros, hasta Tamarit, junto al mar (independientemente de su estado y dimensiones, el valle del Gaià conserva la más alta densidad de defensas medievales de Cataluña). Una buena parte de los lugares que recorre la excursión está incluida en el Espacio de Interés Natural de Saborella.&lt;/i&gt; 
+Ruta señalizada parcialmente. Esta ruta también se puede hacer con bicicleta todo terreno.&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;El punto de salida del recorrido se sitúa en la masía de Cal Figueres. Se llega en 5 km desde el Pont d'Armentera siguiendo la carretera TV-2141, que tiene su extremo inicial un par de kilómetros más al este de esta masía y que será utilizada en la vuelta. Al Pont d'Armentera se llega por la carretera C-37 (Igualada-Valls) y también desde la salida 10 (el Pla de Santa Maria) de la AP-2. 
+ 
+00,00 km (572 m). Cal Figueres, al punto PK 2 de la carretera TV-2141. Señales indicadoras. Se deja la carretera atrás, la casa a la izquierda, y se toma el camino carretero que sube pronunciadamente hacia poniente, atraviesa un camino (0,50 km, 626 m) y salta la cresta de la sierra del Peny de Selmella. Un corto tramo de bajada permite cruzar el torrente. De nuevo en subida se encuentra un camino que viene de la derecha (punto 1,18 km, señal). Se sigue subiendo, se gira al NE, ahora por la umbría, y se llega a una bifurcación (2,34 km, 756 m). Cualquiera de los dos caminos lleva a Selmella; este recorrido lo hace por la derecha. A 150 metros de la bifurcación, a mano derecha y cerca del acantilado, hay un punto con buena vista sobre el valle y el castillo. Se sigue adelante, se rodea Selmella por debajo y se va hacia una bifurcación (3,29 km, 808 m; señalización un poco más arriba a la derecha) que, por la izquierda, permite acceder al pueblo. 
+ 
+3,43 km (803 m), 1 h 0 min. Pueblo abandonado de Selmella, iglesia de Sant Llorenç. El castillo domina altivamente sobre el peñasco; un sendero permite, cuando está abierto -en caso contrario es imposible-, subir directamente. El recorrido propone volver a la bifurcación anterior y dar la vuelta por el norte (310 m de camino). 
+ 
+El castillo de Selmella fue una magnífica fortificación medieval (siglos XI-XII) situada en el cerro del mismo nombre. Ahora pertenece al municipio de El Pont d'Armentera pero desde el siglo XII hasta el primer tercio del XIX los rodales fueron administrados por el monasterio de Santes Creus. El lugar ya había sido ocupado desde las edades del bronce y del hierro y alojaba un poblamiento íbero. Hacia el año 900 los condados catalanes inician la independencia de los francos al devenir hereditarios después de Wifredo el Velloso. El protagonismo del condado de Barcelona culmina el 1137 con Ramón Berenguer IV, al anexionarse el reino de Aragón casándose con Petronila, hija del rey de Aragón Ramiro II. Declarado Bien de Interés Cultural, conserva restos de las murallas defensivas, algunos muros y las bases de una torre y de varias estancias. Parece que fue abandonado hacia el comienzo del siglo XV. Al pie del castillo están los restos de lo que fue el pueblo de Selmella y de la iglesia románica -muy desfigurada- de Sant Llorenç, probablemente del siglo XII. La situación es estratégica: desde el castillo se puede ver, hacia el norte, hasta Montserrat y el Montseny, hacia el este hasta el mar, hacia el sur casi todo el plan de Tarragona y a poniente el bello serrado de Comaverd y el cima del Cogulló. 
+ 
+Se vuelve atrás, hasta la bifurcación (ahora 3,90 km) y se sigue la pista principal hacia el N. Se pasa junto a la fuente del Huerto del Mas Seguer, a menudo seca, se gira a levante y se llega al collado de las Agulles en bajada y habiendo dejado a mano izquierda (señal) un camino que lleva a Vallespinosa (6,12 km, 765 m). Se continúa hacia el sur por el camino principal y se llega a una bifurcación. 
+ 
+6,50 km (713 m), 1 h 44 min. Bifurcación. Hay que dejar el camino principal y girar a la izquierda (NE) pasando por el lado de una valla para vehículos. El castillo de Saborella se levanta visible sobre una colina, al otro lado de la corriente. Se va girando hacia el sur y se llega a un cruce de caminos (7,17 km, 639 m) junto al Mas de Saborella, medio en ruinas. Un sendero poco visible, a menudo cerrado por la vegetación, permitiría subir directamente al castillo; el itinerario lo hace siguiendo la pista, dando una vuelta entera al cerro por el oeste y el sur. 
+ 
+7,76 km (685 m), 2 h 8 min. Castillo de Saborella, que se alza sobre el monte de las Agulles. El aspecto de la construcción aún hoy es imponente a pesar del estado de los edificios; se conserva el perímetro amurallado y tres torres defensivas circulares. Aunque forma parte de los castillos del Gaià fue construido posteriormente a la desaparición del que, durante dos siglos, había sido la frontera catalana; pertenecía a la familia de los Cervelló. 
+ 
+Se vuelve atrás hasta la bifurcación del mas de Saborella y se toma la pista que ahora se dirige a la izquierda, hacia el SO, dejando la casa a la derecha. Se pasa junto a otra casa, se sube un poco, se pasa una valla y se desemboca en la pista que viene del collado de las Agulles y que se había dejado para ir a Saborella (9,28 km, 660 m; señal). Se sigue recto (SO), se deja un nuevo desvío, ahora a la izquierda, que proviene del llano de Saborella (9,49 km, 636 m; señal), se trazan dos zigzags en bajada y se desemboca en la pista de las Guixeres (9,97 km, 597 m; señal). Se toma hacia la derecha (N-NO). 
+ 
+10,44 km (574 m), 2 h 45 min. El camino desemboca en el inicio de la carretera TV-2141 delante de Cal Batllet, masía muy deteriorada que queda a la izquierda. Se sigue la carretera, asfaltada, durante dos kilómetros, dejando, más adelante, a la izquierda el acceso a Cal Tous. 
+ 
+12,22 km (572 m), 3 h 10 min. Cal Figueres, final del recorrido. Esta casa es un restaurante que abre los fines de semana y los días festivos. Si se quiere aprovechar, hay que informarse antes.&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 30/10/2016&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="41.411721" lon="1.335943">
+        <ele>573.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411433" lon="1.335670">
+        <ele>575.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411366" lon="1.335378">
+        <ele>577.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411805" lon="1.334572">
+        <ele>589.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411991" lon="1.333173">
+        <ele>602.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411951" lon="1.332247">
+        <ele>611.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411501" lon="1.331313">
+        <ele>624.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410435" lon="1.329827">
+        <ele>637.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410367" lon="1.329464">
+        <ele>640.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.410686" lon="1.329163">
+        <ele>640.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411169" lon="1.329222">
+        <ele>638.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411505" lon="1.329429">
+        <ele>635.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412265" lon="1.329361">
+        <ele>629.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411630" lon="1.327517">
+        <ele>643.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411739" lon="1.327257">
+        <ele>642.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412172" lon="1.327007">
+        <ele>640.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412517" lon="1.326261">
+        <ele>644.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412625" lon="1.325619">
+        <ele>649.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412988" lon="1.325478">
+        <ele>655.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413170" lon="1.325641">
+        <ele>660.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413460" lon="1.327009">
+        <ele>672.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413825" lon="1.327885">
+        <ele>676.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414803" lon="1.328243">
+        <ele>690.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416466" lon="1.329223">
+        <ele>712.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416961" lon="1.329851">
+        <ele>715.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417580" lon="1.332900">
+        <ele>748.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417941" lon="1.333252">
+        <ele>751.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418566" lon="1.333131">
+        <ele>757.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418014" lon="1.333573">
+        <ele>758.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417986" lon="1.334436">
+        <ele>771.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418193" lon="1.334765">
+        <ele>774.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418627" lon="1.334898">
+        <ele>777.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419223" lon="1.336881">
+        <ele>779.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419793" lon="1.337668">
+        <ele>775.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420523" lon="1.338261">
+        <ele>780.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420756" lon="1.339492">
+        <ele>776.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421224" lon="1.338894">
+        <ele>788.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421708" lon="1.338756">
+        <ele>791.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422008" lon="1.338270">
+        <ele>797.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421976" lon="1.337853">
+        <ele>803.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421786" lon="1.338420">
+        <ele>797.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421127" lon="1.338653">
+        <ele>797.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421786" lon="1.338420">
+        <ele>797.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421975" lon="1.337811">
+        <ele>804.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421914" lon="1.337616">
+        <ele>805.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420999" lon="1.337238">
+        <ele>815.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420898" lon="1.337478">
+        <ele>819.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421049" lon="1.337678">
+        <ele>826.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420898" lon="1.337478">
+        <ele>819.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420981" lon="1.337238">
+        <ele>815.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422000" lon="1.337631">
+        <ele>806.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422338" lon="1.337970">
+        <ele>808.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423111" lon="1.338135">
+        <ele>812.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424264" lon="1.338824">
+        <ele>815.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424869" lon="1.339520">
+        <ele>813.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425238" lon="1.339511">
+        <ele>812.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426013" lon="1.339850">
+        <ele>809.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427116" lon="1.339810">
+        <ele>812.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427545" lon="1.340230">
+        <ele>815.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427770" lon="1.342665">
+        <ele>811.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427595" lon="1.343388">
+        <ele>809.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427993" lon="1.344084">
+        <ele>809.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428183" lon="1.345126">
+        <ele>811.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428075" lon="1.345745">
+        <ele>811.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428765" lon="1.348587">
+        <ele>808.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428681" lon="1.349361">
+        <ele>813.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428787" lon="1.350178">
+        <ele>813.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428544" lon="1.351112">
+        <ele>820.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428471" lon="1.352292">
+        <ele>822.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428598" lon="1.353641">
+        <ele>805.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428403" lon="1.354161">
+        <ele>795.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428368" lon="1.354828">
+        <ele>782.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428498" lon="1.355052">
+        <ele>777.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428964" lon="1.355196">
+        <ele>769.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.428379" lon="1.355600">
+        <ele>765.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427670" lon="1.355755">
+        <ele>752.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427301" lon="1.355107">
+        <ele>743.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426566" lon="1.355053">
+        <ele>733.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425923" lon="1.355428">
+        <ele>724.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425483" lon="1.356146">
+        <ele>718.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424910" lon="1.356411">
+        <ele>713.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425140" lon="1.356776">
+        <ele>707.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425511" lon="1.356869">
+        <ele>702.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426682" lon="1.357797">
+        <ele>695.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.427019" lon="1.359691">
+        <ele>684.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426846" lon="1.360461">
+        <ele>675.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426402" lon="1.360951">
+        <ele>660.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.426030" lon="1.361965">
+        <ele>639.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425800" lon="1.361953">
+        <ele>638.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425508" lon="1.362349">
+        <ele>642.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424850" lon="1.362282">
+        <ele>639.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424339" lon="1.362433">
+        <ele>636.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423769" lon="1.362937">
+        <ele>633.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423628" lon="1.363479">
+        <ele>636.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423783" lon="1.363900">
+        <ele>640.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423992" lon="1.364033">
+        <ele>642.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424604" lon="1.363993">
+        <ele>650.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424980" lon="1.364128">
+        <ele>660.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424943" lon="1.363758">
+        <ele>665.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424648" lon="1.363316">
+        <ele>674.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424714" lon="1.363189">
+        <ele>677.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424648" lon="1.363316">
+        <ele>674.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424943" lon="1.363758">
+        <ele>665.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424980" lon="1.364128">
+        <ele>660.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424604" lon="1.363993">
+        <ele>650.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423992" lon="1.364033">
+        <ele>642.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423648" lon="1.363623">
+        <ele>636.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423730" lon="1.363022">
+        <ele>633.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424079" lon="1.362583">
+        <ele>633.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424773" lon="1.362290">
+        <ele>638.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425508" lon="1.362349">
+        <ele>642.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425760" lon="1.362014">
+        <ele>639.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.425381" lon="1.361341">
+        <ele>637.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.424165" lon="1.360056">
+        <ele>642.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423964" lon="1.358894">
+        <ele>635.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.423149" lon="1.358885">
+        <ele>638.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422830" lon="1.358671">
+        <ele>639.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.422220" lon="1.358783">
+        <ele>643.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421428" lon="1.358503">
+        <ele>652.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.421069" lon="1.357998">
+        <ele>655.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420311" lon="1.357885">
+        <ele>664.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419699" lon="1.357285">
+        <ele>664.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419033" lon="1.355746">
+        <ele>652.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418571" lon="1.355566">
+        <ele>643.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418623" lon="1.355080">
+        <ele>638.5</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418477" lon="1.354641">
+        <ele>634.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417920" lon="1.353911">
+        <ele>630.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417419" lon="1.352632">
+        <ele>619.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417230" lon="1.353080">
+        <ele>614.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416016" lon="1.352584">
+        <ele>600.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416050" lon="1.352422">
+        <ele>598.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416606" lon="1.352300">
+        <ele>595.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416571" lon="1.351422">
+        <ele>592.4</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417971" lon="1.351864">
+        <ele>580.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418146" lon="1.351782">
+        <ele>579.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419056" lon="1.349629">
+        <ele>574.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419327" lon="1.349335">
+        <ele>571.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419561" lon="1.348719">
+        <ele>570.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420154" lon="1.348315">
+        <ele>568.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.420177" lon="1.347991">
+        <ele>566.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.419346" lon="1.347845">
+        <ele>565.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.418381" lon="1.348091">
+        <ele>571.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417917" lon="1.347468">
+        <ele>569.9</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.417176" lon="1.346937">
+        <ele>573.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416810" lon="1.346264">
+        <ele>570.3</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416350" lon="1.346312">
+        <ele>570.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.416053" lon="1.346039">
+        <ele>573.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415590" lon="1.344854">
+        <ele>576.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415678" lon="1.341908">
+        <ele>583.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.415583" lon="1.341229">
+        <ele>584.8</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414150" lon="1.339267">
+        <ele>590.2</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414025" lon="1.338690">
+        <ele>590.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414198" lon="1.338213">
+        <ele>588.6</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.414157" lon="1.337885">
+        <ele>585.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413694" lon="1.337598">
+        <ele>582.7</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.413396" lon="1.336894">
+        <ele>579.1</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.412199" lon="1.336009">
+        <ele>572.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="41.411821" lon="1.335995">
+        <ele>571.0</ele>
+        <time>2016-10-29T21:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

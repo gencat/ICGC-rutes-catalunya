@@ -12,6 +12,8 @@ html body {
   width: 100%;
 }
 
+
+
 .h3 {
   font-size:1.2em !important;
  }
@@ -50,6 +52,47 @@ i:hover {
   padding-top: 10px;
  
 }
+
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+  overflow: hidden;
+ 	z-index: -1;
+}
+.erasefile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+  overflow: hidden;
+   z-index: -1;
+   background-color: none !important;
+}
+
+
+
+.ui.green.button, .ui.green.buttons .button {
+  background-color: #21ba45;
+  color: #fff;
+  text-shadow: none;
+  background-image: none;
+  float: inline-start;
+  margin-top: -35px;
+  margin-left: 150px;
+  height: 35px;
+}
+.ui.red.button, .ui.red.buttons .button {
+  background-color: none;
+  color: #fff;
+  text-shadow: none;
+  background-image: none;
+  float: inline-start;
+  margin-top: -35px;
+  margin-left: 315px;
+  height: 35px;
+  font-size: 2em;
+}
+
 
 #loading {
   /*float: left;*/
@@ -115,10 +158,17 @@ background-color: rgba(255, 255, 255, 0.8) !important;
   box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);*/
 }
 
+/*
+.carIcon {
+  font-size: 2.03em !important;
+  
+  
+}*/
 
 .downloadIcon{
   
-  padding-right: 30px;
+  padding-right: 20px !important;
+  font-size: 1.70em !important;
 }
 
 
@@ -168,7 +218,7 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 }
 
  .ui.inverted.menu .active.item {
-  background:rgba(255,255,255,.55) !important;
+  background:rgba(255,255,255,.75) !important;
   color:rgb(178, 177, 233)!important
  }
 
@@ -177,6 +227,7 @@ background-color: rgba(255, 255, 255, 0.8) !important;
   font-size: 1.28571429em;
   color: #e9e9f7 !important;
 }
+
 .ui.segment {
   position:relative;
   background: rgba(50, 50, 50, 0.61) !important;
@@ -248,6 +299,29 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 
 }
 
+.labeling{
+  color:rgba(255,255,255,.75) !important;
+}
+
+.labeling:hover{
+  color:rgba(255,255,255,1.0) !important;
+}
+
+.labeling:active{
+  color:rgba(255,255,255,1.0) !important;
+}
+.labelinglayer{
+  color:rgba(255,255,255,.75) !important;
+}
+
+
+
+.ui.form .field:last-child,
+.ui.form .fields:last-child .field {
+ margin-bottom:10px !important;
+}
+
+
 .rutes {
   background-color: rgba(255, 255, 250, 0.7);
   /* padding: 10px; */
@@ -258,8 +332,26 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 
 }
 
+.textPalau{
+  font-size: 1.1em !important;
+  text-align: center !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  margin-top: 10% !important;
+}
 
+.capesText{
+  font-size: 0.8em !important;
+  text-align: center !important;
+  color: rgba(255, 255, 255, 0.6) !important;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  
+}
 
+#palaurobert {
+  color: #a3d1ff !important;
+  text-decoration: underline !important;
+}
 option {
 
   background-color: #d7e2da;
@@ -309,6 +401,91 @@ option {
 
   display: none !important;
 }
+
+
+.ui.toggle.checkbox label {
+  min-height: 1.5rem;
+  padding-left: 2rem;
+  color:  rgba(191,191,191,.87) !important;
+}
+
+
+
+.ui.toggle.checkbox .box:hover::before,
+.ui.toggle.checkbox label:hover::before {
+ background-color:rgba(171, 243, 248, 0.705) !important;
+ border:none;
+ color: rgba(64, 222, 233, 1.0) !important;
+}
+
+
+.ui.toggle.checkbox input:focus:checked~.box,
+.ui.toggle.checkbox input:focus:checked~label {
+ color:rgba(79, 206, 245, 0.95)!important !important;
+}
+
+
+.ui.toggle.checkbox input:checked ~ .box, .ui.toggle.checkbox input:checked ~ label {
+  color: rgba(122, 248, 238, 0.95) !important;
+}
+
+
+
+.ui.toggle.checkbox input {
+  width: 2.5rem;
+  height: 0.8rem;
+  background-color: rgba(255,255,255,.55) !important;
+  color:rgba(186, 245, 23, 0.95)!important;
+}
+
+
+
+.ui.checkbox {
+  position: relative !important;
+  display: inline-block !important;
+
+  backface-visibility: hidden !important;
+  outline: 0 !important;
+  vertical-align: baseline !important;
+  font-style: normal !important;
+  color: rgba(191,191,191,.87) !important;
+  font-size: 1.1rem !important;
+  line-height: 27px !important;
+  min-width: 17px !important;
+}
+.ui.form .field:last-child, .ui.form .fields:last-child .field {
+  margin-bottom: 0;
+  margin-top: 20px !important;
+}
+
+.ui.selection.dropdown .menu {
+ font-size: 0.8em;
+}
+
+.ui.dropdown:not(.button) > .default.text {
+  color: rgba(191,191,191,.87) !important;
+  font-size: 0.8em !important;
+}
+.ui.multiple.dropdown > .label {
+  font-size: 0.6em !important;
+}
+
+.ui.selection.dropdown {
+  margin-top: 10% !important;
+  cursor: pointer !important;
+  line-height: 1em !important;
+  min-height: 1.0em !important;
+  background: #fff !important;
+  color: rgba(0,0,0,.87) !important;
+  border: 1px solid rgba(34,36,38,.15) !important;
+  border-radius: .28571429rem !important;
+}
+  
+
+
+
+
+
 
 
 
@@ -369,8 +546,13 @@ small {
 #sideBarOptions{
 
 z-index:100000;
+background-color: rgb(68, 86, 189);
 
 
+}
+
+.ui.dropdown {
+  max-width: 800px !important;
 }
 
 .spnText{
@@ -501,6 +683,8 @@ z-index:100000;
   
 }
 
+/*RESPONSIVE 700*/
+
 @media only screen and (max-height: 700px) {
 
 
@@ -529,6 +713,9 @@ z-index:100000;
 
 }
 
+
+/*RESPONSIVE 1200*/
+
 @media only screen and (max-width: 1200px) {
   .amplaLogo {
 
@@ -545,13 +732,15 @@ z-index:100000;
     border-radius: 10px;
     /*font-weight: bolder;*/
     font-size: -0.7em;
-    width: 68px;
+    /*width: 68px;*/
     left: auto;
     display: none;
 }
 
 #controls div {
 padding-bottom: 50%;
+padding-top: 10%;
+padding-bottom: 10%;
 
 } 
 
@@ -569,12 +758,112 @@ padding-bottom: 50%;
   }
 }
 
+
+
+/*RESPONSIVE 500/////////////////////////////////////////////////////*/
+
 @media only screen and (max-width: 500px) {
+
+  #responbutton {
+   
+    font-size: 0.461em !important;
+  }
+
+
+  .ui.small.button > .icon:not(.button) {
+    font-size: 20px !important;
+    display: inline-block !important;
+    padding-left: 150px !important;
+    padding-top: 2px !important;
+   }
+  
+   .ui.primary.button > .icon:not(.button) {
+  font-size: 20px !important;
+  display: inline-block !important;
+  padding-left: 20px !important;
+  padding-top: 20px !important;
+ }
+ .ui.red.button > .icon:not(.button) {
+  font-size: 20px !important;
+  display: inline-block !important;
+  padding-left: 20px !important;
+ 
+ }
+
+
+ .ui.small.button {
+   font-size: 0.11px !important;
+   background: none !important;
+   
+
+  }
+  .ui.primary.button, .ui.primary.buttons .button {
+
+    font-size: 0.16px !important;
+    background: none !important;
+}
+
+.ui.checkbox {
+  position: relative !important;
+  display: inline-block !important;
+
+  backface-visibility: hidden !important;
+  outline: 0 !important;
+  vertical-align: baseline !important;
+  font-style: normal !important;
+  color: rgba(191,191,191,.87) !important;
+  font-size: 1em !important;
+  line-height: 20px !important;
+  min-width: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+  .ui.button {
+    cursor: pointer;
+    display: inline-block;
+    min-height: 1em;
+    outline: 0;
+    border: none;
+    vertical-align: baseline;
+    background: #e0e1e2 none;
+        background-color: rgb(224, 225, 226);
+        background-image: none;
+    color: rgba(0,0,0,.6);
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    margin: 0 .25em 0 0;
+        margin-top: 0px;
+        margin-left: 0px;
+    padding: .78571429em 1.5em .78571429em;
+    text-transform: none;
+    text-shadow: none;
+    font-weight: 700;
+    line-height: 1em;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    border-radius: .28571429rem;
+  }
+
+
+  .ui.checkbox .box, .ui.checkbox label {
+    cursor: auto;
+    position: relative;
+    display: block;
+    padding-left: 1.85714em;
+    outline: 0;
+    font-size: 0.8em !important;
+}
+
+
+
+
 
   #searchboxinput {
     width: 75px;
   }
-
+  .sideBarOptions{
+    width: 30px;
+  }
   #left-frame {
 
     top: 60px;
@@ -587,6 +876,7 @@ padding-bottom: 50%;
     z-index: 100;
     padding: 10px;
     padding-top: 25px;
+    font-size: 1.0em !important;
 
   }
 
@@ -621,15 +911,81 @@ padding-bottom: 50%;
 
   #headerTitle {
 
-    font-size: 0.9em;
+    font-size: 1.0em !important;
   }
 
   h3.ui.header .sub.header {
-    font-size: 1em;
+    font-size: 1.0em !important;
   }
 
   h3 {
-    font-size:1.2em !important;
+    font-size: 1.0em !important;
    }
+   .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+    font-size: 1.0em !important;
+    color: #e9e9f7 !important;
+  }
+  
+  .ui.segment {
+    position:relative;
+    background: rgba(50, 50, 50, 0.61) !important;
+    -webkit-box-shadow:0 1px 2px 0 rgba(34,36,38,.15);
+    box-shadow:0 1px 2px 0 rgba(34,36,38,.15);
+    margin:1rem 0;
+    padding:1em 1em;
+    border-radius:.28571429rem;
+    border:1px solid rgba(43, 120, 197, 0.15)
+   }
+   .ui.vertical.inverted.menu .menu .item{
+    font-size: 0.90em !important;
+   
+   }
+   .ui.vertical.inverted.menu .menu{
+    font-size: 0.90em !important;
+   }
+   .ui.sidebar.menu .item {
+    font-size: 1.00em !important;
+   }
+   .textPalau{
+    font-size: 0.75em !important;
+    text-align: center !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+    margin-top: 20% !important;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
 
+  .ui.left.sidebar {
+    width: 150px !important;
+  }
+  .ui.vertical.menu .item > i.icon {
+    display: none;
+  }
+
+
+}
+@media only screen and (max-width: 767px) {
+    .ui.selection.dropdown .menu {
+/*      max-height: 8.01428571rem; /* + 1.335714285 to 9.349999995rem */
+/*      max-height: 9.349999995rem; /* Adds a half */
+        max-height: 16.02857142rem; /* Double size */
+    }
+
+
+}
+@media only screen and (min-width: 768px) {
+    .ui.selection.dropdown .menu {
+/*   max-height: 10.68571429rem; /* + 1.3357142863 to 12.0214285763rem */
+      max-height: 12.0214285763rem;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .ui.selection.dropdown .menu {
+      max-height: 16.02857143rem; /* + 1.3357142858 to 17.3642857158rem */
+    }
+}
+@media only screen and (min-width: 1920px) {
+    .ui.selection.dropdown .menu {
+        max-height: 21.37142857rem; /* + 1.3357142856 to 22.7071428556rem */
+    }
 }

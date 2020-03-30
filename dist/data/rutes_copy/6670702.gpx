@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.306445" lon="1.586584">
+    <ele>1577.0</ele>
+    <time>2014-04-25T17:51:20Z</time>
+    <name>COLL DE LES BASSES</name>
+    <desc>18-SEP-05 12:48:58</desc>
+  </wpt>
+  <wpt lat="42.292620" lon="1.573890">
+    <ele>1932.1</ele>
+    <time>2014-04-25T17:51:20Z</time>
+    <name>TARTERA DE FORAT TRONCA</name>
+    <desc>18-SEP-05 14:31:27</desc>
+  </wpt>
+  <wpt lat="42.292620" lon="1.570250">
+    <ele>1966.0</ele>
+    <time>2014-04-25T17:51:21Z</time>
+    <name>MINA D'OR</name>
+    <desc>18-SEP-05 14:41:52</desc>
+  </wpt>
+  <wpt lat="42.286330" lon="1.572740">
+    <ele>2388.1</ele>
+    <time>2014-04-25T17:51:21Z</time>
+    <name>PORTELL DEL CADÍ</name>
+    <desc>18-SEP-05 16:17:48</desc>
+  </wpt>
+  <wpt lat="42.287226" lon="1.583400">
+    <ele>2560.9</ele>
+    <time>2014-04-25T17:51:23Z</time>
+    <name>TORRE DE CADÍ</name>
+    <desc>18-SEP-05 16:39:26</desc>
+  </wpt>
+  <wpt lat="42.287038" lon="1.584396">
+    <ele>2560.9</ele>
+    <time>2014-04-25T17:51:23Z</time>
+    <name>COTA 2561</name>
+    <desc>18-SEP-05 16:40:55</desc>
+  </wpt>
+  <wpt lat="42.325274" lon="1.584108">
+    <ele>1342.9</ele>
+    <time>2014-04-25T17:51:24Z</time>
+    <name>ANSOVELL</name>
+    <desc>18-SEP-05 19:48:39</desc>
+  </wpt>
+  <wpt lat="42.305630" lon="1.586380">
+    <ele>1581.0</ele>
+    <time>2014-04-25T17:51:25Z</time>
+    <name>FONT DEL JUGADOR</name>
+    <desc>23-SEP-05 8:01:30</desc>
+  </wpt>
+  <wpt lat="42.295422" lon="1.575558">
+    <ele>1772.1</ele>
+    <time>2014-04-25T17:51:25Z</time>
+    <name>UNIÓ DE BARRANCS</name>
+    <desc>23-SEP-05 8:35:30</desc>
+  </wpt>
+  <wpt lat="42.311987" lon="1.587852">
+    <ele>1460.0</ele>
+    <time>2014-04-25T17:51:26Z</time>
+    <name>CORTALETS</name>
+    <desc>CORTALETS</desc>
+  </wpt>
+  <wpt lat="42.311570" lon="1.587655">
+    <ele>1445.1</ele>
+    <time>2014-04-25T17:51:26Z</time>
+    <name>BASSA</name>
+    <desc>BASSA</desc>
+  </wpt>
+  <wpt lat="42.296362" lon="1.577181">
+    <ele>1759.9</ele>
+    <time>2014-04-25T17:51:27Z</time>
+    <name>TORRENT DE LA MOLINA</name>
+    <desc>TORRENT DE LA MOLINA</desc>
+  </wpt>
+  <wpt lat="42.287411" lon="1.572932">
+    <ele>2314.0</ele>
+    <time>2014-04-25T17:51:27Z</time>
+    <name>SERRAT DEL CANVI DE CANALETA</name>
+    <desc>SERRAT DEL CANVI DE CANALETA</desc>
+  </wpt>
+  <wpt lat="42.314289" lon="1.587248">
+    <ele>1445.1</ele>
+    <time>2014-04-25T17:51:28Z</time>
+    <name>FONT DEL SANTUARI DE BOSCAL</name>
+    <desc>FONT DEL SANTUARI DE BOSCAL</desc>
+  </wpt>
+  <wpt lat="42.318242" lon="1.586431">
+    <ele>1471.0</ele>
+    <time>2014-04-25T17:51:28Z</time>
+    <name>COLL 1471</name>
+    <desc>COLL 1471</desc>
+  </wpt>
+  <wpt lat="42.302095" lon="1.579960">
+    <ele>1716.9</ele>
+    <time>2014-04-25T17:51:29Z</time>
+    <name>TOSSAL DE LA MATA</name>
+    <desc>TOSSAL DE LA MATA</desc>
+  </wpt>
+  <wpt lat="42.316712" lon="1.587644">
+    <ele>1506.9</ele>
+    <time>2014-04-25T17:51:29Z</time>
+    <name>TURÓ DE BOSCAL</name>
+    <desc>TURÓ DE BOSCAL</desc>
+  </wpt>
+  <wpt lat="42.314714" lon="1.586572">
+    <ele>1446.9</ele>
+    <time>2014-04-25T17:51:30Z</time>
+    <name>MARE DE DÉU DE BOSCAL</name>
+    <desc>MARE DE DÉU DE BOSCAL</desc>
+  </wpt>
+  <trk>
+    <name>D'Ansovell a la Torreta de Cadí per les Tres Canaletes</name>
+    <desc>&lt;p&gt;[CA] &lt;b&gt;D'Ansovell a la Torreta de Cadí per les Tres Canaletes&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El Cadí tanca la Cerdanya i la capçalera de l'Alt Urgell amb una muralla de parets i canals molt verticals. La serra, que no forma part de l'eix axial pirinenc, té una cota màxima modesta (2.648 m al puig de la Canal Baridana o Vulturó). A causa d'això, l'àmbit estricte de l'alta muntanya es redueix a una franja d'uns 600 m d'altitud. No obstant, la seva amplitud (prop de 40 km de llargada), un seu relleu complicat i el despoblament dels entorns fan de la serra un indret salvatge i interessant des del punt de vista naturalista i muntanyenc. El Parc Natural del Cadí-Moixeró ofereix un marc de protecció per a la salvaguarda d'aquest patrimoni.&lt;/i&gt; 
+Ruta senyalitzada parcialment. Atenció: solament per a pirineistes experts. 
+ 
+L'itinerari parteix d'Ansovell, pertanyent al municipi de Cava, a l'Alt Urgell. S'hi accedeix des de la carretera N-260, en el tram entre la Seu d'Urgell i Martinet, prenent a la dreta la desviació LV-4052 que duu a Arsèguel i continua fins a Ansovell (10,8 km). 
+ 
+Ansovell, 1.340 m. Se surt del poble pel costat de l'església, carrer amunt. Als 100 m es pren el camí vell del santuari de Boscalt, seguint un tram del sender GR 150 i deixant a l'esquerra la pista forestal que també hi duu. Al coll del Boscalt (1.475 m), 400 m abans de la Mare de Déu de Boscalt, es pot veure davant, a la dreta, els entorns de la ruta. Al coll es canvia de vessant i de conca, de la d'Ansovell i el riu de Cadí a la de Vilanova de Benat, la veïna a l'oest, i més concretament al torrent de la Bena. 
+ 
+0 h 25 min. Mare de Déu de Boscalt, 1.449 m, 1,35 km. Es passa pel costat del santuari, situat en una àmplia esplanada de prats amb una perspectiva impressionant del Cadí nord-occidental. A la font, uns metres més endavant, al mateix collet, és possible proveir-se d'aigua. Es deixa el GR-150, que va a la Molina de Lletó i Vilanova de Benat. Es continua recte cap al sud per la pista forestal que venia d'Ansovell i que es dirigeix cap al bosc. Al següent collet, 300 m més enllà del santuari, es passa pels Cortalets, unes originals formacions rocoses de gres al costat d'una bassa d'aigua per als incendis. 
+ 
+0 h 30 min. En un tercer collet, 150 m després dels Cortalets (1.460 m), ja a l'obac dels boscos del Cadí, cal parar atenció perquè la pista forestal gira cap a l'oest i cal deixar-la per prendre el senderó (fita de pedra) que surt a mà esquerra i s'enfila fortament cap al sud-oest els primers metres i, després d'un revolt, cap al sud-est seguint el vessant est de la carena enmig d'un bosc espès de pi roig, roure i algun faig escadusser. Des d'aquí i fins al següent coll de les Basses es retorna a la conca d'Ansovell i el riu de Cadí. 
+Si se seguís l'anterior pista forestal, que duu a prop del coll de Mont-ros, es podria remuntar des d'aquest al torrent de la Molina i d'allí enllaçar amb la resta de la ruta, però anant bastant més enclotats. Al cap d'uns 8 min, es passa a prop de la font de les Marrades, però queda fora del camí i és de localització difícil. 
+ 
+0 h 50 min. Coll de les Basses, 1.568 m, 2,46 km. Curiós collet arenós. El camí que cal seguir, molt emboscat, però amb fites al mig que cal tenir cura de no trepitjar, se'n va a la dreta, al sud-oest, cap al tossal i collet de la Mata. D'aquesta manera s'entra de nou a la vall del riu de Vilanova de Benat, més concretament al torrent de l'Orri. Cal no seguir recte amunt, cap al sud, pel sender fitat que s'enfila al tossal de la Comella i duu al Clot de l'Orri (1.873 m) i després al prat de Gónec (1.855 m). 
+Pocs metres després del coll anterior (a 70 m) es troba la font del Jugador (1.568 m), al costat del camí. Cal continuar flanquejant cap al sud-oest resseguint la fondalada del torrent de l'Orri i deixar un vell camí de bosc que puja a mà esquerra (indicis). Ja a prop del tossal de la Mata, el camí va girant del sud-oest cap a l'oest. 
+ 
+1 h 15 min. Collet i tossal de la Mata, 1.703 m, 3,28 km. És el punt clau de la ruta. Si anéssim recte al sud, pujant pel serrat d'un bosc bastant net, es pujaria al roc dels Esquers (2.060 m), al peu de la Torre del Cadí, amb una vista impressionant però sense progressió posterior a causa de la vertical paret nord de la Torre del Cadí. Cal voltar-la per sota seguint pel mateix camí pel qual s'ha pujat al tossal que, un pèl aixecat respecte d'aquest, segueix cap a l'oest primer fent baixada fins a un barranquet poc perceptible (cota 1.695 m, a 300 m del tossal) i després pujant. 
+Es travessen dos petits barrancs, tots dos amb tartera, a les cotes 1.720 i 1.730 m respectivament, es tornen a trobar fites i s'arriba al serrat que dóna entrada al barranc de la Molina, també amb tartera i amb el marge dret molt pendent sota el roc dels Esquers. Cal travessar el barranc, sense perdre alçada, a la cota 1.760 m, 800 m a l'oest del tossal de la Mata (a uns 20 min, 1 h 35 min en total). El barranc de la Molina agafa el nom de la Molina de Lletó, al bell mig de la vall. És afluent del riu de Vilanova de Benat. 
+ 
+Només resten uns altres 200 m de flanqueig fins al següent barranc, afluent del de la Molina, just al punt que separa els municipis de Cava-Ansovell-Querforadat i d'Alàs-Cerc (que inclou, també, l'antic municipi de Vilanova de Benat). Com que no hi ha mollons al barranc, servirà de referència inequívoca veure que el barranc, a la cota 1.760 m, en què el talla el camí, es divideix en dos barrancs notables. El primer, el de l'esquerra, s'enfila cap al sud-est amb dos graons de roca molt verticals. El segon, que forma una llarga i estreta tartera, s'enfila molts metres amunt. 
+ 
+Cal travessar-los just pel seu punt d'unió, on s'estreten els dos erosionats marges i el bosc permet passar fàcilment a l'altra banda (10 min més des del torrent de la Molina; fins aquí 1 h 45 min en total). Aquí cal pujar paral·lels al segon barranc, cap al sud-oest, mantenint aquesta direcció tot i que el barranc va girant progressivament al sud. El bosc és molt pendent, però els arbres faciliten la pujada d'aquests 80 m de desnivell. Arribats a la cota 1.840 m el bosc s'aclareix perquè encara no ha pogut colonitzar una gran tartera que fins aquí baixa des de dalt del Cadí, en la canal del Forat de la Tronca. Cap avall forma el següent torrent, també afluent del de la Molina. Tots els plànols actuals (a escala 1:50.000) són molt poc curosos a l'hora de representar aquests barrancs, no gens menyspreables. Es recomana doncs, per no desviar-se del camí, sovint perdedor pels grans pendents que hi ha, consultar aquesta successió de barrancs i cotes de pas per saber si cal pujar o baixar. 
+ 
+Arribats aquí, cal pujar la tartera els primers 80 m de desnivell, fins a la cota 1.920 m, més còmodament pel costat, dins del bosc. Es tarden uns altres 30 min (2 h 15 min fins aquí). 
+ 
+En aquesta cota es veu un caminet que travessa la tartera pujant suaument. S'hauria pogut pujar per l'altra banda de la tartera, però en qualsevol cas es necessita la referència del caminet que la travessa. Aquest caminet solca la falda de la serra del Cadí mantenint-se a prop de la cota 1.950 m aproximadament, des de prat d'Aguiló fins al Pradell (a Adraén) passant per prat de Cadí (cal veure la ruta &lt;i&gt;Del Querforadat al Vulturó o puig de la Canal Baridana&lt;/i&gt;) també de l'Alt Urgell, i &lt;i&gt;D'Estana a prat de Cadí pel coll de Pallers&lt;/i&gt;, de la Cerdanya). Cap a l'est, per sobre d'on es ve, és difícil seguir, però cap a la mina d'or, on es dirigeix aquesta ruta, és prou visible. 
+ 
+Abans de travessar la tartera, cal passar primer per sota d'un roc i després per sobre d'uns altres dos, fins a un serrat poc marcat que desplaça el trajecte a la següent clotada. Es travessa la tartera pel caminet i se segueix cap a l'oest i en suau pujada. Molt poc després, passats uns 400 m des de l'anterior tartera, es troba una altra tartera amb pins escadussers, amb la mina d'or (1.965 m, 2 h 20 min), antiga explotació aurífera abandonada que tenia tres boques avui tapades per la mateixa tartera i detritus de la mina. A Ansovell encara es conserven alguns estris de la mina. Dels antics treballs d'extracció només en resta una clapa perquè el bosc ja ha colonitzat la tartera. 
+ 
+Aquí cal deixar aquest caminoi de la falda del Cadí, que duu cap a l'oest al coll de Pradell i Adraén, i pujar per la dreta, bosc amunt, cap al sud, fins que se surt a un planell a la cota 2.010 m, on desapareix el bosc que dissimulava el peu de la tartera. Més amunt, la tartera es divideix en quatre canaletes, algunes subdividides dalt de tot, indret que s'anomena les Tres Canaletes i que culmina amb el portell del Cadí (2.375 m). 
+ 
+Aquest planell de la cota 2.010 m, on s'inicien les Tres Canaletes, com molts altres planells similars com el proper prat de Gónec o el prat de Cadí (Cerdanya), no són una altra cosa que les morrenes frontals dels corresponents glaciars que hi va haver durant la darrera glaciació. 
+ 
+Cal anar pujant decididament cap a l'àmplia collada del damunt (el Portell de Cadí), per terreny dur i dret, buscant les zones més estables i herbades. La canaleta que està més a l'est, la de l'esquerra, vista des de baix, és la més fàcil en la seva part superior, però a mig camí té uns graons molt pendents. Així que el més fàcil és començar pel mig i, més amunt, aproximadament a la cota 2.250 m, decantar-se cap a la canaleta de l'esquerra, la situada més a l'est, travessant uns serradets molt segurs. 
+ 
+Per a la baixada cal recordar que aquesta canaleta de l'est es troba 100 m abans del punt més baix del Portell de Cadí. A la baixada cal deixar la carena i davallar al nord en aquest punt i, un cop descendits uns 70 m de desnivell, passar cap a l'esquerra baixant cap a l'oest. 
+ 
+Arribats al Portell de Cadí (2.375 m, 3 h 20 min), es veu clarament el camí i les fites que, cap a l'est, porten a la Torreta de Cadí per la planera carena. És notable el contrast entre el vessant sud del Cadí, gairebé pla, i el nord, pel qual s'ha pujat. 
+ 
+3 h 50 min. Torreta de Cadí, 2.561 m, 6,85 km. Piló geodèsic. La cota 2.561 m s'assoleix estrictament 100 m més a l'est, on hi ha una fita. Es veu que si se seguís la carena del Cadí uns altres 500 m a l'est, després d'un coll que només baixa 12 m (2.549 m), s'assoleix un cim més alt (2.573 m) situat just sobre la Roca del Gònec (2.452 m), que s'aprecia clarament i que origina la carena del coll de les Basses i del Boscalt, d'on es ve. 
+ 
+Amplíssima vista panoràmica sobre les serres veïnes i, especialment, sobre el Pirineu occidental. La vista del Pedraforca és immillorable, com dels rasos de Peguera, serra d'Ensija, serra del Verd i Port del Comte. Al nord hi ha tota la Cerdanya i, a l'oest, l'Alt Urgell i la Seu. I, a sota mateix, el Feixanc de Cadí, una feixa entre les cotes 2.400 i 2.450 m, penjada enmig de les impressionants parets septentrionals del Cadí. 
+ 
+Llevat de les vies d'escalada, des del portell de Cadí no hi ha un altre punt per travessar de nord a sud aquesta serralada fins a la Canal Baridana, sobre el Querforadat (cal veure la ruta &lt;i&gt;Del Querforadat al Vulturó o puig de la Canal Baridana&lt;/i&gt;). 
+ 
+Es torna al punt de partida baixant pel mateix camí (en 2 h 30 min; 6 h 20 min i 13,71 km en total).&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Més informació&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+ 
+&lt;p&gt;[ES] &lt;b&gt;De Ansovell a la Torreta de Cadí por Les Tres Canaletes&lt;/b&gt;&lt;/p&gt;&lt;br&gt; 
+&lt;p&gt;&lt;i&gt;El Cadí cierra la Cerdanya y la cabecera del Alt Urgell con una muralla de paredes y canales muy verticales. La sierra, que no forma parte del eje axial pirenaico, tiene una cota máxima modesta (2.648 m en el Puig de la Canal Baridana o Vulturó). Por este motivo, el ámbito de alta montaña en sí se reduce a una franja de 600 m de altura. Sin embargo, su extensión (casi 40 km de longitud), su relieve complicado y la despoblación de su entorno hacen que la sierra sea un sitio salvaje y muy interesante desde el punto de vista naturalista y montañés. El Parque natural del Cadí-Moixeró ofrece un marco protector para la salvaguarda de este patrimonio.&lt;/i&gt; 
+Ruta señalizada parcialmente. Atención: solamente para pirineistas expertos. 
+ 
+El itinerario sale de Ansovell, perteneciente al municipio de Cava, Alt Urgell. Se accede desde la carretera N-260, en el tramo entre la Seu d'Urgell y Martinet, girando a la derecha en la desviación LV-4052 que conduce a Arsèguel y sigue hasta Ansovell (10,8 km). 
+ 
+Ansovell, 1.340 m. Se sale del pueblo por el lado de la iglesia, calle arriba. A los 100 metros se toma el camino viejo del santuario de Boscalt (Bosque alto), siguiendo un tramo del sendero GR 3 (o GR 150, entre el Querforadat i Vilanova de Benat), y dejando a la izquierda la pista forestal que también nos conduce allí. En el collado del Boscalt (1.475 m), 400 metros antes de la Mare de Déu de Boscalt podemos ver, delante a la derecha, el entorno de nuestra ruta. En el puerto cambiamos de vertiente y de cuenca, de la de Ansovell y el río de Cadí a la de Vilanova de Benat, la vecina del oeste, y más concretamente al torrente de la Bena. 
+ 
+0 h 25 min. Mare de Déu de Boscalt, 1.460 m, 1,4 km. Se pasa al lado del santuario, situado en una gran explanada de prados con una vista impresionante del Cadí nor-occidental. En la fuente, pocos metros más adelante, en el mismo pequeño collado, podemos aprovisionarnos de agua. Se deja el GR-3 (o GR-150) que va a la Molina de Lletó i Vilanova de Banat. Se continua recto hacia el sur por la pista forestal que viene de Ansovell y se dirige hacia el bosque. En el siguiente pequeño collado 300 m. más allá del Santuario se pasa por los Cortalets, unas originales formaciones rocosas de asperón al lado de una balsa de agua para incendios. 
+ 
+0 h 30 m. En un tercer pequeño collado, 150 metros después de los Cortalets (1.460 m), ya en la sombra de los bosques del Cadí, hay que prestar atención porque la pista forestal gira hacia el oeste y hay que dejarla, para tomar la senda (mojón de piedra) que sale a mano izquierda y sube con una fuerte pendiente hacia el sudoeste los primeros metros y, después de una curva muy cerrada de 180 grados, una fuerte pendiente hacia el sudoeste, siguiendo la vertiente este de la cresta, en medio de un bosque espeso de pino albar, roble y alguna haya suelta. Desde aquí y hasta el siguiente collado de las Basses regresamos a la cuenca de Ansovell y el río de Cadí. 
+ 
+Si siguiéramos la anterior pista forestal que conduce cerca de la collada de Mont-ros, desde aquí podríamos subir hacia el torrente de La Molina, donde enlazaríamos con el resto de la ruta, pero bastante más embarrados. 
+ 
+Al cabo de unos 8 min. se pasa cerca de la fuente de Les Marrades, fuera del camino y difícil de localizar. 
+ 
+0 h 50 min. Coll de las Basses, 1.565 m, 2,6 km. Curioso pequeño collado arenoso. El camino que hay que seguir, muy emboscado pero con mojones en el centro que hay que cuidar de no pisar, se va hacia la derecha, al sudoeste, hacia la loma y pequeño collado de la Mata. De esta manera volvemos a entrar en el valle del río de Vilanova de Benat, más concretamente en el torrente de Orri. No hay que seguir recto hacia arriba, al sur, por el sendero con mojones que entra en la loma de la Comella y conduce al Clot de l'Orri (1.873 m) y luego al prado de Gònec (1.855 m). 
+ 
+Pocos metros después del colado anterior, a 70 metros, encontramos la Font del Jugador (1.568 m), al lado del camino. Éste continúa flanqueando hacia el sudoeste, siguiendo la hondonada del torrente de Orri, y se deja un viejo camino de bosque que sube a mano izquierda (indicios). Ya cerca de la loma de la Mata, el camino va girando del sudoeste hacia el oeste. 
+ 
+1 h 15 min. Pequeño collado y loma de la Mata, 1710 m, 3.2 km. Es el punto clave de la ruta. Si se fuera recto hacia el sur, subiendo por la loma de un bosque bastante limpio, se subiría al Roc dels Esquers (2.060 m), al pie de la Torre del Cadí, con una vista impresionante pero sin posibilidad de continuar debido a la vertical pared norte de la Torre del Cadí. Se la rodea por debajo, siguiendo por el mismo camino de subida a la loma, que un poco levantado respecto al Tossal sigue hacia el oeste, bajando primero hasta un pequeño barranco poco visible (cota 1.695 m, a 300 metros del Tossal) y luego subiendo. 
+ 
+Cruzamos dos pequeños barrancos, ambos con cantizal, con las cotas 1.720 y 1.730 metros respectivamente, volvemos a encontrar mojones y llegamos a la loma que da entrada al barranco de La Molina, también con cantizal y con el margen derecho muy inclinado bajo el Roc dels Esquers. Se ha de cruzar el barranco, sin perder altura, en la cota 1.760 m, 800 metros al oeste del Tossal de la Mata, a unos 20 minutos, 1 h 35 min en total. El barranco de La Molina toma el nombre de la Molina de Lletó, justo en medio del valle. Es afluente del río de Vilanova de Banat. 
+ 
+Sólo queda por flanquear otros 200 metros hasta el barranco siguiente, afluente del de La Molina, justo en el punto que separa los municipios de Cava-Ansovell-Querforadat i de Alàs-Cerc (que incluye también al antiguo municipio de Vilanova de Banat). Como no hay mojones en el barranco, nos servirá de referencia, inequívoca, ver que el barranco se divide en dos barrancos diferenciados, en la cota 1.760 m donde lo corta el camino. El primero, el de la izquierda, se dirige al sudoeste con dos escalones de roca muy verticales. El segundo forma un largo y estrecho cantizal que sigue muchos metros hacia arriba. 
+ 
+Debemos cruzarlos justo por su punto de unión, donde se estrechan los dos márgenes erosionados y el bosque nos permite cruzar fácilmente al otro lado (10 minutos más desde el Torrente de La Molina, se lleva un total de 1 h 45 min). Aquí se debe subir en paralelo al segundo barranco, hacia el sudoeste, manteniendo esta dirección aunque el barranco va girando progresivamente hacia el sur. El bosque tiene mucha pendiente, pero los árboles facilitan la subida de estos 80 metros de desnivel. Al llegar la cota 1.840 m, el bosque se aclara porque aún no ha podido poblar un gran cantizal que hasta esta cota 1.840 m baja desde arriba del Cadí, por el Canal del agujero de la Tronca. Hacia abajo forma el torrente siguiente, también afluente del de La Molina. Todos los planos actuales son muy poco cuidadosos representando estos barrancos, que no son nada despreciables. Por lo tanto, se recomienda, para no desviarse del camino, frecuentemente perdedor debido a sus grandes pendientes, recordar y/o consultar esta sucesión de barrancos i cotas de paso para saber si se ha de subir o bajar. 
+ 
+Una vez aquí se ha de subir el cantizal los primeros 80 metros de desnivel, hasta la cota 1.920 m, más cómodamente por el lado, dentro del bosque. Se hace en otros 30 minutos, con lo cual suman 2 h 15'. 
+ 
+En esta cota se ve un pequeño camino que cruza el cantizal, subiendo suavemente. Se hubiera podido cruzar por el otro lado del cantizal, pero en todo caso se necesita la referencia del caminito que lo cruza. Este caminito surca la falda de la sierra del Cadí manteniéndose cerca de la cota 1.950 m aproximadamente, desde Prat d'Aguiló hasta el Pradell (en Adraén) pasando por el Prat de Cadí (ver la ruta &lt;i&gt;Del Querforadat al Vulturó o puig de la Canal Baridana&lt;/i&gt;, también en el Alt Urgell i &lt;i&gt;D'Estana a prat de Cadí pel coll de Pallers&lt;/i&gt; en la Cerdanya. Hacia el este, por encima de desde donde se viene, es difícil de seguir, pero hacia la Mina d'Or, donde se debe ir, es bastante visible. 
+ 
+Fijándose antes de cruzar el cantizal, primero se debe pasar debajo de una roca y después encima de otras dos, hasta una loma poco marcada que nos envía a la siguiente hondonada. Cruzamos el cantizal por el caminito y lo seguimos hacia el oeste en una subida suave. Poco después, a unos 400 metros desde el cantizal anterior, encontramos otro cantizal con pinos sueltos, donde está la Mina d'Or (1.965 m, 2 h 20'), una antigua explotación aurífera abandonada que tenía tres bocas, hoy tapadas por el mismo cantizal y por los escombros de la mina. En Ansovell aún se conservan algunos utensilios de la mina. 
+ 
+Aquí se ha de dejar este caminito de la falda del Cadí, que llevaría hacia el oeste al Coll de Pradell y Adraén, y subir hacia la derecha, bosque arriba, al sur, hasta salir a una planicie en la cota 2.010 m, donde desaparece el bosque que disimulaba al pie del cantizal. Más adelante el cantizal se divide en cuatro canales (caneletes)s, algunas subdivididas en lo alto, en un sitio llamado Les Tres Canaletes y que culmina en el Portell del Cadí (2.375 m). 
+ 
+Esta planicie de la cota 2.010 m, donde comienzan Les Tres Canaletes, al igual que muchas otras planicies como el Prat de Cadí (ver la ruta a Prat de Cadí desde Estana, en la Cerdanya), no es más que un morena frontal del correspondiente glaciar que hubo durante la última glaciación. 
+ 
+Se debe subir decididamente hacia el amplio collado de arriba (el Portell del Cadí), por terreno duro y recto, buscando las zonas más estables y con hierba. La Canaleta situada más al este, a la izquierda vista desde abajo, es la más fácil en su parte superior, pero a medio camino tiene unos escalones muy empinados. Así que lo más fácil es empezar por el medio y más arriba, hacia la cota 2.250 m, decantarse hacia la Canaleta de la izquierda, situada más al este, cruzando unas colinitas muy seguras. 
+ 
+Para la bajada se debe recordar que esta canaleta del este se encuentra 100 metros antes del punto más bajo del Portell de Cadí. Al bajar se debe dejar la cresta y bajar hacia el norte en este punto, y salvados unos 70 metros de desnivel, girar a la izquierda bajando, es decir hacia el oeste. 
+ 
+Para entretenerse cinco minutos se puede llegar al mencionado punto más bajo del Portell de Cadí y seguir hacia el oeste otros 100 metros, hasta las Canaletes del oeste. Levantando la cabeza se puede ver, 20 metros debajo de la cresta en el sitio de máxima pendiente, un curioso camino transversal y muy colgado que las cruza, posiblemente para la guardia de los cazadores. 
+ 
+Una vez en el Portell de Cadí (2.375 m, 3 h 20 min) se ve claramente el camino y los mojones que hacia el este llevan a la Torreta de Cadí por la cresta llana. Resulta notable el contraste de la vertiente sur del Cadí, casi plana, con la vertiente norte y escarpada de la subida. 
+ 
+3 h 50 min. Torreta de Cadí, 2.562 m, 7,5 km. Pila geodésica. En un sentido estricto, la cota 2.561 m se alcanza 100 metros más al este, donde hay un hito. Se ve que siguiendo la cresta del Cadí otros 500 metros hacia el este, después de un collado que sólo desciende 12 metros (2.549 m), se alcanza una cima más alta (2.573 m) situada justo sobre la Roca del Gònec (2.452 m) que se distingue claramente y que origina la cresta del collado de las Basses y del Boscalt, de donde se viene. 
+ 
+Amplísima vista panorámica sobre las sierras vecinas y, especialmente, sobre el Pirineo Occidental. La vista del Pedraforca es inmejorable, como la de los Rasos de Peguera, Serra d'Ensija, Serrat del Verd y Port del Comte. Al norte está toda la Cerdanya y al oeste el Alt Urgell y la Seu. Y abajo mismo, el Feixanc de Cadí, un bancal entre las cotas 2.400 y 2.450 m, colgado en medio de las impresionantes paredes norte del Cadí. 
+ 
+Salvo las vías de escalada, desde el Portell de Cadí no hay otro punto para cruzar de norte a sur esta cordillera hasta la canal de Baridana, sobre el Querforadat (ver la ruta &lt;i&gt;Del Querforadat al Vulturó o puig de la Canal Baridana&lt;/i&gt;). 
+ 
+Se vuelve al punto de partida bajando por el mismo camino (en 2 h 30 min; 6 h 20 min y 13,71 km en total).&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/0ByT7o4PC2oHtMVp6RFZFbDZub2c/edit?usp=sharing" rel="nofollow" target="_blank"&gt;Más información&lt;/a&gt;&lt;/p&gt;&lt;br&gt; 
+ 
+&lt;p&gt;Font: Generalitat de Catalunya, 24/03/06&lt;/p&gt;</desc>
+    <trkseg>
+      <trkpt lat="42.325224" lon="1.584128">
+        <ele>1342.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324674" lon="1.583673">
+        <ele>1349.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324372" lon="1.583637">
+        <ele>1357.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.323183" lon="1.584292">
+        <ele>1376.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322684" lon="1.584045">
+        <ele>1380.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322460" lon="1.583771">
+        <ele>1384.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322091" lon="1.583810">
+        <ele>1390.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321347" lon="1.584415">
+        <ele>1403.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321331" lon="1.584985">
+        <ele>1415.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321128" lon="1.584942">
+        <ele>1418.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320631" lon="1.585183">
+        <ele>1430.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320396" lon="1.585807">
+        <ele>1440.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319889" lon="1.586353">
+        <ele>1448.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319660" lon="1.586352">
+        <ele>1452.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319062" lon="1.586820">
+        <ele>1459.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.318572" lon="1.586516">
+        <ele>1468.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.316716" lon="1.586078">
+        <ele>1468.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315522" lon="1.586384">
+        <ele>1462.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314228" lon="1.587170">
+        <ele>1452.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313383" lon="1.586729">
+        <ele>1455.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312329" lon="1.587049">
+        <ele>1459.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312002" lon="1.587597">
+        <ele>1457.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311680" lon="1.587805">
+        <ele>1456.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310815" lon="1.587353">
+        <ele>1464.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310691" lon="1.587159">
+        <ele>1466.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310470" lon="1.587170">
+        <ele>1472.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309729" lon="1.586538">
+        <ele>1503.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309088" lon="1.587171">
+        <ele>1524.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308451" lon="1.586973">
+        <ele>1528.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308239" lon="1.586541">
+        <ele>1545.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307750" lon="1.586315">
+        <ele>1553.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306900" lon="1.587099">
+        <ele>1576.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306533" lon="1.586555">
+        <ele>1576.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305641" lon="1.586381">
+        <ele>1582.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305474" lon="1.586123">
+        <ele>1583.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305159" lon="1.586106">
+        <ele>1596.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304771" lon="1.585731">
+        <ele>1595.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303679" lon="1.585132">
+        <ele>1614.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303067" lon="1.583642">
+        <ele>1634.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302430" lon="1.583092">
+        <ele>1644.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302292" lon="1.582488">
+        <ele>1659.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301780" lon="1.581541">
+        <ele>1682.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301602" lon="1.580927">
+        <ele>1697.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301651" lon="1.580031">
+        <ele>1720.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301261" lon="1.579641">
+        <ele>1722.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301021" lon="1.578981">
+        <ele>1708.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300591" lon="1.578421">
+        <ele>1705.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299719" lon="1.577948">
+        <ele>1717.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299362" lon="1.577131">
+        <ele>1717.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299068" lon="1.576992">
+        <ele>1721.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.298786" lon="1.577144">
+        <ele>1731.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297440" lon="1.576713">
+        <ele>1742.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297003" lon="1.577099">
+        <ele>1757.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.296281" lon="1.577211">
+        <ele>1764.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295985" lon="1.576673">
+        <ele>1776.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295562" lon="1.576283">
+        <ele>1793.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295274" lon="1.575209">
+        <ele>1796.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294371" lon="1.574311">
+        <ele>1831.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293765" lon="1.574097">
+        <ele>1866.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293293" lon="1.574490">
+        <ele>1899.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292844" lon="1.574567">
+        <ele>1925.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292511" lon="1.573291">
+        <ele>1935.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292801" lon="1.572561">
+        <ele>1937.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292864" lon="1.571807">
+        <ele>1943.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292665" lon="1.571374">
+        <ele>1962.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292691" lon="1.570311">
+        <ele>1969.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292471" lon="1.570261">
+        <ele>1974.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292359" lon="1.569944">
+        <ele>1975.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292025" lon="1.569867">
+        <ele>1999.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291042" lon="1.570950">
+        <ele>2031.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290801" lon="1.570841">
+        <ele>2042.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290171" lon="1.571041">
+        <ele>2079.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.288983" lon="1.570887">
+        <ele>2149.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.288691" lon="1.571291">
+        <ele>2181.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287623" lon="1.571931">
+        <ele>2270.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287118" lon="1.573671">
+        <ele>2347.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286988" lon="1.573698">
+        <ele>2357.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286827" lon="1.573471">
+        <ele>2370.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286667" lon="1.573584">
+        <ele>2385.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286502" lon="1.573357">
+        <ele>2394.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286528" lon="1.574048">
+        <ele>2400.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286855" lon="1.575332">
+        <ele>2426.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286301" lon="1.576811">
+        <ele>2454.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286330" lon="1.577637">
+        <ele>2460.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286605" lon="1.578753">
+        <ele>2484.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286314" lon="1.579972">
+        <ele>2529.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286822" lon="1.581368">
+        <ele>2547.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287167" lon="1.583064">
+        <ele>2562.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287038" lon="1.584396">
+        <ele>2562.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287167" lon="1.583064">
+        <ele>2562.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286822" lon="1.581368">
+        <ele>2547.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286314" lon="1.579972">
+        <ele>2529.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286605" lon="1.578753">
+        <ele>2484.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286330" lon="1.577637">
+        <ele>2460.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286301" lon="1.576811">
+        <ele>2454.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286855" lon="1.575332">
+        <ele>2426.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286528" lon="1.574048">
+        <ele>2400.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286502" lon="1.573357">
+        <ele>2394.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286667" lon="1.573584">
+        <ele>2385.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286827" lon="1.573471">
+        <ele>2370.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.286988" lon="1.573698">
+        <ele>2357.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287118" lon="1.573671">
+        <ele>2347.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.287623" lon="1.571931">
+        <ele>2270.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.288691" lon="1.571291">
+        <ele>2181.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.288983" lon="1.570887">
+        <ele>2149.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290171" lon="1.571041">
+        <ele>2079.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.290801" lon="1.570841">
+        <ele>2042.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.291042" lon="1.570950">
+        <ele>2031.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292069" lon="1.569847">
+        <ele>1996.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292359" lon="1.569944">
+        <ele>1975.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292471" lon="1.570261">
+        <ele>1974.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292691" lon="1.570311">
+        <ele>1969.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292665" lon="1.571374">
+        <ele>1962.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292870" lon="1.571952">
+        <ele>1942.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292801" lon="1.572561">
+        <ele>1937.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292511" lon="1.573291">
+        <ele>1935.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.292844" lon="1.574567">
+        <ele>1925.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293293" lon="1.574490">
+        <ele>1899.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.293765" lon="1.574097">
+        <ele>1866.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.294371" lon="1.574311">
+        <ele>1831.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295274" lon="1.575209">
+        <ele>1796.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295562" lon="1.576283">
+        <ele>1793.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.295985" lon="1.576673">
+        <ele>1776.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.296281" lon="1.577211">
+        <ele>1764.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297003" lon="1.577099">
+        <ele>1757.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.297440" lon="1.576713">
+        <ele>1742.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.298786" lon="1.577144">
+        <ele>1731.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299068" lon="1.576992">
+        <ele>1721.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299362" lon="1.577131">
+        <ele>1717.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.299719" lon="1.577948">
+        <ele>1717.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.300591" lon="1.578421">
+        <ele>1705.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301021" lon="1.578981">
+        <ele>1708.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301261" lon="1.579641">
+        <ele>1722.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301651" lon="1.580031">
+        <ele>1720.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301602" lon="1.580927">
+        <ele>1697.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.301780" lon="1.581541">
+        <ele>1682.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302292" lon="1.582488">
+        <ele>1659.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.302430" lon="1.583092">
+        <ele>1644.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303067" lon="1.583642">
+        <ele>1634.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.303679" lon="1.585132">
+        <ele>1614.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.304771" lon="1.585731">
+        <ele>1595.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305159" lon="1.586106">
+        <ele>1596.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305474" lon="1.586123">
+        <ele>1583.2</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.305641" lon="1.586381">
+        <ele>1582.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306533" lon="1.586555">
+        <ele>1576.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.306900" lon="1.587099">
+        <ele>1576.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.307750" lon="1.586315">
+        <ele>1553.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308239" lon="1.586541">
+        <ele>1545.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.308451" lon="1.586973">
+        <ele>1528.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309088" lon="1.587171">
+        <ele>1524.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.309729" lon="1.586538">
+        <ele>1503.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310470" lon="1.587170">
+        <ele>1472.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310691" lon="1.587159">
+        <ele>1466.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.310815" lon="1.587353">
+        <ele>1464.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.311680" lon="1.587805">
+        <ele>1456.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312002" lon="1.587597">
+        <ele>1457.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.312329" lon="1.587049">
+        <ele>1459.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.313383" lon="1.586729">
+        <ele>1455.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.314228" lon="1.587170">
+        <ele>1452.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.315522" lon="1.586384">
+        <ele>1462.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.316716" lon="1.586078">
+        <ele>1468.9</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.318572" lon="1.586516">
+        <ele>1468.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319062" lon="1.586820">
+        <ele>1459.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319660" lon="1.586352">
+        <ele>1452.3</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.319889" lon="1.586353">
+        <ele>1448.6</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320396" lon="1.585807">
+        <ele>1440.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.320631" lon="1.585183">
+        <ele>1430.5</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321128" lon="1.584942">
+        <ele>1418.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321331" lon="1.584985">
+        <ele>1415.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.321347" lon="1.584415">
+        <ele>1403.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322091" lon="1.583810">
+        <ele>1390.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322460" lon="1.583771">
+        <ele>1384.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.322684" lon="1.584045">
+        <ele>1380.8</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.323183" lon="1.584292">
+        <ele>1376.0</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324372" lon="1.583637">
+        <ele>1357.1</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.324674" lon="1.583673">
+        <ele>1349.7</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.325224" lon="1.584128">
+        <ele>1342.4</ele>
+        <time>2005-09-27T23:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
