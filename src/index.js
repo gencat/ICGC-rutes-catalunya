@@ -862,7 +862,6 @@ $(window.document).ready(() => {
 
 	}
 
-
 	function resetPlay() {
 
 		viewer.clock.shouldAnimate = false;
@@ -954,7 +953,6 @@ $(window.document).ready(() => {
 			}
 
 		});
-
 
 	}
 //ends controls animacio
