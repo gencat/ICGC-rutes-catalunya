@@ -73,6 +73,7 @@ $(window.document).ready(function () {
     imageryProvider: imPro,
     timeline: false,
     fullscreenElement: false,
+    fullscreenButton: false,
     navigationHelpButton: false,
     scene3DOnly: true,
     baseLayerPicker: false,
@@ -109,41 +110,7 @@ $(window.document).ready(function () {
       labelsDatasource.show = value;
       return true;
     }
-  } // Full list options at "leaflet-elevation.js"
-
-
-  var elevation_options = {
-    // Default chart colors: theme lime-theme, magenta-theme, ...
-    theme: "lightblue-theme",
-    // Chart container outside/inside map container
-    detached: true,
-    // if (detached), the elevation chart container
-    elevationDiv: "#elevation-div",
-    // if (!detached) autohide chart profile on chart mouseleave
-    autohide: false,
-    // if (!detached) initial state of chart profile control
-    collapsed: false,
-    // if (!detached) control position on one of map corners
-    position: "topright",
-    // Autoupdate map center on chart mouseover.
-    followMarker: true,
-    // Chart distance/elevation units.
-    imperial: false,
-    // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
-    reverseCoords: false,
-    // Summary track info style: "line" || "multiline" || false,
-    summary: 'multiline'
-  }; // Instantiate map (leaflet-ui).
-
-  var map = new L.Map('map', {
-    mapTypeId: 'terrain',
-    center: [41.4583, 12.7059],
-    zoom: 5
-  }); // Instantiate elevation control.
-
-  var controlElevation = L.control.elevation(elevation_options).addTo(map); // Load track from url (allowed data types: "*.geojson", "*.gpx")
-
-  controlElevation.load("https://raruto.github.io/leaflet-elevation/examples/via-emilia.gpx");
+  }
 
   function checkOptions(concepte) {
     var opt = {
@@ -252,6 +219,7 @@ $(window.document).ready(function () {
         rutaIniciada = false;
         console.log("path-->", ruta);
         $('#uploadButton').prop("name", ruta);
+        viewer.dataSources.removeAll();
         loadGPX(gpx);
         console.log("rutaok");
       }
@@ -306,13 +274,13 @@ $(window.document).ready(function () {
         jQuery("#play i").addClass("circular pause icon");
       }
     });
-    /*$('#erasefilebutton').on("click", () => {
-    	console.log("clickerase")
-    	if (viewer.dataSources.contains(gpxDataSource)) {
-    				viewer.dataSources.remove(gpxDataSource);
-    			}
-    });*/
+    $('#erasefilebutton').on("click", function () {
+      console.log("clickerase");
 
+      if (viewer.dataSources.contains(gpxDataSource)) {
+        viewer.dataSources.removeAll();
+      }
+    });
     $(".ui.search").search({
       source: rutesJSON,
       minCharacters: 2,
@@ -379,7 +347,7 @@ $(window.document).ready(function () {
         console.log("onallaus");
         imPro = new Cesium.WebMapServiceImageryProvider({
           url: 'http://siurana.icgc.cat/geoserver/nivoallaus/wms?',
-          layers: 'puntsobservacio',
+          layers: 'zonesallaus',
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
@@ -418,7 +386,7 @@ $(window.document).ready(function () {
         console.log("onlandslides");
         imPro = new Cesium.WebMapServiceImageryProvider({
           url: 'http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?',
-          layers: 'G6PE_PA',
+          layers: 'G6FIA_PA',
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
@@ -506,13 +474,15 @@ $(window.document).ready(function () {
         type: "FeatureCollection",
         features: []
       };
-      trackGeoJSON.features.push(fa.tmUtils.extractSingleLineString(this.toGeoJSON()));
+      trackGeoJSON.features.push(fa.tmUtils.extractSingleLineString(this.toGeoJSON())); //track base prim//
+
       viewer.dataSources.add(Cesium.GeoJsonDataSource.load(trackGeoJSON, {
         stroke: Cesium.Color.RED,
         fill: Cesium.Color.BURLYWOOD,
         strokeWidth: 1,
         markerSymbol: '?'
-      }));
+      })); // fi track base
+
       viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then(function (ds) {
         // trackDataSource segueix el track amb animació
         trackDataSource = ds;
@@ -670,7 +640,8 @@ $(window.document).ready(function () {
   function resetPlay() {
     viewer.clock.shouldAnimate = false;
     viewer.trackedEntity = undefined;
-    viewer.trackedEntity = undefined; //trackDataSource.entities.getById('track').billboard.show = false;
+    viewer.trackedEntity = undefined;
+    viewer.dataSources.removeAll(); //trackDataSource.entities.getById('track').billboard.show = false;
     //readyToPlayButtonState();
     //viewer.clock.onTick.removeEventListener(clockTracker);
   }

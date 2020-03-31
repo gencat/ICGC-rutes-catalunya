@@ -72,8 +72,8 @@ $(window.document).ready(() => {
 			maximumLevel: 18,
 			credit: "Institut Cartogràfic i Geològic de Catalunya"
 		});
+	
 		
-
 		URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
 
 	
@@ -102,6 +102,7 @@ $(window.document).ready(() => {
 		imageryProvider: imPro,
 		timeline: false,
 		fullscreenElement:false,
+		fullscreenButton: false,
 		navigationHelpButton: false,
 		scene3DOnly: true,
 		baseLayerPicker: false,
@@ -308,7 +309,7 @@ $(window.document).ready(() => {
 				console.log("path-->", ruta)
 
 				$('#uploadButton').prop("name", ruta)
-
+				viewer.dataSources.removeAll ();
 				loadGPX(gpx);
 				console.log("rutaok")
 				
@@ -403,14 +404,15 @@ $(window.document).ready(() => {
 
 		});
 
-		/*$('#erasefilebutton').on("click", () => {
+		$('#erasefilebutton').on("click", () => {
 			console.log("clickerase")
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
-				viewer.dataSources.remove(gpxDataSource);
+				
+				viewer.dataSources.removeAll ();
 
 			}
-		});*/
+		});
 
 		$(".ui.search")
 			.search({
@@ -499,7 +501,7 @@ $(window.document).ready(() => {
 				console.log("onallaus")
 				imPro= new Cesium.WebMapServiceImageryProvider({
 					url : 'http://siurana.icgc.cat/geoserver/nivoallaus/wms?',
-					layers : 'puntsobservacio',
+					layers : 'zonesallaus',
 					enablePickFeatures: true,
 					showEntitiesLabels:true,
 					credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
@@ -544,7 +546,7 @@ $(window.document).ready(() => {
 				console.log("onlandslides")
 				imPro= new Cesium.WebMapServiceImageryProvider({
 					url : 'http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?',
-					layers : 'G6PE_PA',
+					layers : 'G6FIA_PA',
 					enablePickFeatures: true,
 					showEntitiesLabels:true,
 					credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
@@ -578,6 +580,7 @@ $(window.document).ready(() => {
 			}
 			
 		})	
+	
 	
 		$("#carreteresToggle").change(function() {
 
@@ -651,13 +654,15 @@ $(window.document).ready(() => {
 			trackGeoJSON = { type: "FeatureCollection", features: [] };
 			trackGeoJSON.features.push(fa.tmUtils.extractSingleLineString(this.toGeoJSON()));
 
-			
+			//track base prim//
 			viewer.dataSources.add(Cesium.GeoJsonDataSource.load(trackGeoJSON, {
 				stroke: Cesium.Color.RED,
 				fill: Cesium.Color.BURLYWOOD,
 				strokeWidth: 1,
 				markerSymbol: '?'
 			  }));
+			// fi track base
+
 
 			viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then((ds) => {
 			// trackDataSource segueix el track amb animació
@@ -863,6 +868,7 @@ $(window.document).ready(() => {
 		viewer.clock.shouldAnimate = false;
 		viewer.trackedEntity = undefined;
 		viewer.trackedEntity = undefined;
+		viewer.dataSources.removeAll ();
 		//trackDataSource.entities.getById('track').billboard.show = false;
 		//readyToPlayButtonState();
 		//viewer.clock.onTick.removeEventListener(clockTracker);
