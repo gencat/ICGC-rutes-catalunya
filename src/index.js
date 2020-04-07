@@ -17,6 +17,7 @@ const URL_ADMIN = "https://tilemaps.icgc.cat/mapfactory/wmts/limits/CAT3857/{z}/
 let URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
 
 var imPro;
+var base;
 
 const dev = true;
 let viewer;
@@ -65,21 +66,25 @@ $(window.document).ready(() => {
 	Cesium.Camera.DEFAULT_VIEW_RECTANGLE = Cesium.Rectangle.fromDegrees(west, south, east, north);
 
 	if (dev) {
-
-		imPro = new Cesium.UrlTemplateImageryProvider({
-			url: URL_ORTO,
+		
+		imPro = new Cesium.ArcGisMapServerImageryProvider({
+			url : 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
 			enablePickFeatures: false,
 			maximumLevel: 18,
-			credit: "Institut Cartogràfic i Geològic de Catalunya"
+			credit: "ArcGIS"
 		});
 	
 		
 		URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
 
+
+		
+
 	
 
 	} else {
 
+		
 		imPro = new Cesium.WebMapTileServiceImageryProvider({
 			url: "http://localhost/mapcache/wmts/?",
 			layer: "orto",
@@ -99,7 +104,7 @@ $(window.document).ready(() => {
 
 	viewer = new Cesium.Viewer("map", {
 
-		imageryProvider: imPro,
+		imageryProvider: imPro, 
 		timeline: false,
 		fullscreenElement:false,
 		fullscreenButton: false,
@@ -118,7 +123,6 @@ $(window.document).ready(() => {
 		useDefaultRenderLoop: true,
 		orderIndependentTranslucency: true,
 		sceneMode: Cesium.SceneMode.SCENE3D,
-
 		terrainProvider: new Cesium.CesiumTerrainProvider({
 			url: URL_TERRENY
 		})
@@ -131,14 +135,16 @@ $(window.document).ready(() => {
 	viewer.scene.fog.enabled = true;
 	viewer.scene.fog.density = 0.0002;
 	viewer.scene.fog.screenSpaceErrorFactor = 2;
+	L.control.elevation = true;
+	
 
-
-
+	
 	vistaInicial();
 	initEvents();
 	setupLayers();
 	getElementById();
-
+	addDistanceInfo();
+	
 	function showEntitiesLabels(value) {
 
 		if (labelsDatasource) {
@@ -203,11 +209,21 @@ $(window.document).ready(() => {
 
 					const entity = respuestaGeonames.features[i];
 
-					const opt = checkOptions(entity.properties.Concepte);
+					
+					
 
+					const opt = checkOptions(entity.properties.Concepte);
+					//console.log('prop', entity.properties)
+
+					
 					viewer.entities.add({
-						position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1]),
+						position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
+
+						
+											
+
 						label: {
+							
 							text: entity.properties.Toponim,
 							font: opt.font,
 							fillColor: opt.color,
@@ -221,7 +237,9 @@ $(window.document).ready(() => {
 						}
 
 					});
-
+					
+					
+					
 				} // en if
 
 				//console.info(i,respuestaGeonames.features.length - 1 );
@@ -237,10 +255,16 @@ $(window.document).ready(() => {
 
 
 		});//end then
-
+		
 
 	}
 
+	/*function addDistanceInfo(){
+	if (respuestaGeonames.features[i].properties.Concepte != "edif.") {
+
+		distPoints = new Cesium.Cartesian3.distance(position, i++)
+		print (distPoints)
+}}*/
 
 	function addToponimsOLd(toponimsGeoJson) {
 
@@ -261,6 +285,7 @@ $(window.document).ready(() => {
 				const entity = entities[i];
 
 				const opt = checkOptions(entity["_properties"].Concepte);
+				
 
 				entity.label = {
 					text: entity["_properties"].Toponim,
@@ -275,7 +300,7 @@ $(window.document).ready(() => {
 					heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
 				};
 
-				entity.billboard = undefined;
+				/*entity.billboard = undefined;*/
 				if (entity.label) {
 
 
@@ -304,10 +329,10 @@ $(window.document).ready(() => {
 				$("#controls").show();
 				$("#pausa").hide();
 				$("#loading").hide();
+				$("#prompt").hide();
 				showEntitiesLabels(false);
 				rutaIniciada = false;
 				console.log("path-->", ruta)
-
 				$('#uploadButton').prop("name", ruta)
 				viewer.dataSources.removeAll ();
 				loadGPX(gpx);
@@ -333,7 +358,7 @@ $(window.document).ready(() => {
 
 		});
 		
-
+		
 		jQuery("#menuIcon").on("click", () => {
 
 
@@ -362,7 +387,7 @@ $(window.document).ready(() => {
 			//Si no està en pausa ni està en play farà el ELSE (que es començar l'animació desde el principi (startPlaying))
 			}else{
 				showEntitiesLabels(true);
-
+				
 					jQuery("#loading").show(1000, (e) => {
 	
 						rutaIniciada = true;
@@ -445,8 +470,6 @@ $(window.document).ready(() => {
 				}
 			})
 		;
-
-
 
 		$("#cimsToggle").change(function() {
 
@@ -621,7 +644,49 @@ $(window.document).ready(() => {
 			
 		})	
 
-		
+
+
+
+
+
+
+		$("#elevationbutton").on("click", () => {
+			console.log("L --> ", L)
+			console.log("el --> ", el) //undefined
+			console.log("L.control --> ", L.control) 
+			console.log("elev-->", L.control.elevation)
+			
+
+				
+			var gpx="6668129.gpx";
+
+			var el = L.control.elevation [{
+				position: "bottomleft",
+				theme: "magenta-theme", //default: lime-theme
+				useHeightIndicator: true, 
+				interpolation: d3.curveLinear, //see https://github.com/d3/d3/wiki/
+				collapsed: false, 
+				detachedView: false, //if false the chart is drawn within map container
+				elevationDiv: "#elevation-div", 
+			}];
+
+			var gpxRuta=new L.GPX(gpx, {
+				async: true,
+				 marker_options: {
+					startIconUrl: './images/pin-icon-start.png',
+					endIconUrl: './images/pin-icon-end.png',
+					shadowUrl: './images/pin-shadow.png'
+				  }
+			}).addTo(map);
+						
+			el.loadGPX(map, gpx);
+			
+			gpxRuta.on('loaded', function(e) {
+					  map.fitBounds(e.target.getBounds());
+			});
+
+		});
+
 	}
 
 
@@ -639,7 +704,8 @@ $(window.document).ready(() => {
 			$('.ui.button.fileRequest').attr('data-gpx', ruta)
 			$('.ui.button.fileRequest').attr("href", ruta)
 			$('#uploadButton').prop("name", ruta)
-
+			$("#elevationbutton").prop("elevation", gpx)
+			$('#uploadbutton').attr('data-gpx', gpxDataSource)
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
@@ -647,12 +713,18 @@ $(window.document).ready(() => {
 
 			}
 
-			$('#uploadbutton').attr('data-gpx', gpxDataSource)
-			gpxDataSource = new Cesium.CzmlDataSource();
 			
+			
+			gpxDataSource = new Cesium.CzmlDataSource();
+			//console.log('ruta', ruta)
 			const fly = true;
+
 			trackGeoJSON = { type: "FeatureCollection", features: [] };
+
+			
 			trackGeoJSON.features.push(fa.tmUtils.extractSingleLineString(this.toGeoJSON()));
+		
+
 
 			//track base prim//
 			viewer.dataSources.add(Cesium.GeoJsonDataSource.load(trackGeoJSON, {
@@ -661,13 +733,14 @@ $(window.document).ready(() => {
 				strokeWidth: 1,
 				markerSymbol: '?'
 			  }));
-			// fi track base
+			// fi track base prim
 
 
 			viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then((ds) => {
 			// trackDataSource segueix el track amb animació
 				trackDataSource = ds;
 				
+				//console.log('ds-->', trackDataSource)
 
 				if (fly) {
 
@@ -675,6 +748,7 @@ $(window.document).ready(() => {
 					viewer.flyTo(ds, { duration: 2,	});
 
 					addToponims(gpx);
+					//console.log ("message:", calculateTrackMetrics)
 
 				} else {
 
@@ -713,12 +787,29 @@ $(window.document).ready(() => {
 			})
 			
 			var layers = viewer.imageryLayers;
-			var baseLayer = layers.get(0);
+			var baseLayer = layers.get(1);
 			layers.remove(baseLayer);
 			layers.addImageryProvider(imPro);
 			
 			
 		})
+
+		$("#iniciaHome").on("click", () => {
+			console.log("entroBaseMap")
+			imPro = new Cesium.ArcGisMapServerImageryProvider({
+			url : 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "ArcGIS"
+			});
+			
+			var layers = viewer.imageryLayers;
+			var baseLayer = layers.get(0);
+			layers.remove(baseLayer);
+			layers.addImageryProvider(imPro);
+		});
+		
+
 		$("#ortofotoMenu").on("click", () => {
 			console.log("entroorto")
 			imPro = new Cesium.UrlTemplateImageryProvider({
@@ -729,7 +820,7 @@ $(window.document).ready(() => {
 			})
 			
 			var layers = viewer.imageryLayers;
-			var baseLayer = layers.get(0);
+			var baseLayer = layers.get(1);
 			layers.remove(baseLayer);
 			layers.addImageryProvider(imPro);
 			
@@ -745,7 +836,7 @@ $(window.document).ready(() => {
 			})
 			
 			var layers = viewer.imageryLayers;
-			var baseLayer = layers.get(0);
+			var baseLayer = layers.get(1);
 			layers.remove(baseLayer);
 			layers.addImageryProvider(imPro);
 			
@@ -777,7 +868,7 @@ $(window.document).ready(() => {
 			})
 			
 			var layers = viewer.imageryLayers;
-			var baseLayer = layers.get(0);
+			var baseLayer = layers.get(1);
 			layers.remove(baseLayer);
 			layers.addImageryProvider(imPro);
 			
@@ -792,7 +883,7 @@ $(window.document).ready(() => {
 			})
 			
 			var layers = viewer.imageryLayers;
-			var baseLayer = layers.get(0);
+			var baseLayer = layers.get(1);
 			layers.remove(baseLayer);
 			layers.addImageryProvider(imPro);
 			
@@ -824,10 +915,8 @@ $(window.document).ready(() => {
 
 		console.info("entro");
 
-		//$("#playicon").addClass("loading");
-		//FIXME SAME VALUE ALWAYS
 		const event = "play";
-		
+	
 
 		//esto anima o deja estaico
 		if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || (event === "play")) {
@@ -835,17 +924,54 @@ $(window.document).ready(() => {
 			viewer.clock.currentTime = Cesium.JulianDate.fromIso8601(trackGeoJSON.features[0].properties.coordTimes[0]);
 		}
 
-		//hasta aqui
+		viewer.clock.onTick.addEventListener((clock) => {
 
-		viewer.trackedEntity = trackDataSource.entities.getById("track");
-		
-		/*viewer.trackedEntity = trackDataSourced.entities.getById("track");*/
+			// This example uses time offsets from the start to identify which parts need loading.
+			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
 
+			//console.log("current-->",clock.currentTime);
+
+			if (labelsDatasource && timeOffset > 1 && timeOffset < 100) {
+
+				endLoading();
+
+			}
+
+			if (viewer.clock.currentTime == viewer.clock.stopTime) {
+
+				console.info("final ruta");
+
+			}
+		});
+
+			
 		// fa que e simbol del hiker es mogui
 		trackDataSource.entities.getById("track").billboard.show = true;
-		/*trackDataSourced.entities.getById("track").billboard.show = true;*/
 		viewer.clock.shouldAnimate = true;
 
+
+//part de codi per recollir distància acumulada COMENÇA
+
+/*
+		//recupera la posició del billboard
+		let currentPosition = trackDataSource.entities.getById("track").billboard.position.getValue();
+			console.log('currentPosition-->', currentPosition)
+
+			let distance = 0
+			
+			for (var index = 0; index < arrayPoints.lenght; index++){
+				if (index == 0){
+					continue
+				} else {
+					//per sumar les distàncies
+					let actualPoint = arrayPoints[index]
+					let lastPoint = arrayPoints[index - 1]
+					distance += Cesium.Cartesian3.distance(actualPoint, lastPoint)
+				}
+			}
+
+*/
+			//FINALITZA	
 
 	}
 	function animate(animate = true){
@@ -879,6 +1005,10 @@ $(window.document).ready(() => {
 		isInPause = false
 		viewer.clock.currentTime = viewer.clock.startTime;
 		viewer.clock.shouldAnimate = true;
+		console.log('current', viewer.clock.currentTime)
+
+
+		
 
 	}
 
@@ -895,14 +1025,44 @@ $(window.document).ready(() => {
 
 	}
 
+
+
+
+
 	function vistaInicial() {
 
-
+		imPro = new Cesium.UrlTemplateImageryProvider({
+			url: URL_TOPO,
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "Institut Cartogràfic i Geològic de Catalunya"
+		})
+		
+		var layers = viewer.imageryLayers;
+		var baseLayer = layers.get(1);
+		layers.remove(baseLayer);
+		layers.addImageryProvider(imPro);
+		
 		camera.flyTo({
 			destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
 			duration: 4,
 		});
 
+
+		/*console.log("onToponim")
+				imPro= new Cesium.WebMapServiceImageryProvider({
+					url : 'http://geoserveis.icc.cat/icgc_bm5m/wms/service?',
+					layers : '30_PROVINCIA_PC,70_NOMCOMARCA_TX',
+					enablePickFeatures: true,
+					showEntitiesLabels:true,
+					credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+					parameters : {
+						transparent : 'true',
+						format : 'image/png'
+					}
+				})
+				var layers = viewer.imageryLayers;
+				layers.addImageryProvider(imPro);*/
 
 		Cesium.Hash(viewer);
 
@@ -924,7 +1084,7 @@ $(window.document).ready(() => {
 						},
 						easingFunction: Cesium.EasingFunction.LINEAR_NONE
 					});
-					// addToponims();
+					// 
 
 				}, 1000);
 
@@ -937,8 +1097,17 @@ $(window.document).ready(() => {
 
 			// This example uses time offsets from the start to identify which parts need loading.
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
+			
+			
 
-			//console.info("timeOffset",timeOffset);
+			const timePosition = clock.currentTime[i] ;
+
+			
+	
+
+
+			console.log("current-->",timePosition);
+			
 
 			if (labelsDatasource && timeOffset > 1 && timeOffset < 100) {
 
@@ -981,6 +1150,7 @@ $(window.document).ready(() => {
 			});
 
 	}
+
 
 
 
