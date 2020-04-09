@@ -21,29 +21,38 @@
   <script src="./dist/vendors/leaflet-omnivore.min.js"></script>
 
 <!--leaflet-->
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-     crossorigin=""/>
-    <!-- leaflet-ui -->
+<!-- leaflet-ui -->
 <script src="https://unpkg.com/leaflet@1.3.2/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.2.0/dist/leaflet-ui.js"></script>
 
 <!-- leaflet-elevation -->
-<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
-<script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
-    <link rel="stylesheet" href="leaflet-elevation.css" />
-   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-     integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-     crossorigin=""></script>
-     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-    <script type="text/javascript" src="leaflet-elevation.js"></script>
-    
-<!--leaflet-->
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+	
+
+ 
+	<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+	<script type="text/javascript" src="leaflet-elevation.js"></script>
+  <script type="text/javascript" src="leaflet-elevation.js"></script>
+  
+  <!--GPX leaflet-->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
+
+
+<!--cesium-->
   <link href="./dist/Cesium/Widgets/widgets.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+
+  <!--<link rel="stylesheet" href="./dist/cesium-navigation/cesium-navigation.css" />
+  <script src="./dist/cesium-navigation/cesium-navigation.js"></script>-->
+
+
   <link rel="shortcut icon" href="favicon.ico">
   <title>Rutes 3D 🚶‍♂</title>
 
@@ -58,7 +67,7 @@
       </div>
     </div>
       <div class="item">
-        Mapa Base <i class="map icon iconooff"></i> 
+        Mapa Base <i class="map icon" id="iniciaHome"></i> 
         <div class="menu">
           <a class="item labeling" id="ortofotoMenu">Ortofoto</a>
           <a class="item labeling" id= "topographicMenu" >Topogràfic</a>
@@ -75,10 +84,14 @@
         <div class="item">Capes adicionals<i class="tasks icon iconooff"></i>
         
         <div class="inline field ">
-          <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox" class= "allausLayer"><label class="layerslabel labelinglayer">Allaus</label></div>
+          
+          <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox" class= "toponimsLayer"  checked="checked"><label class="layerslabel labelinglayer">Toponims</label></div>
+          <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox" class= "allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
+            <a  class="item" id="infoallausid" href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA"><i class="info icon iconooff infoallaus" ></i></a></div>
           <div class="ui toggle mini checkbox cims" ><input  id="cimsToggle" type="checkbox" class= "cimsLayer"><label class="layerslabel labelinglayer">Cims emblemàtics</label></div>
           <div class="ui toggle mini checkbox landslides"><input id="landslidesToggle" type="checkbox" class= "landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label></div>
-          <div class="ui toggle mini checkbox carreteres checked"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer"><label class="layerslabel labelinglayer">Carreteres</label></div>
+          <div class="ui toggle mini checkbox slope20"><input id="slope20Toggle" type="checkbox" class= "slope20Layer"><label class="layerslabel labelinglayer">Pendent > 20º</label></div>
+          <div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer" checked="checked"><label class="layerslabel labelinglayer">Híbrid</label></div>
           
       </div>
     </div>
@@ -94,7 +107,7 @@
       <div><a class="item" href="mailto:geostarters@gmail.com">Contactan's! <i class="mail icon iconooff"></i> </a>
       </div>
 
-      <div class="textPalau"><p >Cerca, visualitza, anima i descarrega rutes provinents de la base de dades de <a id="palaurobert" href="https://analisi.transparenciacatalunya.cat/Turisme/Rutes-de-senderisme-creades-pel-Palau-Robert/n8mr-w2z4">Palau Robert</a><br><br></p></a>
+      <div class="textPalau"><p >Cerca, visualitza, anima i descarrega rutes provinents de la base de dades de la <a id="palaurobert" href="https://analisi.transparenciacatalunya.cat/Turisme/Rutes-de-senderisme-creades-pel-Palau-Robert/n8mr-w2z4">Generalitat de Catalunya</a><br><br></p></a>
       </div>
     </div>
   
@@ -117,7 +130,9 @@
       <div id="erasefilebutton">
         <i class="circular share square icon"></i><span class="spnText"> Surt</span>
       </div>
-      
+      <div id="elevationbutton">
+        <i class="circular chart area icon"></i><span class="spnText"> Perfil</span>
+      </div>
     </div>
   </div>
   <!--END CONTROL ANIMACIO-->
@@ -136,12 +151,13 @@
    <!-- <div class="carreteres"><i class="carIcon car large icon red"></i>Mostra carreteres</div>-->
     </form >
     
-    <input type="file" (change)="fileEvent($event)" class="inputfile" id="uploadbutton" />
+    <input type="file" (change)="fileEvent($event)" class="inputfile ui small white button" id="uploadbutton" />
              <label for="uploadbutton" class="ui small green button responbutton">
                 <i class="ui upload icon"></i> 
                     Puja el teu GPX
              </label>
       
+    <p id="distanceLabel"> Distància: 0 km </p>
     </div>
 
     </div>
@@ -157,12 +173,17 @@
 <!--START MAPA-->
   <div id="map"></div>
 <!--END MAPA-->
+
+
 <!--START ICGC LOGO-->
   <div class="icgcLogoPosition">
     <a href="https://icgc.cat" alt="{textLogo}" target="_blank">
       <div class="icgclogo"></div>
     </a>
   </div>
+ 
+  <div id="elevation-div"></div>
+
 <!--END ICGC LOGO-->
   </div>
 </div>

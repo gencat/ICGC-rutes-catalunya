@@ -14,6 +14,7 @@ const URL_TOPO =  "https://tilemaps.icgc.cat/mapfactory/wmts/topo_suau/CAT3857/{
 const URL_GEOL = "https://tilemaps.icgc.cat/mapfactory/wmts/geologia/MON3857NW/{z}/{x}/{y}.png";
 const URL_RELLEU = "https://tilemaps.icgc.cat/mapfactory/wmts/gris_topo_suau/CAT3857/{z}/{x}/{y}.png";
 const URL_ADMIN = "https://tilemaps.icgc.cat/mapfactory/wmts/limits/CAT3857/{z}/{x}/{y}.png";
+const URL_TOPONIM = "https://tilemaps.icgc.cat/mapfactory/wmts/toponimia/CAT3857/%7Bz%7D/%7Bx%7D/%7By%7D.png";
 let URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
 
 var imPro;
@@ -68,7 +69,8 @@ $(window.document).ready(() => {
 	if (dev) {
 		
 		imPro = new Cesium.ArcGisMapServerImageryProvider({
-			url : 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
+			//url : 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
+			url : 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?',
 			enablePickFeatures: false,
 			maximumLevel: 18,
 			credit: "ArcGIS"
@@ -420,7 +422,10 @@ $(window.document).ready(() => {
 
 			if (rutaIniciada) {
 
-				initAnimation();
+				//initAnimation();
+				//poner clock a 0
+				startPlaying().oldCoord= null;
+				startPlaying().distance = 0;
 				jQuery("#play i").removeClass("circular play icon");
 				jQuery("#play i").addClass("circular pause icon");
 				
@@ -431,12 +436,22 @@ $(window.document).ready(() => {
 
 		$('#erasefilebutton').on("click", () => {
 			console.log("clickerase")
+			setupPause();
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
 				
 				viewer.dataSources.removeAll ();
-
+				
+				
 			}
+
+		
+			$("#distanceLabel").hide();
+
+			
+			
+			
+
 		});
 
 		$(".ui.search")
@@ -515,6 +530,48 @@ $(window.document).ready(() => {
 			
 		})	
 
+//
+$("#slope20Toggle").change(function() {
+
+	console.log("slope20Toggle")
+	
+	if ($(this).is(':checked')) {
+
+		console.log("onslope20")
+		imPro= new Cesium.WebMapServiceImageryProvider({
+			url : 'http://geoserveis.icc.cat/icgc_mp20p5m/wms/service? ',
+			layers : 'MP20P5M_PA',
+			enablePickFeatures: true,
+			showEntitiesLabels:true,
+			credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+		
+		})
+		var layers = viewer.imageryLayers;
+		layers.addImageryProvider(imPro);
+	}
+	else {
+		console.log("offslope20")
+		var layers = viewer.imageryLayers;
+		//quina es?
+		var baseLayer = layers.get(1);
+		console.log("typeof => ", typeof layers)
+		console.log("layers =>", layers)
+		let layersArray = layers._layers
+		console.log(typeof layersArray)
+		console.log("layers =>", layersArray)
+		layersArray.map((layer, index) => {
+			console.log(layer)
+			console.log("imageryproveider", layer.imageryProvider)
+			if (layer.imageryProvider._resource._url === 'http://geoserveis.icc.cat/icgc_mp20p5m/wms/service'){
+				console.log("indice =>", index)
+				layers.remove(layer);
+			}
+		})
+		
+	}
+	
+})	
+//
 		$("#allausToggle").change(function() {
 
 			console.log("allausToggle")
@@ -558,8 +615,49 @@ $(window.document).ready(() => {
 			}
 			
 		})	
+//
+$("#toponimsToggle").change(function() {
 
+	console.log("toponimsToggle")
+	
+	if ($(this).is(':checked')) {
 
+		console.log("onToponims")
+		imPro = new Cesium.UrlTemplateImageryProvider({
+			url: URL_TOPONIM ,
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "Institut Cartogràfic i Geològic de Catalunya"
+		
+			
+		})
+		var layers = viewer.imageryLayers;
+		layers.addImageryProvider(imPro);
+	}
+	else {
+		console.log("offToponims")
+		var layers = viewer.imageryLayers;
+		//quina es?
+		var baseLayer = layers.get(1);
+		console.log("typeof => ", typeof layers)
+		console.log("layers =>", layers)
+		let layersArray = layers._layers
+		console.log(typeof layersArray)
+		console.log("layers =>", layersArray)
+		layersArray.map((layer, index) => {
+			console.log(layer)
+			console.log("imageryproveider", layer.imageryProvider)
+			if (layer.imageryProvider._resource._url === URL_TOPONIM){
+				console.log("indice =>", index)
+				layers.remove(layer);
+			}
+		})
+		
+	}
+	
+})	
+
+//
 		$("#landslidesToggle").change(function() {
 
 			console.log("landslidesToggle")
@@ -706,6 +804,7 @@ $(window.document).ready(() => {
 			$('#uploadButton').prop("name", ruta)
 			$("#elevationbutton").prop("elevation", gpx)
 			$('#uploadbutton').attr('data-gpx', gpxDataSource)
+			$("#distanceLabel").show();
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
@@ -888,6 +987,7 @@ $(window.document).ready(() => {
 			layers.addImageryProvider(imPro);
 			
 		})
+		
 	};
 
 
@@ -916,15 +1016,42 @@ $(window.document).ready(() => {
 		console.info("entro");
 
 		const event = "play";
-	
+		let distance = 0
+		let oldCoord = null
 
-		//esto anima o deja estaico
+		// anima o estatic
 		if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || (event === "play")) {
 			//Resetea la ruta
 			viewer.clock.currentTime = Cesium.JulianDate.fromIso8601(trackGeoJSON.features[0].properties.coordTimes[0]);
 		}
 
 		viewer.clock.onTick.addEventListener((clock) => {
+
+			
+			const actualCoord = trackDataSource.entities.getById("track").position.getValue(clock.currentTime);
+			//var actualCoord= Cesium.Ellipsoid.WGS84.cartesianToCartographic(cartesianCoord);  
+			//var lon = Cesium.Math.toDegrees(actualCoord.longitude);
+			//var lat = Cesium.Math.toDegrees(actualCoord.latitude);
+			
+			if (oldCoord && (oldCoord != actualCoord)){
+
+				let _distance = Cesium.Cartesian3.distance(actualCoord, oldCoord)
+
+				distance += _distance
+				console.log("_distance => ", _distance)
+				console.log("DISTANCIA TOTAL => ", distance)
+
+				if (distance>0){
+					$("#distanceLabel").html(`${distance / 1000.0} km`)
+					$("#distanceLabel").text(`Distància: ${distance / 1000.0} km`)
+					
+				}
+			}
+
+			oldCoord = actualCoord	
+			
+			
+			
 
 			// This example uses time offsets from the start to identify which parts need loading.
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
@@ -952,28 +1079,19 @@ $(window.document).ready(() => {
 
 //part de codi per recollir distància acumulada COMENÇA
 
-/*
-		//recupera la posició del billboard
-		let currentPosition = trackDataSource.entities.getById("track").billboard.position.getValue();
-			console.log('currentPosition-->', currentPosition)
+		//recupera la posició del billboar
 
-			let distance = 0
-			
-			for (var index = 0; index < arrayPoints.lenght; index++){
-				if (index == 0){
-					continue
-				} else {
-					//per sumar les distàncies
-					let actualPoint = arrayPoints[index]
-					let lastPoint = arrayPoints[index - 1]
-					distance += Cesium.Cartesian3.distance(actualPoint, lastPoint)
-				}
-			}
 
-*/
 			//FINALITZA	
 
 	}
+
+
+//pruebas sin animar
+
+
+
+// fin pruebas
 	function animate(animate = true){
 		viewer.clock.shouldAnimate = animate;
 	}
@@ -989,7 +1107,7 @@ $(window.document).ready(() => {
 	}
 
 	function resetPlay() {
-
+	
 		viewer.clock.shouldAnimate = false;
 		viewer.trackedEntity = undefined;
 		viewer.trackedEntity = undefined;
@@ -1030,13 +1148,15 @@ $(window.document).ready(() => {
 
 
 	function vistaInicial() {
+		
 
 		imPro = new Cesium.UrlTemplateImageryProvider({
-			url: URL_TOPO,
+			url: URL_ORTO ,
 			enablePickFeatures: false,
 			maximumLevel: 18,
 			credit: "Institut Cartogràfic i Geològic de Catalunya"
 		})
+		
 		
 		var layers = viewer.imageryLayers;
 		var baseLayer = layers.get(1);
@@ -1049,23 +1169,30 @@ $(window.document).ready(() => {
 		});
 
 
-		/*console.log("onToponim")
-				imPro= new Cesium.WebMapServiceImageryProvider({
-					url : 'http://geoserveis.icc.cat/icgc_bm5m/wms/service?',
-					layers : '30_PROVINCIA_PC,70_NOMCOMARCA_TX',
-					enablePickFeatures: true,
-					showEntitiesLabels:true,
-					credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-					parameters : {
-						transparent : 'true',
-						format : 'image/png'
-					}
-				})
-				var layers = viewer.imageryLayers;
-				layers.addImageryProvider(imPro);*/
 
 		Cesium.Hash(viewer);
-
+		
+		imPro = new Cesium.UrlTemplateImageryProvider({
+			url: URL_TOPONIM ,
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "Institut Cartogràfic i Geològic de Catalunya"
+		
+			
+		})
+		var layers = viewer.imageryLayers;
+		layers.addImageryProvider(imPro);
+		
+		imPro = new Cesium.UrlTemplateImageryProvider({
+			url: URL_carreteres,
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "Institut Cartogràfic i Geològic de Catalunya"
+		})
+		var layers = viewer.imageryLayers;
+		layers.addImageryProvider(imPro);
+		//viewer.extend(Cesium.viewerCesiumNavigationMixin, {});
+		$("#distanceLabel").hide();
 	}
 	function vistaInicialPro() {
 
@@ -1096,6 +1223,15 @@ $(window.document).ready(() => {
 		viewer.clock.onTick.addEventListener((clock) => {
 
 			// This example uses time offsets from the start to identify which parts need loading.
+			
+			const cartesianCoord = trackDataSource.entities.getById("track").position.getValue(clock.currentTime);
+             var cartoCoord= Cesium.Ellipsoid.WGS84.cartesianToCartographic(cartesianCoord);  
+             var lon = Cesium.Math.toDegrees(cartoCoord.longitude);
+            var lat = Cesium.Math.toDegrees(cartoCoord.latitude);
+            console.info("lat",lat);
+            console.info("lon",lon);
+			
+			
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
 			
 			

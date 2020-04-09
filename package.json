@@ -58,6 +58,7 @@
     "@geostarters/eslint-config": "^0.0.3",
     "javascript-state-machine": "^3.1.0",
     "jquery": "^3.4.1",
+    "leaflet.elevation": "0.0.3",
     "opn": "^6.0.0",
     "wnumb": "^1.2.0"
   }

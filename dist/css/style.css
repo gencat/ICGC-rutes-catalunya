@@ -12,6 +12,10 @@ html body {
   width: 100%;
 }
 
+#iniciaHome:hover {
+  background-color:rgb(24, 6, 105) !important;
+    
+}
 
 
 .h3 {
@@ -39,6 +43,14 @@ i.iconooff:hover {
   cursor: default;
   
 }
+#infoallaus{
+  display: inline !important;
+}
+
+.infoallausid{
+color: #21ba45;
+}
+
 #pausa {
   float: left;
   margin-right: 10px;
@@ -56,12 +68,24 @@ i.iconooff:hover {
 }
 
 .inputfile {
-	width: 0.1px;
-	height: 0.1px;
-	opacity: 0;
-  overflow: hidden;
- 	z-index: -1;
+	width:335.61px;
+	height: 100.61px;
+	opacity: 1;
+  z-index: 1;
+  float: left;
+   margin-top: 0px;
+   margin-left: 150px;
+   color: red;
+   font-size: 0.10em;
+   
 }
+
+.ui.inputfile:hover{
+  cursor: default;
+  background-color:none !important;
+  display: none;
+}
+
 .erasefile {
 	width: 0.1px;
 	height: 0.1px;
@@ -82,7 +106,26 @@ i.iconooff:hover {
   margin-top: -35px;
   margin-left: 150px;
   height: 35px;
+  z-index: 6;
 }
+
+.ui.white.button, .ui.white.buttons .button {
+  cursor: none;
+  background-color: rgba(121, 214, 93, 0);
+  color: rgba(46, 90, 20, 0.9);
+  text-shadow: none;
+  background-image: none;
+  float: inline-start;
+  margin-top: -38px;
+  margin-left: 170px;
+  height: 35px;
+  z-index: 6;
+  
+
+}
+
+
+
 .ui.red.button, .ui.red.buttons .button {
   background-color: none;
   color: #fff;
@@ -92,6 +135,7 @@ i.iconooff:hover {
   margin-top: -35px;
   margin-left: 315px;
   height: 35px;
+  z-index: 6;
   font-size: 2em;
 }
 
@@ -136,12 +180,21 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
 
-
+#test{
+  height: 100px;
+  z-index: 100000;
+  background-color: rgb(82, 21, 21);
+}
 .select:hover {
 
 background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
+#distanceLabel {
+  position: absolute;
+  margin-top: -32px;
+  margin-left: 90%;
+}
 
 #panellRutes {
   position: absolute;
@@ -149,7 +202,7 @@ background-color: rgba(255, 255, 255, 0.8) !important;
   /*top: 2px;
   left: 2px;*/
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 1);
   height: 50px;
   padding-top: 6px;
  /* border-radius: 40px;
@@ -290,7 +343,7 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 
 #menuSearch{
   float: left;
-  width: 50%;
+  width: 30%;
   z-index: 1200;
 
 }
@@ -517,11 +570,28 @@ small {
   bottom: 5px;
   z-index: 10000;
     /* width: 100%; */
-  left: 2%;
-  /* float: left; */
+  right: 2%;
+/*float: left;*/
   opacity: 0.8;
+  color: #21ba45;
 
 }
+
+
+
+
+.ui.basic.yellow.button, .ui.basic.yellow.buttons .button {
+  
+  box-shadow: 0 0 0 1px #fbbd08 inset !important;
+  color: #fbbd08 !important;
+  margin-bottom: 5px !important;
+  z-index: 20000 !important;
+  left: 10% !important;
+  float: right !important;
+  opacity: 0.8 !important;
+}
+
+
 
 /*.vermell {
 
@@ -773,12 +843,15 @@ padding-bottom: 10%;
     font-size: 0.461em !important;
   }
 
-
+  .inputfile {
+display: none !important;
+     
+  }
   .ui.small.button > .icon:not(.button) {
     font-size: 20px !important;
     display: inline-block !important;
     padding-left: 150px !important;
-    padding-top: 2px !important;
+    padding-top: 17px !important;
    }
   
    .ui.primary.button > .icon:not(.button) {

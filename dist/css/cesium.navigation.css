@@ -1,5 +1,5 @@
 .cesium-viewer-bottom {
-    display: none !important;
+    display: auto  !important;
    
 }
 
@@ -25,7 +25,7 @@ font-size:15px;line-height:40px;margin:0}.modal-header h1{font-size:15px;color:#
 .modal-close-button{right:15px;cursor:pointer;font-size:18px}#ui{z-index:2100}
 */
 @media print{.full-window{position:initial}
-.floating{display:none}}
+.floating{display:auto}}
 .markdown fieldset,
 .markdown input,
 .markdown select,
@@ -62,7 +62,7 @@ margin-top:0;margin-bottom:0}.markdown label{vertical-align:middle}
 	position:absolute;
 	pointer-events:auto;
 	background-color:rgba(240,240,240,.8);
-	display:none;
+	display:auto;
 	}
 	.floating{pointer-events:auto;position:absolute;border-radius:15px;background-color:rgba(240,240,240,.8)}.floating-vertical{pointer-events:auto;position:absolute;border-radius:15px;background-color:rgba(240,240,240,.8);padding-top:5px;padding-bottom:5px}.distance-legend{right:25px;bottom:30px;height:30px;width:125px;border:1px solid rgba(0,0,0,.1);box-sizing:content-box}.distance-legend-label{display:inline-block;font-family:Roboto,sans-serif;font-size:14px;font-weight:lighter;line-height:30px;color:#FFF;width:125px;text-align:center}
 .distance-legend-scale-bar{border-left:1px solid #FFF;border-right:1px solid #FFF;border-bottom:1px solid #FFF;position:absolute;height:10px;top:15px}
@@ -77,7 +77,7 @@ font-weight:300;
 -moz-user-select:none;
 -ms-user-select:none;
 user-select:none;
-display:none
+display:auto
 }
 .navigation-control,.navigation-control-last{cursor:pointer;border-bottom:1px solid #555}
 .naviagation-control:active{color:#FFF}.navigation-control-last{border-bottom:0}
@@ -106,4 +106,4 @@ background-color:rgba(240,240,240,.9);border:1px solid rgba(0,0,0,.8);box-sizing
 @media screen and (max-width:500px),screen and (max-height:320px){
 	.compass,.distance-legend,.navigation-controls{display:none}}
 @media print{.compass,.distance-legend,
-.navigation-controls{display:none}}
+.navigation-controls{display:auto}}
