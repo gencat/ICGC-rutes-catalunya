@@ -28,7 +28,7 @@ let viewer;
 let rutaIniciada = false;
 let isInPause = true;
 let labelsDatasource;
-
+var capturer = new CCapture( { format: 'jpg' } );
 
 
 
@@ -138,7 +138,7 @@ $(window.document).ready(() => {
 	viewer.scene.fog.density = 0.0002;
 	viewer.scene.fog.screenSpaceErrorFactor = 2;
 	L.control.elevation = true;
-	
+	$("#infobox").hide();
 
 	
 	vistaInicial();
@@ -219,11 +219,9 @@ $(window.document).ready(() => {
 
 					
 					viewer.entities.add({
-						position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
-
+						//position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
+						position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2],result),
 						
-											
-
 						label: {
 							
 							text: entity.properties.Toponim,
@@ -239,7 +237,7 @@ $(window.document).ready(() => {
 						}
 
 					});
-					
+				
 					
 					
 				} // en if
@@ -398,7 +396,10 @@ $(window.document).ready(() => {
 						startPlaying();
 						$("#loading").hide();
 						jQuery("#play i").removeClass("circular play icon");
-    					jQuery("#play i").addClass("circular pause icon")
+						jQuery("#play i").addClass("circular pause icon")
+						//capturer.start();
+						
+						
 	
 					});
 					isInPause = false
@@ -418,6 +419,16 @@ $(window.document).ready(() => {
 
 		});
 
+
+	
+		$("#stopvideobutton").on("click", () => {
+
+			console.log('stopvideo-->click' )
+			
+			capturer.save();
+		});
+
+
 		$("#home").on("click", () => {
 
 			if (rutaIniciada) {
@@ -426,6 +437,10 @@ $(window.document).ready(() => {
 				//poner clock a 0
 				startPlaying().oldCoord= null;
 				startPlaying().distance = 0;
+				startPlaying().oldElev= null;
+				startPlaying().desnivellPositiu = 0
+				startPlaying().desnivellNegatiu = 0
+
 				jQuery("#play i").removeClass("circular play icon");
 				jQuery("#play i").addClass("circular pause icon");
 				
@@ -437,6 +452,8 @@ $(window.document).ready(() => {
 		$('#erasefilebutton').on("click", () => {
 			console.log("clickerase")
 			setupPause();
+			
+			
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
 				
@@ -444,10 +461,11 @@ $(window.document).ready(() => {
 				
 				
 			}
-
-		
-			$("#distanceLabel").hide();
-
+			
+				$("#infobox").hide();
+				
+			
+			
 			
 			
 			
@@ -474,6 +492,7 @@ $(window.document).ready(() => {
 						$("#controls").show();
 						$("#pausa").hide();
 						$("#loading").hide();
+						
 						showEntitiesLabels(false);
 						rutaIniciada = false;
 						loadGPX(result.id);
@@ -793,7 +812,6 @@ $("#toponimsToggle").change(function() {
 
 	function loadGPX(gpx) {
 
-
 		
 		const ruta = `dist/data/rutes/${gpx}`;
 		
@@ -804,12 +822,18 @@ $("#toponimsToggle").change(function() {
 			$('#uploadButton').prop("name", ruta)
 			$("#elevationbutton").prop("elevation", gpx)
 			$('#uploadbutton').attr('data-gpx', gpxDataSource)
-			$("#distanceLabel").show();
+			$("#infobox").hide();
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
-
+				let distance = 0
+				
+				let desnivellPositiu = 0
+				let desnivellNegatiu = 0
+				
 				viewer.dataSources.remove(gpxDataSource);
-
+				$("#distanceLabel").text(`↦ ${(distance / 1000.0).toFixed(2)} km`)
+				$("#desnivellPositiuLabel").text(`↑ ${desnivellPositiu.toFixed(2)} m`)
+				$("#desnivellNegatiuLabel").text(`↓ ${desnivellNegatiu.toFixed(2)} m`)
 			}
 
 			
@@ -861,7 +885,7 @@ $("#toponimsToggle").change(function() {
 
 				//const autoPlay = true;
 				//setUp3DTrackControls (trackGeoJSON, autoPlay);
-				// var trailHeadHeight = trackGeoJSON.features[0].geometry.coordinates[0][2];
+				//var trailHeadHeight = trackGeoJSON.features[0].geometry.coordinates[0][2];
 				// setUp3DZoomControls(trailHeadHeight);
 				//addToponims(gpx);
 
@@ -994,6 +1018,15 @@ $("#toponimsToggle").change(function() {
 
 //start controls animacio
 
+	function render(){
+		requestAnimationFrame(render);
+		console.info('render....')
+		capturer.capture( canvas );
+	}
+
+	render()
+
+
 	function setupPause(){
 		
 		jQuery("#play i").removeClass("circular pause icon")
@@ -1012,12 +1045,23 @@ $("#toponimsToggle").change(function() {
 
 	function startPlaying() {
 
-
+			
 		console.info("entro");
 
 		const event = "play";
 		let distance = 0
 		let oldCoord = null
+		let desnivellPositiu = 0
+		let desnivellNegatiu = 0
+		let oldElev = null
+		$("#infobox").show();
+		
+
+		
+
+
+
+		//let desnivellNegatiu = 0
 
 		// anima o estatic
 		if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || (event === "play")) {
@@ -1027,31 +1071,55 @@ $("#toponimsToggle").change(function() {
 
 		viewer.clock.onTick.addEventListener((clock) => {
 
-			
 			const actualCoord = trackDataSource.entities.getById("track").position.getValue(clock.currentTime);
-			//var actualCoord= Cesium.Ellipsoid.WGS84.cartesianToCartographic(cartesianCoord);  
-			//var lon = Cesium.Math.toDegrees(actualCoord.longitude);
-			//var lat = Cesium.Math.toDegrees(actualCoord.latitude);
-			
+			var actualcartoCoord= Cesium.Ellipsoid.WGS84.cartesianToCartographic(actualCoord);  
+			const actualElev = actualcartoCoord.height;
+		 			//console.info("ele",actualElev);	//Ok funciona
+		
+			   
+		   
+			//const actualElev =  trackGeoJSON.features.getById("track").geometry.coordinates.getValue[clock.currentTime];
+								
+
 			if (oldCoord && (oldCoord != actualCoord)){
-
+				
 				let _distance = Cesium.Cartesian3.distance(actualCoord, oldCoord)
-
 				distance += _distance
-				console.log("_distance => ", _distance)
-				console.log("DISTANCIA TOTAL => ", distance)
+					
+					//console.log("_distance => ", _distance)
+					//console.log("DISTANCIA TOTAL => ", distance)
+
+				
+
+				if (oldElev < actualElev){
+						
+					let _desnivellPositiu = actualElev - oldElev
+						desnivellPositiu += _desnivellPositiu 
+						//console.log("_desnivellPositiu => ", _desnivellPositiu)
+						//console.log("desnivellPositiu TOTAL => ", desnivellPositiu)
+				}
+
+				if (oldElev >= actualElev){
+						let _desnivellNegatiu = actualElev - oldElev
+						desnivellNegatiu += Math.abs(_desnivellNegatiu)
+											
+							//console.log("_desnivellPositiu => ", _desnivellNegatiu)
+							//console.log("desnivellPositiu TOTAL => ", desnivellNegatiu)
+				}
 
 				if (distance>0){
 					$("#distanceLabel").html(`${distance / 1000.0} km`)
-					$("#distanceLabel").text(`Distància: ${distance / 1000.0} km`)
+					$("#distanceLabel").text(`↦ ${(distance / 1000.0).toFixed(2)} km`)
+					$("#desnivellPositiuLabel").text(`↑ ${desnivellPositiu.toFixed(2)} m`)
+					$("#desnivellNegatiuLabel").text(`↓ ${desnivellNegatiu.toFixed(2)} m`)
+					//$("#desnivellPercentLabel").text(`Slope ${Math.atan(desnivellPositiu / distance).toFixed(2)} km`)
 					
 				}
+						
 			}
-
+			
 			oldCoord = actualCoord	
-			
-			
-			
+			oldElev = actualElev	
 
 			// This example uses time offsets from the start to identify which parts need loading.
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
@@ -1069,31 +1137,23 @@ $("#toponimsToggle").change(function() {
 				console.info("final ruta");
 
 			}
+			
 		});
 
-			
+		
 		// fa que e simbol del hiker es mogui
 		trackDataSource.entities.getById("track").billboard.show = true;
 		viewer.clock.shouldAnimate = true;
-
-
-//part de codi per recollir distància acumulada COMENÇA
-
-		//recupera la posició del billboar
-
-
-			//FINALITZA	
-
+		console.log('startvideo-->click' )
+		
 	}
 
 
-//pruebas sin animar
 
 
-
-// fin pruebas
 	function animate(animate = true){
 		viewer.clock.shouldAnimate = animate;
+
 	}
 
 	function endLoading() {
@@ -1149,7 +1209,7 @@ $("#toponimsToggle").change(function() {
 
 	function vistaInicial() {
 		
-
+		$("#infobox").hide();
 		imPro = new Cesium.UrlTemplateImageryProvider({
 			url: URL_ORTO ,
 			enablePickFeatures: false,
@@ -1173,6 +1233,15 @@ $("#toponimsToggle").change(function() {
 		Cesium.Hash(viewer);
 		
 		imPro = new Cesium.UrlTemplateImageryProvider({
+			url: URL_carreteres,
+			enablePickFeatures: false,
+			maximumLevel: 18,
+			credit: "Institut Cartogràfic i Geològic de Catalunya"
+		})
+		var layers = viewer.imageryLayers;
+		layers.addImageryProvider(imPro);
+		
+		imPro = new Cesium.UrlTemplateImageryProvider({
 			url: URL_TOPONIM ,
 			enablePickFeatures: false,
 			maximumLevel: 18,
@@ -1192,7 +1261,8 @@ $("#toponimsToggle").change(function() {
 		var layers = viewer.imageryLayers;
 		layers.addImageryProvider(imPro);
 		//viewer.extend(Cesium.viewerCesiumNavigationMixin, {});
-		$("#distanceLabel").hide();
+		
+		
 	}
 	function vistaInicialPro() {
 

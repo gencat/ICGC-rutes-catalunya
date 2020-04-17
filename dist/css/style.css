@@ -6,17 +6,149 @@ html body {
 
 #map {
 
+  /*position: absolute;*/
+  top: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
   position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
 }
+
+#uploadbutton{
+  position: relative;
+  display: none;
+}
+.header_container{
+  width: 100%;
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(30, 97, 148);
+  color: #fff;
+  z-index: 300000;
+  position: relative;
+}
+.gencatlogo {
+  background-size: 99%;
+  width: 145px;
+ 
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-color: hsla(0,0%,99.6%,0);
+  
+  padding-top: 5px;
+}
+
+
+.icgclogo {
+  
+  background-size: 99%;
+  width:115px;
+  height: 50px;
+  background-position: 50%;
+  background-image: url(ICGC_white.svg);
+  background-repeat: no-repeat;
+  background-color: hsla(0,0%,99.6%,0);
+}
+
+.header_logos{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.ui.inverted.button.infoheader{
+  font-size: smaller;
+}
+.header_logo {
+  max-width: 10em;
+  padding: .5rem;
+}
+
+.header_logoGencat {
+  max-width: 10em;
+  padding: .5rem;
+}
+
+.header_title {
+  padding: 1em;
+      padding-right: 1em;
+  padding-right: 10%;
+}
+.h2_title{
+  font-size: x-large;
+}
+.header_itemInfo{
+  padding: .8em;
+  max-height: fit-content;
+
+}
+
+.ui.circular.button{
+  border-radius: 10em;
+}
+
+.ui.inverted.button{
+  box-shadow: inset 0 0 0 2px #fff !important;
+background: transparent none;
+color: #fff;
+text-shadow: none !important;
+}
+
+
+.footer_container{
+  
+    width: 100%;
+    max-height: 3em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: .5em;
+    background-color: rgba(137, 193, 235, 0.493);
+    position: absolute;
+    bottom: 0;
+    z-index: 51000;
+    justify-content: space-between;
+}
+
+
+.form_container{
+  
+  width: 100%;
+  max-height: 3em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: .5em;
+  background-color: rgba(137, 193, 235, 0.493);
+  position: absolute;
+  bottom: 0;
+  z-index: 51000;
+  justify-content: space-between;
+}
+
+
 
 #iniciaHome:hover {
   background-color:rgb(24, 6, 105) !important;
     
 }
 
+#infobox {
+  position: absolute;
+  background-color: white;
+  display: block;
+  top: 10%;
+  z-index: 10000;
+  width: 7%;
+  border-radius: 5%;
+  right: 0;
+  float: right;
+  opacity: 0.6;
+  color: black;
+  
+}
 
 .h3 {
   font-size:1.2em !important;
@@ -34,6 +166,8 @@ html body {
   display: none;
 }
 
+
+
 i {
   cursor: pointer
 }
@@ -47,9 +181,34 @@ i.iconooff:hover {
   display: inline !important;
 }
 
-.infoallausid{
-color: #21ba45;
+#infoallausid {
+  color: #a3d1ff !important;
+  position: absolute;
+  display: inline;
+  width: 10%;
+  right: -130% !important;
+  top: -20%;
+  
 }
+#infoallausid:hover {
+cursor: pointer !important; 
+
+}
+
+#infolandslidesid:hover {
+  cursor: pointer !important; 
+  
+  }
+
+#infolandslidesid {
+  color: #a3d1ff !important;
+  position: absolute;
+  display: block;
+  width: 10%;
+  right: -60% !important;
+  top: -20%;
+}
+
 
 #pausa {
   float: left;
@@ -107,17 +266,18 @@ color: #21ba45;
   margin-left: 150px;
   height: 35px;
   z-index: 6;
+ position: absolute;
 }
 
 .ui.white.button, .ui.white.buttons .button {
   cursor: none;
   background-color: rgba(121, 214, 93, 0);
-  color: rgba(46, 90, 20, 0.9);
+  color: rgba(46, 90, 20, 0);
   text-shadow: none;
   background-image: none;
   float: inline-start;
   margin-top: -38px;
-  margin-left: 170px;
+  margin-left: 11%;
   height: 35px;
   z-index: 6;
   
@@ -163,7 +323,7 @@ color: #21ba45;
 #controls {
   position: absolute;
   z-index: 100;
-  bottom: 50%;
+  bottom: 30%;
   right: 0%;
   background-color: rgba(255, 255, 255, 0.6);
   padding: 10px;
@@ -190,11 +350,30 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
-#distanceLabel {
+
+.infoLabel {
+  right: 0 !important;
+  position: relative;
+  float: right;
+  padding-right: 15%;
+  padding-left: 10%;
+}
+
+/*#distanceLabel {
   position: absolute;
   margin-top: -32px;
   margin-left: 90%;
 }
+#desnivellPositiuLabel {
+  position: absolute;
+  margin-top: -32px;
+  margin-left: 72%;
+}
+#desnivellNegatiuLabel {
+  position: absolute;
+  margin-top: -12px;
+  margin-left: 72%;
+}*/
 
 #panellRutes {
   position: absolute;
@@ -202,7 +381,7 @@ background-color: rgba(255, 255, 255, 0.8) !important;
   /*top: 2px;
   left: 2px;*/
   width: 100%;
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.7);
   height: 50px;
   padding-top: 6px;
  /* border-radius: 40px;
@@ -564,6 +743,10 @@ small {
   font-size: 0.75em;
 }
 
+.logo2 {
+  height: 45px;
+}
+
 .icgcLogoPosition{
   position: absolute;
   display: block;
@@ -606,16 +789,6 @@ small {
 
 }*/
 
-.icgclogo {
-  
-  background-size: 99%;
-  width:150px;
-  height: 50px;
-  background-position: 50%;
-  background-image: url(ICGC_white.svg);
-  background-repeat: no-repeat;
-  background-color: hsla(0,0%,99.6%,0);
-}
 
 #sideBarOptions{
 
@@ -761,7 +934,9 @@ background-color: rgb(68, 86, 189);
 
 @media only screen and (max-height: 700px) {
 
-
+  .h2_title{
+    font-size: medium;
+  }
   #steps-slider {
 
     height: 70%;
@@ -791,6 +966,8 @@ background-color: rgb(68, 86, 189);
 /*RESPONSIVE 1200*/
 
 @media only screen and (max-width: 1200px) {
+ 
+
   .amplaLogo {
 
     width: 50px !important;
@@ -838,11 +1015,34 @@ padding-bottom: 10%;
 
 @media only screen and (max-width: 500px) {
 
-  #responbutton {
-   
-    font-size: 0.461em !important;
+
+  .ui.inverted.button.infoheader{
+  font-size: x-small;
+}
+
+.footerButton{
+  display: none;
+}
+  .h2_title{
+    font-size: medium;
   }
 
+  .header_logos{
+    display: none
+  }
+
+
+.ui.search .results {
+    max-width: calc(100vw - 2rem);
+    font-size: x-small !important;
+}
+.ui.search .prompt {
+ 
+  font-size: smaller !important;
+}
+#panellRutes{
+  display: relative !important;
+}
   .inputfile {
 display: none !important;
      
@@ -871,6 +1071,7 @@ display: none !important;
  .ui.small.button {
    font-size: 0.11px !important;
    background: none !important;
+   position: relative;
    
 
   }
@@ -879,6 +1080,7 @@ display: none !important;
     font-size: 0.16px !important;
     background: none !important;
 }
+
 
 .ui.checkbox {
   position: relative !important;
@@ -1033,7 +1235,7 @@ display: none !important;
   }
 
   .ui.left.sidebar {
-    width: 150px !important;
+    width: 200px !important;
   }
   .ui.vertical.menu .item > i.icon {
     display: none;
@@ -1047,22 +1249,30 @@ display: none !important;
 /*      max-height: 9.349999995rem; /* Adds a half */
         max-height: 16.02857142rem; /* Double size */
     }
-
-
+    .h2_title{
+      font-size: medium;
+    }
+    .header_logos{
+      display: none
+    }
+   
 }
 @media only screen and (min-width: 768px) {
     .ui.selection.dropdown .menu {
 /*   max-height: 10.68571429rem; /* + 1.3357142863 to 12.0214285763rem */
       max-height: 12.0214285763rem;
     }
+    
 }
 @media only screen and (min-width: 992px) {
     .ui.selection.dropdown .menu {
       max-height: 16.02857143rem; /* + 1.3357142858 to 17.3642857158rem */
     }
+    
 }
 @media only screen and (min-width: 1920px) {
     .ui.selection.dropdown .menu {
         max-height: 21.37142857rem; /* + 1.3357142856 to 22.7071428556rem */
     }
+    
 }
