@@ -26,9 +26,10 @@ var dev = true;
 var viewer;
 var rutaIniciada = false;
 var isInPause = true;
-var labelsDatasource;
+var labelsDatasource; //var capturer = new CCapture( { format: 'webm' } );
+
 var capturer = new CCapture({
-  format: 'jpg'
+  format: 'png'
 });
 $('.ui.fluid.dropdown').dropdown({
   maxSelections: 3
@@ -113,6 +114,7 @@ $(window.document).ready(function () {
   setupLayers();
   getElementById();
   addDistanceInfo();
+  render();
 
   function showEntitiesLabels(value) {
     if (labelsDatasource) {
@@ -273,7 +275,7 @@ $(window.document).ready(function () {
           startPlaying();
           $("#loading").hide();
           jQuery("#play i").removeClass("circular play icon");
-          jQuery("#play i").addClass("circular pause icon"); //capturer.start();
+          jQuery("#play i").addClass("circular pause icon");
         });
         isInPause = false;
       }
@@ -753,10 +755,8 @@ $(window.document).ready(function () {
   function render() {
     requestAnimationFrame(render);
     console.info('render....');
-    capturer.capture(canvas);
+    capturer.capture(viewer);
   }
-
-  render();
 
   function setupPause() {
     jQuery("#play i").removeClass("circular pause icon");
@@ -778,7 +778,8 @@ $(window.document).ready(function () {
     var desnivellPositiu = 0;
     var desnivellNegatiu = 0;
     var oldElev = null;
-    $("#infobox").show(); //let desnivellNegatiu = 0
+    $("#infobox").show();
+    render(); //let desnivellNegatiu = 0
     // anima o estatic
 
     if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || event === "play") {
@@ -793,6 +794,8 @@ $(window.document).ready(function () {
       //const actualElev =  trackGeoJSON.features.getById("track").geometry.coordinates.getValue[clock.currentTime];
 
       if (oldCoord && oldCoord != actualCoord) {
+        capturer.start();
+
         var _distance = Cesium.Cartesian3.distance(actualCoord, oldCoord);
 
         distance += _distance; //console.log("_distance => ", _distance)

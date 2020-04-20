@@ -28,8 +28,10 @@ let viewer;
 let rutaIniciada = false;
 let isInPause = true;
 let labelsDatasource;
-var capturer = new CCapture( { format: 'jpg' } );
 
+
+//var capturer = new CCapture( { format: 'webm' } );
+var capturer = new CCapture( { format: 'jpg' } );
 
 
 $('.ui.fluid.dropdown')
@@ -146,6 +148,8 @@ $(window.document).ready(() => {
 	setupLayers();
 	getElementById();
 	addDistanceInfo();
+	render();
+
 	
 	function showEntitiesLabels(value) {
 
@@ -397,7 +401,7 @@ $(window.document).ready(() => {
 						$("#loading").hide();
 						jQuery("#play i").removeClass("circular play icon");
 						jQuery("#play i").addClass("circular pause icon")
-						//capturer.start();
+						
 						
 						
 	
@@ -1021,11 +1025,10 @@ $("#toponimsToggle").change(function() {
 	function render(){
 		requestAnimationFrame(render);
 		console.info('render....')
-		capturer.capture( canvas );
+		capturer.capture( viewer);
 	}
 
-	render()
-
+	
 
 	function setupPause(){
 		
@@ -1055,10 +1058,7 @@ $("#toponimsToggle").change(function() {
 		let desnivellNegatiu = 0
 		let oldElev = null
 		$("#infobox").show();
-		
-
-		
-
+		render();
 
 
 		//let desnivellNegatiu = 0
@@ -1083,6 +1083,7 @@ $("#toponimsToggle").change(function() {
 
 			if (oldCoord && (oldCoord != actualCoord)){
 				
+				//capturer.start();
 				let _distance = Cesium.Cartesian3.distance(actualCoord, oldCoord)
 				distance += _distance
 					
@@ -1138,6 +1139,8 @@ $("#toponimsToggle").change(function() {
 
 			}
 			
+
+			
 		});
 
 		
@@ -1153,7 +1156,7 @@ $("#toponimsToggle").change(function() {
 
 	function animate(animate = true){
 		viewer.clock.shouldAnimate = animate;
-
+		capturer.start();
 	}
 
 	function endLoading() {
