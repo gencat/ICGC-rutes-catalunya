@@ -20,18 +20,10 @@
   <script src="./dist/vendors/leaflet.js"></script>
   <script src="./dist/vendors/leaflet-omnivore.min.js"></script>
 
-  <script src="./src/CCapture/CCapture.js"></script>
-<!-- Include WebM Writer if you want to export WebM -->
-<script src="./src/CCapture/webm-writer-0.2.0.js"></script>
-<!-- Include gifjs if you want to export GIF -->
-<script src="./src/CCapture/gif.js"></script>
-<!-- Include tar.js if you want to export PNG or JPEG -->
-<script src="./src/CCapture/tar.js"></script>
-<!-- Include download.js for easier file download -->
-<script src="./src/CCapture/download.js.js"></script>
-<script src="./src/CCapture/CCapture.all.min.js"></script>
+<!--Canvas Recorder-->
+<script src="./dist/vendors/CanvasRecorder.js"></script>
 
-<!--leaflet-->
+
 <!-- leaflet-ui -->
 <script src="https://unpkg.com/leaflet@1.3.2/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-ui@0.2.0/dist/leaflet-ui.js"></script>
@@ -42,14 +34,11 @@
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
    crossorigin=""/>
-	
-
- 
 	<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
    integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
    crossorigin=""></script>
 	<script type="text/javascript" src="leaflet-elevation.js"></script>
-  <script type="text/javascript" src="leaflet-elevation.js"></script>
+
   
   <!--GPX leaflet-->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
@@ -59,9 +48,6 @@
   <link href="./dist/Cesium/Widgets/widgets.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-
-  <!--<link rel="stylesheet" href="./dist/cesium-navigation/cesium-navigation.css" />
-  <script src="./dist/cesium-navigation/cesium-navigation.js"></script>-->
 
 
   <link rel="shortcut icon" href="favicon.ico">
@@ -98,16 +84,18 @@
         <div class="item">Capes adicionals<i class="tasks icon iconooff"></i>
         
         <div class="inline field ">
-          
-          <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox" class= "toponimsLayer"  checked="checked"><label class="layerslabel labelinglayer">Toponims</label></div>
+         <!-- <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox" class= "toponimsLayer"  checked="checked"><label class="layerslabel labelinglayer">Toponims</label></div>
+         -->
+          <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox" class= "toponimsLayer"  ><label class="layerslabel labelinglayer">Toponims</label></div>
           <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox" class= "allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
             <a  class="item" id="infoallausid" href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA"><i class="info icon iconooff infoallaus" ></i></a></div>
           <div class="ui toggle mini checkbox cims" ><input  id="cimsToggle" type="checkbox" class= "cimsLayer"><label class="layerslabel labelinglayer">Cims emblemàtics</label></div>
           <div class="ui toggle mini checkbox landslides"><input id="landslidesToggle" type="checkbox" class= "landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label>
             <a  class="item" id="infolandslidesid" href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces"><i class="info icon iconooff infoallaus" ></i></a></div>
           <div class="ui toggle mini checkbox slope20"><input id="slope20Toggle" type="checkbox" class= "slope20Layer"><label class="layerslabel labelinglayer">Pendent > 20º</label></div>
-          <div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer" checked="checked"><label class="layerslabel labelinglayer">Híbrid</label></div>
-          
+          <div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer" ><label class="layerslabel labelinglayer">Híbrid</label></div>
+          <!--<div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer" checked="checked"><label class="layerslabel labelinglayer">Híbrid</label></div>
+          -->
       </div>
     </div>
     </div>
@@ -159,7 +147,7 @@
 <!--START CONTROL ANIMACIO-->
   <div id="controls">
     <div id="aturar">
-
+<h4>Ruta</h4>
       <div id="play">
         <i class="circular play icon"></i><span class="spnText">Anima</span>
       </div>
@@ -174,12 +162,23 @@
       <div id="erasefilebutton">
         <i class="circular share square icon"></i><span class="spnText"> Surt</span>
       </div>
+    </div>
+
+    <div class="ui divider"></div>
+
+      <h4>Video</h4>
+      <div id="stopvideobutton">
+        <i class="circular video icon"></i><span class="spnText"> Atura</span>
+      </div>
+      <div id="savevideobutton">
+        <i class="circular save icon"></i><span class="spnText"> Desa</span>
+      </div>
+
+      <div class="ui divider"></div>
+  
+      <h4>Perfil</h4>
       <div id="elevationbutton">
         <i class="circular chart area icon"></i><span class="spnText"> Perfil</span>
-      </div>
-     
-      <div id="stopvideobutton">
-        <i class="circular video icon"></i><span class="spnText"> StopVideo</span>
       </div>
     </div>
   
@@ -224,7 +223,7 @@
 <!--START MAPA-->
   <div id="map"></div>
 <!--END MAPA-->
-<div id="infobox">
+<div id="infobox"><p class="infotext"> 🛈 Informació: </p>
   <p id="distanceLabel" class="infoLabel"> ↦ 0 km </p>
   <p id="desnivellPositiuLabel" class="infoLabel"> ↑ 0 m </p>
   <p id="desnivellNegatiuLabel" class="infoLabel"> ↓ 0 m </p>

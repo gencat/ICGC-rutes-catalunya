@@ -26,24 +26,23 @@ var dev = true;
 var viewer;
 var rutaIniciada = false;
 var isInPause = true;
-var labelsDatasource; //var capturer = new CCapture( { format: 'webm' } );
+var labelsDatasource;
+var capturer;
+var removeEvent; //var capturer = new CCapture( { format: 'jpg' } );
 
-var capturer = new CCapture({
-  format: 'png'
-});
-$('.ui.fluid.dropdown').dropdown({
+$(".ui.fluid.dropdown").dropdown({
   maxSelections: 3
 });
-$('.label.ui.dropdown').dropdown();
-$('.no.label.ui.dropdown').dropdown({
+$(".label.ui.dropdown").dropdown();
+$(".no.label.ui.dropdown").dropdown({
   useLabels: false
 });
-$('.ui.button').on('click', function () {
-  $('.ui.dropdown').dropdown('restore defaults');
+$(".ui.button").on("click", function () {
+  $(".ui.dropdown").dropdown("restore defaults");
 });
-$('.ui.button.fileRequest').click(function () {
+$(".ui.button.fileRequest").click(function () {
   // // hope the server sets Content-Disposition: attachment!
-  var ruta = $(this).attr('data-gpx');
+  var ruta = $(this).attr("data-gpx");
   console.log("onDownload");
   window.location = ruta;
 });
@@ -53,7 +52,7 @@ $(window.document).ready(function () {
   if (dev) {
     imPro = new Cesium.ArcGisMapServerImageryProvider({
       //url : 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
-      url: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?',
+      url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
       enablePickFeatures: false,
       maximumLevel: 18,
       credit: "ArcGIS"
@@ -111,10 +110,9 @@ $(window.document).ready(function () {
   $("#infobox").hide();
   vistaInicial();
   initEvents();
-  setupLayers();
-  getElementById();
-  addDistanceInfo();
-  render();
+  setupLayers(); //getElementById();
+  //addDistanceInfo();
+  //render();
 
   function showEntitiesLabels(value) {
     if (labelsDatasource) {
@@ -158,8 +156,8 @@ $(window.document).ready(function () {
           var opt = checkOptions(entity.properties.Concepte); //console.log('prop', entity.properties)
 
           viewer.entities.add({
-            //position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
-            position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2], result),
+            position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
+            //position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2],result),
             label: {
               text: entity.properties.Toponim,
               font: opt.font,
@@ -225,11 +223,11 @@ $(window.document).ready(function () {
   }
 
   function initEvents() {
-    $('#uploadbutton').on("change", function () {
+    $("#uploadbutton").on("change", function () {
       console.log("onUpload");
-      var ruta = document.getElementById('uploadbutton').files[0];
-      var gpx = $(ruta).attr('name');
-      console.log('valuegpx -->', gpx);
+      var ruta = document.getElementById("uploadbutton").files[0];
+      var gpx = $(ruta).attr("name");
+      console.log("valuegpx -->", gpx);
 
       if (ruta != null) {
         $("#controls").show();
@@ -239,7 +237,7 @@ $(window.document).ready(function () {
         showEntitiesLabels(false);
         rutaIniciada = false;
         console.log("path-->", ruta);
-        $('#uploadButton').prop("name", ruta);
+        $("#uploadButton").prop("name", ruta);
         viewer.dataSources.removeAll();
         loadGPX(gpx);
         console.log("rutaok");
@@ -258,11 +256,11 @@ $(window.document).ready(function () {
     jQuery("#menuIcon").on("click", function () {
       //		$("#sideBarOptions").sidebar("toggle");
       $("#sideBarOptions").first().sidebar("toggle");
-      $("toggle").removeClass('disabled');
+      $("toggle").removeClass("disabled");
     });
     jQuery("#play").on("click", function () {
       if (rutaIniciada) {
-        //canvia valor al contrari. SI està en pausa (false), al fer clic canvia a noPausa(true) i al reves. 
+        //canvia valor al contrari. SI està en pausa (false), al fer clic canvia a noPausa(true) i al reves.
         //De manera que si està en pause(false), l enterPauseMode serà false i llavors animarà.
         //Si està en play(NoPause, true), el enterPause mode serà true i llavors pausarà.
         isInPause = !isInPause;
@@ -289,8 +287,12 @@ $(window.document).ready(function () {
       $("#play").hide();
     });
     $("#stopvideobutton").on("click", function () {
-      console.log('stopvideo-->click');
-      capturer.save();
+      console.log("stopvideo-->click");
+      stopRender();
+    });
+    $("#savevideobutton").on("click", function () {
+      console.log("savevideo-->click");
+      saveRender();
     });
     $("#home").on("click", function () {
       if (rutaIniciada) {
@@ -305,7 +307,7 @@ $(window.document).ready(function () {
         jQuery("#play i").addClass("circular pause icon");
       }
     });
-    $('#erasefilebutton').on("click", function () {
+    $("#erasefilebutton").on("click", function () {
       console.log("clickerase");
       setupPause();
 
@@ -338,17 +340,17 @@ $(window.document).ready(function () {
     $("#cimsToggle").change(function () {
       console.log("cimsToggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("oncims");
         imPro = new Cesium.WebMapServiceImageryProvider({
-          url: 'http://geoserveis.icc.cat/icc_100cims/wms/service?',
-          layers: '0',
+          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
+          layers: "0",
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
           parameters: {
-            transparent: 'true',
-            format: 'image/png'
+            transparent: "true",
+            format: "image/png"
           }
         });
         var layers = viewer.imageryLayers;
@@ -367,7 +369,7 @@ $(window.document).ready(function () {
           console.log(layer);
           console.log("imageryproveider", layer.imageryProvider);
 
-          if (layer.imageryProvider._resource._url === 'http://geoserveis.icc.cat/icc_100cims/wms/service') {
+          if (layer.imageryProvider._resource._url === "http://geoserveis.icc.cat/icc_100cims/wms/service") {
             console.log("indice =>", index);
             layers.remove(layer);
           }
@@ -378,11 +380,11 @@ $(window.document).ready(function () {
     $("#slope20Toggle").change(function () {
       console.log("slope20Toggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("onslope20");
         imPro = new Cesium.WebMapServiceImageryProvider({
-          url: 'http://geoserveis.icc.cat/icgc_mp20p5m/wms/service? ',
-          layers: 'MP20P5M_PA',
+          url: "http://geoserveis.icc.cat/icgc_mp20p5m/wms/service? ",
+          layers: "MP20P5M_PA",
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya")
@@ -403,7 +405,7 @@ $(window.document).ready(function () {
           console.log(layer);
           console.log("imageryproveider", layer.imageryProvider);
 
-          if (layer.imageryProvider._resource._url === 'http://geoserveis.icc.cat/icgc_mp20p5m/wms/service') {
+          if (layer.imageryProvider._resource._url === "http://geoserveis.icc.cat/icgc_mp20p5m/wms/service") {
             console.log("indice =>", index);
             layers.remove(layer);
           }
@@ -414,17 +416,17 @@ $(window.document).ready(function () {
     $("#allausToggle").change(function () {
       console.log("allausToggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("onallaus");
         imPro = new Cesium.WebMapServiceImageryProvider({
-          url: 'http://siurana.icgc.cat/geoserver/nivoallaus/wms?',
-          layers: 'zonesallaus',
+          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
+          layers: "zonesallaus",
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
           parameters: {
-            transparent: 'true',
-            format: 'image/png'
+            transparent: "true",
+            format: "image/png"
           }
         });
         var layers = viewer.imageryLayers;
@@ -443,7 +445,7 @@ $(window.document).ready(function () {
           console.log(layer);
           console.log("imageryproveider", layer.imageryProvider);
 
-          if (layer.imageryProvider._resource._url === 'http://siurana.icgc.cat/geoserver/nivoallaus/wms') {
+          if (layer.imageryProvider._resource._url === "http://siurana.icgc.cat/geoserver/nivoallaus/wms") {
             console.log("indice =>", index);
             layers.remove(layer);
           }
@@ -454,7 +456,7 @@ $(window.document).ready(function () {
     $("#toponimsToggle").change(function () {
       console.log("toponimsToggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("onToponims");
         imPro = new Cesium.UrlTemplateImageryProvider({
           url: URL_TOPONIM,
@@ -489,17 +491,17 @@ $(window.document).ready(function () {
     $("#landslidesToggle").change(function () {
       console.log("landslidesToggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("onlandslides");
         imPro = new Cesium.WebMapServiceImageryProvider({
-          url: 'http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?',
-          layers: 'G6FIA_PA',
+          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
+          layers: "G6FIA_PA",
           enablePickFeatures: true,
           showEntitiesLabels: true,
           credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
           parameters: {
-            transparent: 'true',
-            format: 'image/png'
+            transparent: "true",
+            format: "image/png"
           }
         });
         var layers = viewer.imageryLayers;
@@ -518,7 +520,7 @@ $(window.document).ready(function () {
           console.log(layer);
           console.log("imageryproveider", layer.imageryProvider);
 
-          if (layer.imageryProvider._resource._url === 'http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service') {
+          if (layer.imageryProvider._resource._url === "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service") {
             console.log("indice =>", index);
             layers.remove(layer);
           }
@@ -528,7 +530,7 @@ $(window.document).ready(function () {
     $("#carreteresToggle").change(function () {
       console.log("carreteresToggle");
 
-      if ($(this).is(':checked')) {
+      if ($(this).is(":checked")) {
         console.log("oncarreteres");
         imPro = new Cesium.UrlTemplateImageryProvider({
           url: URL_carreteres,
@@ -581,13 +583,13 @@ $(window.document).ready(function () {
       var gpxRuta = new L.GPX(gpx, {
         async: true,
         marker_options: {
-          startIconUrl: './images/pin-icon-start.png',
-          endIconUrl: './images/pin-icon-end.png',
-          shadowUrl: './images/pin-shadow.png'
+          startIconUrl: "./images/pin-icon-start.png",
+          endIconUrl: "./images/pin-icon-end.png",
+          shadowUrl: "./images/pin-shadow.png"
         }
       }).addTo(map);
       el.loadGPX(map, gpx);
-      gpxRuta.on('loaded', function (e) {
+      gpxRuta.on("loaded", function (e) {
         map.fitBounds(e.target.getBounds());
       });
     });
@@ -598,11 +600,11 @@ $(window.document).ready(function () {
   function loadGPX(gpx) {
     var ruta = "dist/data/rutes/".concat(gpx);
     var lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
-      $('.ui.button.fileRequest').attr('data-gpx', ruta);
-      $('.ui.button.fileRequest').attr("href", ruta);
-      $('#uploadButton').prop("name", ruta);
+      $(".ui.button.fileRequest").attr("data-gpx", ruta);
+      $(".ui.button.fileRequest").attr("href", ruta);
+      $("#uploadButton").prop("name", ruta);
       $("#elevationbutton").prop("elevation", gpx);
-      $('#uploadbutton').attr('data-gpx', gpxDataSource);
+      $("#uploadbutton").attr("data-gpx", gpxDataSource);
       $("#infobox").hide();
 
       if (viewer.dataSources.contains(gpxDataSource)) {
@@ -628,7 +630,7 @@ $(window.document).ready(function () {
         stroke: Cesium.Color.RED,
         fill: Cesium.Color.BURLYWOOD,
         strokeWidth: 1,
-        markerSymbol: '?'
+        markerSymbol: "?"
       })); // fi track base prim
 
       viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then(function (ds) {
@@ -654,8 +656,6 @@ $(window.document).ready(function () {
     });
   }
 
-  ;
-
   function setupLayers() {
     $("#topographicMenu").on("click", function () {
       console.log("entrotopo");
@@ -673,7 +673,7 @@ $(window.document).ready(function () {
     $("#iniciaHome").on("click", function () {
       console.log("entroBaseMap");
       imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: 'https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?',
+        url: "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer?",
         enablePickFeatures: false,
         maximumLevel: 18,
         credit: "ArcGIS"
@@ -748,15 +748,8 @@ $(window.document).ready(function () {
       layers.remove(baseLayer);
       layers.addImageryProvider(imPro);
     });
-  }
+  } //start controls animacio
 
-  ; //start controls animacio
-
-  function render() {
-    requestAnimationFrame(render);
-    console.info('render....');
-    capturer.capture(viewer);
-  }
 
   function setupPause() {
     jQuery("#play i").removeClass("circular pause icon");
@@ -778,8 +771,7 @@ $(window.document).ready(function () {
     var desnivellPositiu = 0;
     var desnivellNegatiu = 0;
     var oldElev = null;
-    $("#infobox").show();
-    render(); //let desnivellNegatiu = 0
+    $("#infobox").show(); //let desnivellNegatiu = 0
     // anima o estatic
 
     if (viewer.clock.currentTime.equals(viewer.clock.stopTime) || event === "play") {
@@ -794,8 +786,6 @@ $(window.document).ready(function () {
       //const actualElev =  trackGeoJSON.features.getById("track").geometry.coordinates.getValue[clock.currentTime];
 
       if (oldCoord && oldCoord != actualCoord) {
-        capturer.start();
-
         var _distance = Cesium.Cartesian3.distance(actualCoord, oldCoord);
 
         distance += _distance; //console.log("_distance => ", _distance)
@@ -839,12 +829,30 @@ $(window.document).ready(function () {
 
     trackDataSource.entities.getById("track").billboard.show = true;
     viewer.clock.shouldAnimate = true;
-    console.log('startvideo-->click');
+    console.log("startvideo-->click");
+    initRender();
   }
 
   function animate() {
     var animate = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : true;
+    console.info("entro start");
     viewer.clock.shouldAnimate = animate;
+  }
+
+  capturer = new CanvasRecorder(viewer.scene.canvas);
+
+  function initRender() {
+    //capturer = new CanvasRecorder(viewer.scene.canvas);
+    capturer.start();
+  }
+
+  function stopRender() {
+    capturer.stop(); //window.open(capturer.save("ruta.webm"));
+  }
+
+  function saveRender() {
+    //capturer.save();
+    window.open(capturer.save("ruta.webm")); //capturer = undefined;
   }
 
   function endLoading() {
@@ -867,7 +875,7 @@ $(window.document).ready(function () {
     isInPause = false;
     viewer.clock.currentTime = viewer.clock.startTime;
     viewer.clock.shouldAnimate = true;
-    console.log('current', viewer.clock.currentTime);
+    console.log("current", viewer.clock.currentTime);
   }
 
   function enterPauseMode(isInPause) {
@@ -917,7 +925,7 @@ $(window.document).ready(function () {
     imPro = new Cesium.UrlTemplateImageryProvider({
       url: URL_carreteres,
       enablePickFeatures: false,
-      maximumLevel: 18,
+      maximumLevel: 1,
       credit: "Institut Cartogràfic i Geològic de Catalunya"
     });
     var layers = viewer.imageryLayers;
@@ -938,7 +946,7 @@ $(window.document).ready(function () {
 
             },
             easingFunction: Cesium.EasingFunction.LINEAR_NONE
-          }); // 
+          }); //
         }, 1000);
       }
     });
