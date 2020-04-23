@@ -959,9 +959,9 @@ background-color: rgb(68, 86, 189);
   
 }
 
-/*RESPONSIVE 700*/
+/*RESPONSIVE_700*/
 
-@media only screen and (max-height: 700px) {
+@media only screen and (max-height: 700px) { 
 
   .h2_title{
     font-size: medium;

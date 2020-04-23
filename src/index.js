@@ -597,7 +597,7 @@ $(window.document).ready(() => {
 				const layersArray = layers._layers;
 				console.log(typeof layersArray);
 				console.log("layers =>", layersArray);
-				layersArray.map((layer, index) => {
+				layersArray.map((layer, index) => {  
 
 					console.log(layer);
 					console.log("imageryproveider", layer.imageryProvider);
