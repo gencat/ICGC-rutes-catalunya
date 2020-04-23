@@ -104,11 +104,11 @@ $(window.document).ready(function () {
   viewer.scene.fog.enabled = true;
   viewer.scene.fog.density = 0.0002;
   viewer.scene.fog.screenSpaceErrorFactor = 2;
-  L.control.elevation = true;
   $("#infobox").hide();
   vistaInicial();
   initEvents();
-  setupLayers(); //getElementById();
+  setupLayers(); //L.control.elevation();
+  //getElementById();
   //addDistanceInfo();
   //render();
 
@@ -563,37 +563,42 @@ $(window.document).ready(function () {
         });
       }
     });
-    $("#elevationbutton").on("click", function () {
-      console.log("L --> ", L);
-      console.log("el --> ", el); //undefined
+    $('#tancaperfilbutton').on("click", function () {
+      leaflet - elevation.hide();
+    });
+    $('#elevationbutton').on("click", function () {
+      // Instantiate elevation control.
+      // Full list options at "leaflet-elevation.js"
+      var elevation_options = {
+        // Default chart colors: theme lime-theme, magenta-theme, ...
+        theme: "lightblue-theme",
+        // Chart container outside/inside map container
+        detached: true,
+        // if (detached), the elevation chart container
+        elevationDiv: "#elevation-div",
+        // if (!detached) autohide chart profile on chart mouseleave
+        autohide: false,
+        // if (!detached) initial state of chart profile control
+        collapsed: true,
+        // if (!detached) control position on one of map corners
+        position: "bottom",
+        // Autoupdate map center on chart mouseover.
+        followMarker: false,
+        // Chart distance/elevation units.
+        imperial: false,
+        // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
+        reverseCoords: false,
+        // Summary track info style: "line" || "multiline" || false,
+        summary: 'multiline'
+      }; // Instantiate map (leaflet-ui).
 
-      console.log("L.control --> ", L.control);
-      console.log("elev-->", L.control.elevation);
-      var gpx = "6668129.gpx";
-      var el = L.control.elevation[{
-        position: "bottomleft",
-        theme: "magenta-theme",
-        //default: lime-theme
-        useHeightIndicator: true,
-        interpolation: d3.curveLinear,
-        //see https://github.com/d3/d3/wiki/
-        collapsed: false,
-        detachedView: false,
-        //if false the chart is drawn within map container
-        elevationDiv: "#elevation-div"
-      }];
-      var gpxRuta = new L.GPX(gpx, {
-        async: true,
-        marker_options: {
-          startIconUrl: "./images/pin-icon-start.png",
-          endIconUrl: "./images/pin-icon-end.png",
-          shadowUrl: "./images/pin-shadow.png"
-        }
-      }).addTo(map);
-      el.loadGPX(map, gpx);
-      gpxRuta.on("loaded", function (e) {
-        map.fitBounds(e.target.getBounds());
-      });
+      var map = new L.Map('map');
+      console.info('map-->', 'map');
+      console.info('Map-->', map); // Instantiate elevation control.
+
+      var controlElevation = L.control.elevation(elevation_options).addTo(map); // Load track  (allowed data types: "*.geojson", "*.gpx")
+
+      controlElevation.load(trackGeoJSON);
     });
   }
 

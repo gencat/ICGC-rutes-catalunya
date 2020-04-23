@@ -852,7 +852,7 @@ $(window.document).ready(() => {
 		};
 
 		// Instantiate map (leaflet-ui).
-		var map = new L.Map('map')
+		var map = new L.Map('map2');
 		console.info('map-->','map')
 		console.info('Map-->',map)
 
