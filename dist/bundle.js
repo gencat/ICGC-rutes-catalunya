@@ -20,6 +20,8 @@ var URL_RELLEU = "https://tilemaps.icgc.cat/mapfactory/wmts/gris_topo_suau/CAT38
 var URL_ADMIN = "https://tilemaps.icgc.cat/mapfactory/wmts/limits/CAT3857/{z}/{x}/{y}.png";
 var URL_TOPONIM = "https://tilemaps.icgc.cat/mapfactory/wmts/toponimia/CAT3857/%7Bz%7D/%7Bx%7D/%7By%7D.png";
 var URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
+var fakeMap;
+var controlElevation;
 var imPro;
 var base;
 var dev = true;
@@ -106,6 +108,7 @@ $(window.document).ready(function () {
   viewer.scene.fog.screenSpaceErrorFactor = 2;
   $("#infobox").hide();
   vistaInicial();
+  initElevation();
   initEvents();
   setupLayers(); //L.control.elevation();
   //getElementById();
@@ -221,6 +224,25 @@ $(window.document).ready(function () {
   }
 
   var layersa = viewer.scene.imageryLayers;
+
+  function initElevation() {
+    var elevationOptions = {
+      theme: "lightblue-theme",
+      detached: true,
+      elevationDiv: "#elevation-div",
+      autohide: false,
+      collapsed: true,
+      position: "bottom",
+      followMarker: false,
+      imperial: false,
+      reverseCoords: false,
+      summary: "multiline"
+    };
+    console.info(document.getElementById("fakemap"));
+    fakeMap = new L.Map("fakemap");
+    controlElevation = L.control.elevation(elevationOptions).addTo(fakeMap);
+    $("#elevation-div").hide();
+  }
 
   function initEvents() {
     $("#uploadbutton").on("change", function () {
@@ -563,42 +585,12 @@ $(window.document).ready(function () {
         });
       }
     });
-    $('#tancaperfilbutton').on("click", function () {
+    $("#tancaperfilbutton").on("click", function () {
       leaflet - elevation.hide();
     });
-    $('#elevationbutton').on("click", function () {
-      // Instantiate elevation control.
-      // Full list options at "leaflet-elevation.js"
-      var elevation_options = {
-        // Default chart colors: theme lime-theme, magenta-theme, ...
-        theme: "lightblue-theme",
-        // Chart container outside/inside map container
-        detached: true,
-        // if (detached), the elevation chart container
-        elevationDiv: "#elevation-div",
-        // if (!detached) autohide chart profile on chart mouseleave
-        autohide: false,
-        // if (!detached) initial state of chart profile control
-        collapsed: true,
-        // if (!detached) control position on one of map corners
-        position: "bottom",
-        // Autoupdate map center on chart mouseover.
-        followMarker: false,
-        // Chart distance/elevation units.
-        imperial: false,
-        // [Lat, Long] vs [Long, Lat] points. (leaflet default: [Lat, Long])
-        reverseCoords: false,
-        // Summary track info style: "line" || "multiline" || false,
-        summary: 'multiline'
-      }; // Instantiate map (leaflet-ui).
-
-      var map = new L.Map('map');
-      console.info('map-->', 'map');
-      console.info('Map-->', map); // Instantiate elevation control.
-
-      var controlElevation = L.control.elevation(elevation_options).addTo(map); // Load track  (allowed data types: "*.geojson", "*.gpx")
-
+    $("#elevationbutton").on("click", function () {
       controlElevation.load(trackGeoJSON);
+      $("#elevation-div").toggle();
     });
   }
 

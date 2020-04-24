@@ -50,8 +50,9 @@
 
   
   <!--GPX leaflet-->
+  <!--
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-
+-->
 
 <!--cesium-->
   <link href="./dist/Cesium/Widgets/widgets.css" rel="stylesheet">
@@ -232,9 +233,9 @@
   </div>
   </div>
 <!--END BARRA SUP RUTES-->
-<!--START MAPA-->
+<!--START MAPA--><div id="fakemap"></div>
   <div id="map"></div>
-  <div id="map2"></div>
+  
 <!--END MAPA-->
 <div id="infobox"><p class="infotext"> 🛈 Informació: </p>
   <p id="distanceLabel" class="infoLabel"> ↦ 0 km </p>
@@ -282,7 +283,7 @@ END ICGC LOGO-->
 </div>
 
 
-
+  
   <script type="text/javascript" src="./dist/data/rutes.js"></script>
   <script type="text/javascript" src="./dist/bundle-dev.js"></script>
   
