@@ -6,7 +6,7 @@ html body {
 
 #map {
 
-  /*position: absolute;*/
+ 
   top: 0 !important;
   bottom: 0 !important;
   width: 100% !important;
@@ -44,7 +44,11 @@ h4{
   padding-top: 5px;
 }
 
-
+.ui.segment:first-child {
+  margin-top: 0;
+  height: 35px;
+  /* font-size: 15px; */
+}
 .icgclogo {
   
   background-size: 99%;
@@ -78,17 +82,23 @@ h4{
 .header_title {
   padding: 1em;
       padding-right: 1em;
-  padding-right: 10%;
+  
 }
 .h2_title{
-  font-size: x-large;
+  font-size: large;
+  display: inline !important;
 }
-.header_itemInfo{
+.iconinfo{
   padding: .8em;
   max-height: fit-content;
 
 }
 
+.modalMsg{
+
+  max-height: 545px;
+  overflow: auto
+}
 .ui.circular.button{
   border-radius: 10em;
 }
@@ -150,11 +160,11 @@ text-shadow: none !important;
   width: fit-content;
   border-radius: 0%;
   left: 0;
-  /* float: right; */
+ 
   opacity: 1;
   color: black;
   height: 20px;
-  /* justify-content: space-between; */
+
 }
 
 .h3 {
@@ -226,8 +236,7 @@ cursor: pointer !important;
 }
 
 #playpausa {
-  /*float: left;*/
-  /*margin-right: 10px;*/
+ 
   display: none;
   padding-top: 10px;
  
@@ -287,9 +296,7 @@ cursor: pointer !important;
   margin-left: 11%;
   height: 35px;
   z-index: 6;
-  
-
-}
+  }
 
 
 
@@ -308,8 +315,7 @@ cursor: pointer !important;
 
 
 #loading {
-  /*float: left;*/
-  /*margin-right: 10px;*/
+ 
   display: none;
   
   position: absolute;
@@ -341,6 +347,180 @@ cursor: pointer !important;
   display: none;
 }
 
+.mapboxgl-ctrl-attrib-inner {
+
+  font-size: 0.85em !important;
+
+}
+
+.cerca {
+
+  float: left;
+    padding-right: 10px;
+}
+
+
+/*MODAL INFO*/
+.modalMsg{
+
+  max-height: 545px;
+  overflow: auto
+}
+
+.block {
+
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-top: 6px;
+}
+
+#blockBlau {
+  background-color: rgba(14, 46, 191, 1) ;
+
+}
+
+#blockTar {
+  background-color: rgba(10, 112, 155,1);
+}
+
+.textTar {
+
+  font-size: 0.8em;
+
+  color: rgba(10, 112, 155,1);
+  font-weight: bold;
+  padding-left: 3px;
+
+}
+
+.textBlau {
+
+  font-size: 0.8em;
+
+  color: rgba(14, 46, 191, 1) ;
+  font-weight: bold;
+  padding-left: 3px;
+
+}
+
+#left-frame {
+  min-height: 555px;
+  top: 70px;
+  left: 20px;
+  width: 245px;
+  height: 60%;
+  /* background-color: #f9f5f5; */
+  opacity: 0.95;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  z-index: 100;
+  padding: 10px;
+  padding-top: 25px;
+
+}
+.modals.active {
+  background-color: rgba(255,255,255,.8) !important;
+}
+
+
+#steps-slider {
+
+  height: 80%;
+  min-height:500px ;
+}
+
+#zoneStatic {
+
+
+  width: 150px;
+  height: 150px;
+  /* background-color: #f9f5f5; */
+  opacity: 0.95;
+  border-radius: 20px;
+
+}
+
+.modalMsg {
+
+  max-height: 545px;
+  overflow: auto
+}
+.ui.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  top: -2.5rem;
+  right: -2.5rem;
+  z-index: 1;
+  opacity: .8;
+  font-size: 1.25em;
+  color: rgb(30,97,148) !important;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: .625rem 0 0 0;
+}
+.cesium-infoBox {
+  display: block;
+  position: absolute;
+  top: 90px !important;
+  right: 70px !important;
+  width: 40%;
+  max-width: 480px;
+  background: rgba(38,38,38,.95);
+  color: #edffff;
+  border: 1px solid #444;
+      border-right-color: rgb(68, 68, 68);
+      border-right-style: solid;
+      border-right-width: 1px;
+  border-right: none;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  box-shadow: 0 0 10px 1px #000;
+  transform: translate(100%,0);
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s .2s,opacity .2s ease-in,transform .2s ease-in;
+}
+
+/*MODAL INFO END*/
+.ui.dimmer {
+  display: none;
+  position: absolute;
+  top: 0!important;
+  left: 0!important;
+
+  z-index: 100000 !important;
+}
+
+/*MODAL ENLLACA*/
+
+.modal-body {
+  position: relative;
+  display: flex;
+  padding: 15px;
+  max-height: 650px !important;
+  overflow: auto !important;
+}
+
+.modal{
+  z-index: 55000;
+  display: none;
+}
+
+.modal-header{
+  background-color: #4496a1;
+  color: #ffffff;
+}
+
+.modal-header .logo{
+  height: 50px;
+}
+
+
+
+/*MODAL ENLLACA END*/
+
 #controls:hover {
 
 background-color: rgba(255, 255, 255, 0.8) !important;
@@ -357,6 +537,13 @@ background-color: rgba(255, 255, 255, 0.8) !important;
 background-color: rgba(255, 255, 255, 0.8) !important;
 	
 }	
+
+#headerInfo {
+  color: white !important;
+  margin-top: 12px;
+  margin-right: 10px;
+  text-align: right;
+}
 
 .infoLabel {
   right: 0 !important;
@@ -626,34 +813,7 @@ option {
   padding-right: 10px;
 }
 
-.modalMsg {
 
-  max-height: 545px;
-  overflow: auto
-}
-
-.cesium-infoBox {
-  display: block;
-  position: absolute;
-  top: 90px !important;
-  right: 70px !important;
-  width: 40%;
-  max-width: 480px;
-  background: rgba(38,38,38,.95);
-  color: #edffff;
-  border: 1px solid #444;
-      border-right-color: rgb(68, 68, 68);
-      border-right-style: solid;
-      border-right-width: 1px;
-  border-right: none;
-  border-top-left-radius: 7px;
-  border-bottom-left-radius: 7px;
-  box-shadow: 0 0 10px 1px #000;
-  transform: translate(100%,0);
-  visibility: hidden;
-  opacity: 0;
-  transition: visibility 0s .2s,opacity .2s ease-in,transform .2s ease-in;
-}
 
 .logo {
 
@@ -686,7 +846,7 @@ option {
 
 .ui.toggle.checkbox input:focus:checked~.box,
 .ui.toggle.checkbox input:focus:checked~label {
- color:rgba(79, 206, 245, 0.95)!important !important;
+ color:rgba(79, 206, 245, 0.95)!important ;
 }
 
 
@@ -802,21 +962,6 @@ small {
   float: right !important;
   opacity: 0.8 !important;
 }
-
-
-
-/*.vermell {
-
-  color:red;
-  background-color: red;
-
-}
-.vermello {
-
-  color:green;
-  background-color: green;
-
-}*/
 
 
 #sideBarOptions{
@@ -963,6 +1108,7 @@ background-color: rgb(68, 86, 189);
   font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; 
   bottom: 0;
   display: none;
+  width: 350px;
 }
 .leaflet-control{
   display: none !important;
@@ -973,7 +1119,7 @@ background-color: rgb(68, 86, 189);
   opacity: 0.6 !important;
 }
 .elevation-control.elevation .background {
-  background-color: rgb(255, 255, 255) !important;
+  background-color: rgba(255, 255, 255, .7) !important;
 
   position: absolute !important;
   bottom: -250% !important;
@@ -989,6 +1135,7 @@ background-color: rgb(68, 86, 189);
 
   .active {
   background-color: #f3eee9 !important;
+
   
 }
 
@@ -1029,7 +1176,10 @@ background-color: rgb(68, 86, 189);
 
 @media only screen and (max-width: 1200px) {
  
-
+  .ui.modal {
+    width: 40%;
+    margin: 0;
+}
   .amplaLogo {
 
     width: 50px !important;
@@ -1052,8 +1202,8 @@ background-color: rgb(68, 86, 189);
   label.ui.small.green.button.responbutton{
     width: 0.01px;
     color: #21ba45;
-    right: -50px;
-    top: 0px;
+    right: 179px;
+    top: -19px;
   
   }
   .ui.small.button > .icon:not(.button) {
@@ -1088,6 +1238,12 @@ background-color: rgb(68, 86, 189);
 
 @media only screen and (max-width: 500px) {
 
+  .ui.modal {
+    width: 40%;
+    margin: 0;
+    right: 10%;
+}
+
   #menuSearch {
     float: left;
     width: 40%;
@@ -1106,8 +1262,7 @@ background-color: rgb(68, 86, 189);
 label.ui.small.green.button.responbutton{
   width: 0.01px;
   color: #21ba45;
-  right: -50px;
-  top: 0px;
+
 
 }
 
@@ -1282,9 +1437,7 @@ display: none !important;
 
     display: none;
 
-    /*
-    font-size: 0.7em;
-    */
+ 
   }
 
   #headerTitle {
@@ -1354,24 +1507,36 @@ display: none !important;
     .header_logos{
       display: none
     }
-   
+    .ui.modal {
+      width: 40%;
+      margin: 0;
+  }
 }
 @media only screen and (min-width: 768px) {
     .ui.selection.dropdown .menu {
 /*   max-height: 10.68571429rem; /* + 1.3357142863 to 12.0214285763rem */
       max-height: 12.0214285763rem;
     }
-    
+    .ui.modal {
+      width: 40%;
+      margin: 0;
+  }
 }
 @media only screen and (min-width: 992px) {
     .ui.selection.dropdown .menu {
       max-height: 16.02857143rem; /* + 1.3357142858 to 17.3642857158rem */
     }
-    
+    .ui.modal {
+      width: 40%;
+      margin: 0;
+  }
 }
 @media only screen and (min-width: 1920px) {
     .ui.selection.dropdown .menu {
         max-height: 21.37142857rem; /* + 1.3357142856 to 22.7071428556rem */
     }
-    
+    .ui.modal {
+      width: 40%;
+      margin: 0;
+  }
 }
