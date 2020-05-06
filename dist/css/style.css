@@ -21,6 +21,16 @@ h4{
   color: rgb(30, 97, 148);
   margin-top: 0 !important;
 }
+._header {
+
+  height: 30px;
+    margin: 5px;
+}
+._floatedright{
+
+  float: right;;
+
+}
 .header_container{
   width: 100%;
   height: 35px;
@@ -30,7 +40,7 @@ h4{
   align-items: center;
   background-color: rgb(30, 97, 148);
   color: #fff;
-  z-index: 300000;
+  z-index: 10000;
   position: relative;
 }
 .gencatlogo {
@@ -1104,25 +1114,60 @@ background-color: rgb(68, 86, 189);
 
 
 #elevation-div { 
-  height: 25%; 
-  font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; 
-  bottom: 0;
+  height: 0%!important;
+ 
+  bottom: 25px !important;
   display: none;
-  width: 350px;
-}
-.leaflet-control{
-  display: none !important;
-}
-.leaflet-pane {
+  width: 340px !important;
   position: absolute !important;
-  bottom: 0 !important;
-  opacity: 0.6 !important;
+  left: 5px;
 }
+.elevation-detached {
+
+  height: 150px !important;
+  font-size: 0.85em !important;
+  bottom: 25px !important;
+  display: none;
+  width: 340px !important;
+  position: absolute !important;
+  left: 5px;
+}
+
+
 .elevation-control.elevation .background {
-  background-color: rgba(255, 255, 255, .7) !important;
+  background-color: rgba(255, 255, 255, .2) !important;
 
   position: absolute !important;
   bottom: -250% !important;
+  
+}
+#sideBt {
+
+position: absolute;
+  left: 0px;
+  top: 100px;
+  width: 23px;
+    height: 48px;
+    cursor: pointer;
+    background: rgba(255,255,255,0.9) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAQAAAAXDMSnAAAAi0lEQVR4AX3JQcqBURQG4O/+9WNG30D3vOfSDTuQsgcZyBakZANSzMVMBme3zsBI5/VMn4ZKLP5ki1E4tYejWpilxVUtzOEUD68odYmXR5BJNp/4zllXD2phllYvamHmirsayUkfJ5ruHzueTldC08kcT5YOY9xYujqQM03XKXuaLmEtNF1e1Nz89gbL+0do6OEwRwAAAABJRU5ErkJggg==) 7px center/7px 10px no-repeat;
+    border-left: 1px solid #D4D4D4;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
+    transition: 0.5s;
+  z-index: 1000;
+
+}
+.sidepanel  {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  height: 70%;
+  top: 86px;
+  left: 0;
+  background-color: #eaecf3;
+  overflow-x: hidden;
+  transition: 0.5s;
+  /* padding-top: 60px; */
+  z-index: 1000;
   
 }
 .elevation-detached .elevation-summary.multiline-summary {
@@ -1131,6 +1176,18 @@ background-color: rgb(68, 86, 189);
   line-height: 2;
   display: none !important;
 }
+.data-summary {
+  
+  font-size: 12px;
+  position: absolute;
+  bottom:140px;
+  left: 45px;
+}
+
+.data-summary .summaryvalue {
+  font-weight: bold;
+}
+
 
 
   .active {

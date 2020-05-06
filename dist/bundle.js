@@ -1,178 +1,83 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 // @flow
-// Copyright (c) 2020 Uber Technologies, Inc.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
 "use strict";
 
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-var fa = require("./utils");
-
-var west = 2.0;
-var south = 42.0;
-var east = 2.1;
-var north = 42.2;
-var trackDataSource = null;
-var trackGeoJSON = null;
-var URL_ORTO = "https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.jpeg";
-var URL_carreteres = "https://tilemaps.icgc.cat/mapfactory/wmts/hibrida_total/CAT3857/{z}/{x}/{y}.png";
-var URL_TOPO = "https://tilemaps.icgc.cat/mapfactory/wmts/topo_suau/CAT3857/{z}/{x}/{y}.png";
-var URL_GEOL = "https://tilemaps.icgc.cat/mapfactory/wmts/geologia/MON3857NW/{z}/{x}/{y}.png";
-var URL_RELLEU = "https://tilemaps.icgc.cat/mapfactory/wmts/gris_topo_suau/CAT3857/{z}/{x}/{y}.png";
-var URL_ADMIN = "https://tilemaps.icgc.cat/mapfactory/wmts/limits/CAT3857/{z}/{x}/{y}.png";
-var URL_TOPONIM = "https://tilemaps.icgc.cat/mapfactory/wmts/toponimia/CAT3857/%7Bz%7D/%7Bx%7D/%7By%7D.png";
-var URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
-var fakeMap;
-var controlElevation;
-var imPro;
-var urlApp = "http://localhost:9966"; //"https://betaserver.icgc.cat/rutes-catalunya/"  
-
-var dev = true;
-var viewer;
-var rutaIniciada = false;
-var isInPause = true;
-var labelsDatasource;
-var capturer;
-$(".ui.fluid.dropdown").dropdown({
-  maxSelections: 3
+Object.defineProperty(exports, "__esModule", {
+  value: true
 });
-$(".label.ui.dropdown").dropdown();
-$(".no.label.ui.dropdown").dropdown({
-  useLabels: false
-});
-$(".ui.button").on("click", function () {
-  $(".ui.dropdown").dropdown("restore defaults");
-});
-$(".ui.button.fileRequest").click(function () {
-  var ruta = $(this).attr("data-gpx");
-  console.log("onDownload");
-  window.location = ruta;
-});
-$(window.document).ready(function () {
-  Cesium.Camera.DEFAULT_VIEW_RECTANGLE = Cesium.Rectangle.fromDegrees(west, south, east, north);
+exports.htmlEvents = void 0;
 
-  if (dev) {
-    imPro = new Cesium.ArcGisMapServerImageryProvider({
-      url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-      id: "ortogis",
-      enablePickFeatures: false,
-      maximumLevel: 18,
-      credit: "ArcGIS"
+var htmlEvents = function () {
+  var dropDownBT = function dropDownBT() {
+    $(".ui.fluid.dropdown").dropdown({
+      maxSelections: 3
     });
-    URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
-  } else {
-    imPro = new Cesium.WebMapTileServiceImageryProvider({
-      url: "http://localhost/mapcache/wmts/?",
-      layer: "orto",
-      style: "default",
-      format: "image/png",
-      tileMatrixSetID: "GMTOT",
-      maximumLevel: 18,
-      credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya")
+    $(".label.ui.dropdown").dropdown();
+    $(".no.label.ui.dropdown").dropdown({
+      useLabels: false
     });
-    URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
-  }
-
-  Cesium.Resource.supportsImageBitmapOptions = function () {
-    return Cesium.when.resolve(false);
+    $(".ui.button").on("click", function () {
+      $(".ui.dropdown").dropdown("restore defaults");
+    });
+    $(".ui.button.fileRequest").click(function () {
+      var ruta = $(this).attr("data-gpx");
+      console.log("onDownload");
+      window.location = ruta;
+    });
+    $("#infobox").hide();
+    jQuery("#menuIcon").on("click", function () {
+      toggleSideBar();
+      $("toggle").removeClass("disabled");
+    });
+    $(".headerInfo").on("click", function () {
+      console.info("modal");
+      $(".ui.modal.info").modal("show");
+      console.info("modal entra");
+    });
+    $("#infoallausid").on("click", function () {
+      console.info("modal");
+      $(".ui.modal.allaus").modal("show");
+      console.info("modal entra");
+    });
+    $("#infolandslidesid").on("click", function () {
+      console.info("modal");
+      $(".ui.modal.esllavissades").modal("show");
+      console.info("modal entra");
+    });
+    return true;
   };
 
-  viewer = new Cesium.Viewer("map", {
-    imageryProvider: imPro,
-    timeline: false,
-    fullscreenElement: false,
-    fullscreenButton: false,
-    navigationHelpButton: false,
-    scene3DOnly: true,
-    baseLayerPicker: false,
-    homeButton: false,
-    infoBox: true,
-    sceneModePicker: false,
-    shouldAnimate: false,
-    animation: false,
-    geocoder: false,
-    targetFrameRate: 40,
-    vrButton: false,
-    showRenderLoopErrors: false,
-    useDefaultRenderLoop: true,
-    orderIndependentTranslucency: true,
-    sceneMode: Cesium.SceneMode.SCENE3D,
-    terrainProvider: new Cesium.CesiumTerrainProvider({
-      url: URL_TERRENY
-    })
-  });
-  var scene = viewer.scene;
-  scene.globe.depthTestingAgainstTerrain = true;
-  var camera = viewer.scene.camera;
-  viewer.scene.globe.enableLighting = true;
-  viewer.scene.fog.enabled = true;
-  viewer.scene.fog.density = 0.0002;
-  viewer.scene.fog.screenSpaceErrorFactor = 2;
-  $("#infobox").hide();
-  vistaInicial();
-  initElevation();
-  initEvents();
-  setupLayers();
-  initFromQuery(); //
+  var toggleSideBar = function toggleSideBar() {
+    $("#sideBarOptions").sidebar("setting", "transition", "overlay").sidebar("toggle");
+  };
 
-  function initFromQuery() {
-    var url = $.url().param();
+  var toolBarAnimation = function toolBarAnimation() {
+    $("sideBt").on("click", function () {
+      console.info($("#mySidepanel").width);
+      document.getElementById("mySidepanel").style.width = "250px";
+    });
+  };
 
-    if (url.capes && url.capes.indexOf(",") != -1) {
-      var capa = url.capes.split(",");
-      var initServei1 = getUrlCapesFromCapa(capa[0], layersArray);
-      servicio1 = initServei1.url;
-      layer1 = initServei1.layer;
-      var initServei2 = getUrlCapesFromCapa(capa[1], layersArray);
-      servicio2 = initServei2.url;
-      layer2 = initServei2.layer;
-      var initServei3 = getUrlCapesFromCapa(capa[2], layersArray);
-      servicio3 = initServei3.url;
-      layer3 = initServei3.layer;
-      var initServei4 = getUrlCapesFromCapa(capa[3], layersArray);
-      servicio4 = initServei4.url;
-      layer4 = initServei4.layer;
-      var initServei5 = getUrlCapesFromCapa(capa[4], layersArray);
-      servicio5 = initServei5.url;
-      layer5 = initServei5.layer;
-      var initServei6 = getUrlCapesFromCapa(capa[5], layersArray);
-      servicio6 = initServei6.url;
-      layer6 = initServei6.layer;
-      var initServei7 = getUrlCapesFromCapa(capa[6], layersArray);
-      servicio7 = initServei7.url;
-      layer7 = initServei7.layer;
-      var initServei8 = getUrlCapesFromCapa(capa[7], layersArray);
-      servicio8 = initServei8.url;
-      layer8 = initServei8.layer;
-    } // end URL pURL
+  return {
+    dropDownBT: dropDownBT,
+    toggleSideBar: toggleSideBar,
+    toolBarAnimation: toolBarAnimation
+  };
+}();
 
-  }
+exports.htmlEvents = htmlEvents;
 
-  function showEntitiesLabels(value) {
-    if (labelsDatasource) {
-      labelsDatasource.show = value;
-      return true;
-    }
-  }
+},{}],2:[function(require,module,exports){
+// @flow
+"use strict";
 
-  function checkOptions(concepte) {
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.rutes = void 0;
+
+var rutes = function () {
+  var checkOptions = function checkOptions(concepte) {
     var opt = {
       color: Cesium.Color.YELLOW,
       font: "10px Helvetica",
@@ -196,6 +101,107 @@ $(window.document).ready(function () {
     }
 
     return opt;
+  };
+
+  return {
+    checkOptions: checkOptions
+  };
+}();
+
+exports.rutes = rutes;
+
+},{}],3:[function(require,module,exports){
+// @flow
+"use strict";
+
+var ev = require("./events.js");
+
+var ut = require("./utils.js");
+
+var fn = require("./functions.js");
+
+var ly = require("./layers.js");
+
+var west = 2.0;
+var south = 42.0;
+var east = 2.1;
+var north = 42.2;
+var trackDataSource = null;
+var trackGeoJSON = null;
+var CAPA_ALLAUS = null;
+var CAPA_TOPONIMS = null;
+var CAPA_RISCGEOLOGIC = null;
+var CAPA_CARRETERS = null;
+var CAPA_CIMS = null;
+var MAPSTATE = {
+  "base": ly.BaseMaps.orto,
+  "gpx": null,
+  "layers": null
+};
+var fakeMap;
+var controlElevation;
+var imPro;
+var urlApp = "http://localhost:9966"; //"https://betaserver.icgc.cat/rutes-catalunya/"
+
+var dev = true;
+var viewer;
+var rutaIniciada = false;
+var isInPause = true;
+var labelsDatasource;
+var capturer;
+$(window.document).ready(function () {
+  ev.htmlEvents.dropDownBT();
+  Cesium.Camera.DEFAULT_VIEW_RECTANGLE = Cesium.Rectangle.fromDegrees(west, south, east, north);
+
+  Cesium.Resource.supportsImageBitmapOptions = function () {
+    return Cesium.when.resolve(false);
+  };
+
+  viewer = new Cesium.Viewer("map", {
+    imageryProvider: ly.LayerOrtoEsri,
+    timeline: false,
+    fullscreenElement: false,
+    fullscreenButton: false,
+    navigationHelpButton: false,
+    scene3DOnly: true,
+    baseLayerPicker: false,
+    homeButton: false,
+    infoBox: true,
+    sceneModePicker: false,
+    shouldAnimate: false,
+    animation: false,
+    geocoder: false,
+    vrButton: false,
+    showRenderLoopErrors: false,
+    useDefaultRenderLoop: true,
+    orderIndependentTranslucency: true,
+    sceneMode: Cesium.SceneMode.SCENE3D,
+    terrainProvider: ly.LayerTerrenyICGC
+  });
+  var scene = viewer.scene;
+  var camera = viewer.scene.camera;
+  var ImageryLayers = viewer.scene.imageryLayers;
+  ImageryLayers.addImageryProvider(ly.LayerOrtoICGC);
+  ly.LayerTerrenyICGC.errorEvent.addEventListener(function (tileProviderError) {
+    //console.log(`Error at level : ${tileProviderError.level}`);
+    tileProviderError.retry = false;
+  });
+  viewer.scene.logarithmicDepthBuffer = false;
+  scene.globe.depthTestingAgainstTerrain = true;
+  viewer.scene.globe.enableLighting = true;
+  viewer.scene.fog.enabled = true;
+  viewer.scene.fog.density = 0.0002;
+  viewer.scene.fog.screenSpaceErrorFactor = 2;
+  vistaInicial();
+  initElevation();
+  initEvents();
+  setupLayers(); //
+
+  function showEntitiesLabels(value) {
+    if (labelsDatasource) {
+      labelsDatasource.show = value;
+      return true;
+    }
   }
 
   function addToponims(toponimsGeoJson) {
@@ -204,9 +210,9 @@ $(window.document).ready(function () {
       for (var i = 0; i < respuestaGeonames.features.length; i++) {
         if (respuestaGeonames.features[i].properties.Concepte != "edif.") {
           var entity = respuestaGeonames.features[i];
-          var opt = checkOptions(entity.properties.Concepte); //console.log('prop', entity.properties)
+          var opt = fn.rutes.checkOptions(entity.properties.Concepte); //console.log('prop', entity.properties)
 
-          viewer.entities.add({
+          var entityG = viewer.entities.add({
             position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
             label: {
               text: entity.properties.Toponim,
@@ -215,11 +221,14 @@ $(window.document).ready(function () {
               outlineColor: Cesium.Color.BLACK,
               outlineWidth: 4,
               distanceDisplayCondition: new Cesium.DistanceDisplayCondition(0.0, opt.far),
+              //forceUpdate:true,
               style: Cesium.LabelStyle.FILL_AND_OUTLINE,
               pixelOffset: new Cesium.Cartesian2(0, -9),
               heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
             }
           });
+          entityG.label.manualUpdate = true;
+          entityG.label.forceUpdate = true;
         } // en if
         //console.info(i,respuestaGeonames.features.length - 1 );
 
@@ -232,16 +241,14 @@ $(window.document).ready(function () {
     }); //end then
   }
 
-  var layersa = viewer.scene.imageryLayers;
-
   function initElevation() {
     var elevationOptions = {
-      theme: "lightblue-theme",
+      theme: "custom-theme",
       detached: true,
       elevationDiv: "#elevation-div",
-      width: jQuery('#elevation-div').outerWidth(),
+      width: jQuery("#elevation-div").outerWidth(),
       autohide: false,
-      collapsed: false,
+      collapsed: true,
       position: "bottom",
       followMarker: false,
       imperial: false,
@@ -283,12 +290,6 @@ $(window.document).ready(function () {
         loadGPX(this.value);
         $("#elevationbutton").load(this.value);
       }
-
-      ;
-    });
-    jQuery("#menuIcon").on("click", function () {
-      $("#sideBarOptions").first().sidebar("toggle");
-      $("toggle").removeClass("disabled");
     });
     jQuery("#play").on("click", function () {
       if (rutaIniciada) {
@@ -307,6 +308,7 @@ $(window.document).ready(function () {
         isInPause = false;
       }
     });
+    ev.htmlEvents.toolBarAnimation();
     $("#playpausa").on("click", function () {
       enterPauseMode(false);
       $("#pausa").show();
@@ -314,7 +316,6 @@ $(window.document).ready(function () {
       $("#play").hide();
     });
     $("#stopvideobutton").on("click", function () {
-      console.log("stopvideo-->click");
       stopRender();
     });
     $("#savevideobutton").on("click", function () {
@@ -333,7 +334,6 @@ $(window.document).ready(function () {
       }
     });
     $("#erasefilebutton").on("click", function () {
-      console.log("clickerase");
       setupPause();
 
       if (viewer.dataSources.contains(gpxDataSource)) {
@@ -355,8 +355,8 @@ $(window.document).ready(function () {
           resetPlay();
           $("#controls").show();
           $("#pausa").hide();
-          $("#loading").hide();
-          showEntitiesLabels(false);
+          $("#loading").hide(); //showEntitiesLabels(false);
+
           rutaIniciada = false;
           loadGPX(result.id);
         }
@@ -366,251 +366,75 @@ $(window.document).ready(function () {
       console.log("cimsToggle");
 
       if ($(this).is(":checked")) {
-        console.log("oncims");
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
+        CAPA_CIMS = CAPA_CIMS ? CAPA_CIMS : ImageryLayers.addImageryProvider(ly.LayerCimsICGC);
+        CAPA_CIMS.show = true;
       } else {
-        console.log("offcims");
-        var layers = viewer.imageryLayers; //quina es?
-
-        var baseLayer = layers.get(1);
-        console.log("typeof => ", _typeof(layers));
-        console.log("layers =>", layers);
-        var _layersArray = layers._layers;
-        console.log(_typeof(_layersArray));
-        console.log("layers =>", _layersArray);
-
-        _layersArray.map(function (layer, index) {
-          console.log(layer);
-          console.log("imageryproveider", layer.imageryProvider);
-
-          if (layer.imageryProvider._resource._url === "http://geoserveis.icc.cat/icc_100cims/wms/service") {
-            console.log("indice =>", index);
-            layers.remove(layer);
-          }
-        });
+        CAPA_CIMS.show = false;
       }
     });
     $("#allausToggle").change(function () {
       console.log("allausToggle");
 
       if ($(this).is(":checked")) {
-        console.log("onallaus");
-        imPro = new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        });
-        var layers = viewer.imageryLayers;
-        layers.addImageryProvider(imPro);
+        CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayerAllausICGC);
+        CAPA_ALLAUS.show = true;
       } else {
-        console.log("offallaus");
-        var layers = viewer.imageryLayers; //quina es?
-
-        var baseLayer = layers.get(1);
-        console.log("typeof => ", _typeof(layers));
-        console.log("layers =>", layers);
-        var _layersArray2 = layers._layers;
-        console.log(_typeof(_layersArray2));
-        console.log("layers =>", _layersArray2);
-
-        _layersArray2.map(function (layer, index) {
-          console.log(layer);
-          console.log("imageryproveider", layer.imageryProvider);
-
-          if (layer.imageryProvider._resource._url === "http://siurana.icgc.cat/geoserver/nivoallaus/wms") {
-            console.log("indice =>", index);
-            layers.remove(layer);
-          }
-        });
+        CAPA_ALLAUS.show = false;
       }
     });
     $("#toponimsToggle").change(function () {
       console.log("toponimsToggle");
 
       if ($(this).is(":checked")) {
-        console.log("onToponims");
-        imPro = new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        });
-        var layers = viewer.imageryLayers;
-        layers.addImageryProvider(imPro);
+        CAPA_TOPONIMS = CAPA_TOPONIMS ? CAPA_TOPONIMS : ImageryLayers.addImageryProvider(ly.LayerToponimsICGC);
+        CAPA_TOPONIMS.show = true;
       } else {
-        console.log("offToponims");
-        var layers = viewer.imageryLayers; //quina es?
-
-        var baseLayer = layers.get(1);
-        console.log("typeof => ", _typeof(layers));
-        console.log("layers =>", layers);
-        var _layersArray3 = layers._layers;
-        console.log(_typeof(_layersArray3));
-        console.log("layers =>", _layersArray3);
-
-        _layersArray3.map(function (layer, index) {
-          console.log(layer);
-          console.log("imageryproveider", layer.imageryProvider);
-
-          if (layer.imageryProvider._resource._url === URL_TOPONIM) {
-            console.log("indice =>", index);
-            layers.remove(layer);
-          }
-        });
+        CAPA_TOPONIMS.show = false;
       }
     });
     $("#landslidesToggle").change(function () {
       console.log("landslidesToggle");
 
       if ($(this).is(":checked")) {
-        console.log("onlandslides");
-        imPro = new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        });
-        var layers = viewer.imageryLayers;
-        layers.addImageryProvider(imPro);
+        CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
+        CAPA_RISCGEOLOGIC.show = true;
       } else {
-        console.log("offlandslides");
-        var layers = viewer.imageryLayers; //quina es?
-
-        var baseLayer = layers.get(1);
-        console.log("typeof => ", _typeof(layers));
-        console.log("layers =>", layers);
-        var _layersArray4 = layers._layers;
-        console.log(_typeof(_layersArray4));
-        console.log("layers =>", _layersArray4);
-
-        _layersArray4.map(function (layer, index) {
-          console.log(layer);
-          console.log("imageryproveider", layer.imageryProvider);
-
-          if (layer.imageryProvider._resource._url === "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service") {
-            console.log("indice =>", index);
-            layers.remove(layer);
-          }
-        });
+        CAPA_RISCGEOLOGIC.show = false;
       }
     });
     $("#carreteresToggle").change(function () {
       console.log("carreteresToggle");
 
       if ($(this).is(":checked")) {
-        console.log("oncarreteres");
-        imPro = new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        });
-        var layers = viewer.imageryLayers;
-        layers.addImageryProvider(imPro);
+        CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
+        CAPA_CARRETERS.show = true;
       } else {
-        console.log("offcarreteres");
-        var layers = viewer.imageryLayers; //quina es?
-
-        var baseLayer = layers.get(1);
-        console.log("typeof => ", _typeof(layers));
-        console.log("layers =>", layers);
-        var _layersArray5 = layers._layers;
-        console.log(_typeof(_layersArray5));
-        console.log("layers =>", _layersArray5);
-
-        _layersArray5.map(function (layer, index) {
-          console.log(layer);
-          console.log("imageryproveider", layer.imageryProvider);
-
-          if (layer.imageryProvider._resource._url === URL_carreteres) {
-            console.log("indice =>", index);
-            layers.remove(layer);
-          }
-        });
+        CAPA_CARRETERS.show = false;
       }
     });
-    $("#tancaperfilbutton").on("click", function () {
-      $("#elevation-div").hide();
-      controlElevation.clear();
-    });
     $("#elevationbutton").on("click", function () {
-      $("#elevation-div").show();
+      console.info(trackGeoJSON);
+      $("#elevation-div").toggle();
       controlElevation.clear();
       controlElevation.load(trackGeoJSON);
-    });
-    $(".headerInfo").on("click", function () {
-      console.info("modal");
-      $(".ui.modal").modal("show");
-      console.info("modal entra");
-    });
-    $("#infoallausid").on("click", function () {
-      console.info("modal");
-      $(".ui.modal.allaus").modal("show");
-      console.info("modal entra");
-    });
-    $("#infolandslidesid").on("click", function () {
-      console.info("modal");
-      $(".ui.modal.esllavissades").modal("show");
-      console.info("modal entra");
+      console.info(controlElevation);
+      var q = document.querySelector.bind(document);
+      var track = controlElevation.track_info;
+      console.info(controlElevation.track_info);
+      q('.totlen .summaryvalue').innerHTML = track.distance.toFixed(2) + " km";
+      q('.maxele .summaryvalue').innerHTML = track.elevation_max.toFixed(2) + " m";
+      q('.minele .summaryvalue').innerHTML = track.elevation_min.toFixed(2) + " m";
     }); //ENLLACA
 
-    $('.enllaca').on('click', function () {
+    $(".enllaca").on("click", function () {
       console.info("hola enllaca");
       var currentURLRaw = window.location.href.valueOf();
-      var layers = viewer.imageryLayers;
-      var layersArray = layers._layers;
-      console.log("layers-->", layersArray);
-      console.log("layer0-->", layersArray[0]); //console.log("layer1-->", layersArray[1])
-
-      var newLayersArray = [];
-
-      for (var i = 0; i < layersArray.length; i++) {
-        var layer = layersArray[i];
-        console.log("layer->", layer);
-        var found = false;
-
-        for (var x = 0; x < newLayersArray.length; x++) {
-          if (layer.imageryProvider._resource._url === newLayersArray[x]) {
-            found = true;
-          }
-        }
-
-        if (!found) {
-          newLayersArray.push(layer.imageryProvider._resource._url);
-        }
-      } //console.log("ARRAY", newLayersArray)
-
-
-      var ruta = document.getElementById("uploadbutton").files[0];
-      var gpx = $(ruta).attr("name"); //console.log("valuegpx -->", ruta);
-
-      var currentURL = urlApp + (newLayersArray.length ? "?capes=".concat(newLayersArray.toString(), "&") : '?') + "ruta=" + gpx + "&" + currentURLRaw.substring(currentURLRaw.indexOf("#"), currentURLRaw.length); //console.log("->>>>>>>>>> URL: ", currentURL)
-
-      $('#urlMap').val(encodeURI(currentURL.valueOf()));
-      var iframecode = '<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="' + currentURL.replace("#", "\\#") + '" ></iframe>';
-      $('#iframeMap').html(iframecode);
-      $('#enllacamodal').modal('show');
+      var splitUrl = currentURLRaw.split("#");
+      var currentURL = "".concat(splitUrl[0], "?base=").concat(MAPSTATE.base, "&gpx=").concat(MAPSTATE.gpx, "&layers=").concat(MAPSTATE.layers, "&#").concat(splitUrl[1]);
+      $("#urlMap").val(encodeURI(currentURL.valueOf()));
+      var iframecode = "<iframe width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"".concat(currentURL.replace("#", "\\#"), "\" ></iframe>");
+      $("#iframeMap").html(iframecode);
+      $("#enllacamodal").modal("show");
     }); //ENLLACA
   }
 
@@ -618,10 +442,11 @@ $(window.document).ready(function () {
 
   function loadGPX(gpx) {
     var ruta = "dist/data/rutes/".concat(gpx);
+    MAPSTATE.gpx = gpx;
     var lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
       $(".ui.button.fileRequest").attr("data-gpx", ruta);
       $(".ui.button.fileRequest").attr("href", ruta);
-      $('.enllaca').prop("name", ruta);
+      $(".enllaca").prop("name", ruta);
       $("#uploadButton").prop("name", ruta);
       $("#elevationbutton").prop("elevation", trackGeoJSON);
       $("#infobox").hide();
@@ -638,14 +463,14 @@ $(window.document).ready(function () {
         $("#desnivellNegatiuLabel").text("\u2193 ".concat(desnivellNegatiu.toFixed(2), " m"));
       }
 
-      gpxDataSource = new Cesium.CzmlDataSource(); //console.log('ruta', ruta)
-
+      gpxDataSource = new Cesium.CzmlDataSource();
+      console.log("ruta", ruta);
       var fly = true;
       trackGeoJSON = {
         type: "FeatureCollection",
         features: []
       };
-      trackGeoJSON.features.push(fa.tmUtils.extractSingleLineString(this.toGeoJSON())); //track base prim//
+      trackGeoJSON.features.push(ut.tmUtils.extractSingleLineString(this.toGeoJSON())); //track base prim//
 
       viewer.dataSources.add(Cesium.GeoJsonDataSource.load(trackGeoJSON, {
         stroke: Cesium.Color.RED,
@@ -654,16 +479,18 @@ $(window.document).ready(function () {
         markerSymbol: "?"
       })); // fi track base prim
 
-      viewer.dataSources.add(gpxDataSource.load(fa.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then(function (ds) {
+      viewer.dataSources.add(gpxDataSource.load(ut.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then(function (ds) {
         trackDataSource = ds;
 
         if (fly) {
           viewer.flyTo(ds, {
             duration: 2
           });
-          addToponims(gpx);
+
+          if (MAPSTATE.base.indexOf("topo") === -1) {
+            addToponims(gpx);
+          }
         } else {
-          console.info("faig zoom");
           viewer.zoomTo(ds);
         }
 
@@ -674,458 +501,15 @@ $(window.document).ready(function () {
 
   function setupLayers() {
     $("#iniciaHome").on("click", function () {
-      console.log("entroBaseMap");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(0);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
+      ev.htmlEvents.toggleSideBar();
     });
-    $("#topographicMenu").on("click", function () {
-      console.log("entrotopo");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-      Cesium.Hash(viewer);
-      layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-        url: URL_TOPO,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      }));
-
-      if ($("#cimsToggle").is(":checked")) {
-        console.log("oncims");
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#toponimsToggle").is(":checked")) {
-        console.log("onToponims");
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#landslidesToggle").is(":checked")) {
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#carreteresToggle").is(":checked")) {
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#allausToggle").is(":checked")) {
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-    });
-    $("#ortofotoMenu").on("click", function () {
-      console.log("entroorto");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-      Cesium.Hash(viewer);
-      layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-        url: URL_ORTO,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      }));
-
-      if ($("#cimsToggle").is(":checked")) {
-        console.log("oncims");
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#toponimsToggle").is(":checked")) {
-        console.log("onToponims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#landslidesToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#carreteresToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#allausToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-    });
-    $("#adminMenu").on("click", function () {
-      console.log("entrohibrid");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-      Cesium.Hash(viewer);
-      layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-        url: URL_ADMIN,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      }));
-
-      if ($("#cimsToggle").is(":checked")) {
-        console.log("oncims");
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#toponimsToggle").is(":checked")) {
-        console.log("onToponims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#landslidesToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#carreteresToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#allausToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-    });
-    $(".carreteres").on("click", function () {
-      console.log("entrocarreteres");
-      imPro = new Cesium.UrlTemplateImageryProvider({
-        url: URL_HIBRID,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-    });
-    $("#relleuMenu").on("click", function () {
-      console.log("entrorelleu");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-      Cesium.Hash(viewer);
-      layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-        url: URL_RELLEU,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      }));
-
-      if ($("#cimsToggle").is(":checked")) {
-        console.log("oncims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#toponimsToggle").is(":checked")) {
-        console.log("onToponims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#landslidesToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#carreteresToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#allausToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-    });
-    $("#geologicMenu").on("click", function () {
-      console.log("entrogeo");
-      imPro = new Cesium.ArcGisMapServerImageryProvider({
-        url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?",
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "ArcGIS"
-      });
-      var layers = viewer.imageryLayers;
-      var baseLayer = layers.get(1);
-      layers.remove(baseLayer);
-      layers.addImageryProvider(imPro);
-      Cesium.Hash(viewer);
-      layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-        url: URL_GEOL,
-        enablePickFeatures: false,
-        maximumLevel: 18,
-        credit: "Institut Cartogràfic i Geològic de Catalunya"
-      }));
-
-      if ($("#cimsToggle").is(":checked")) {
-        console.log("oncims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icc.cat/icc_100cims/wms/service?",
-          layers: "0",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#toponimsToggle").is(":checked")) {
-        console.log("onToponims"); //var layersa = viewer.scene.imageryLayers
-
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_TOPONIM,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#landslidesToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?",
-          layers: "G6FIA_PA",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
-
-      if ($("#carreteresToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-          url: URL_carreteres,
-          enablePickFeatures: false,
-          maximumLevel: 18,
-          credit: "Institut Cartogràfic i Geològic de Catalunya"
-        }));
-      }
-
-      if ($("#allausToggle").is(":checked")) {
-        //var layersa = viewer.scene.imageryLayers
-        layersa.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
-          url: "http://siurana.icgc.cat/geoserver/nivoallaus/wms?",
-          layers: "zonesallaus",
-          enablePickFeatures: true,
-          showEntitiesLabels: true,
-          credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
-          parameters: {
-            transparent: "true",
-            format: "image/png"
-          }
-        }));
-      }
+    $("#baseLayers a").on("click", function (e) {
+      $("#baseLayers a").removeClass("active");
+      ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
+      ly.fnLayers.addBaseLayers(ImageryLayers, e.target.id);
+      $("#".concat(e.target.id)).addClass("active");
+      ev.htmlEvents.toggleSideBar();
+      MAPSTATE.base = e.target.id;
     });
   } //start controls animacio
 
@@ -1195,11 +579,12 @@ $(window.document).ready(function () {
         endLoading();
       }
 
-      if (viewer.clock.currentTime == viewer.clock.stopTime) {
+      if (viewer.clock.currentTime === viewer.clock.stopTime) {
         console.info("final ruta");
       }
     }); // fa que e simbol del hiker es mogui
 
+    viewer.trackedEntity = trackDataSource.entities.getById("track");
     trackDataSource.entities.getById("track").billboard.show = true;
     viewer.clock.shouldAnimate = true;
     console.log("startvideo-->click");
@@ -1208,7 +593,6 @@ $(window.document).ready(function () {
 
   function animate() {
     var animate = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : true;
-    console.info("entro start");
     viewer.clock.shouldAnimate = animate;
   }
 
@@ -1246,92 +630,236 @@ $(window.document).ready(function () {
   }
 
   function vistaInicial() {
-    $("#infobox").hide();
-    imPro = new Cesium.UrlTemplateImageryProvider({
-      url: URL_ORTO,
-      enablePickFeatures: false,
-      maximumLevel: 18,
-      credit: "Institut Cartogràfic i Geològic de Catalunya"
-    });
-    var layers = viewer.imageryLayers;
-    var baseLayer = layers.get(1);
-    layers.remove(baseLayer);
-    layers.addImageryProvider(imPro);
+    /*
     camera.flyTo({
-      destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
-      duration: 4
+    	destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
+    	duration: 4,
+    });
+    */
+    camera.flyTo({
+      destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
+      duration: 0,
+      complete: function complete() {
+        setTimeout(function () {
+          camera.flyTo({
+            destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 5500),
+            orientation: {
+              heading: Cesium.Math.toRadians(360),
+              pitch: Cesium.Math.toRadians(-53.0) //tilt
+
+            },
+            easingFunction: Cesium.EasingFunction.LINEAR_NONE
+          }); //
+        }, 1000);
+      }
     });
     Cesium.Hash(viewer);
-    layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-      url: URL_carreteres,
-      enablePickFeatures: false,
-      maximumLevel: 18,
-      credit: "Institut Cartogràfic i Geològic de Catalunya"
-    }));
-    layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-      url: URL_TOPONIM,
-      enablePickFeatures: false,
-      maximumLevel: 18,
-      credit: "Institut Cartogràfic i Geològic de Catalunya"
-    }));
-    layers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-      url: URL_carreteres,
-      enablePickFeatures: false,
-      maximumLevel: 1,
-      credit: "Institut Cartogràfic i Geològic de Catalunya"
-    }));
-    /*
-    imPro = new Cesium.UrlTemplateImageryProvider({
-    	url: URL_carreteres,
-    	enablePickFeatures: false,
-    	maximumLevel: 18,
-    	credit: "Institut Cartogràfic i Geològic de Catalunya"
-    });
-    var layers = viewer.imageryLayers;
-    layers.addImageryProvider(imPro);
-    		imPro = new Cesium.UrlTemplateImageryProvider({
-    	url: URL_TOPONIM,
-    	enablePickFeatures: false,
-    	maximumLevel: 18,
-    	credit: "Institut Cartogràfic i Geològic de Catalunya"
-    
-    });
-    var layers = viewer.imageryLayers;
-    layers.addImageryProvider(imPro);
-    		imPro = new Cesium.UrlTemplateImageryProvider({
-    	url: URL_carreteres,
-    	enablePickFeatures: false,
-    	maximumLevel: 1,
-    	credit: "Institut Cartogràfic i Geològic de Catalunya"
-    });
-    var layers = viewer.imageryLayers;
-    layers.addImageryProvider(imPro);
-    layers.remove(baseLayer);
-    //viewer.extend(Cesium.viewerCesiumNavigationMixin, {});*/
   } //ends controls animacio
 
 }); // end ready
 
-},{"./utils":2}],2:[function(require,module,exports){
-// Copyright (c) 2020 Uber Technologies, Inc.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
+},{"./events.js":1,"./functions.js":2,"./layers.js":4,"./utils.js":5}],4:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.fnLayers = exports.BaseMaps = exports.LayerCarreteresICGC = exports.LayerRiscGeologicICGC = exports.LayerToponimsICGC = exports.LayersAllausICGC = exports.LayerSlopeICGC = exports.LayerCimsICGC = exports.LayerTerrenyICGC = exports.LayerTopoOSM = exports.LayerTopoClassicICGC = exports.LayerTopoICGC = exports.LayerRelleuICGC = exports.LayerGeologicICGC = exports.LayerOrtoICGC = exports.LayerRelleuEsri = exports.LayerOrtoEsri = void 0;
+var URL_ORTO_ICGC = "https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.png";
+var URL_TOPOGRAFIC_ICGC = "https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/topo/GRID3857/{z}/{x}/{y}.jpeg";
+var URL_Carreteres = "https://tilemaps.icgc.cat/mapfactory/wmts/hibrida_total/CAT3857/{z}/{x}/{y}.png";
+var URL_TOPO_ICGC = "https://tilemaps.icgc.cat/mapfactory/wmts/topo_suau/CAT3857/{z}/{x}/{y}.png";
+var URL_TOPO_OSM = "https://tilemaps.icgc.cat/mapfactory/wmts/osm_suau/CAT3857_15/{z}/{x}/{y}.png";
+var URL_GEOL_ICGC = "https://tilemaps.icgc.cat/mapfactory/wmts/geologia/MON3857NW/{z}/{x}/{y}.png";
+var URL_RELLEU_ICGC = "https://tilemaps.icgc.cat/mapfactory/wmts/relleu/CAT3857/{z}/{x}/{y}.png";
+var URL_RELLEU_ESRI = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer?";
+var URL_ADMIN = "https://tilemaps.icgc.cat/mapfactory/wmts/limits/CAT3857/{z}/{x}/{y}.png";
+var URL_TOPONIM = "https://tilemaps.icgc.cat/mapfactory/wmts/toponimia/CAT3857/{z}/{x}/{y}.png";
+var URL_TERRENY = "https://tilemaps.icgc.cat/terrenys/demextes";
+var URL_ORTO_ESRI = "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer?";
+var URL_CIMS_ICGC = "https://geoserveis.icgc.cat/icc_100cims/wms/service?";
+var URL_SLOPE_ICGC = "https://geoserveis.icgc.cat/icgc_mp20p5m/wms/service?";
+var URL_ALLAUS_ICGC = "https://siurana.icgc.cat/geoserver/nivoallaus/wms?";
+var URL_RISC_GEOLOGIC = "https://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?";
+var LayerOrtoEsri = new Cesium.ArcGisMapServerImageryProvider({
+  url: URL_ORTO_ESRI,
+  enablePickFeatures: false,
+  maximumLevel: 10,
+  credit: "ESRI"
+});
+exports.LayerOrtoEsri = LayerOrtoEsri;
+var LayerRelleuEsri = new Cesium.ArcGisMapServerImageryProvider({
+  url: URL_RELLEU_ESRI,
+  enablePickFeatures: false,
+  maximumLevel: 10,
+  credit: "ESRI"
+});
+exports.LayerRelleuEsri = LayerRelleuEsri;
+var LayerOrtoICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_ORTO_ICGC,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerOrtoICGC = LayerOrtoICGC;
+var LayerGeologicICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_GEOL_ICGC,
+  enablePickFeatures: false,
+  maximumLevel: 14,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerGeologicICGC = LayerGeologicICGC;
+var LayerRelleuICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_RELLEU_ICGC,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerRelleuICGC = LayerRelleuICGC;
+var LayerTopoICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_TOPO_ICGC,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerTopoICGC = LayerTopoICGC;
+var LayerTopoClassicICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_TOPOGRAFIC_ICGC,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerTopoClassicICGC = LayerTopoClassicICGC;
+var LayerTopoOSM = new Cesium.UrlTemplateImageryProvider({
+  url: URL_TOPO_OSM,
+  enablePickFeatures: false,
+  maximumLevel: 12,
+  credit: "OpenStreetMap Contributors"
+});
+exports.LayerTopoOSM = LayerTopoOSM;
+var LayerTerrenyICGC = new Cesium.CesiumTerrainProvider({
+  url: URL_TERRENY
+});
+exports.LayerTerrenyICGC = LayerTerrenyICGC;
+var LayerCimsICGC = new Cesium.WebMapServiceImageryProvider({
+  url: URL_CIMS_ICGC,
+  layers: "0",
+  enablePickFeatures: true,
+  showEntitiesLabels: true,
+  credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+  parameters: {
+    transparent: "true",
+    format: "image/png"
+  }
+});
+exports.LayerCimsICGC = LayerCimsICGC;
+var LayerSlopeICGC = new Cesium.WebMapServiceImageryProvider({
+  url: URL_SLOPE_ICGC,
+  layers: "MP20P5M_PA",
+  enablePickFeatures: true,
+  showEntitiesLabels: true,
+  credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+  parameters: {
+    transparent: "true",
+    format: "image/png"
+  }
+});
+exports.LayerSlopeICGC = LayerSlopeICGC;
+var LayersAllausICGC = new Cesium.WebMapServiceImageryProvider({
+  url: URL_ALLAUS_ICGC,
+  layers: "zonesallaus",
+  enablePickFeatures: true,
+  showEntitiesLabels: true,
+  credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+  parameters: {
+    transparent: "true",
+    format: "image/png"
+  }
+});
+exports.LayersAllausICGC = LayersAllausICGC;
+var LayerToponimsICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_TOPONIM,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerToponimsICGC = LayerToponimsICGC;
+var LayerRiscGeologicICGC = new Cesium.WebMapServiceImageryProvider({
+  url: URL_RISC_GEOLOGIC,
+  layers: "G6FIA_PA",
+  enablePickFeatures: true,
+  showEntitiesLabels: true,
+  credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
+  parameters: {
+    transparent: "true",
+    format: "image/png"
+  }
+});
+exports.LayerRiscGeologicICGC = LayerRiscGeologicICGC;
+var LayerCarreteresICGC = new Cesium.UrlTemplateImageryProvider({
+  url: URL_Carreteres,
+  enablePickFeatures: false,
+  maximumLevel: 18,
+  credit: "Institut Cartogràfic i Geològic de Catalunya"
+});
+exports.LayerCarreteresICGC = LayerCarreteresICGC;
+var BaseMaps = {
+  orto: "ortofotoMenu",
+  topo: "topographicMenu",
+  topoClassic: "topoClassicMenu",
+  relleu: "relleuMenu",
+  geologic: "geologicMenu"
+};
+exports.BaseMaps = BaseMaps;
+
+var fnLayers = function () {
+  var addBaseLayers = function addBaseLayers(ImageryLayers, id) {
+    if (id === BaseMaps.orto) {
+      ImageryLayers.addImageryProvider(LayerOrtoEsri, 0);
+      ImageryLayers._layers[0].alpha = 0.5;
+      ImageryLayers.addImageryProvider(LayerOrtoICGC, 1);
+    } else if (id === BaseMaps.topo) {
+      ImageryLayers.addImageryProvider(LayerTopoOSM, 0);
+      ImageryLayers._layers[0].alpha = 0.5;
+      ImageryLayers.addImageryProvider(LayerTopoICGC, 1);
+    } else if (id === BaseMaps.topoClassic) {
+      ImageryLayers.addImageryProvider(LayerRelleuICGC, 0);
+      ImageryLayers.addImageryProvider(LayerTopoClassicICGC, 1);
+      ImageryLayers._layers[1].alpha = 0.7;
+    } else if (id === BaseMaps.relleu) {
+      ImageryLayers.addImageryProvider(LayerRelleuEsri, 0);
+      ImageryLayers._layers[0].alpha = 0.5;
+      ImageryLayers.addImageryProvider(LayerRelleuICGC, 1);
+    } else if (id === BaseMaps.geologic) {
+      ImageryLayers.addImageryProvider(LayerRelleuICGC, 0);
+      ImageryLayers.addImageryProvider(LayerGeologicICGC, 1);
+      ImageryLayers._layers[1].alpha = 0.5;
+    } else {}
+  };
+
+  var removeBaseLayers = function removeBaseLayers(ImageryLayers, num) {
+    try {
+      if (num === 1) {
+        ImageryLayers.remove(ImageryLayers.get(1));
+      } else {
+        ImageryLayers.remove(ImageryLayers.get(1));
+        ImageryLayers.remove(ImageryLayers.get(0));
+      }
+    } catch (err) {
+      console.info(err);
+      return false;
+    }
+  };
+
+  return {
+    removeBaseLayers: removeBaseLayers,
+    addBaseLayers: addBaseLayers
+  };
+}();
+
+exports.fnLayers = fnLayers;
+
+},{}],5:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -1719,4 +1247,4 @@ var tmUtils = function () {
 
 exports.tmUtils = tmUtils;
 
-},{}]},{},[1]);
+},{}]},{},[3]);
