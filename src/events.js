@@ -81,6 +81,8 @@ export var htmlEvents = (function () {
 
     var openSidePanel = function (){
  
+        $("#sideBt").show();
+        $("#mySidepanel").show();
         if ($("#mySidepanel").width() === 0) {
             document.getElementById("mySidepanel").style.width = "350px";
             document.getElementById("sideBt").style.left = "350px";
@@ -88,6 +90,26 @@ export var htmlEvents = (function () {
         } else {
             document.getElementById("mySidepanel").style.width = "0px";
             document.getElementById("sideBt").style.left = "0px";
+
+        }
+
+    }
+
+    var collapseSidePanel = function (){
+        document.getElementById("mySidepanel").style.width = "0px";
+        document.getElementById("sideBt").style.left = "0px";
+
+    }
+
+    var sidePanelStatus = function (active){
+ 
+        if (active) {
+            $("#sideBt").show();
+
+        } else {
+            document.getElementById("mySidepanel").style.width = "0px";
+            document.getElementById("sideBt").style.left = "0px";
+            $("#sideBt").hide();
 
         }
 
@@ -104,6 +126,8 @@ export var htmlEvents = (function () {
         dropDownBT: dropDownBT,
         toggleSideBar: toggleSideBar,
         toolBarAnimation: toolBarAnimation,
-        openSidePanel:openSidePanel
+        openSidePanel:openSidePanel,
+        collapseSidePanel:collapseSidePanel,
+        sidePanelStatus:sidePanelStatus
     };
 })();

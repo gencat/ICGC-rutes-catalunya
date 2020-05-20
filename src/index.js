@@ -16,9 +16,15 @@ let CAPA_TOPONIMS = null;
 let CAPA_RISCGEOLOGIC = null;
 let CAPA_CARRETERS = null;
 let CAPA_CIMS = null;
-const MAPSTATE = {"base":ly.BaseMaps.orto,
-				  "gpx":null,
-				  "layers":null};
+let caixaCerca;
+const MAPSTATE = {
+	"base": ly.BaseMaps.orto,
+	"gpx": null,
+	"description": null,
+	"title": null,
+	"meta": null,
+	"layers": null
+};
 let fakeMap;
 let controlElevation;
 let imPro;
@@ -29,6 +35,9 @@ let rutaIniciada = false;
 let isInPause = true;
 let labelsDatasource;
 let capturer;
+const baseParam = $.url().param("base");
+const gpxParam = $.url().param("gpx");
+const layersParam = $.url().param("layers");
 
 
 $(window.document).ready(() => {
@@ -85,10 +94,10 @@ $(window.document).ready(() => {
 	viewer.scene.fog.density = 0.0002;
 	viewer.scene.fog.screenSpaceErrorFactor = 2;
 
-
-	vistaInicial();
-	initElevation();
 	initEvents();
+
+	initElevation();
+	vistaInicial();
 	setupLayers();
 
 	//
@@ -168,6 +177,7 @@ $(window.document).ready(() => {
 			detached: true,
 			elevationDiv: "#elevation-div",
 			width: jQuery("#elevation-div").outerWidth(),
+			height: "150",
 			autohide: false,
 			collapsed: true,
 			position: "bottom",
@@ -184,44 +194,21 @@ $(window.document).ready(() => {
 
 	}
 
+	function sendRequest(result) {
 
-	function addInfoElevation(trackGeoJSON, controlElevation) {
+		resetPlay();
+		$("#controls").show();
+		$("#pausa").hide();
+		$("#loading").hide();
 
-		try {
+		showEntitiesLabels(false);
+		rutaIniciada = false;
+		MAPSTATE.gpx = result.id;
+		MAPSTATE.title = result.title;
+		MAPSTATE.description = result.description;
+		loadGPX(result.id,false);
+		//alert(1);
 
-			console.info(trackGeoJSON);
-			$("#elevation-div").show();
-
-			controlElevation.clear();
-
-
-			const oo =	controlElevation.load(trackGeoJSON);
-
-			controlElevation.on("eledata_added", (a) => {
-
-				console.info("a", a.track_info);
-				
-
-			});
-
-			console.info("s", controlElevation);
-			console.info("oo", oo);
-
-			const track = controlElevation.track_info;
-
-			console.info(track);
-
-			/*
-			$(".totlen .summaryvalue").html(`${track.distance.toFixed(2)} km`);
-			$(".maxele .summaryvalue").html(`${track.elevation_max.toFixed(2)} m`);
-			$(".minele .summaryvalue").html(`${track.elevation_min.toFixed(2)} m`);
-*/
-
-		} catch (err) {
-
-			console.info(err);
-
-		}
 
 	}
 
@@ -246,7 +233,10 @@ $(window.document).ready(() => {
 				console.log("path-->", ruta);
 				$("#uploadButton").prop("name", ruta);
 				viewer.dataSources.removeAll();
-				loadGPX(gpx);
+				MAPSTATE.gpx = ruta;
+				MAPSTATE.title = ruta;
+				MAPSTATE.description = "";
+				loadGPX(gpx, true);
 				console.log("rutaok");
 
 			}
@@ -263,7 +253,7 @@ $(window.document).ready(() => {
 				$("#loading").hide();
 				showEntitiesLabels(false);
 				rutaIniciada = false;
-				loadGPX(this.value);
+				loadGPX(this.value,false);
 				$("#elevationbutton").load(this.value);
 
 			}
@@ -272,6 +262,11 @@ $(window.document).ready(() => {
 
 
 		jQuery("#play").on("click", () => {
+
+			ev.htmlEvents.collapseSidePanel();
+			jQuery("#savevideobutton").css("opacity",1);
+			jQuery("#savevideobutton").css("pointer-events","all");
+			jQuery("#savevideobutton").attr("title","Descarrega video de l'animació");
 
 			if (rutaIniciada) {
 
@@ -323,6 +318,7 @@ $(window.document).ready(() => {
 
 			console.log("savevideo-->click");
 
+			stopRender();
 			saveRender();
 
 
@@ -346,47 +342,58 @@ $(window.document).ready(() => {
 
 		});
 
-		$("#erasefilebutton").on("click", () => {
+		$("#closeSearch").on("click", () => {
 
 			setupPause();
-
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
 				viewer.dataSources.removeAll();
 
-
 			}
 
 			$("#infobox").hide();
-
+			$("#controls").hide();
+			$("#closeSearch").hide();
+			$("#lupaSearch").show();
+			$("#textSearch").val("");
+			ev.htmlEvents.sidePanelStatus(false);
+			MAPSTATE.gpx = null;
+			$(".ui.search").search("setting", { maxResults: 7 });
+			jQuery("#savevideobutton").css("opacity", 0.5);
+			jQuery("#savevideobutton").css("pointer-events","none");
+			jQuery("#savevideobutton").attr("title","Inicia l'animació per poder descarregar el video");
 
 		});
 
-		$(".ui.search")
+		caixaCerca = $(".ui.search")
 			.search({
 				source: rutesJSON,
 				minCharacters: 2,
-
 				searchFields: [
 					"title",
-					"description"
+					"description",
+					"id"
 				],
-				maxResults: 7,
+				maxResults: 0,
+				//selectFirstResult:true,
 				fullTextSearch: "exact",
+				onResults:function(response) {
+
+					console.info("response", response);
+					if (response.results.length === 1) {
+
+						sendRequest(response.results[0]);
+
+					}
+
+				},
 				onSelect: function (result) {
 
-					console.log("search");
+					console.log("search", result);
 					if (result.id != null) {
 
-						resetPlay();
-						$("#controls").show();
-						$("#pausa").hide();
-						$("#loading").hide();
-
-						showEntitiesLabels(false);
-						rutaIniciada = false;
-						loadGPX(result.id);
+						sendRequest(result);
 
 
 					}
@@ -394,6 +401,7 @@ $(window.document).ready(() => {
 				}
 			})
 		;
+
 
 		$("#cimsToggle").change(function () {
 
@@ -487,12 +495,12 @@ $(window.document).ready(() => {
 		//ENLLACA
 		$(".enllaca").on("click", () => {
 
-			console.info("hola enllaca");
 
 			const currentURLRaw = window.location.href.valueOf();
 			const splitUrl = currentURLRaw.split("#");
+			const gpxid = MAPSTATE.gpx ? MAPSTATE.gpx.replace(".gpx", "") : null;
 
-			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${MAPSTATE.gpx}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
+			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${gpxid}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
 
 			$("#urlMap").val(encodeURI(currentURL.valueOf()));
 
@@ -510,10 +518,11 @@ $(window.document).ready(() => {
 
 	let gpxDataSource;
 
-	function loadGPX(gpx) {
+	function loadGPX(gpx, gpxLocal) {
 
-		const ruta = `dist/data/rutes/${gpx}`;
-		MAPSTATE.gpx = gpx;
+		const ruta = gpxLocal ? gpx : `dist/data/rutes/${gpx}`;
+
+		
 		const lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
 
 			$(".ui.button.fileRequest").attr("data-gpx", ruta);
@@ -560,19 +569,16 @@ $(window.document).ready(() => {
 				markerSymbol: "?"
 			}));
 			// fi track base prim
+			heCercat(trackGeoJSON, controlElevation, MAPSTATE);
 
-			addInfoElevation(trackGeoJSON, controlElevation);
 			viewer.dataSources.add(gpxDataSource.load(ut.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then((ds) => {
 
-
 				trackDataSource = ds;
-
 
 				ev.htmlEvents.openSidePanel();
 				if (fly) {
 
-					console.info("flyq", fly);
-					viewer.flyTo(ds, { duration: 2});
+					viewer.flyTo(ds, { duration: 2 });
 
 					setTimeout(() => {
 
@@ -603,26 +609,35 @@ $(window.document).ready(() => {
 	}
 
 
-	function setupLayers() {
+	function heCercat(trackGeoJSON, controlElevation, MAPSTATE) {
 
+		fn.rutes.addTemplateInfoElevation(trackGeoJSON, controlElevation, MAPSTATE);
+		$("#closeSearch").show();
+		$("#lupaSearch").hide();
+		$("#resultsCerca").removeClass("visible");
+		$("#resultsCerca").addClass("hidden");
+		$("#resultsCerca").hide();
+
+		//results transition hidden
+
+		//results transition visible
+
+
+	}
+
+	function setupLayers() {
 
 		$("#iniciaHome").on("click", () => {
 
 			ev.htmlEvents.toggleSideBar();
-
 
 		});
 
 
 		$("#baseLayers a").on("click", (e) => {
 
-			$("#baseLayers a").removeClass("active");
-			ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
-			ly.fnLayers.addBaseLayers(ImageryLayers, e.target.id);
-			$(`#${e.target.id}`).addClass("active");
-
-			ev.htmlEvents.toggleSideBar();
-			MAPSTATE.base = e.target.id;
+			changeBaseLayers(e.target.id);
+			
 
 		});
 
@@ -630,6 +645,20 @@ $(window.document).ready(() => {
 	}
 
 	//start controls animacio
+
+	function changeBaseLayers(id){
+
+		$("#baseLayers a").removeClass("active");
+			ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
+			ly.fnLayers.addBaseLayers(ImageryLayers, id);
+			$(`#${e.target.id}`).addClass("active");
+
+			ev.htmlEvents.toggleSideBar();
+			MAPSTATE.base = id;
+
+
+	}
+
 
 
 	function setupPause() {
@@ -756,7 +785,6 @@ $(window.document).ready(() => {
 
 	function initRender() {
 
-
 		capturer.start();
 
 	}
@@ -766,14 +794,11 @@ $(window.document).ready(() => {
 
 		capturer.stop();
 
-
 	}
 
 	function saveRender() {
 
-
 		window.open(capturer.save("ruta.webm"));
-
 
 	}
 
@@ -810,9 +835,46 @@ $(window.document).ready(() => {
 	}
 
 
+	function checkURLParameters() {
+
+
+		//http://127.0.0.1:5500/index.html?base=ortofotoMenu&gpx=null&layers=null&#42.211228/1.698078/5500/360/-53
+
+		if (baseParam && baseParam !== "" && baseParam !== ly.BaseMaps.orto) {
+
+			changeBaseLayers(baseParam);
+
+		}
+
+		if (gpxParam && gpxParam !== "") {
+
+			//console.info(caixaCerca.search);
+			$("#textSearch").focus();
+			$("#textSearch").val(gpxParam);
+
+			$(".ui.search").search("setting", { maxResults: 0 });
+			$(".ui.search").search("query", gpxParam);
+
+		} else {
+
+			$(".ui.search").search("setting", { maxResults: 7 });
+
+		}
+
+		if (layersParam) {
+
+			//falta
+
+		}
+
+
+	}
+
+
 	function vistaInicial() {
 
 
+		checkURLParameters();
 		/*
 		camera.flyTo({
 			destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),

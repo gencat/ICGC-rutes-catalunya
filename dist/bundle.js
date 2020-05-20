@@ -51,17 +51,27 @@ var htmlEvents = function () {
     $("#sideBarOptions").sidebar("setting", "transition", "overlay").sidebar("toggle");
   };
 
+  var openSidePanel = function openSidePanel() {
+    if ($("#mySidepanel").width() === 0) {
+      document.getElementById("mySidepanel").style.width = "350px";
+      document.getElementById("sideBt").style.left = "350px";
+    } else {
+      document.getElementById("mySidepanel").style.width = "0px";
+      document.getElementById("sideBt").style.left = "0px";
+    }
+  };
+
   var toolBarAnimation = function toolBarAnimation() {
-    $("sideBt").on("click", function () {
-      console.info($("#mySidepanel").width);
-      document.getElementById("mySidepanel").style.width = "250px";
+    $("#sideBt").on("click", function () {
+      openSidePanel();
     });
   };
 
   return {
     dropDownBT: dropDownBT,
     toggleSideBar: toggleSideBar,
-    toolBarAnimation: toolBarAnimation
+    toolBarAnimation: toolBarAnimation,
+    openSidePanel: openSidePanel
   };
 }();
 
@@ -103,8 +113,35 @@ var rutes = function () {
     return opt;
   };
 
+  var addTemplateInfoElevation = function addTemplateInfoElevation(trackGeoJSON, controlElevation, MAPSTATE) {
+    try {
+      $("#nomRutaH").html(MAPSTATE.title);
+      $("#llocRutaH").html("Inici " + MAPSTATE.description);
+      $("#elevation-div").show();
+      $("#sideBt").show();
+      controlElevation.clear();
+      var oo = controlElevation.load(trackGeoJSON);
+      controlElevation.on("eledata_added", function (a) {
+        var track = a.track_info;
+        var desnivell = parseInt(track.elevation_max) - parseInt(track.elevation_min);
+        $("#totlen").html("Dist\xE0ncia: ".concat(track.distance.toFixed(2), " km <i class=\"arrows alternate horizontal right ui icon\">"));
+        $("#desni").html("Desnivell: ".concat(desnivell, " m <i class=\"arrows alternate vertical ui icon\">"));
+        $("#maxele").html("Al\xE7ada m\xE0xima: ".concat(parseInt(track.elevation_max), " m <i class=\"level up alternate ui icon\">"));
+        $("#minele").html("Al\xE7ada m\xEDnima: ".concat(parseInt(track.elevation_min), " m <i class=\"level down alternate ui icon\">"));
+      });
+      /*
+      $(".totlen .summaryvalue").html(`${track.distance.toFixed(2)} km`);
+      $(".maxele .summaryvalue").html(`${track.elevation_max.toFixed(2)} m`);
+      $(".minele .summaryvalue").html(`${track.elevation_min.toFixed(2)} m`);
+      */
+    } catch (err) {
+      console.info(err);
+    }
+  };
+
   return {
-    checkOptions: checkOptions
+    checkOptions: checkOptions,
+    addTemplateInfoElevation: addTemplateInfoElevation
   };
 }();
 
@@ -133,9 +170,13 @@ var CAPA_TOPONIMS = null;
 var CAPA_RISCGEOLOGIC = null;
 var CAPA_CARRETERS = null;
 var CAPA_CIMS = null;
+var caixaCerca;
 var MAPSTATE = {
   "base": ly.BaseMaps.orto,
   "gpx": null,
+  "description": null,
+  "title": null,
+  "meta": null,
   "layers": null
 };
 var fakeMap;
@@ -149,6 +190,9 @@ var rutaIniciada = false;
 var isInPause = true;
 var labelsDatasource;
 var capturer;
+var baseParam = $.url().param("base");
+var gpxParam = $.url().param("gpx");
+var layersParam = $.url().param("layers");
 $(window.document).ready(function () {
   ev.htmlEvents.dropDownBT();
   Cesium.Camera.DEFAULT_VIEW_RECTANGLE = Cesium.Rectangle.fromDegrees(west, south, east, north);
@@ -192,9 +236,9 @@ $(window.document).ready(function () {
   viewer.scene.fog.enabled = true;
   viewer.scene.fog.density = 0.0002;
   viewer.scene.fog.screenSpaceErrorFactor = 2;
-  vistaInicial();
-  initElevation();
   initEvents();
+  initElevation();
+  vistaInicial();
   setupLayers(); //
 
   function showEntitiesLabels(value) {
@@ -204,15 +248,15 @@ $(window.document).ready(function () {
     }
   }
 
-  function addToponims(toponimsGeoJson) {
+  function addToponims() {
+    var toponimsGeoJson = MAPSTATE.gpx;
     viewer.entities.removeAll();
     jQuery.getJSON("dist/data/rutes/MAP_NAME_".concat(toponimsGeoJson.replace("gpx", "geojson")), function (respuestaGeonames) {
       for (var i = 0; i < respuestaGeonames.features.length; i++) {
-        if (respuestaGeonames.features[i].properties.Concepte != "edif.") {
+        if (respuestaGeonames.features[i].properties.Concepte !== "edif.") {
           var entity = respuestaGeonames.features[i];
-          var opt = fn.rutes.checkOptions(entity.properties.Concepte); //console.log('prop', entity.properties)
-
-          var entityG = viewer.entities.add({
+          var opt = fn.rutes.checkOptions(entity.properties.Concepte);
+          viewer.entities.add({
             position: Cesium.Cartesian3.fromDegrees(entity.geometry.coordinates[0], entity.geometry.coordinates[1], entity.geometry.coordinates[2]),
             label: {
               text: entity.properties.Toponim,
@@ -227,8 +271,6 @@ $(window.document).ready(function () {
               heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
             }
           });
-          entityG.label.manualUpdate = true;
-          entityG.label.forceUpdate = true;
         } // en if
         //console.info(i,respuestaGeonames.features.length - 1 );
 
@@ -239,14 +281,17 @@ $(window.document).ready(function () {
       } //en for label
 
     }); //end then
+
+    console.log("finaltopo");
   }
 
   function initElevation() {
     var elevationOptions = {
-      theme: "custom-theme",
+      theme: "lightblue-theme",
       detached: true,
       elevationDiv: "#elevation-div",
       width: jQuery("#elevation-div").outerWidth(),
+      height: "150",
       autohide: false,
       collapsed: true,
       position: "bottom",
@@ -257,6 +302,20 @@ $(window.document).ready(function () {
     };
     fakeMap = new L.Map("fakemap");
     controlElevation = L.control.elevation(elevationOptions).addTo(fakeMap);
+  }
+
+  function sendRequest(result) {
+    resetPlay();
+    $("#controls").show();
+    $("#pausa").hide();
+    $("#loading").hide();
+    showEntitiesLabels(false);
+    rutaIniciada = false;
+    MAPSTATE.gpx = result.id;
+    MAPSTATE.title = result.title;
+    MAPSTATE.description = result.description;
+    loadGPX(result.id);
+    $(".results").hide();
   }
 
   function initEvents() {
@@ -333,7 +392,7 @@ $(window.document).ready(function () {
         jQuery("#play i").addClass("circular pause icon");
       }
     });
-    $("#erasefilebutton").on("click", function () {
+    $("#closeSearch").on("click", function () {
       setupPause();
 
       if (viewer.dataSources.contains(gpxDataSource)) {
@@ -342,23 +401,24 @@ $(window.document).ready(function () {
 
       $("#infobox").hide();
     });
-    $(".ui.search").search({
+    caixaCerca = $(".ui.search").search({
       source: rutesJSON,
       minCharacters: 2,
-      searchFields: ["title", "description"],
+      searchFields: ["title", "description", "id"],
       maxResults: 7,
       fullTextSearch: "exact",
+      onResults: function onResults(response) {
+        console.info("response", response);
+
+        if (response.results.length === 1) {
+          sendRequest(response.results[0]);
+        }
+      },
       onSelect: function onSelect(result) {
-        console.log("search");
+        console.log("search", result);
 
         if (result.id != null) {
-          resetPlay();
-          $("#controls").show();
-          $("#pausa").hide();
-          $("#loading").hide(); //showEntitiesLabels(false);
-
-          rutaIniciada = false;
-          loadGPX(result.id);
+          sendRequest(result);
         }
       }
     });
@@ -411,26 +471,13 @@ $(window.document).ready(function () {
       } else {
         CAPA_CARRETERS.show = false;
       }
-    });
-    $("#elevationbutton").on("click", function () {
-      console.info(trackGeoJSON);
-      $("#elevation-div").toggle();
-      controlElevation.clear();
-      controlElevation.load(trackGeoJSON);
-      console.info(controlElevation);
-      var q = document.querySelector.bind(document);
-      var track = controlElevation.track_info;
-      console.info(controlElevation.track_info);
-      q('.totlen .summaryvalue').innerHTML = track.distance.toFixed(2) + " km";
-      q('.maxele .summaryvalue').innerHTML = track.elevation_max.toFixed(2) + " m";
-      q('.minele .summaryvalue').innerHTML = track.elevation_min.toFixed(2) + " m";
     }); //ENLLACA
 
     $(".enllaca").on("click", function () {
-      console.info("hola enllaca");
       var currentURLRaw = window.location.href.valueOf();
       var splitUrl = currentURLRaw.split("#");
-      var currentURL = "".concat(splitUrl[0], "?base=").concat(MAPSTATE.base, "&gpx=").concat(MAPSTATE.gpx, "&layers=").concat(MAPSTATE.layers, "&#").concat(splitUrl[1]);
+      var gpxid = MAPSTATE.gpx ? MAPSTATE.gpx.replace(".gpx", "") : null;
+      var currentURL = "".concat(splitUrl[0], "?base=").concat(MAPSTATE.base, "&gpx=").concat(gpxid, "&layers=").concat(MAPSTATE.layers, "&#").concat(splitUrl[1]);
       $("#urlMap").val(encodeURI(currentURL.valueOf()));
       var iframecode = "<iframe width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"".concat(currentURL.replace("#", "\\#"), "\" ></iframe>");
       $("#iframeMap").html(iframecode);
@@ -442,7 +489,6 @@ $(window.document).ready(function () {
 
   function loadGPX(gpx) {
     var ruta = "dist/data/rutes/".concat(gpx);
-    MAPSTATE.gpx = gpx;
     var lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
       $(".ui.button.fileRequest").attr("data-gpx", ruta);
       $(".ui.button.fileRequest").attr("href", ruta);
@@ -479,17 +525,21 @@ $(window.document).ready(function () {
         markerSymbol: "?"
       })); // fi track base prim
 
+      heCercat(trackGeoJSON, controlElevation, MAPSTATE);
       viewer.dataSources.add(gpxDataSource.load(ut.tmUtils.buildCZMLForTrack(trackGeoJSON, lGPX, "marker"))).then(function (ds) {
         trackDataSource = ds;
+        ev.htmlEvents.openSidePanel();
 
         if (fly) {
           viewer.flyTo(ds, {
             duration: 2
           });
+          setTimeout(function () {
+            var _base = MAPSTATE.base;
 
-          if (MAPSTATE.base.indexOf("topo") === -1) {
-            addToponims(gpx);
-          }
+            if (_base.indexOf("orto") !== -1) {//	addToponims();
+            }
+          }, 2000);
         } else {
           viewer.zoomTo(ds);
         }
@@ -497,6 +547,11 @@ $(window.document).ready(function () {
         viewer.clock.shouldAnimate = false;
       });
     });
+  }
+
+  function heCercat(trackGeoJSON, controlElevation, MAPSTATE) {
+    fn.rutes.addTemplateInfoElevation(trackGeoJSON, controlElevation, MAPSTATE);
+    $("#closeSearch").css("visibility", "visible");
   }
 
   function setupLayers() {
@@ -629,13 +684,30 @@ $(window.document).ready(function () {
     }
   }
 
+  function checkURLParameters() {
+    //http://127.0.0.1:5500/index.html?base=ortofotoMenu&gpx=null&layers=null&#42.211228/1.698078/5500/360/-53
+    if (baseParam) {}
+
+    if (gpxParam && gpxParam !== "") {
+      //console.info(caixaCerca.search);
+      $('#textSearch').focus();
+      $('#textSearch').val(gpxParam); //$('.ui.search').search('setting', { selectFirstResult: true });
+
+      $('.ui.search').search('query', gpxParam);
+    }
+
+    if (layersParam) {}
+  }
+
   function vistaInicial() {
+    checkURLParameters();
     /*
     camera.flyTo({
     	destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
     	duration: 4,
     });
     */
+
     camera.flyTo({
       destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
       duration: 0,

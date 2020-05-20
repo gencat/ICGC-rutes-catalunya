@@ -136,39 +136,41 @@
   <!--START CONTROL ANIMACIO-->
   <div id="controls">
     <div id="aturar">
+      <!--
       <h4>Ruta</h4>
+      -->
       <div id="play">
-        <i class="circular play icon"></i><span class="spnText">Anima</span>
+        <i title="Animar recorregut ruta" class="circular play icon"></i>
+         
+        <span class="spnText"></span>
+        
       </div>
 
       <div id="loading">
-        <i class="circular orange spinner loading icon"></i>
+        <i title="Tornar inici class="circular orange spinner loading icon"></i>
       </div>
 
-      <div id="home">
-        <i class="circular undo icon"></i><span class="spnText"> Reinicia</span>
+      <div title="Reinicia Inicia l'animació" id="home">
+        <i class="circular undo icon"></i>
+        
+        <span class="spnText"></span>
+      
       </div>
-      <div id="erasefilebutton">
-        <i class="circular close icon"></i><span class="spnText"> Tanca</span>
-      </div>
+     
     </div>
-
+<!--
     <div class="ui divider"></div>
 
     <h4>Video</h4>
+    
     <div id="stopvideobutton">
       <i class="circular video icon"></i><span class="spnText"> Atura</span>
     </div>
-    <div id="savevideobutton">
-      <i class="circular save icon"></i><span class="spnText"> Desa</span>
+      -->
+    <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
+      <i  class="circular cloud download ui icon"></i><span class="spnText"></span>
     </div>
 
-    <div class="ui divider"></div>
-
-    <h4>Perfil</h4>
-    <div id="elevationbutton">
-      <i class="circular chart area icon"></i><span class="spnText"> Mostra</span>
-    </div>
 
   </div>
 
@@ -179,17 +181,14 @@
     <div id="menuIcon"><i class="large bars icon"></i></div>
     <div id="menuSearch" class="ui fluid search">
       <div class="ui icon input">
-        <input class="prompt" type="text" placeholder="Cercar rutes...">
-        <i class="search icon"></i>
+        <input id="textSearch" class="prompt" type="text" placeholder="Cercar rutes...">
+        <i id="closeSearch" class="close icon icon"></i>
+        <i id="lupaSearch" class="search icon" style="right: 19px;"></i>
       </div>
-      <div class="results"></div>
+      <div id="resultsCerca"  class="results"></div>
     </div>
 
     <div>
-      <form method="get"><button class="ui primary button fileRequest responbutton" type="submit"><i
-            class="ui download icon"></i>Descarrega</button>
-
-      </form>
 
       <input type="file" (change)="fileEvent($event)" class="inputfile ui small white button explorar"
         id="uploadbutton" />
@@ -197,16 +196,9 @@
         <i class="ui upload icon"></i>
         Puja el teu GPX
       </label>
-
-
     </div>
-
   </div>
-
   </div>
-
-
-
   </div>
   </div>
   <!--END BARRA SUP RUTES-->
@@ -215,7 +207,7 @@
 
   <!--END MAPA-->
   <div id="infobox">
-    <p class="infotext"> 🛈 Informació: </p>
+    <p class="infotext"> 🛈 : </p>
     <p id="distanceLabel" class="infoLabel"> ↦ 0 km </p>
     <p id="desnivellPositiuLabel" class="infoLabel"> ↑ 0 m </p>
     <p id="desnivellNegatiuLabel" class="infoLabel"> ↓ 0 m </p>
@@ -225,14 +217,33 @@
 
   <div id="sideBt"></div>
   <div id="mySidepanel" class="sidepanel">
-    <div id="elevation-div"></div>
-    <div id="data-summary" class="data-summary">
-      <span class="totlen"><span class="summarylabel">Total Length: </span>
-        <span class="summaryvalue">0</span></span> &mdash; <span class="maxele"><span class="summarylabel">Max
-          Elevation: </span><span class="summaryvalue">0</span></span>
-      &mdash; <span class="minele"><span class="summarylabel">Min Elevation: </span>
-        <span class="summaryvalue">0</span></span></div>
 
+    <div class="ui cards cardPos">
+      <div class="card">
+        <div class="content">
+         
+          <div id="nomRutaH" class="header">
+          </div>
+          <div id="llocRutaH" class="meta">
+          </div>
+          <div id="metaRutaH" class="description">
+            <div id="totlen"></div>
+            <div id="desni"></div>
+            <div id="maxele"></div>
+            <div id="minele"></div>
+          </div>
+        </div>
+        <div class="extra content">
+          <div class="ui onee buttons">
+            <form method="get"><button class="ui primary button fileRequest responbutton" type="submit"><i
+                  class="ui download icon"></i>Descarrega</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="elevation-div"></div>
   </div>
 
   <div class="footer_container">
