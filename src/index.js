@@ -265,7 +265,7 @@ $(window.document).ready(() => {
 
 			ev.htmlEvents.collapseSidePanel();
 			jQuery("#savevideobutton").css("opacity",1);
-			jQuery("#savevideobutton").css("pointer-events","all");
+			//jQuery("#savevideobutton").css("pointer-events","all");
 			jQuery("#savevideobutton").attr("title","Descarrega video de l'animació");
 
 			if (rutaIniciada) {
@@ -315,12 +315,12 @@ $(window.document).ready(() => {
 
 		});
 		$("#savevideobutton").on("click", () => {
-
-			console.log("savevideo-->click");
+console.info($("#savevideobutton").css("opacity") );
+			if($("#savevideobutton").css("opacity") == 1){
 
 			stopRender();
 			saveRender();
-
+			}
 
 		});
 
@@ -361,8 +361,8 @@ $(window.document).ready(() => {
 			MAPSTATE.gpx = null;
 			$(".ui.search").search("setting", { maxResults: 7 });
 			jQuery("#savevideobutton").css("opacity", 0.5);
-			jQuery("#savevideobutton").css("pointer-events","none");
-			jQuery("#savevideobutton").attr("title","Inicia l'animació per poder descarregar el video");
+			//jQuery("#savevideobutton").css("pointer-events","none");
+			jQuery("#savevideobutton").attr("title", "Inicia l'animació per poder descarregar el video");
 
 		});
 

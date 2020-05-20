@@ -207,6 +207,13 @@ h4 {
   font-size: 1.2em !important;
 }
 
+
+#uploadbt{
+  top: 2px;
+      position: relative;
+      float: right;
+    }
+
 #controls2 {
   position: absolute;
   z-index: 100;
@@ -1079,7 +1086,7 @@ small {
 
 #savevideobutton {
   opacity: 0.5;
-  pointer-events: none;
+  
 }
 
 #sideBt {
@@ -1179,9 +1186,15 @@ small {
 }
 
 @media only screen and (max-width: 650px) {
+
+  #uploadbt{
+    top: 10px;
+        position: relative;
+        float: right;
+      }
   label.ui.small.green.button.responbutton {
     width: 0.01px;
-    color: #21ba45;
+    color: #0c8328;
     right: 179px;
     top: -19px;
   }

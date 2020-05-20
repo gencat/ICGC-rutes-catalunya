@@ -2,12 +2,35 @@
 <html lang="ca">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46332195-11"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-46332195-11');
+    </script>
+
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <meta name="author" content="ICGC">
+  <meta name="author" content="Institut Cartogràfic i Geològic de Catalunya" />
+  <meta property="fb:app_id" content="620717167980164" />
+  <meta property="og:title" content="Rutes 3D Catalunya" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image"
+      content="https://betaserver.icgc.cat/rutes-catalunya/rutes-catalunya.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:url" content="https://betaserver.icgc.cat/rutes-catalunya//" />
+  <meta property="og:description" content="Mapa de la població de Catalunya per Municipis" />
+  <meta name="description" content="Rutes 3D Catalunya" />
+  <meta name="robots" content="index,follow" />
   <meta name="description" content="Rutes 3D">
   <meta name="keywords" content="rutes, Catalunya, visor, gpx, animacio">
-  <meta name="image" content="dist\css\Logo_icgc_blanc.png">
+
   <meta name="robots" content="index,follow">
   <meta name="geo.region" content="ES-CT" />
   <meta name="geo.placename" content="Barcelona" />
@@ -168,7 +191,7 @@
     </div>
       -->
     <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
-      <i  class="circular cloud download ui icon"></i><span class="spnText"></span>
+      <i  class="circular video ui icon"></i><span class="spnText"></span>
     </div>
 
 
@@ -188,8 +211,7 @@
       <div id="resultsCerca"  class="results"></div>
     </div>
 
-    <div>
-
+    <div id="uploadbt">
       <input type="file" (change)="fileEvent($event)" class="inputfile ui small white button explorar"
         id="uploadbutton" />
       <label for="uploadbutton" class="ui small green button responbutton">
@@ -259,6 +281,22 @@
         </i>Enllaça</a>
     </div>
     <div>
+
+      <a href="https://twitter.com/share" class="twitter-share-button"  data-text="Rutes 3D Catalunya"
+      data-via="ICGCGeostarters" data-hashtags="Catalunya, Rutes, 3D">Tweet</a>
+     <script>
+       ! function (d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0],
+           p = /^http:/.test(d.location) ? 'http' : 'https';
+         if (!d.getElementById(id)) {
+           js = d.createElement(s);
+           js.id = id;
+           js.src = p + '://platform.twitter.com/widgets.js';
+           fjs.parentNode.insertBefore(js, fjs);
+         }
+       }(document, 'script', 'twitter-wjs');
+     </script>
+      <!--
       <a class="ui circular icon inverted button" href="mailto:geostarters@gmail.com">
         <i class="mail icon" aria-hidden="true">
         </i></a>
@@ -270,6 +308,7 @@
         target="_blank">
         <i class="facebook icon" aria-hidden="true">
         </i></a>
+      -->
     </div>
   </div>
   <!--MODAL ENLLAÇA-->
