@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <meta name="author" content="ICGC">
   <meta name="description" content="Rutes 3D">
+  <meta name="keywords" content="rutes, Catalunya, visor, gpx, animacio">
+  <meta name="image" content="dist\css\Logo_icgc_blanc.png">
   <meta name="robots" content="index,follow">
   <meta name="geo.region" content="ES-CT" />
   <meta name="geo.placename" content="Barcelona" />
@@ -20,158 +22,386 @@
   <script src="./dist/vendors/leaflet.js"></script>
   <script src="./dist/vendors/leaflet-omnivore.min.js"></script>
 
-<!--leaflet-->
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-     crossorigin=""/>
-    <!-- leaflet-ui -->
-<script src="https://unpkg.com/leaflet@1.3.2/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet-ui@0.2.0/dist/leaflet-ui.js"></script>
+  <!--Canvas Recorder-->
+  <script src="./dist/vendors/CanvasRecorder.js"></script>
 
-<!-- leaflet-elevation -->
-<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
-<script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
-    <link rel="stylesheet" href="leaflet-elevation.css" />
-   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-     integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-     crossorigin=""></script>
-     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-    <script type="text/javascript" src="leaflet-elevation.js"></script>
-    
-<!--leaflet-->
+  <!-- leaflet-elevation -->
+  <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
+  <script src="./dist/vendors/leaflet-elevation.js"></script>
+
+
+  <!--cesium-->
   <link href="./dist/Cesium/Widgets/widgets.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+  <script src="./dist/vendors/purl.js"></script>
+
   <link rel="shortcut icon" href="favicon.ico">
   <title>Rutes 3D 🚶‍♂</title>
 
 </head>
 
 <body>
-<!--START SIDEBAR-->
-  <div id="sideBarOptions" class="ui left vertical sidebar menu inverted">
-    <div class="ui placeholder1 segment">
-      <div class="ui header">
-        Rutes de Catalunya
+
+  <!--START SIDEBAR-->
+  <div id="sideBarOptions" class="ui left vertical sidebar menu inverted ">
+    <div class="_header">
+      <div class="_floatedright">
+        <i class="angle double left icon" id="iniciaHome"></i>
       </div>
     </div>
-      <div class="item">
-        Mapa Base <i class="map icon iconooff"></i> 
-        <div class="menu">
-          <a class="item labeling" id="ortofotoMenu">Ortofoto</a>
-          <a class="item labeling" id= "topographicMenu" >Topogràfic</a>
-          <a class="item labeling" id="adminMenu">Administratiu</a>
-          <a class="item labeling" id="relleuMenu">Relleu</a>
-          <a class="item labeling" id="geologicMenu">Geològic</a>
+    <div class="item">
+
+      Mapa Base<i class="map icon" class="tiny" id="iniciaHome"></i>
+      <div id="baseLayers" class="menu">
+        <a class="item labeling active" id="ortofotoMenu">Ortofoto</a>
+        <a class="item labeling" id="topographicMenu">Mapa</a>
+        <a class="item labeling" id="topoClassicMenu">Topogràfic</a>
+        <a class="item labeling" id="relleuMenu">Relleu</a>
+        <a class="item labeling" id="geologicMenu">Geològic</a>
+      </div>
+    </div>
+
+    <!--CHECKBOX LAYERS-->
+
+    <div class="ui form">
+
+      <div class="item">Capes adicionals<i class="tasks icon iconooff"></i>
+
+        <div class="inline field ">
+
+          <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox"
+              class="toponimsLayer"><label class="layerslabel labelinglayer">Toponims</label></div>
+          <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox"
+              class="allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
+            <a class="item" id="infoallausid"><i class="info icon iconooff infoallaus"></i></a></div>
+          <div class="ui toggle mini checkbox cims"><input id="cimsToggle" type="checkbox" class="cimsLayer"><label
+              class="layerslabel labelinglayer">Cims emblemàtics</label></div>
+          <div class="ui toggle mini checkbox landslides"><input id="landslidesToggle" type="checkbox"
+              class="landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label>
+            <a class="item" id="infolandslidesid"><i class="info icon iconooff infoallaus"></i></a></div>
+          <div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox"
+              class="carreteresLayer"><label class="layerslabel labelinglayer">Híbrid</label></div>
+
         </div>
       </div>
-
-      <!--CHECKBOX LAYERS-->
-      
-      <div class="ui form">
-  
-        <div class="item">Capes adicionals<i class="tasks icon iconooff"></i>
-        
-        <div class="inline field ">
-          <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox" class= "allausLayer"><label class="layerslabel labelinglayer">Allaus</label></div>
-          <div class="ui toggle mini checkbox cims" ><input  id="cimsToggle" type="checkbox" class= "cimsLayer"><label class="layerslabel labelinglayer">Cims emblemàtics</label></div>
-          <div class="ui toggle mini checkbox landslides"><input id="landslidesToggle" type="checkbox" class= "landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label></div>
-          <div class="ui toggle mini checkbox carreteres checked"><input id="carreteresToggle" type="checkbox" class= "carreteresLayer"><label class="layerslabel labelinglayer">Carreteres</label></div>
-          
-      </div>
     </div>
+
+    <!-- END CHECKBOX LAYERS-->
+
+    <div>
+      <a class="item" href="http://betaserver.icgc.cat">Informació <i class="info icon iconooff"></i>
+      </a>
     </div>
-     
-     <!-- END CHECKBOX LAYERS-->
 
-<div>
-    <a class="item" href="http://betaserver.icgc.cat" >Informació <i class="info icon iconooff"></i> 
-    </a>
-</div>
-
-      <div><a class="item" href="mailto:geostarters@gmail.com">Contactan's! <i class="mail icon iconooff"></i> </a>
-      </div>
-
-      <div class="textPalau"><p >Cerca, visualitza, anima i descarrega rutes provinents de la base de dades de <a id="palaurobert" href="https://analisi.transparenciacatalunya.cat/Turisme/Rutes-de-senderisme-creades-pel-Palau-Robert/n8mr-w2z4">Palau Robert</a><br><br></p></a>
-      </div>
+    <div><a class="item" href="mailto:geostarters@gmail.com">Contactan's! <i class="mail icon iconooff"></i> </a>
     </div>
-  
+
+    <div class="textPalau">
+      <p>Cerca, visualitza, anima i descarrega rutes provinents de la base de dades de la <a id="palaurobert"
+          href="https://analisi.transparenciacatalunya.cat/Turisme/Rutes-de-senderisme-creades-pel-Palau-Robert/n8mr-w2z4">Generalitat
+          de Catalunya</a><br><br></p></a>
+    </div>
+  </div>
+
+
   <!--END SIDEBAR-->
+
+
+  <div class="header_container">
+    <div class="header_logos">
+      <div class="header_logo">
+        <a href="https://icgc.cat" alt="{textLogo}" target="_blank">
+          <div class="icgclogo"></div>
+        </a>
+      </div>
+      <div class="header_logoGencat">
+        <a href="http://territori.gencat.cat/ca/inici/" target="_blank">
+          <img class="gencatlogo" src="dist\css\gencat.png" alt="DTES">
+        </a>
+      </div>
+    </div>
+
+    <div class="header_title">
+      <h2 class="h2_title">Rutes Catalunya</h2>
+    </div>
+    <div class="headerInfo">
+      <a title="Informació" href="#"><i class="info large inverted circle link white icon" aria-hidden="true"></i></a>
+
+    </div>
+
+  </div>
+
+
   <!--START CONTROL ANIMACIO-->
   <div id="controls">
     <div id="aturar">
-
+      <!--
+      <h4>Ruta</h4>
+      -->
       <div id="play">
-        <i class="circular play icon"></i><span class="spnText">Anima</span>
+        <i title="Animar recorregut ruta" class="circular play icon"></i>
+         
+        <span class="spnText"></span>
+        
       </div>
 
       <div id="loading">
-        <i class="circular orange spinner loading icon"></i>
+        <i title="Tornar inici class="circular orange spinner loading icon"></i>
       </div>
 
-      <div id="home">
-        <i class="circular sync icon"></i><span class="spnText"> Inici</span>
-      </div>
-      <div id="erasefilebutton">
-        <i class="circular share square icon"></i><span class="spnText"> Surt</span>
-      </div>
+      <div title="Reinicia Inicia l'animació" id="home">
+        <i class="circular undo icon"></i>
+        
+        <span class="spnText"></span>
       
+      </div>
+     
     </div>
+<!--
+    <div class="ui divider"></div>
+
+    <h4>Video</h4>
+    
+    <div id="stopvideobutton">
+      <i class="circular video icon"></i><span class="spnText"> Atura</span>
+    </div>
+      -->
+    <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
+      <i  class="circular cloud download ui icon"></i><span class="spnText"></span>
+    </div>
+
+
+  </div>
+
   </div>
   <!--END CONTROL ANIMACIO-->
   <!--START BARRA SUP RUTES-->
   <div id="panellRutes">
-    <div id="menuIcon"><i class=" large caret square left icon" style="color:rgb(0, 28, 187)"></i></div>
+    <div id="menuIcon"><i class="large bars icon"></i></div>
     <div id="menuSearch" class="ui fluid search">
       <div class="ui icon input">
-        <input class="prompt" type="text" placeholder="Cercar rutes...">
-        <i class="search icon"></i>
+        <input id="textSearch" class="prompt" type="text" placeholder="Cercar rutes...">
+        <i id="closeSearch" class="close icon icon"></i>
+        <i id="lupaSearch" class="search icon" style="right: 19px;"></i>
       </div>
-    <div class="results"></div>
-    </div>
-   <div>
-    <form method="get" ><button class="ui primary button fileRequest responbutton" type="submit"><i class="ui download icon"></i>Descarrega</button>
-   <!-- <div class="carreteres"><i class="carIcon car large icon red"></i>Mostra carreteres</div>-->
-    </form >
-    
-    <input type="file" (change)="fileEvent($event)" class="inputfile" id="uploadbutton" />
-             <label for="uploadbutton" class="ui small green button responbutton">
-                <i class="ui upload icon"></i> 
-                    Puja el teu GPX
-             </label>
-      
+      <div id="resultsCerca"  class="results"></div>
     </div>
 
+    <div>
+
+      <input type="file" (change)="fileEvent($event)" class="inputfile ui small white button explorar"
+        id="uploadbutton" />
+      <label for="uploadbutton" class="ui small green button responbutton">
+        <i class="ui upload icon"></i>
+        Puja el teu GPX
+      </label>
     </div>
-    
+  </div>
+  </div>
+  </div>
+  </div>
+  <!--END BARRA SUP RUTES-->
+  <!--START MAPA-->
+  <div class="pusher" id="map"></div>
+
+  <!--END MAPA-->
+  <div id="infobox">
+    <p class="infotext"> 🛈 : </p>
+    <p id="distanceLabel" class="infoLabel"> ↦ 0 km </p>
+    <p id="desnivellPositiuLabel" class="infoLabel"> ↑ 0 m </p>
+    <p id="desnivellNegatiuLabel" class="infoLabel"> ↓ 0 m </p>
+  </div>
+  </div>
+  </div>
+
+  <div id="sideBt"></div>
+  <div id="mySidepanel" class="sidepanel">
+
+    <div class="ui cards cardPos">
+      <div class="card">
+        <div class="content">
+         
+          <div id="nomRutaH" class="header">
+          </div>
+          <div id="llocRutaH" class="meta">
+          </div>
+          <div id="metaRutaH" class="description">
+            <div id="totlen"></div>
+            <div id="desni"></div>
+            <div id="maxele"></div>
+            <div id="minele"></div>
+          </div>
+        </div>
+        <div class="extra content">
+          <div class="ui onee buttons">
+            <form method="get"><button class="ui primary button fileRequest responbutton" type="submit"><i
+                  class="ui download icon"></i>Descarrega</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
     </div>
-    
+    <div id="elevation-div"></div>
+  </div>
 
+  <div class="footer_container">
+    <div class="footerButton">
+      <a class="ui button footer_invertedButton" href="https://betaportal.icgc.cat/" alt="{textLogo}" target="_blank">
+        <i class="external alternate icon" aria-hidden="true">
+        </i>+Prototips</a>
+      <a class="ui button footer_invertedButton" href="https://github.com/gencat/" alt="{textLogo}" target="_blank">
+        <i class="github icon" aria-hidden="true">
+        </i>Github</a>
+      <a class="ui button footer_invertedButton enllaca">
+        <i class="linkify icon" aria-hidden="true">
+        </i>Enllaça</a>
+    </div>
+    <div>
+      <a class="ui circular icon inverted button" href="mailto:geostarters@gmail.com">
+        <i class="mail icon" aria-hidden="true">
+        </i></a>
+      <a class="ui circular icon inverted button" href="https://twitter.com/ICGCGeostarters" alt="{textLogo}"
+        target="_blank">
+        <i class="twitter icon" aria-hidden="true">
+        </i></a>
+      <a class="ui circular icon inverted button" href="https://www.facebook.com/geostarters/" alt="{textLogo}"
+        target="_blank">
+        <i class="facebook icon" aria-hidden="true">
+        </i></a>
+    </div>
+  </div>
+  <!--MODAL ENLLAÇA-->
 
+  <div id="enllacamodal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="content">
+      <div class="ui message modalMsg">
+        <div class="header">
+          Enllaçar
+        </div>
+        <form class="ui form">
+          <div class="field">
+            <label>Per enllaçar amb aquest mapa, copieu i enganxeu el següent
+              text/label>
+              <input type="text" name="urlMap" id="urlMap" placeholder="">
+          </div>
+          <div class="field">
+            <label>Per inserir aquest mapa al vostre web, copieu i enganxeu el següent
+              text</label>
+            <textarea id="iframeMap" rows="3" name="iframeMap"></textarea>
+          </div>
+        </form>
+
+      </div>
+
+    </div>
 
   </div>
-  </div>
-<!--END BARRA SUP RUTES-->
-<!--START MAPA-->
-  <div id="map"></div>
-<!--END MAPA-->
-<!--START ICGC LOGO-->
-  <div class="icgcLogoPosition">
-    <a href="https://icgc.cat" alt="{textLogo}" target="_blank">
-      <div class="icgclogo"></div>
-    </a>
-  </div>
-<!--END ICGC LOGO-->
-  </div>
-</div>
+  <!--MODAL INFO-->
+  <div class="ui modal info">
+    <i class="close icon"></i>
+    <div class="content">
+      <div class="ui message modalMsg">
+        <div class="header">
+          Rutes Catalunya 3D
+        </div>
+        <p>
+          El visor proporciona una visualització personalitzada de les rutes provinents de la Generalitat de Catalunya
+          en un escenari 3D. L'usuari pot escollir entre diferents mapes base i amb possibilitat d'afegir-hi capes
+          addicionals.
+          Un cop es visualitza la ruta desistjada, té l'opció d'animar la ruta, consultar detalls com la distància
+          recorreguda
+          i desnivell acumulat, exportar l'animació en un video o generar el perfil topogràfic.
+
+        </p>
+        L’usuari pot triar entre diferents mapes base i capes d'informació:
+        <ul class="list">
+          <li>Mapes Base: Ortofoto, Topogràfic, Administratiu, Relleu, Geològic.</li>
+
+          <li>Capes Addicionals: Topònims, Allaus, Cims emblemàtics, Esllavissades, Híbrid. </li>
+
+        </ul>
+
+        <p>La cartografia proporcinada d'allaus i d'esllavissades tenen com a referència les dades publicades
+          al <a href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de
+            Perill d'allaus del ICGC</a>
+          i a <a
+            href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces">
+            la Base de dades d'esllavissades (LLISCAT) del ICGC</a>, respectivament.
+        </p>
 
 
+      </div>
 
+    </div>
+
+  </div>
+  <!--MODAL ALLAUS-->
+
+  <div class="ui modal allaus">
+    <i class="close icon"></i>
+
+    <div class="content">
+
+      <div class="ui message modalMsg">
+
+        <div class="header">
+          Allaus
+        </div>
+        <p>
+          Aquesta capa d'informació proporciona la distribució espacial de les zones on s'han produït desencadenaments
+          d'allaus segons
+          <a
+            href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Geoinformacio-en-linia-Geoserveis/WMS-Geoindex/WMS-Allaus">la
+            base de dades</a>
+          oberta del ICGC.
+        </p>
+        <p>Per a més informació disposeu del <a
+            href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de
+            Perill d'allaus del ICGC</a></p>
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!--MODAL ESLLAVISSADES-->
+
+  <div class="ui modal esllavissades">
+    <i class="close icon"></i>
+
+    <div class="content">
+
+      <div class="ui message modalMsg">
+
+        <div class="header">
+          Esllavissades
+        </div>
+        <p>
+          Aquesta capa d'informació proporciona la distribució espacial de les zones on s'han produït o hi han indicis
+          d'activitat d'inestabilitats segons
+          <a
+            href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/WMS-Riscos-geologics">l'inventari</a>
+          obert del ICGC.
+        </p>
+        <p>Per a més informació disposeu de la <a
+            href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces">
+            Base de dades d'esllavissades LLISCAT del ICGC</a></p>
+
+
+      </div>
+
+    </div>
+
+  </div>
+  <div id="fakemap"></div>
   <script type="text/javascript" src="./dist/data/rutes.js"></script>
   <script type="text/javascript" src="./dist/bundle-dev.js"></script>
-  
+
 </body>
 
 </html>

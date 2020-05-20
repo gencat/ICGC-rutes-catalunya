@@ -19,8 +19,8 @@
   },
   "homepage": "https://visors.icgc.cat/nivell-del-mar",
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
     "babelify": "^10.0.0",
     "browserify": "^16.5.0",
     "minifyify": "^7.3.5",
@@ -56,8 +56,11 @@
   },
   "dependencies": {
     "@geostarters/eslint-config": "^0.0.3",
+    "ccapture.js": "^1.1.0",
     "javascript-state-machine": "^3.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.1",
+    "leaflet-graphicscale": "0.0.2",
+    "leaflet.elevation": "0.0.3",
     "opn": "^6.0.0",
     "wnumb": "^1.2.0"
   }
