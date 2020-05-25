@@ -1,4 +1,4 @@
-// @flow
+
 
 "use strict";
 const ev = require("./events.js");
@@ -882,18 +882,18 @@ console.info($("#savevideobutton").css("opacity") );
 		});
 */
 
+
 		camera.flyTo({
 			destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
 			duration: 0,
 			complete: function () {
 
 				setTimeout(() => {
-
 					camera.flyTo({
-						destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 5500),
+						destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577,3121),
 						orientation: {
-							heading: Cesium.Math.toRadians(360),
-							pitch: Cesium.Math.toRadians(-53.0), //tilt
+							heading: Cesium.Math.toRadians(295),
+							pitch: Cesium.Math.toRadians(-22), //tilt
 						},
 						easingFunction: Cesium.EasingFunction.LINEAR_NONE
 					});
