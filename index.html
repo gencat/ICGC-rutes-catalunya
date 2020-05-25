@@ -19,13 +19,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <meta name="author" content="Institut Cartogràfic i Geològic de Catalunya" />
   <meta property="fb:app_id" content="620717167980164" />
-  <meta property="og:title" content="Rutes 3D Catalunya" />
+  <meta property="og:title" content="Rutes de Catalunya 3D" />
   <meta property="og:type" content="website" />
   <meta property="og:image"
       content="https://betaserver.icgc.cat/rutes-catalunya/rutes-catalunya.png" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:url" content="https://betaserver.icgc.cat/rutes-catalunya//" />
-  <meta property="og:description" content="Mapa de la població de Catalunya per Municipis" />
+  <meta property="og:description" content="Rutes 3D de senderisme de Catalunya" />
   <meta name="description" content="Rutes 3D Catalunya" />
   <meta name="robots" content="index,follow" />
   <meta name="description" content="Rutes 3D">
@@ -60,7 +60,7 @@
   <script src="./dist/vendors/purl.js"></script>
 
   <link rel="shortcut icon" href="favicon.ico">
-  <title>Rutes 3D 🚶‍♂</title>
+  <title>Rutes de Catalunya 3D 🚶‍♂</title>
 
 </head>
 
@@ -146,7 +146,7 @@
     </div>
 
     <div class="header_title">
-      <h2 class="h2_title">Rutes Catalunya</h2>
+      <h2 class="h2_title">Rutes de Catalunya 3D</h2>
     </div>
     <div class="headerInfo">
       <a title="Informació" href="#"><i class="info large inverted circle link white icon" aria-hidden="true"></i></a>
@@ -211,13 +211,18 @@
       <div id="resultsCerca"  class="results"></div>
     </div>
 
-    <div id="uploadbt">
-      <input type="file" (change)="fileEvent($event)" class="inputfile ui small white button explorar"
+    <div  title="Carregar ruta gpx" id="uploadbt">
+      <input type="file" (change)="fileEvent($event)" class="inputfile ui mini white button explorar"
         id="uploadbutton" />
-      <label for="uploadbutton" class="ui small green button responbutton">
+      <label for="uploadbutton" class="ui mini green button responbutton">
         <i class="ui upload icon"></i>
         Puja el teu GPX
       </label>
+    </div>
+    <div id="linkbt">
+      <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
+        <i class="linkify icon" aria-hidden="true">
+        </i>Enllaça</a>
     </div>
   </div>
   </div>
@@ -270,15 +275,13 @@
 
   <div class="footer_container">
     <div class="footerButton">
-      <a class="ui button footer_invertedButton" href="https://betaportal.icgc.cat/" alt="{textLogo}" target="_blank">
+      <a class="ui button mini footer_invertedButton" href="https://betaportal.icgc.cat/" alt="{textLogo}" target="_blank">
         <i class="external alternate icon" aria-hidden="true">
         </i>+Prototips</a>
-      <a class="ui button footer_invertedButton" href="https://github.com/gencat/" alt="{textLogo}" target="_blank">
+      <a class="ui button mini footer_invertedButton" href="https://github.com/gencat/" alt="{textLogo}" target="_blank">
         <i class="github icon" aria-hidden="true">
         </i>Github</a>
-      <a class="ui button footer_invertedButton enllaca">
-        <i class="linkify icon" aria-hidden="true">
-        </i>Enllaça</a>
+      
     </div>
     <div>
 
