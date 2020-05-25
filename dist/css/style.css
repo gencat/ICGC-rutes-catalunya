@@ -241,12 +241,13 @@ i.iconooff:hover {
 }
 
 #infoallausid {
-  color: #a3d1ff !important;
+  color: #282828!important;
   position: absolute;
   display: inline;
   width: 10%;
   right: -130% !important;
   top: -20%;
+  cursor:pointer;
 }
 
 #infoallausid:hover {
@@ -264,6 +265,7 @@ i.iconooff:hover {
   width: 10%;
   right: -60% !important;
   top: -20%;
+  cursor:pointer;
 }
 
 #pausa {
@@ -610,6 +612,7 @@ i.iconooff:hover {
   min-width: 80px;
   max-width: 80px;
   text-align: center;
+  color: #282828!important;
 }
 
 /* Toggling the sidebar header content, hide the big heading [h3] and showing the small heading [strong] and vice versa*/
@@ -620,11 +623,13 @@ i.iconooff:hover {
 
 #sidebar.active .sidebar-header h3 {
   display: none;
-  font-size: 1em !important;
+  font-size: 0.9em !important;
+  color: #3e3d3d !important;
 }
 
 #sidebar.active .sidebar-header strong {
   display: block;
+  color: #282828!important;
 }
 
 /*orotofoto topo*/
@@ -632,32 +637,33 @@ i.iconooff:hover {
 .ui.vertical.menu .menu .item {
   background: 0 0;
   padding: .5em 1.33333333em;
-  font-size: 0.93em !important;
-  color: rgba(0, 0, 0, .5);
+  font-size: 1.1em !important;
+  color: #282828!important;
 }
-
 /*heads*/
 
 .ui.vertical.menu .item {
   background: 0 0;
   padding: .5em 1.33333333em;
-  font-size: 1.3em !important;
-  color: rgba(0, 0, 0, .5)
+  font-size: 1em !important;
+  color: #282828!important;
 }
 
 /*dropdown info*/
 
 .ui.menu .ui.dropdown.item .menu .item {
   display: block !important;
+  color: #282828!important;
 }
 
 .ui.vertical.menu.item.titol {
-  font-size: 1.4em !important;
+  font-size: 1.1em !important;
+  color: #282828!important;
 }
 
 .ui.inverted.menu .active.item {
-  background: rgba(255, 255, 255, .75) !important;
-  color: rgb(178, 177, 233)!important
+  background: rgba(112, 110, 110, 0.75) !important;
+  color: #282828!important;
 }
 
 /*RUTES DE CAT*/
@@ -682,7 +688,7 @@ i.iconooff:hover {
 
 #sidebar ul li a {
   text-align: left;
-  font-size: 1em !important;
+  font-size: 0.9em !important;
 }
 
 #sidebar.active ul li a {
@@ -693,7 +699,7 @@ i.iconooff:hover {
 #sidebar.active ul li a i {
   margin-right: 0;
   display: block;
-  font-size: 2em;
+  font-size: 1em;
   margin-bottom: 5px;
 }
 
@@ -771,20 +777,20 @@ i.iconooff:hover {
 .textPalau {
   font-size: 1.1em !important;
   text-align: center !important;
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: #282828!important;
   margin-top: 10% !important;
 }
 
 .capesText {
   font-size: 0.8em !important;
   text-align: center !important;
-  color: rgba(255, 255, 255, 0.6) !important;
+  color: #282828!important;
   padding-top: 10%;
   padding-bottom: 5%;
 }
 
 #palaurobert {
-  color: #a3d1ff !important;
+  color: #282828!important;
   text-decoration: underline !important;
 }
 
@@ -826,28 +832,28 @@ option {
 .ui.toggle.checkbox label {
   min-height: 1.5rem;
   padding-left: 2rem;
-  color: rgba(191, 191, 191, .87) !important;
+  color: #282828!important;
 }
 
 .ui.toggle.checkbox .box:hover::before, .ui.toggle.checkbox label:hover::before {
   background-color: rgba(171, 243, 248, 0.705) !important;
   border: none;
-  color: rgba(64, 222, 233, 1.0) !important;
+  color: #282828!important;
 }
 
 .ui.toggle.checkbox input:focus:checked~.box, .ui.toggle.checkbox input:focus:checked~label {
-  color: rgba(79, 206, 245, 0.95)!important;
+  color: #282828!important;;
 }
 
 .ui.toggle.checkbox input:checked~.box, .ui.toggle.checkbox input:checked~label {
-  color: rgba(122, 248, 238, 0.95) !important;
+  color: #282828!important;
 }
 
 .ui.toggle.checkbox input {
   width: 2.5rem;
   height: 0.8rem;
-  background-color: rgba(255, 255, 255, .55) !important;
-  color: rgba(186, 245, 23, 0.95)!important;
+  background-color: rgba(100, 99, 99, 0.55) !important;
+  color: #282828!important;
 }
 
 .ui.checkbox {
@@ -857,8 +863,8 @@ option {
   outline: 0 !important;
   vertical-align: baseline !important;
   font-style: normal !important;
-  color: rgba(191, 191, 191, .87) !important;
-  font-size: 1.1rem !important;
+  color: #282828!important;
+  font-size: 1rem !important;
   line-height: 27px !important;
   min-width: 17px !important;
 }
@@ -936,7 +942,9 @@ small {
 
 #sideBarOptions {
   z-index: 100000;
-  background-color: rgb(68, 86, 189);
+  background-color: rgb(240, 241, 245);
+  color: #3e3d3d !important;
+  font-size: 0.9em !important
 }
 
 .ui.dropdown {
@@ -1417,6 +1425,7 @@ small {
   }
   .ui.sidebar.menu .item {
     font-size: 1.00em !important;
+    color: #3e3d3d !important;
   }
   .textPalau {
     font-size: 0.75em !important;
