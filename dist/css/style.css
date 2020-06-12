@@ -187,7 +187,7 @@ h4 {
 #infobox {
   position: absolute;
   background-color: orangered;
-  display: -webkit-inline-box;
+  display: inline-flex;
   bottom: 43px;
   z-index: 10000;
   width: fit-content;
@@ -259,7 +259,7 @@ i.iconooff:hover {
 }
 
 #infolandslidesid {
-  color: #a3d1ff !important;
+  color: #282828 !important;
   position: absolute;
   display: block;
   width: 10%;
@@ -315,7 +315,7 @@ i.iconooff:hover {
   background-image: none;
   float: inline-start;
   /* margin-top: -35px; */
-  margin-right: 15px;
+  margin-right: 10px;
  
   z-index: 6;
   /* position: absolute; */
@@ -944,7 +944,8 @@ small {
   z-index: 100000;
   background-color: rgb(240, 241, 245);
   color: #3e3d3d !important;
-  font-size: 0.9em !important
+  font-size: 0.9em !important;
+  top: 95px;
 }
 
 .ui.dropdown {
@@ -1117,7 +1118,7 @@ small {
   z-index: 1;
   height: 53%;
   min-height: 425px;
-  top: 86px;
+  top: 95px;
   left: 0;
   background-color: white;
   overflow-x: hidden;
@@ -1193,14 +1194,10 @@ small {
 }
 
 @media only screen and (max-width: 650px) {
-  #uploadbt {
-    top: 10px;
-    position: relative;
-    float: right;
-  }
+
   #linkbt {
     position: relative;
-    top: -6px;
+    top: 2px;
     /* font-size: 0.4em; */
     margin-right: 8px;
     float: right;
@@ -1209,7 +1206,7 @@ small {
     width: 0.01px;
     color: #0c8328;
     right: 179px;
-    top: -19px;
+    top: -2px;
   }
   .ui.small.button>.icon:not(.button) {
     font-size: 20px !important;
@@ -1220,21 +1217,16 @@ small {
   .ui.inverted.button.infoheader {
     font-size: x-small;
   }
-  .ui.primary.button>.icon:not(.button) {
-    font-size: 20px !important;
-    display: inline-block !important;
-    padding-left: 20px !important;
-    padding-top: 20px !important;
-    color: rgb(33, 133, 208);
-  }
-  .ui.primary.button, .ui.primary.buttons .button {
-    font-size: 0.16px !important;
-    background: none !important;
-  }
+
   .ui.small.button {
     font-size: 0.11px !important;
     background: none !important;
     position: relative;
+  }
+  #menuSearch {
+    float: left;
+    width: 40%;
+    z-index: 1200;
   }
 }
 
@@ -1430,7 +1422,7 @@ small {
   .textPalau {
     font-size: 0.75em !important;
     text-align: center !important;
-    color: rgba(255, 255, 255, 0.9) !important;
+    color: rgba(0, 0, 0, 1) !important;
     margin-top: 20% !important;
     margin-right: 5%;
     margin-left: 5%;
