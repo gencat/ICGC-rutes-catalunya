@@ -426,7 +426,7 @@ console.info($("#savevideobutton").css("opacity") );
 
 			if ($(this).is(":checked")) {
 
-				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayerAllausICGC);
+				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC);
 				CAPA_ALLAUS.show = true;
 
 			} else {

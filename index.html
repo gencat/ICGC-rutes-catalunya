@@ -78,8 +78,8 @@
       Mapa Base<i class="map icon" class="tiny" id="iniciaHome"></i>
       <div id="baseLayers" class="menu">
         <a class="item labeling active" id="ortofotoMenu">Ortofoto</a>
-        <a class="item labeling" id="topographicMenu">Mapa</a>
-        <a class="item labeling" id="topoClassicMenu">Topogràfic</a>
+        <a class="item labeling" id="topographicMenu">Topogràfic</a>
+        <a class="item labeling" id="topoClassicMenu">Topogràfic clàssic</a>
         <a class="item labeling" id="relleuMenu">Relleu</a>
         <a class="item labeling" id="geologicMenu">Geològic</a>
       </div>
@@ -94,7 +94,7 @@
         <div class="inline field ">
 
           <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox"
-              class="toponimsLayer"><label class="layerslabel labelinglayer">Toponims</label></div>
+              class="toponimsLayer"><label class="layerslabel labelinglayer">Toponims</label></div>              
           <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox"
               class="allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
             <a class="item" id="infoallausid"><i class="info icon iconooff infoallaus"></i></a></div>
@@ -113,7 +113,7 @@
     <!-- END CHECKBOX LAYERS-->
 
     <div>
-      <a class="item" href="https://bateportal.icgc.cat">Informació <i class="info icon iconooff"></i>
+      <a class="item" href="https://betaserver.icgc.cat">Informació <i class="info icon iconooff"></i>
       </a>
     </div>
 
@@ -210,7 +210,11 @@
       </div>
       <div id="resultsCerca"  class="results"></div>
     </div>
-
+    <div id="linkbt">
+      <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
+        <i class="linkify icon" aria-hidden="true">
+        </i>Enllaça</a>
+    </div>
     <div  title="Carregar ruta gpx" id="uploadbt">
       <input type="file" (change)="fileEvent($event)" class="inputfile ui mini white button explorar"
         id="uploadbutton" />
@@ -219,11 +223,7 @@
         Puja el teu GPX
       </label>
     </div>
-    <div id="linkbt">
-      <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
-        <i class="linkify icon" aria-hidden="true">
-        </i>Enllaça</a>
-    </div>
+
   </div>
   </div>
   </div>
