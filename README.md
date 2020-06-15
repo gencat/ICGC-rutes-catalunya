@@ -3,7 +3,7 @@
 
 ## Demo
 
-https://betaportal.icgc.cat/rutes-catalunya
+https://betaserver.icgc.cat/rutes-catalunya
 
 ![alt Visors](rutes-catalunya.png)
 ### Clonar
