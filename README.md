@@ -1,6 +1,13 @@
 # Rutes 3D Catalunya
 
 
+## Instal.lació
+
+ Copiar en un directori web tot el directori **/dist** i els arxius **index.html**  i **rutes-catalunya.png**
+
+
+
+
 ## Demo
 
 https://betaserver.icgc.cat/rutes-catalunya
@@ -16,11 +23,6 @@ https://betaserver.icgc.cat/rutes-catalunya
  npm run start
 ```
 
-### Instal.lació
 
-```
- Copiar directori /dist i index.html
-```
-```
 
 
