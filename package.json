@@ -1,7 +1,7 @@
 {
-  "name": "nivell-del-mar",
+  "name": "rutes-catalunya",
   "version": "1.0.0",
-  "description": "nivell-del-mar",
+  "description": "rutes-catalunya",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
@@ -17,10 +17,10 @@
   "bugs": {
     "url": "https://github.com/geostarters/simple-frontend-web-template/issues"
   },
-  "homepage": "https://visors.icgc.cat/nivell-del-mar",
+  "homepage": "https://visors.icgc.cat/rutes-catalunya",
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
     "babelify": "^10.0.0",
     "browserify": "^16.5.0",
     "minifyify": "^7.3.5",
@@ -49,15 +49,18 @@
     "build-dev": "browserify src/index.js --t [ babelify --presets [ @babel/preset-env ]] --standalone simple-frontend-web-template > dist/bundle.js",
     "watch-dev": "watchify src/index.js -t babelify  --standalone simple-frontend-web-template --outfile dist/bundle-dev.js --verbose",
     "build-min": "browserify src/index.js -t babelify --debug --plugin [minifyify --map bundle.js.map --output dist/bundle.js.map] --standalone simple-frontend-web-template > dist/bundle.js",
-    "build-min-pro": "browserify src/index.js -t babelify --debug --plugin [minifyify --no-map] > dist/bundle.js",
+    "build-min-pro": "browserify src/index.js -t babelify --debug --plugin [minifyify --no-map] > dist/bundle-dev.js",
     "start-server": "st --no-cache -H 127.0.0.1 --port 9966 --index index.html .",
     "start": "run-p watch-dev build-dev start-server open",
     "open": "node server/dev-server.js"
   },
   "dependencies": {
     "@geostarters/eslint-config": "^0.0.3",
+    "ccapture.js": "^1.1.0",
     "javascript-state-machine": "^3.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.1",
+    "leaflet-graphicscale": "0.0.2",
+    "leaflet.elevation": "0.0.3",
     "opn": "^6.0.0",
     "wnumb": "^1.2.0"
   }
