@@ -1,3 +1,4 @@
+// @flow
 
 
 "use strict";
@@ -206,43 +207,52 @@ $(window.document).ready(() => {
 		MAPSTATE.gpx = result.id;
 		MAPSTATE.title = result.title;
 		MAPSTATE.description = result.description;
-		loadGPX(result.id,false);
+		loadGPX(result.id, false);
 		//alert(1);
 
 
 	}
 
+
 	function initEvents() {
 
 
-		$("#uploadbutton").on("change", () => {
+		FileReaderJS.setupInput(document.getElementById("uploadbutton"),
 
-			console.log("onUpload");
-			const ruta = document.getElementById("uploadbutton").files[0];
-			const gpx = $(ruta).attr("name");
-			console.log("valuegpx -->", gpx);
+		{
+			readAsDefault: "DataURL",
+			on: {
+			  load: function(e, file) {
 
-			if (ruta != null) {
+					const ruta = file;
+					const gpx = $(ruta).attr("name");
 
-				$("#controls").show();
-				$("#pausa").hide();
-				$("#loading").hide();
-				$("#prompt").hide();
-				showEntitiesLabels(false);
-				rutaIniciada = false;
-				console.log("path-->", ruta);
-				$("#uploadButton").prop("name", ruta);
-				viewer.dataSources.removeAll();
-				MAPSTATE.gpx = ruta;
-				MAPSTATE.title = ruta;
-				MAPSTATE.description = "";
-				loadGPX(gpx, true);
-				console.log("rutaok");
+					if (ruta != null) {
 
+						$("#controls").show();
+						$("#pausa").hide();
+						$("#loading").hide();
+						$("#prompt").hide();
+						showEntitiesLabels(false);
+						rutaIniciada = false;
+
+						$("#uploadButton").prop("name", ruta);
+						viewer.dataSources.removeAll();
+						MAPSTATE.gpx = ruta;
+						MAPSTATE.title = ruta;
+						MAPSTATE.description = "";
+						loadGPX(gpx, true, e.target.result);
+
+
+					}
+
+				}
 			}
 
-		});
+		}
+		);
 
+		
 		$("#selectRutes").on("change", function () {
 
 			if (this.value != null) {
@@ -253,7 +263,7 @@ $(window.document).ready(() => {
 				$("#loading").hide();
 				showEntitiesLabels(false);
 				rutaIniciada = false;
-				loadGPX(this.value,false);
+				loadGPX(this.value, false);
 				$("#elevationbutton").load(this.value);
 
 			}
@@ -264,9 +274,9 @@ $(window.document).ready(() => {
 		jQuery("#play").on("click", () => {
 
 			ev.htmlEvents.collapseSidePanel();
-			jQuery("#savevideobutton").css("opacity",1);
+			jQuery("#savevideobutton").css("opacity", 1);
 			//jQuery("#savevideobutton").css("pointer-events","all");
-			jQuery("#savevideobutton").attr("title","Descarrega video de l'animació");
+			jQuery("#savevideobutton").attr("title", "Descarrega video de l'animació");
 
 			if (rutaIniciada) {
 
@@ -315,11 +325,13 @@ $(window.document).ready(() => {
 
 		});
 		$("#savevideobutton").on("click", () => {
-console.info($("#savevideobutton").css("opacity") );
-			if($("#savevideobutton").css("opacity") == 1){
 
-			stopRender();
-			saveRender();
+			console.info($("#savevideobutton").css("opacity"));
+			if ($("#savevideobutton").css("opacity") == 1) {
+
+				stopRender();
+				saveRender();
+
 			}
 
 		});
@@ -518,11 +530,10 @@ console.info($("#savevideobutton").css("opacity") );
 
 	let gpxDataSource;
 
-	function loadGPX(gpx, gpxLocal) {
+	function loadGPX(gpx, gpxLocal, file) {
 
-		const ruta = gpxLocal ? gpx : `dist/data/rutes/${gpx}`;
+		const ruta = gpxLocal ? file : `dist/data/rutes/${gpx}`;
 
-		
 		const lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
 
 			$(".ui.button.fileRequest").attr("data-gpx", ruta);
@@ -550,9 +561,9 @@ console.info($("#savevideobutton").css("opacity") );
 
 			}
 
-
+			
 			gpxDataSource = new Cesium.CzmlDataSource();
-			console.log("ruta", ruta);
+			
 			const fly = true;
 
 			trackGeoJSON = { type: "FeatureCollection", features: [] };
@@ -637,7 +648,7 @@ console.info($("#savevideobutton").css("opacity") );
 		$("#baseLayers a").on("click", (e) => {
 
 			changeBaseLayers(e.target.id);
-			
+
 
 		});
 
@@ -646,19 +657,18 @@ console.info($("#savevideobutton").css("opacity") );
 
 	//start controls animacio
 
-	function changeBaseLayers(id){
+	function changeBaseLayers(id) {
 
 		$("#baseLayers a").removeClass("active");
-			ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
-			ly.fnLayers.addBaseLayers(ImageryLayers, id);
-			$(`#${e.target.id}`).addClass("active");
+		ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
+		ly.fnLayers.addBaseLayers(ImageryLayers, id);
+		$(`#${e.target.id}`).addClass("active");
 
-			ev.htmlEvents.toggleSideBar();
-			MAPSTATE.base = id;
+		ev.htmlEvents.toggleSideBar();
+		MAPSTATE.base = id;
 
 
 	}
-
 
 
 	function setupPause() {
@@ -889,8 +899,9 @@ console.info($("#savevideobutton").css("opacity") );
 			complete: function () {
 
 				setTimeout(() => {
+
 					camera.flyTo({
-						destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577,3121),
+						destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577, 3121),
 						orientation: {
 							heading: Cesium.Math.toRadians(295),
 							pitch: Cesium.Math.toRadians(-22), //tilt
