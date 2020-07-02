@@ -135,7 +135,7 @@ export const LayerToponimsICGC = new Cesium.UrlTemplateImageryProvider({
 
 export const LayerRiscGeologicICGC = new Cesium.WebMapServiceImageryProvider({
     url: URL_RISC_GEOLOGIC,
-    layers: "G6FIA_PA",
+    layers: "G6PE_PA",
     enablePickFeatures: true,
     showEntitiesLabels: true,
     credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),

@@ -76,7 +76,7 @@
     </div>
     <div class="item">
 
-      Mapa Base<i class="map icon" class="tiny" id="iniciaHome"></i>
+      <b>Mapa Base</b><i class="map icon" class="tiny" id="iniciaHome"></i>
       <div id="baseLayers" class="menu">
         <a class="item labeling active" id="ortofotoMenu">Ortofoto</a>
         <a class="item labeling" id="topographicMenu">Topogràfic</a>
@@ -90,12 +90,12 @@
 
     <div class="ui form">
 
-      <div class="item">Capes adicionals<i class="tasks icon iconooff"></i>
+      <div class="item"><b>Capes addicionals</b><i class="tasks icon iconooff"></i>
 
         <div class="inline field ">
 
           <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox"
-              class="toponimsLayer"><label class="layerslabel labelinglayer">Toponims</label></div>              
+              class="toponimsLayer"><label class="layerslabel labelinglayer">Topònims</label></div>              
           <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox"
               class="allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
             <a class="item" id="infoallausid"><i class="info icon iconooff infoallaus"></i></a></div>
@@ -216,14 +216,14 @@
     <div id="linkbt">
       <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
         <i class="linkify icon" aria-hidden="true">
-        </i>Enllaça</a>
+        </i><p class="enllacalabel">Enllaça</p></a>
     </div>
     <div  title="Carregar ruta gpx" id="uploadbt">
       <input type="file" (change)="fileEvent($event)" class="inputfile ui mini white button explorar"
         id="uploadbutton" />
       <label for="uploadbutton" class="ui mini green button responbutton">
-        <i class="ui upload icon"></i>
-        Puja el teu GPX
+        <i class="ui upload icon"></i><p class="enllacalabel">
+        Puja el teu GPX</p>
       </label>
     </div>
 
@@ -357,16 +357,15 @@
           El visor proporciona una visualització personalitzada de les rutes provinents de la Generalitat de Catalunya
           en un escenari 3D. L'usuari pot escollir entre diferents mapes base i amb possibilitat d'afegir-hi capes
           addicionals.
-          Un cop es visualitza la ruta desistjada, té l'opció d'animar la ruta, consultar detalls com la distància
-          recorreguda
-          i desnivell acumulat, exportar l'animació en un video o generar el perfil topogràfic.
+          Un cop es visualitza la ruta desistjada, té l'opció d'animar-la, exportar l'animació en un video o consultar detalls com la distància
+          recorreguda, desnivell acumulat i el seu perfil topogràfic.
 
         </p>
         L’usuari pot triar entre diferents mapes base i capes d'informació:
         <ul class="list">
-          <li>Mapes Base: Ortofoto, Topogràfic, Administratiu, Relleu, Geològic.</li>
+          <li>Mapes Base: Ortofoto, Topogràfic, Topogràfic clàssic, Relleu, Geològic.</li>
 
-          <li>Capes Addicionals: Topònims, Allaus, Cims emblemàtics, Esllavissades, Híbrid. </li>
+          <li>Capes Addicionals: Topònims, Allaus, Esllavissades, Híbrid. </li>
 
         </ul>
 
@@ -428,9 +427,8 @@
           Esllavissades
         </div>
         <p>
-          Aquesta capa d'informació proporciona la distribució espacial de les zones on s'han produït o hi han indicis
-          d'activitat d'inestabilitats segons
-          <a
+          Aquesta capa d'informació proporciona el mapa de perillositat natural per esllavissades a escala 1:25000 
+          de les àrees analitzades segons <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/WMS-Riscos-geologics">l'inventari</a>
           obert del ICGC.
         </p>
