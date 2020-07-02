@@ -21,7 +21,9 @@ html body {
   cursor: pointer;
   color: darkred;
 }
-
+.enllacalabel{
+  display: contents;
+}
 .card {
   width: 98% !important;
 }
@@ -834,7 +836,9 @@ option {
   padding-left: 2rem;
   color: #282828!important;
 }
-
+.ui.button:not(.icon)>.icon:not(.button):not(.dropdown) {
+  margin: 0 !important;
+}
 .ui.toggle.checkbox .box:hover::before, .ui.toggle.checkbox label:hover::before {
   background-color: rgba(171, 243, 248, 0.705) !important;
   border: none;
@@ -1216,7 +1220,9 @@ small {
   }
   .ui.inverted.button.infoheader {
     font-size: x-small;
+
   }
+
 
   .ui.small.button {
     font-size: 0.11px !important;
@@ -1255,9 +1261,11 @@ small {
   .ui.inverted.button.infoheader {
     font-size: x-small;
   }
+
   .footerButton {
     display: none;
   }
+
   .h2_title {
     font-size: medium;
   }
@@ -1433,6 +1441,12 @@ small {
   .ui.vertical.menu .item>i.icon {
     display: none;
   }
+  .enllacalabel{
+    display: none;
+  }
+  .enllaca{
+    margin: 0px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
@@ -1449,9 +1463,11 @@ small {
     display: none
   }
   .ui.modal {
-    width: 40%;
+    /*width: 40%;*/
+    width: 80% !important;
     margin: 0;
   }
+
 }
 
 @media only screen and (min-width: 768px) {
