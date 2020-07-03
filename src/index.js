@@ -226,6 +226,7 @@ $(window.document).ready(() => {
 
 					const ruta = file;
 					const gpx = $(ruta).attr("name");
+					
 
 					if (ruta != null) {
 
@@ -242,7 +243,7 @@ $(window.document).ready(() => {
 						MAPSTATE.title = ruta;
 						MAPSTATE.description = "";
 						loadGPX(gpx, true, e.target.result);
-
+						
 
 					}
 
@@ -503,14 +504,65 @@ $(window.document).ready(() => {
 
 		});
 
+		// GEOLOCATION
+		$("#gpslocation").on("click", () => {
+		var x = document.getElementById("gpslocation");
+		//var latitude = position.coords.latitude;
+		//var longitude =  position.coords.longitude;
+		
+		
+		  if (navigator.geolocation) {
+			  console.info('entro')
+			navigator.geolocation.watchPosition(showPosition);
+		  } else {
+			x.innerHTML = "Geolocation is not supported by this browser.";
+		  }
+	
+		
+		function showPosition(position) {
+		 console.info('loc', position)
+		 
+			
+		 camera.flyTo({
+			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude,   1000),
+			 duration:0
+		 })
+		var lat = position.coords.latitude
+		var long = position.coords.longitude
+
+		var myLatLng = {lat, long}
+				var marker = new viewer.Marker({
+					position: myLatLng,
+					map: map,
+					title: "Hello World!"
+				});
+		 
+		 // x.innerHTML = "Latitude: " + position.coords.latitude +  "<br>Longitude: " + position.coords.longitude;
+		}
+	});
 
 		//ENLLACA
 		$(".enllaca").on("click", () => {
 
+		 console.info('MPASTATE.GPX', MAPSTATE.gpx.name)
+	
 
 			const currentURLRaw = window.location.href.valueOf();
 			const splitUrl = currentURLRaw.split("#");
-			const gpxid = MAPSTATE.gpx ? MAPSTATE.gpx.replace(".gpx", "") : null;
+			
+			const gpxidd = MAPSTATE.gpx 
+
+			if (typeof gpxidd === 'string' || gpxidd instanceof String){
+			
+			var gpxid = gpxidd ? gpxidd.replace(".gpx", "") : ''
+			}
+			else{
+			
+			var gpxid = '';
+
+			}
+			
+				
 
 			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${gpxid}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
 
@@ -856,7 +908,7 @@ $(window.document).ready(() => {
 
 		}
 
-		if (gpxParam && gpxParam !== "") {
+		if (gpxParam && gpxParam !== "" !==null) {
 
 			//console.info(caixaCerca.search);
 			$("#textSearch").focus();
