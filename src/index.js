@@ -17,6 +17,7 @@ let CAPA_TOPONIMS = null;
 let CAPA_RISCGEOLOGIC = null;
 let CAPA_CARRETERS = null;
 let CAPA_CIMS = null;
+
 let caixaCerca;
 const MAPSTATE = {
 	"base": ly.BaseMaps.orto,
@@ -33,12 +34,14 @@ const urlApp = "http://localhost:9966"; //"https://betaserver.icgc.cat/rutes-cat
 const dev = true;
 let viewer;
 let rutaIniciada = false;
+
 let isInPause = true;
 let labelsDatasource;
 let capturer;
 const baseParam = $.url().param("base");
 const gpxParam = $.url().param("gpx");
 const layersParam = $.url().param("layers");
+const coordsParam = $.url().param("coords");
 
 
 $(window.document).ready(() => {
@@ -82,7 +85,7 @@ $(window.document).ready(() => {
 	ImageryLayers.addImageryProvider(ly.LayerOrtoICGC);
 	ly.LayerTerrenyICGC.errorEvent.addEventListener((tileProviderError) => {
 
-		//console.log(`Error at level : ${tileProviderError.level}`);
+	
 		tileProviderError.retry = false;
 
 	});
@@ -141,7 +144,7 @@ $(window.document).ready(() => {
 							outlineColor: Cesium.Color.BLACK,
 							outlineWidth: 4,
 							distanceDisplayCondition: new Cesium.DistanceDisplayCondition(0.0, opt.far),
-							//forceUpdate:true,
+							
 							style: Cesium.LabelStyle.FILL_AND_OUTLINE,
 							pixelOffset: new Cesium.Cartesian2(0, -9),
 							heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
@@ -150,9 +153,7 @@ $(window.document).ready(() => {
 					});
 
 
-				} // en if
-
-				//console.info(i,respuestaGeonames.features.length - 1 );
+				} 
 
 				if (i == (respuestaGeonames.features.length - 1)) {
 
@@ -161,11 +162,11 @@ $(window.document).ready(() => {
 
 				}
 
-			}//en for label
+			}
 
 
-		});//end then
-		console.log("finaltopo");
+		});
+		
 
 
 	}
@@ -208,8 +209,7 @@ $(window.document).ready(() => {
 		MAPSTATE.title = result.title;
 		MAPSTATE.description = result.description;
 		loadGPX(result.id, false);
-		//alert(1);
-
+	
 
 	}
 
@@ -276,7 +276,7 @@ $(window.document).ready(() => {
 
 			ev.htmlEvents.collapseSidePanel();
 			jQuery("#savevideobutton").css("opacity", 1);
-			//jQuery("#savevideobutton").css("pointer-events","all");
+			
 			jQuery("#savevideobutton").attr("title", "Descarrega video de l'animació");
 
 			if (rutaIniciada) {
@@ -292,7 +292,7 @@ $(window.document).ready(() => {
 
 					rutaIniciada = true;
 
-					console.log("comença");
+					
 					startPlaying();
 					$("#loading").hide();
 					jQuery("#play i").removeClass("circular play icon");
@@ -374,7 +374,7 @@ $(window.document).ready(() => {
 			MAPSTATE.gpx = null;
 			$(".ui.search").search("setting", { maxResults: 7 });
 			jQuery("#savevideobutton").css("opacity", 0.5);
-			//jQuery("#savevideobutton").css("pointer-events","none");
+			
 			jQuery("#savevideobutton").attr("title", "Inicia l'animació per poder descarregar el video");
 
 		});
@@ -389,11 +389,11 @@ $(window.document).ready(() => {
 					"id"
 				],
 				maxResults: 0,
-				//selectFirstResult:true,
+			
 				fullTextSearch: "exact",
 				onResults:function(response) {
 
-					console.info("response", response);
+					
 					if (response.results.length === 1) {
 
 						sendRequest(response.results[0]);
@@ -403,7 +403,7 @@ $(window.document).ready(() => {
 				},
 				onSelect: function (result) {
 
-					console.log("search", result);
+					
 					if (result.id != null) {
 
 						sendRequest(result);
@@ -418,12 +418,13 @@ $(window.document).ready(() => {
 
 		$("#cimsToggle").change(function () {
 
-			console.log("cimsToggle");
+			
 
 			if ($(this).is(":checked")) {
 
 				CAPA_CIMS = CAPA_CIMS ? CAPA_CIMS : ImageryLayers.addImageryProvider(ly.LayerCimsICGC);
 				CAPA_CIMS.show = true;
+				
 
 			} else {
 
@@ -433,15 +434,15 @@ $(window.document).ready(() => {
 
 		});
 
-		$("#allausToggle").change(function () {
+		$("#allausToggle").change(function (id) {
 
-			console.log("allausToggle");
+			
 
 			if ($(this).is(":checked")) {
 
 				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC);
 				CAPA_ALLAUS.show = true;
-
+				
 			} else {
 
 				CAPA_ALLAUS.show = false;
@@ -452,7 +453,7 @@ $(window.document).ready(() => {
 
 		$("#toponimsToggle").change(function () {
 
-			console.log("toponimsToggle");
+			
 
 			if ($(this).is(":checked")) {
 
@@ -471,7 +472,7 @@ $(window.document).ready(() => {
 
 		$("#landslidesToggle").change(function () {
 
-			console.log("landslidesToggle");
+			
 
 			if ($(this).is(":checked")) {
 
@@ -489,7 +490,7 @@ $(window.document).ready(() => {
 
 		$("#carreteresToggle").change(function () {
 
-			console.log("carreteresToggle");
+			
 			if ($(this).is(":checked")) {
 
 				CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
@@ -506,48 +507,53 @@ $(window.document).ready(() => {
 
 		// GEOLOCATION
 		$("#gpslocation").on("click", () => {
-		var x = document.getElementById("gpslocation");
-		//var latitude = position.coords.latitude;
-		//var longitude =  position.coords.longitude;
+	
 		
+		var x = document.getElementById("gpslocation");
 		
 		  if (navigator.geolocation) {
-			  console.info('entro')
-			navigator.geolocation.watchPosition(showPosition);
+			  
+			navigator.geolocation.getCurrentPosition(showPosition);
 		  } else {
 			x.innerHTML = "Geolocation is not supported by this browser.";
 		  }
 	
-		
 		function showPosition(position) {
-		 console.info('loc', position)
+		
 		 
 			
 		 camera.flyTo({
-			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude,   1000),
+			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude,   2000),
 			 duration:0
-		 })
-		var lat = position.coords.latitude
-		var long = position.coords.longitude
+		 });	
 
-		var myLatLng = {lat, long}
-				var marker = new viewer.Marker({
-					position: myLatLng,
-					map: map,
-					title: "Hello World!"
-				});
 		 
-		 // x.innerHTML = "Latitude: " + position.coords.latitude +  "<br>Longitude: " + position.coords.longitude;
-		}
+				
+		 viewer.entities.add({
+			  position: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude),
+			  billboard: {
+				image: "../dist/css/img/room-24px.svg",
+				scale: 1.50,
+				color: new Cesium.Color(30.0, 97.0, 148.0, 1.0)
+			  },
+		
+		
+			});
+
+			
+
+
+		
+		
+	}
+
+
 	});
 
 		//ENLLACA
 		$(".enllaca").on("click", () => {
 
-		 console.info('MPASTATE.GPX', MAPSTATE.gpx.name)
-	
-
-			const currentURLRaw = window.location.href.valueOf();
+				const currentURLRaw = window.location.href.valueOf();
 			const splitUrl = currentURLRaw.split("#");
 			
 			const gpxidd = MAPSTATE.gpx 
@@ -562,7 +568,7 @@ $(window.document).ready(() => {
 
 			}
 			
-				
+			
 
 			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${gpxid}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
 
@@ -575,7 +581,7 @@ $(window.document).ready(() => {
 			$("#enllacamodal").modal("show");
 
 		});
-		//ENLLACA
+	
 
 	}
 
@@ -597,7 +603,7 @@ $(window.document).ready(() => {
 
 			$("#infobox").hide();
 			$("#elevation-div").hide();
-			$("#elevation-div").removeData(trackGeoJSON);//similar
+			$("#elevation-div").removeData(trackGeoJSON);
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
@@ -648,7 +654,7 @@ $(window.document).ready(() => {
 						const _base = MAPSTATE.base;
 						if (_base.indexOf("orto") !== -1) {
 
-							//	addToponims();
+							
 
 						}
 
@@ -680,10 +686,6 @@ $(window.document).ready(() => {
 		$("#resultsCerca").removeClass("visible");
 		$("#resultsCerca").addClass("hidden");
 		$("#resultsCerca").hide();
-
-		//results transition hidden
-
-		//results transition visible
 
 
 	}
@@ -742,7 +744,7 @@ $(window.document).ready(() => {
 	function startPlaying() {
 
 
-		console.info("entro");
+		
 
 		const event = "play";
 		let distance = 0;
@@ -805,10 +807,10 @@ $(window.document).ready(() => {
 			oldCoord = actualCoord;
 			oldElev = actualElev;
 
-			// This example uses time offsets from the start to identify which parts need loading.
+	
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
 
-			//console.log("current-->",clock.currentTime);
+
 
 			if (labelsDatasource && timeOffset > 1 && timeOffset < 100) {
 
@@ -818,7 +820,7 @@ $(window.document).ready(() => {
 
 			if (viewer.clock.currentTime === viewer.clock.stopTime) {
 
-				console.info("final ruta");
+				
 
 
 			}
@@ -827,11 +829,11 @@ $(window.document).ready(() => {
 		});
 
 
-		// fa que e simbol del hiker es mogui
+	
 		viewer.trackedEntity = trackDataSource.entities.getById("track");
 		trackDataSource.entities.getById("track").billboard.show = true;
 		viewer.clock.shouldAnimate = true;
-		console.log("startvideo-->click");
+		
 		initRender();
 
 	}
@@ -910,7 +912,7 @@ $(window.document).ready(() => {
 
 		if (gpxParam && gpxParam !== "" !==null) {
 
-			//console.info(caixaCerca.search);
+			
 			$("#textSearch").focus();
 			$("#textSearch").val(gpxParam);
 
@@ -926,9 +928,13 @@ $(window.document).ready(() => {
 		if (layersParam) {
 
 			//falta
+		
 
 		}
 
+		// if (coordsParam){
+			
+		// }
 
 	}
 
@@ -937,12 +943,7 @@ $(window.document).ready(() => {
 
 
 		checkURLParameters();
-		/*
-		camera.flyTo({
-			destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
-			duration: 4,
-		});
-*/
+	
 
 
 		camera.flyTo({

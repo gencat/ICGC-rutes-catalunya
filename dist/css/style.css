@@ -32,7 +32,8 @@ html body {
   position: absolute;
   bottom: 109px;
   z-index: 1050;
-  color: rgb(24, 0, 241);
+  color: white;
+  font-size: smaller;
   
 }
 .enllacalabel{
@@ -60,7 +61,7 @@ h4 {
 }
 
 #controls i {
-  background-color: #edffff;
+  background-color:cornflowerblue;
   margin-bottom: 19px;
 }
 
@@ -1115,6 +1116,11 @@ small {
   opacity: 0.5;
 }
 
+.elevation-detached .elevation {
+  width: 26% !important;
+}
+
+
 #sideBt {
   position: absolute;
   left: 0px;
@@ -1254,12 +1260,52 @@ small {
 
 @media only screen and (max-width: 500px) {
   .sidepanel{
-   /* width: 200px !important; */
+   max-width: 70% !important;
    font-size: x-small !important;
+   overflow: auto;
+   resize: both;
+   display: list-item;
+   
  } 
+ #menuIcon {
+   font-size: smaller;
+ }
+
+.sidebutton{
+  left: 0px !important;
+    z-index: 1005 !important;
+    /* display: inline-grid !important; */
+    height: 20px !important;
+    top: 95px !important;
+    box-shadow: none !important;
+    color: violet !important;
+}
+#sideBt{
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  width: 26px;
+  height: 48px;
+  cursor: pointer;
+  border-radius: -3px;
+  color: cornflowerblue !important;
+  background: white url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAQAAAAXDMSnAAAAi0lEQVR4AX3JQcqBURQG4O/+9WNG30D3vOfSDTuQsgcZyBakZANSzMVMBme3zsBI5/VMn4ZKLP5ki1E4tYejWpilxVUtzOEUD68odYmXR5BJNp/4zllXD2phllYvamHmirsayUkfJ5ruHzueTldC08kcT5YOY9xYujqQM03XKXuaLmEtNF1e1Nz89gbL+0do6OEwRwAAAABJRU5ErkJggg==) 7px center/7px 10px no-repeat;
+  border-left: 0px solid #D4D4D4;
+   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3); 
+  transition: 0.5s;
+  display: none;
+  z-index: 1000;
+}
 .infoPanel{
   width: 99%;
 
+}
+.ui.cards>.card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 1.875em 2em !important;
+  float: none;
 }
   .ui.modal {
     width: 40%;

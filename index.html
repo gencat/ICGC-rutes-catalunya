@@ -67,7 +67,7 @@
 
 <body>
   <div title="La meva ubicació" id="gpslocation">
-    <i  class="circular crosshairs ui icon large" style="background-color: rgba(255, 255, 255, 0.6)"></i><span class="spnText"></span>
+    <i  class="circular crosshairs ui icon large" style="background-color:cornflowerblue"></i><span class="spnText"></span>
   </div>
 
   <!--START SIDEBAR-->
@@ -102,10 +102,7 @@
           <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox"
               class="allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
             <a class="item" id="infoallausid"><i class="info icon iconooff infoallaus"></i></a></div>
-            <!--
-          <div class="ui toggle mini checkbox cims"><input id="cimsToggle" type="checkbox" class="cimsLayer"><label
-              class="layerslabel labelinglayer">Cims emblemàtics</label></div>
-              -->
+
           <div class="ui toggle mini checkbox landslides"><input id="landslidesToggle" type="checkbox"
               class="landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label>
             <a class="item" id="infolandslidesid"><i class="info icon iconooff infoallaus"></i></a></div>
@@ -165,9 +162,7 @@
   <!--START CONTROL ANIMACIO-->
   <div id="controls">
     <div id="aturar">
-      <!--
-      <h4>Ruta</h4>
-      -->
+ 
       <div id="play">
         <i title="Animar recorregut ruta" class="circular play icon"></i>
          
@@ -187,15 +182,7 @@
       </div>
      
     </div>
-<!--
-    <div class="ui divider"></div>
 
-    <h4>Video</h4>
-    
-    <div id="stopvideobutton">
-      <i class="circular video icon"></i><span class="spnText"> Atura</span>
-    </div>
-      -->
     <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
       <i  class="circular video ui icon"></i><span class="spnText"></span>
     </div>
@@ -212,7 +199,7 @@
       <div class="ui icon input">
         <input id="textSearch" class="prompt" type="text" placeholder="Cercar rutes...">
         <i id="closeSearch" class="close icon icon"></i>
-        <i id="lupaSearch" class="search icon" style="right: 19px;"></i>
+        <i id="lupaSearch" class="search icon" style="right: 0px;"></i>
       </div>
       <div id="resultsCerca"  class="results"></div>
     </div>
@@ -248,8 +235,11 @@
   </div>
   </div>
 <div class="infoPanel  ">
-  <div id="sideBt"></div>
-  <div id="mySidepanel" class="sidepanel">
+  <div id="sideBt" class="sidebutton"></div>
+
+  <div class="ui container">
+
+  <div id="mySidepanel" class="sidepanel" >
 
     <div class="ui cards cardPos">
       <div class="card">
@@ -278,6 +268,9 @@
     </div>
     <div id="elevation-div"></div>
   </div>
+
+</div>
+
 </div>
 
   <div class="footer_container">
