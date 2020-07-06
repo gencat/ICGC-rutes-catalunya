@@ -28,13 +28,12 @@ html body {
   display: none;
 }
 #gpslocation {
-  right: 0px;
+  right: 8px;
   position: absolute;
-  bottom: 109px;
+  bottom: 89px;
   z-index: 1050;
   color: white;
-  font-size: smaller;
-  
+  font-size: 0.71em;
 }
 .enllacalabel{
   display: contents;
@@ -1258,7 +1257,7 @@ small {
 
 /*RESPONSIVE 500/////////////////////////////////////////////////////*/
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .sidepanel{
    max-width: 70% !important;
    font-size: x-small !important;
@@ -1284,12 +1283,13 @@ small {
   position: absolute;
   left: 0px;
   top: 100px;
-  width: 26px;
+  max-width: 70%;
   height: 48px;
+  width: 25px;
   cursor: pointer;
   border-radius: -3px;
   color: cornflowerblue !important;
-  background: white url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAQAAAAXDMSnAAAAi0lEQVR4AX3JQcqBURQG4O/+9WNG30D3vOfSDTuQsgcZyBakZANSzMVMBme3zsBI5/VMn4ZKLP5ki1E4tYejWpilxVUtzOEUD68odYmXR5BJNp/4zllXD2phllYvamHmirsayUkfJ5ruHzueTldC08kcT5YOY9xYujqQM03XKXuaLmEtNF1e1Nz89gbL+0do6OEwRwAAAABJRU5ErkJggg==) 7px center/7px 10px no-repeat;
+  background: cornflowerblue url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAQAAAAXDMSnAAAAi0lEQVR4AX3JQcqBURQG4O/+9WNG30D3vOfSDTuQsgcZyBakZANSzMVMBme3zsBI5/VMn4ZKLP5ki1E4tYejWpilxVUtzOEUD68odYmXR5BJNp/4zllXD2phllYvamHmirsayUkfJ5ruHzueTldC08kcT5YOY9xYujqQM03XKXuaLmEtNF1e1Nz89gbL+0do6OEwRwAAAABJRU5ErkJggg==) 5px center/13px 17px no-repeat;
   border-left: 0px solid #D4D4D4;
    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3); 
   transition: 0.5s;
@@ -1535,6 +1535,7 @@ small {
     width: 80% !important;
     margin: 0;
   }
+  
 
 }
 

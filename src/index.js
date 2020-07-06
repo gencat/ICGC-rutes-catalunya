@@ -945,12 +945,12 @@ $(window.document).ready(() => {
 		checkURLParameters();
 	
 
-
+	if (Cesium.Hash.decode(location.hash) === null) {
 		camera.flyTo({
 			destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
 			duration: 0,
 			complete: function () {
-
+				
 				setTimeout(() => {
 
 					camera.flyTo({
@@ -968,6 +968,7 @@ $(window.document).ready(() => {
 
 			}
 		});
+	} //if
 
 		Cesium.Hash(viewer);
 
