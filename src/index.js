@@ -25,7 +25,7 @@ const MAPSTATE = {
 	"description": null,
 	"title": null,
 	"meta": null,
-	"layers": null
+	"layers": []
 };
 let fakeMap;
 let controlElevation;
@@ -40,7 +40,7 @@ let labelsDatasource;
 let capturer;
 const baseParam = $.url().param("base");
 const gpxParam = $.url().param("gpx");
-const layersParam = $.url().param("layers");
+const layersParam = [$.url().param("layers")];
 const coordsParam = $.url().param("coords");
 
 
@@ -416,25 +416,8 @@ $(window.document).ready(() => {
 		;
 
 
-		$("#cimsToggle").change(function () {
 
-			
-
-			if ($(this).is(":checked")) {
-
-				CAPA_CIMS = CAPA_CIMS ? CAPA_CIMS : ImageryLayers.addImageryProvider(ly.LayerCimsICGC);
-				CAPA_CIMS.show = true;
-				
-
-			} else {
-
-				CAPA_CIMS.show = false;
-
-			}
-
-		});
-
-		$("#allausToggle").change(function (id) {
+		$("#allausToggle").change(function () {
 
 			
 
@@ -442,10 +425,21 @@ $(window.document).ready(() => {
 
 				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC);
 				CAPA_ALLAUS.show = true;
+				MAPSTATE.layers.push('CAPA_ALLAUS');
+				
+				
 				
 			} else {
 
 				CAPA_ALLAUS.show = false;
+
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_ALLAUS') { 
+						MAPSTATE.layers.splice(i, 1); }}
+
+
+				
+				
 
 			}
 
@@ -459,11 +453,16 @@ $(window.document).ready(() => {
 
 				CAPA_TOPONIMS = CAPA_TOPONIMS ? CAPA_TOPONIMS : ImageryLayers.addImageryProvider(ly.LayerToponimsICGC);
 				CAPA_TOPONIMS.show = true;
+				MAPSTATE.layers.push('CAPA_TOPONIMS');
+				
 
 			} else {
 
 				CAPA_TOPONIMS.show = false;
 
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_TOPONIMS') { 
+						MAPSTATE.layers.splice(i, 1); }}
 			}
 
 
@@ -478,10 +477,16 @@ $(window.document).ready(() => {
 
 				CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
 				CAPA_RISCGEOLOGIC.show = true;
+				MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
+				
+	
 
 			} else {
 
 				CAPA_RISCGEOLOGIC.show = false;
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_RISCGEOLOGIC') { 
+						MAPSTATE.layers.splice(i, 1); }}
 
 			}
 
@@ -495,10 +500,17 @@ $(window.document).ready(() => {
 
 				CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
 				CAPA_CARRETERS.show = true;
+				MAPSTATE.layers.push('CAPA_CARRETERS');
+				
+				
+				
 
 			} else {
 
 				CAPA_CARRETERS.show = false;
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_CARRETERS') { 
+						MAPSTATE.layers.splice(i, 1); }}
 
 			}
 
@@ -519,11 +531,9 @@ $(window.document).ready(() => {
 		  }
 	
 		function showPosition(position) {
-		
-		 
-			
+				 		
 		 camera.flyTo({
-			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude,   2000),
+			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude, 2000),
 			 duration:0
 		 });	
 
@@ -553,7 +563,7 @@ $(window.document).ready(() => {
 		//ENLLACA
 		$(".enllaca").on("click", () => {
 
-				const currentURLRaw = window.location.href.valueOf();
+			const currentURLRaw = window.location.href.valueOf();
 			const splitUrl = currentURLRaw.split("#");
 			
 			const gpxidd = MAPSTATE.gpx 
@@ -567,7 +577,7 @@ $(window.document).ready(() => {
 			var gpxid = '';
 
 			}
-			
+
 			
 
 			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${gpxid}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
@@ -901,14 +911,16 @@ $(window.document).ready(() => {
 
 	function checkURLParameters() {
 
-
-		//http://127.0.0.1:5500/index.html?base=ortofotoMenu&gpx=null&layers=null&#42.211228/1.698078/5500/360/-53
-
+	
+				
+		
 		if (baseParam && baseParam !== "" && baseParam !== ly.BaseMaps.orto) {
 
 			changeBaseLayers(baseParam);
 
 		}
+
+		
 
 		if (gpxParam && gpxParam !== "" !==null) {
 
@@ -924,25 +936,41 @@ $(window.document).ready(() => {
 			$(".ui.search").search("setting", { maxResults: 7 });
 
 		}
+		if (layersParam !== "" && layersParam !== null) {
+					console.info('hola')
+					console.info('layersParam', layersParam)
 
-		if (layersParam) {
+					if (layersParam[0].includes('ALLAUS')){
+							
+						ImageryLayers.addImageryProvider(ly.LayersAllausICGC)
+					
+					}
+					if (layersParam[0].includes('TOPONIMS')){
+						
+						ImageryLayers.addImageryProvider(ly.LayerToponimsICGC)
+						
+					}
+					if (layersParam[0].includes('RISCGEOLOGIC')){
+						
+						ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC)
+						
+					}
+					if (layersParam[0].includes('CARRETERS')){
+						
+						ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC)
+						
+					}
 
-			//falta
-		
+					}
 
-		}
-
-		// if (coordsParam){
-			
-		// }
-
+	
 	}
 
 
 	function vistaInicial() {
 
 
-		checkURLParameters();
+		
 	
 
 	if (Cesium.Hash.decode(location.hash) === null) {
@@ -972,7 +1000,7 @@ $(window.document).ready(() => {
 
 		Cesium.Hash(viewer);
 
-
+checkURLParameters();
 	}
 
 	//ends controls animacio
