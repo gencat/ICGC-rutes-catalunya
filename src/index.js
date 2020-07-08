@@ -327,7 +327,7 @@ $(window.document).ready(() => {
 		});
 		$("#savevideobutton").on("click", () => {
 
-			console.info($("#savevideobutton").css("opacity"));
+			//console.info($("#savevideobutton").css("opacity"));
 			if ($("#savevideobutton").css("opacity") == 1) {
 
 				stopRender();
@@ -362,6 +362,7 @@ $(window.document).ready(() => {
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
 				viewer.dataSources.removeAll();
+				
 
 			}
 
@@ -376,7 +377,7 @@ $(window.document).ready(() => {
 			jQuery("#savevideobutton").css("opacity", 0.5);
 			
 			jQuery("#savevideobutton").attr("title", "Inicia l'animació per poder descarregar el video");
-
+			
 		});
 
 		caixaCerca = $(".ui.search")
@@ -420,30 +421,27 @@ $(window.document).ready(() => {
 		$("#allausToggle").change(function () {
 
 			
-
 			if ($(this).is(":checked")) {
 
 				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC);
 				CAPA_ALLAUS.show = true;
 				MAPSTATE.layers.push('CAPA_ALLAUS');
+							
 				
-				
-				
-			} else {
+			} 
+							
+			else {
 
 				CAPA_ALLAUS.show = false;
 
 				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
 					if ( MAPSTATE.layers[i] === 'CAPA_ALLAUS') { 
 						MAPSTATE.layers.splice(i, 1); }}
-
-
-				
-				
+			
 
 			}
 
-		});
+	 	});
 
 		$("#toponimsToggle").change(function () {
 
@@ -599,6 +597,7 @@ $(window.document).ready(() => {
 	let gpxDataSource;
 
 	function loadGPX(gpx, gpxLocal, file) {
+		
 
 		const ruta = gpxLocal ? file : `dist/data/rutes/${gpx}`;
 
@@ -655,30 +654,31 @@ $(window.document).ready(() => {
 				trackDataSource = ds;
 
 				ev.htmlEvents.openSidePanel();
-				if (fly) {
 
-					viewer.flyTo(ds, { duration: 2 });
+					if (fly) {
 
-					setTimeout(() => {
+								viewer.flyTo(ds, { duration: 2 });
 
-						const _base = MAPSTATE.base;
-						if (_base.indexOf("orto") !== -1) {
+								setTimeout(() => {
 
-							
+									const _base = MAPSTATE.base;
+									if (_base.indexOf("orto") !== -1) {
 
-						}
+										
 
-					}, 2000);
+									}
 
-
-				} else {
+								}, 2000);
 
 
-					viewer.zoomTo(ds);
+							} else {
 
-				}
-				viewer.clock.shouldAnimate = false;
+								
+								viewer.zoomTo(ds);
 
+							}
+							viewer.clock.shouldAnimate = false;
+		
 
 			});
 
@@ -722,14 +722,17 @@ $(window.document).ready(() => {
 	//start controls animacio
 
 	function changeBaseLayers(id) {
-
+		MAPSTATE.base = id;
 		$("#baseLayers a").removeClass("active");
 		ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
 		ly.fnLayers.addBaseLayers(ImageryLayers, id);
-		$(`#${e.target.id}`).addClass("active");
 
-		ev.htmlEvents.toggleSideBar();
-		MAPSTATE.base = id;
+		
+
+		//$(`#${e.target.id}`).addClass("active");
+		//ev.htmlEvents.toggleSideBar();
+		//ev.htmlEvents.toggleSideBar();
+		//MAPSTATE.base = id;
 
 
 	}
@@ -936,72 +939,88 @@ $(window.document).ready(() => {
 			$(".ui.search").search("setting", { maxResults: 7 });
 
 		}
-		if (layersParam !== "" && layersParam !== null) {
-					console.info('hola')
-					console.info('layersParam', layersParam)
+		
 
+		if (layersParam !== "" && layersParam !== null !== undefined) {
+
+				if (layersParam[0] === undefined){
+					
+				}else{
+	
 					if (layersParam[0].includes('ALLAUS')){
 							
-						ImageryLayers.addImageryProvider(ly.LayersAllausICGC)
+						CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC)
+						CAPA_ALLAUS.show = true;
+						MAPSTATE.layers.push('CAPA_ALLAUS');
+						$("#allausToggle").attr('checked', true)
 					
 					}
 					if (layersParam[0].includes('TOPONIMS')){
 						
-						ImageryLayers.addImageryProvider(ly.LayerToponimsICGC)
+						CAPA_TOPONIMS = CAPA_TOPONIMS ? CAPA_TOPONIMS : ImageryLayers.addImageryProvider(ly.LayerToponimsICGC);
+						CAPA_TOPONIMS.show = true;
+						MAPSTATE.layers.push('CAPA_TOPONIMS');
+						$("#toponimsToggle").attr('checked', true)
 						
 					}
 					if (layersParam[0].includes('RISCGEOLOGIC')){
 						
-						ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC)
+						CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
+						CAPA_RISCGEOLOGIC.show = true;
+						MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
+						$("#landslidesToggle").attr('checked', true)
 						
 					}
 					if (layersParam[0].includes('CARRETERS')){
 						
-						ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC)
+				
+						CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
+						CAPA_CARRETERS.show = true;
+						MAPSTATE.layers.push('CAPA_CARRETERS');
+						$("#carreteresToggle").attr('checked', true)
+						
+						
+					}
+					
+		}
 						
 					}
 
-					}
-
-	
 	}
 
 
 	function vistaInicial() {
 
+			if (Cesium.Hash.decode(location.hash) === null) {
+				camera.flyTo({
+					destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
+					duration: 0,
+					complete: function () {
+						
+						setTimeout(() => {
 
-		
-	
+							camera.flyTo({
+								destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577, 3121),
+								orientation: {
+									heading: Cesium.Math.toRadians(295),
+									pitch: Cesium.Math.toRadians(-22), //tilt
+								},
+								easingFunction: Cesium.EasingFunction.LINEAR_NONE
+							});
+							//
 
-	if (Cesium.Hash.decode(location.hash) === null) {
-		camera.flyTo({
-			destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
-			duration: 0,
-			complete: function () {
-				
-				setTimeout(() => {
-
-					camera.flyTo({
-						destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577, 3121),
-						orientation: {
-							heading: Cesium.Math.toRadians(295),
-							pitch: Cesium.Math.toRadians(-22), //tilt
-						},
-						easingFunction: Cesium.EasingFunction.LINEAR_NONE
-					});
-					//
-
-				}, 1000);
+						}, 1000);
 
 
-			}
-		});
-	} //if
+					}
+				});
+			} //if
 
 		Cesium.Hash(viewer);
 
-checkURLParameters();
+		checkURLParameters();
 	}
+	
 
 	//ends controls animacio
 
