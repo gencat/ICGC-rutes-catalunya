@@ -3,7 +3,7 @@
 
 ## Instal.lació
 
- Copiar en un directori web tot el directori **/dist** i els arxius **index.html**  i **rutes-catalunya.png**
+ Copiar en un directori web tot el directori **/dist** i els arxius **index.html**  i **rutes-catalunya.png**.
 
 
 
