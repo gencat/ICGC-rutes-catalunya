@@ -32,7 +32,7 @@ export var htmlEvents = (function () {
         $(".ui.button.fileRequest").click(function () {
 
             const ruta = $(this).attr("data-gpx");
-            console.log("onDownload");
+         
             window.location = ruta;
 
         });
@@ -52,23 +52,23 @@ export var htmlEvents = (function () {
 
         $(".headerInfo").on("click", () => {
 
-            console.info("modal");
+          
             $(".ui.modal.info").modal("show");
-            console.info("modal entra");
+          
 
         });
         $("#infoallausid").on("click", () => {
 
-            console.info("modal");
+        
             $(".ui.modal.allaus").modal("show");
-            console.info("modal entra");
+          
 
         });
         $("#infolandslidesid").on("click", () => {
 
-            console.info("modal");
+        
             $(".ui.modal.esllavissades").modal("show");
-            console.info("modal entra");
+        ;
 
         });
 
