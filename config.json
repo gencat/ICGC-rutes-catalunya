@@ -2,4 +2,3 @@
   "script":"deploy.sh",
   "hosts": ["root@172.30.22.97","root@172.30.22.81"]
 }
-
