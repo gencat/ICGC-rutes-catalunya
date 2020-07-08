@@ -475,6 +475,7 @@ $(window.document).ready(() => {
 
 				CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
 				CAPA_RISCGEOLOGIC.show = true;
+				CAPA_RISCGEOLOGIC.alpha = 0.5;
 				MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
 				
 	
@@ -967,6 +968,7 @@ $(window.document).ready(() => {
 						
 						CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
 						CAPA_RISCGEOLOGIC.show = true;
+						CAPA_RISCGEOLOGIC.alpha = 0.5;
 						MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
 						$("#landslidesToggle").attr('checked', true)
 						
