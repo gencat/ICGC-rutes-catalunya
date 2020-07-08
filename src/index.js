@@ -541,7 +541,7 @@ $(window.document).ready(() => {
 		 viewer.entities.add({
 			  position: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude),
 			  billboard: {
-				image: "../dist/css/img/room-24px.svg",
+				image: "dist/css/img/room-24px.svg",
 				scale: 1.50,
 				color: new Cesium.Color(30.0, 97.0, 148.0, 1.0)
 			  },
