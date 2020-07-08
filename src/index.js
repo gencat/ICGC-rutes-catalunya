@@ -17,6 +17,7 @@ let CAPA_TOPONIMS = null;
 let CAPA_RISCGEOLOGIC = null;
 let CAPA_CARRETERS = null;
 let CAPA_CIMS = null;
+
 let caixaCerca;
 const MAPSTATE = {
 	"base": ly.BaseMaps.orto,
@@ -24,7 +25,7 @@ const MAPSTATE = {
 	"description": null,
 	"title": null,
 	"meta": null,
-	"layers": null
+	"layers": []
 };
 let fakeMap;
 let controlElevation;
@@ -33,12 +34,14 @@ const urlApp = "http://localhost:9966"; //"https://betaserver.icgc.cat/rutes-cat
 const dev = true;
 let viewer;
 let rutaIniciada = false;
+
 let isInPause = true;
 let labelsDatasource;
 let capturer;
 const baseParam = $.url().param("base");
 const gpxParam = $.url().param("gpx");
-const layersParam = $.url().param("layers");
+const layersParam = [$.url().param("layers")];
+const coordsParam = $.url().param("coords");
 
 
 $(window.document).ready(() => {
@@ -82,7 +85,7 @@ $(window.document).ready(() => {
 	ImageryLayers.addImageryProvider(ly.LayerOrtoICGC);
 	ly.LayerTerrenyICGC.errorEvent.addEventListener((tileProviderError) => {
 
-		//console.log(`Error at level : ${tileProviderError.level}`);
+	
 		tileProviderError.retry = false;
 
 	});
@@ -141,7 +144,7 @@ $(window.document).ready(() => {
 							outlineColor: Cesium.Color.BLACK,
 							outlineWidth: 4,
 							distanceDisplayCondition: new Cesium.DistanceDisplayCondition(0.0, opt.far),
-							//forceUpdate:true,
+							
 							style: Cesium.LabelStyle.FILL_AND_OUTLINE,
 							pixelOffset: new Cesium.Cartesian2(0, -9),
 							heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
@@ -150,9 +153,7 @@ $(window.document).ready(() => {
 					});
 
 
-				} // en if
-
-				//console.info(i,respuestaGeonames.features.length - 1 );
+				} 
 
 				if (i == (respuestaGeonames.features.length - 1)) {
 
@@ -161,11 +162,11 @@ $(window.document).ready(() => {
 
 				}
 
-			}//en for label
+			}
 
 
-		});//end then
-		console.log("finaltopo");
+		});
+		
 
 
 	}
@@ -208,8 +209,7 @@ $(window.document).ready(() => {
 		MAPSTATE.title = result.title;
 		MAPSTATE.description = result.description;
 		loadGPX(result.id, false);
-		//alert(1);
-
+	
 
 	}
 
@@ -226,6 +226,7 @@ $(window.document).ready(() => {
 
 					const ruta = file;
 					const gpx = $(ruta).attr("name");
+					
 
 					if (ruta != null) {
 
@@ -242,7 +243,7 @@ $(window.document).ready(() => {
 						MAPSTATE.title = ruta;
 						MAPSTATE.description = "";
 						loadGPX(gpx, true, e.target.result);
-
+						
 
 					}
 
@@ -275,7 +276,7 @@ $(window.document).ready(() => {
 
 			ev.htmlEvents.collapseSidePanel();
 			jQuery("#savevideobutton").css("opacity", 1);
-			//jQuery("#savevideobutton").css("pointer-events","all");
+			
 			jQuery("#savevideobutton").attr("title", "Descarrega video de l'animació");
 
 			if (rutaIniciada) {
@@ -291,7 +292,7 @@ $(window.document).ready(() => {
 
 					rutaIniciada = true;
 
-					console.log("comença");
+					
 					startPlaying();
 					$("#loading").hide();
 					jQuery("#play i").removeClass("circular play icon");
@@ -326,7 +327,7 @@ $(window.document).ready(() => {
 		});
 		$("#savevideobutton").on("click", () => {
 
-			console.info($("#savevideobutton").css("opacity"));
+			//console.info($("#savevideobutton").css("opacity"));
 			if ($("#savevideobutton").css("opacity") == 1) {
 
 				stopRender();
@@ -361,6 +362,7 @@ $(window.document).ready(() => {
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
 				viewer.dataSources.removeAll();
+				
 
 			}
 
@@ -373,9 +375,9 @@ $(window.document).ready(() => {
 			MAPSTATE.gpx = null;
 			$(".ui.search").search("setting", { maxResults: 7 });
 			jQuery("#savevideobutton").css("opacity", 0.5);
-			//jQuery("#savevideobutton").css("pointer-events","none");
+			
 			jQuery("#savevideobutton").attr("title", "Inicia l'animació per poder descarregar el video");
-
+			
 		});
 
 		caixaCerca = $(".ui.search")
@@ -388,11 +390,11 @@ $(window.document).ready(() => {
 					"id"
 				],
 				maxResults: 0,
-				//selectFirstResult:true,
+			
 				fullTextSearch: "exact",
 				onResults:function(response) {
 
-					console.info("response", response);
+					
 					if (response.results.length === 1) {
 
 						sendRequest(response.results[0]);
@@ -402,7 +404,7 @@ $(window.document).ready(() => {
 				},
 				onSelect: function (result) {
 
-					console.log("search", result);
+					
 					if (result.id != null) {
 
 						sendRequest(result);
@@ -415,53 +417,50 @@ $(window.document).ready(() => {
 		;
 
 
-		$("#cimsToggle").change(function () {
-
-			console.log("cimsToggle");
-
-			if ($(this).is(":checked")) {
-
-				CAPA_CIMS = CAPA_CIMS ? CAPA_CIMS : ImageryLayers.addImageryProvider(ly.LayerCimsICGC);
-				CAPA_CIMS.show = true;
-
-			} else {
-
-				CAPA_CIMS.show = false;
-
-			}
-
-		});
 
 		$("#allausToggle").change(function () {
 
-			console.log("allausToggle");
-
+			
 			if ($(this).is(":checked")) {
 
 				CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC);
 				CAPA_ALLAUS.show = true;
-
-			} else {
+				MAPSTATE.layers.push('CAPA_ALLAUS');
+							
+				
+			} 
+							
+			else {
 
 				CAPA_ALLAUS.show = false;
 
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_ALLAUS') { 
+						MAPSTATE.layers.splice(i, 1); }}
+			
+
 			}
 
-		});
+	 	});
 
 		$("#toponimsToggle").change(function () {
 
-			console.log("toponimsToggle");
+			
 
 			if ($(this).is(":checked")) {
 
 				CAPA_TOPONIMS = CAPA_TOPONIMS ? CAPA_TOPONIMS : ImageryLayers.addImageryProvider(ly.LayerToponimsICGC);
 				CAPA_TOPONIMS.show = true;
+				MAPSTATE.layers.push('CAPA_TOPONIMS');
+				
 
 			} else {
 
 				CAPA_TOPONIMS.show = false;
 
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_TOPONIMS') { 
+						MAPSTATE.layers.splice(i, 1); }}
 			}
 
 
@@ -470,16 +469,23 @@ $(window.document).ready(() => {
 
 		$("#landslidesToggle").change(function () {
 
-			console.log("landslidesToggle");
+			
 
 			if ($(this).is(":checked")) {
 
 				CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
 				CAPA_RISCGEOLOGIC.show = true;
+				CAPA_RISCGEOLOGIC.alpha = 0.5;
+				MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
+				
+	
 
 			} else {
 
 				CAPA_RISCGEOLOGIC.show = false;
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_RISCGEOLOGIC') { 
+						MAPSTATE.layers.splice(i, 1); }}
 
 			}
 
@@ -488,29 +494,90 @@ $(window.document).ready(() => {
 
 		$("#carreteresToggle").change(function () {
 
-			console.log("carreteresToggle");
+			
 			if ($(this).is(":checked")) {
 
 				CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
 				CAPA_CARRETERS.show = true;
+				MAPSTATE.layers.push('CAPA_CARRETERS');
+				
+				
+				
 
 			} else {
 
 				CAPA_CARRETERS.show = false;
+				for( var i = 0; i < MAPSTATE.layers.length; i++){ 
+					if ( MAPSTATE.layers[i] === 'CAPA_CARRETERS') { 
+						MAPSTATE.layers.splice(i, 1); }}
 
 			}
 
 
 		});
 
+		// GEOLOCATION
+		$("#gpslocation").on("click", () => {
+	
+		
+		var x = document.getElementById("gpslocation");
+		
+		  if (navigator.geolocation) {
+			  
+			navigator.geolocation.getCurrentPosition(showPosition);
+		  } else {
+			x.innerHTML = "Geolocation is not supported by this browser.";
+		  }
+	
+		function showPosition(position) {
+				 		
+		 camera.flyTo({
+			 destination: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude, 2000),
+			 duration:0
+		 });	
+
+		 
+				
+		 viewer.entities.add({
+			  position: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude),
+			  billboard: {
+				image: "../dist/css/img/room-24px.svg",
+				scale: 1.50,
+				color: new Cesium.Color(30.0, 97.0, 148.0, 1.0)
+			  },
+		
+		
+			});
+
+			
+
+
+		
+		
+	}
+
+
+	});
 
 		//ENLLACA
 		$(".enllaca").on("click", () => {
 
-
 			const currentURLRaw = window.location.href.valueOf();
 			const splitUrl = currentURLRaw.split("#");
-			const gpxid = MAPSTATE.gpx ? MAPSTATE.gpx.replace(".gpx", "") : null;
+			
+			const gpxidd = MAPSTATE.gpx 
+
+			if (typeof gpxidd === 'string' || gpxidd instanceof String){
+			
+			var gpxid = gpxidd ? gpxidd.replace(".gpx", "") : ''
+			}
+			else{
+			
+			var gpxid = '';
+
+			}
+
+			
 
 			const currentURL = `${splitUrl[0]}?base=${MAPSTATE.base}&gpx=${gpxid}&layers=${MAPSTATE.layers}&#${splitUrl[1]}`;
 
@@ -523,7 +590,7 @@ $(window.document).ready(() => {
 			$("#enllacamodal").modal("show");
 
 		});
-		//ENLLACA
+	
 
 	}
 
@@ -531,6 +598,7 @@ $(window.document).ready(() => {
 	let gpxDataSource;
 
 	function loadGPX(gpx, gpxLocal, file) {
+		
 
 		const ruta = gpxLocal ? file : `dist/data/rutes/${gpx}`;
 
@@ -545,7 +613,7 @@ $(window.document).ready(() => {
 
 			$("#infobox").hide();
 			$("#elevation-div").hide();
-			$("#elevation-div").removeData(trackGeoJSON);//similar
+			$("#elevation-div").removeData(trackGeoJSON);
 
 			if (viewer.dataSources.contains(gpxDataSource)) {
 
@@ -587,30 +655,31 @@ $(window.document).ready(() => {
 				trackDataSource = ds;
 
 				ev.htmlEvents.openSidePanel();
-				if (fly) {
 
-					viewer.flyTo(ds, { duration: 2 });
+					if (fly) {
 
-					setTimeout(() => {
+								viewer.flyTo(ds, { duration: 2 });
 
-						const _base = MAPSTATE.base;
-						if (_base.indexOf("orto") !== -1) {
+								setTimeout(() => {
 
-							//	addToponims();
+									const _base = MAPSTATE.base;
+									if (_base.indexOf("orto") !== -1) {
 
-						}
+										
 
-					}, 2000);
+									}
 
-
-				} else {
+								}, 2000);
 
 
-					viewer.zoomTo(ds);
+							} else {
 
-				}
-				viewer.clock.shouldAnimate = false;
+								
+								viewer.zoomTo(ds);
 
+							}
+							viewer.clock.shouldAnimate = false;
+		
 
 			});
 
@@ -628,10 +697,6 @@ $(window.document).ready(() => {
 		$("#resultsCerca").removeClass("visible");
 		$("#resultsCerca").addClass("hidden");
 		$("#resultsCerca").hide();
-
-		//results transition hidden
-
-		//results transition visible
 
 
 	}
@@ -658,14 +723,17 @@ $(window.document).ready(() => {
 	//start controls animacio
 
 	function changeBaseLayers(id) {
-
+		MAPSTATE.base = id;
 		$("#baseLayers a").removeClass("active");
 		ly.fnLayers.removeBaseLayers(ImageryLayers, 2);
 		ly.fnLayers.addBaseLayers(ImageryLayers, id);
-		$(`#${e.target.id}`).addClass("active");
 
-		ev.htmlEvents.toggleSideBar();
-		MAPSTATE.base = id;
+		
+
+		//$(`#${e.target.id}`).addClass("active");
+		//ev.htmlEvents.toggleSideBar();
+		//ev.htmlEvents.toggleSideBar();
+		//MAPSTATE.base = id;
 
 
 	}
@@ -690,7 +758,7 @@ $(window.document).ready(() => {
 	function startPlaying() {
 
 
-		console.info("entro");
+		
 
 		const event = "play";
 		let distance = 0;
@@ -753,10 +821,10 @@ $(window.document).ready(() => {
 			oldCoord = actualCoord;
 			oldElev = actualElev;
 
-			// This example uses time offsets from the start to identify which parts need loading.
+	
 			const timeOffset = Cesium.JulianDate.secondsDifference(clock.currentTime, clock.startTime);
 
-			//console.log("current-->",clock.currentTime);
+
 
 			if (labelsDatasource && timeOffset > 1 && timeOffset < 100) {
 
@@ -766,7 +834,7 @@ $(window.document).ready(() => {
 
 			if (viewer.clock.currentTime === viewer.clock.stopTime) {
 
-				console.info("final ruta");
+				
 
 
 			}
@@ -775,11 +843,11 @@ $(window.document).ready(() => {
 		});
 
 
-		// fa que e simbol del hiker es mogui
+	
 		viewer.trackedEntity = trackDataSource.entities.getById("track");
 		trackDataSource.entities.getById("track").billboard.show = true;
 		viewer.clock.shouldAnimate = true;
-		console.log("startvideo-->click");
+		
 		initRender();
 
 	}
@@ -847,18 +915,20 @@ $(window.document).ready(() => {
 
 	function checkURLParameters() {
 
-
-		//http://127.0.0.1:5500/index.html?base=ortofotoMenu&gpx=null&layers=null&#42.211228/1.698078/5500/360/-53
-
+	
+				
+		
 		if (baseParam && baseParam !== "" && baseParam !== ly.BaseMaps.orto) {
 
 			changeBaseLayers(baseParam);
 
 		}
 
-		if (gpxParam && gpxParam !== "") {
+		
 
-			//console.info(caixaCerca.search);
+		if (gpxParam && gpxParam !== "" !==null) {
+
+			
 			$("#textSearch").focus();
 			$("#textSearch").val(gpxParam);
 
@@ -870,56 +940,89 @@ $(window.document).ready(() => {
 			$(".ui.search").search("setting", { maxResults: 7 });
 
 		}
+		
 
-		if (layersParam) {
+		if (layersParam !== "" && layersParam !== null !== undefined) {
 
-			//falta
-
+				if (layersParam[0] === undefined){
+					
+				}else{
+	
+					if (layersParam[0].includes('ALLAUS')){
+							
+						CAPA_ALLAUS = CAPA_ALLAUS ? CAPA_ALLAUS : ImageryLayers.addImageryProvider(ly.LayersAllausICGC)
+						CAPA_ALLAUS.show = true;
+						MAPSTATE.layers.push('CAPA_ALLAUS');
+						$("#allausToggle").attr('checked', true)
+					
+					}
+					if (layersParam[0].includes('TOPONIMS')){
+						
+						CAPA_TOPONIMS = CAPA_TOPONIMS ? CAPA_TOPONIMS : ImageryLayers.addImageryProvider(ly.LayerToponimsICGC);
+						CAPA_TOPONIMS.show = true;
+						MAPSTATE.layers.push('CAPA_TOPONIMS');
+						$("#toponimsToggle").attr('checked', true)
+						
+					}
+					if (layersParam[0].includes('RISCGEOLOGIC')){
+						
+						CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
+						CAPA_RISCGEOLOGIC.show = true;
+						CAPA_RISCGEOLOGIC.alpha = 0.5;
+						MAPSTATE.layers.push('CAPA_RISCGEOLOGIC');
+						$("#landslidesToggle").attr('checked', true)
+						
+					}
+					if (layersParam[0].includes('CARRETERS')){
+						
+				
+						CAPA_CARRETERS = CAPA_CARRETERS ? CAPA_CARRETERS : ImageryLayers.addImageryProvider(ly.LayerCarreteresICGC);
+						CAPA_CARRETERS.show = true;
+						MAPSTATE.layers.push('CAPA_CARRETERS');
+						$("#carreteresToggle").attr('checked', true)
+						
+						
+					}
+					
 		}
-
+						
+					}
 
 	}
 
 
 	function vistaInicial() {
 
+			if (Cesium.Hash.decode(location.hash) === null) {
+				camera.flyTo({
+					destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
+					duration: 0,
+					complete: function () {
+						
+						setTimeout(() => {
 
-		checkURLParameters();
-		/*
-		camera.flyTo({
-			destination: Cesium.Cartesian3.fromDegrees(1.5455, 41.698, 450000),
-			duration: 4,
-		});
-*/
+							camera.flyTo({
+								destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577, 3121),
+								orientation: {
+									heading: Cesium.Math.toRadians(295),
+									pitch: Cesium.Math.toRadians(-22), //tilt
+								},
+								easingFunction: Cesium.EasingFunction.LINEAR_NONE
+							});
+							//
 
-
-		camera.flyTo({
-			destination: Cesium.Cartesian3.fromDegrees(1.698078, 42.211228, 450000),
-			duration: 0,
-			complete: function () {
-
-				setTimeout(() => {
-
-					camera.flyTo({
-						destination: Cesium.Cartesian3.fromDegrees(1.743685, 42.225577, 3121),
-						orientation: {
-							heading: Cesium.Math.toRadians(295),
-							pitch: Cesium.Math.toRadians(-22), //tilt
-						},
-						easingFunction: Cesium.EasingFunction.LINEAR_NONE
-					});
-					//
-
-				}, 1000);
+						}, 1000);
 
 
-			}
-		});
+					}
+				});
+			} //if
 
 		Cesium.Hash(viewer);
 
-
+		checkURLParameters();
 	}
+	
 
 	//ends controls animacio
 

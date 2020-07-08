@@ -17,7 +17,6 @@ const URL_ORTO_ESRI = "https://services.arcgisonline.com/ArcGIS/rest/services/Wo
 const URL_CIMS_ICGC = "https://geoserveis.icgc.cat/icc_100cims/wms/service?";
 const URL_SLOPE_ICGC = "https://geoserveis.icgc.cat/icgc_mp20p5m/wms/service?";
 const URL_ALLAUS_ICGC = "https://siurana.icgc.cat/geoserver/nivoallaus/wms?";
-//const URL_RISC_GEOLOGIC = "https://geoserveis.icgc.cat/icgc_riscgeologic/wms/service?";
 const URL_RISC_GEOLOGIC = "https://geoserveis.icgc.cat/serveis/catalunya/riscos-geologics/wms?";
 
 export const LayerOrtoEsri = new Cesium.ArcGisMapServerImageryProvider({
