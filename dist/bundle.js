@@ -1,24 +1,5 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 // @flow
-// Copyright (c) 2020 Uber Technologies, Inc.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -118,25 +99,6 @@ exports.htmlEvents = htmlEvents;
 
 },{}],2:[function(require,module,exports){
 // @flow
-// Copyright (c) 2020 Uber Technologies, Inc.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -202,6 +164,7 @@ var rutes = function () {
 exports.rutes = rutes;
 
 },{}],3:[function(require,module,exports){
+// @flow
 "use strict";
 
 var ev = require("./events.js");
@@ -371,27 +334,28 @@ $(window.document).ready(function () {
   }
 
   function initEvents() {
-    $("#uploadbutton").on("change", function () {
-      console.log("onUpload");
-      var ruta = document.getElementById("uploadbutton").files[0];
-      var gpx = $(ruta).attr("name");
-      console.log("valuegpx -->", gpx);
+    FileReaderJS.setupInput(document.getElementById("uploadbutton"), {
+      readAsDefault: "DataURL",
+      on: {
+        load: function load(e, file) {
+          var ruta = file;
+          var gpx = $(ruta).attr("name");
 
-      if (ruta != null) {
-        $("#controls").show();
-        $("#pausa").hide();
-        $("#loading").hide();
-        $("#prompt").hide();
-        showEntitiesLabels(false);
-        rutaIniciada = false;
-        console.log("path-->", ruta);
-        $("#uploadButton").prop("name", ruta);
-        viewer.dataSources.removeAll();
-        MAPSTATE.gpx = ruta;
-        MAPSTATE.title = ruta;
-        MAPSTATE.description = "";
-        loadGPX(gpx, true);
-        console.log("rutaok");
+          if (ruta != null) {
+            $("#controls").show();
+            $("#pausa").hide();
+            $("#loading").hide();
+            $("#prompt").hide();
+            showEntitiesLabels(false);
+            rutaIniciada = false;
+            $("#uploadButton").prop("name", ruta);
+            viewer.dataSources.removeAll();
+            MAPSTATE.gpx = ruta;
+            MAPSTATE.title = ruta;
+            MAPSTATE.description = "";
+            loadGPX(gpx, true, e.target.result);
+          }
+        }
       }
     });
     $("#selectRutes").on("change", function () {
@@ -535,6 +499,7 @@ $(window.document).ready(function () {
       if ($(this).is(":checked")) {
         CAPA_RISCGEOLOGIC = CAPA_RISCGEOLOGIC ? CAPA_RISCGEOLOGIC : ImageryLayers.addImageryProvider(ly.LayerRiscGeologicICGC);
         CAPA_RISCGEOLOGIC.show = true;
+        CAPA_RISCGEOLOGIC.alpha = 0.5;
       } else {
         CAPA_RISCGEOLOGIC.show = false;
       }
@@ -564,8 +529,8 @@ $(window.document).ready(function () {
 
   var gpxDataSource;
 
-  function loadGPX(gpx, gpxLocal) {
-    var ruta = gpxLocal ? gpx : "dist/data/rutes/".concat(gpx);
+  function loadGPX(gpx, gpxLocal, file) {
+    var ruta = gpxLocal ? file : "dist/data/rutes/".concat(gpx);
     var lGPX = omnivore.gpx(ruta, null).on("ready", function (data) {
       $(".ui.button.fileRequest").attr("data-gpx", ruta);
       $(".ui.button.fileRequest").attr("href", ruta);
@@ -587,7 +552,6 @@ $(window.document).ready(function () {
       }
 
       gpxDataSource = new Cesium.CzmlDataSource();
-      console.log("ruta", ruta);
       var fly = true;
       trackGeoJSON = {
         type: "FeatureCollection",
@@ -954,7 +918,7 @@ var LayerToponimsICGC = new Cesium.UrlTemplateImageryProvider({
 exports.LayerToponimsICGC = LayerToponimsICGC;
 var LayerRiscGeologicICGC = new Cesium.WebMapServiceImageryProvider({
   url: URL_RISC_GEOLOGIC,
-  layers: "G6FIA_PA",
+  layers: "G6PE_PA",
   enablePickFeatures: true,
   showEntitiesLabels: true,
   credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
@@ -1028,25 +992,6 @@ var fnLayers = function () {
 exports.fnLayers = fnLayers;
 
 },{}],5:[function(require,module,exports){
-// Copyright (c) 2020 Uber Technologies, Inc.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
