@@ -17,7 +17,7 @@
 
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <meta name="author" content="Institut Cartogràfic i Geològic de Catalunya" />
+  <meta name="author" content="Institut Cartogr脿fic i Geol貌gic de Catalunya" />
   <meta property="fb:app_id" content="620717167980164" />
   <meta property="og:title" content="Rutes de Catalunya 3D" />
   <meta property="og:type" content="website" />
@@ -53,7 +53,6 @@
   <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
   <script src="dist/vendors/leaflet-elevation.js"></script>
 
-
   <!--cesium-->
   <link href="dist/Cesium/Widgets/widgets.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
@@ -61,12 +60,12 @@
   <script src="dist/vendors/purl.js"></script>
 
   <link rel="shortcut icon" href="favicon.ico">
-  <title>Rutes de Catalunya 3D 🚶‍♂</title>
+  <title>Rutes de Catalunya 3D 馃毝鈥嶁檪</title>
 
 </head>
 
 <body>
-  <div title="La meva ubicació" id="gpslocation">
+  <div title="La meva ubicaci贸" id="gpslocation">
     <i  class="circular crosshairs ui icon large" style="background-color:cornflowerblue"></i><span class="spnText"></span>
   </div>
 
@@ -82,10 +81,10 @@
       <b>Mapa Base</b><i class="map icon" class="tiny" id="iniciaHome"></i>
       <div id="baseLayers" class="menu">
         <a class="item labeling active" id="ortofotoMenu">Ortofoto</a>
-        <a class="item labeling" id="topographicMenu">Topogràfic</a>
-        <a class="item labeling" id="topoClassicMenu">Topogràfic clàssic</a>
+        <a class="item labeling" id="topographicMenu">Topogr脿fic</a>
+        <a class="item labeling" id="topoClassicMenu">Topogr脿fic cl脿ssic</a>
         <a class="item labeling" id="relleuMenu">Relleu</a>
-        <a class="item labeling" id="geologicMenu">Geològic</a>
+        <a class="item labeling" id="geologicMenu">Geol貌gic</a>
       </div>
     </div>
 
@@ -98,7 +97,7 @@
         <div class="inline field ">
 
           <div class="ui toggle mini checkbox toponims"><input id="toponimsToggle" type="checkbox"
-              class="toponimsLayer"><label class="layerslabel labelinglayer">Topònims</label></div>              
+              class="toponimsLayer"><label class="layerslabel labelinglayer">Top貌nims</label></div>              
           <div class="ui toggle mini checkbox allaus"><input id="allausToggle" type="checkbox"
               class="allausLayer"><label class="layerslabel labelinglayer">Allaus</label>
             <a class="item" id="infoallausid"><i class="info icon iconooff infoallaus"></i></a></div>
@@ -107,7 +106,7 @@
               class="landslidesLayer"><label class="layerslabel labelinglayer">Esllavissades</label>
             <a class="item" id="infolandslidesid"><i class="info icon iconooff infoallaus"></i></a></div>
           <div class="ui toggle mini checkbox carreteres"><input id="carreteresToggle" type="checkbox"
-              class="carreteresLayer"><label class="layerslabel labelinglayer">Híbrid</label></div>
+              class="carreteresLayer"><label class="layerslabel labelinglayer">H铆brid</label></div>
 
         </div>
       </div>
@@ -116,7 +115,7 @@
     <!-- END CHECKBOX LAYERS-->
 
     <div>
-      <a class="item" href="https://betaserver.icgc.cat">Informació <i class="info icon iconooff"></i>
+      <a class="item" href="https://betaserver.icgc.cat">Informaci贸 <i class="info icon iconooff"></i>
       </a>
     </div>
 
@@ -152,7 +151,7 @@
       <h2 class="h2_title">Rutes de Catalunya 3D</h2>
     </div>
     <div class="headerInfo">
-      <a title="Informació" href="#"><i class="info large inverted circle link white icon" aria-hidden="true"></i></a>
+      <a title="Informaci贸" href="#"><i class="info large inverted circle link white icon" aria-hidden="true"></i></a>
 
     </div>
 
@@ -174,7 +173,7 @@
         <i title="Tornar inici class="circular orange spinner loading icon"></i>
       </div>
 
-      <div title="Reinicia Inicia l'animació" id="home">
+      <div title="Reinicia Inicia l'animaci贸" id="home">
         <i class="circular undo icon"></i>
         
         <span class="spnText"></span>
@@ -183,7 +182,7 @@
      
     </div>
 
-    <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
+    <div title="Inicia l'animaci贸 per poder descarregar el video" id="savevideobutton">
       <i  class="circular video ui icon"></i><span class="spnText"></span>
     </div>
 
@@ -204,9 +203,9 @@
       <div id="resultsCerca"  class="results"></div>
     </div>
     <div id="linkbt">
-      <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
+      <a title="Enlla莽ar vista" class="ui button mini footer_invertedButton enllaca">
         <i class="linkify icon" aria-hidden="true">
-        </i><p class="enllacalabel">Enllaça</p></a>
+        </i><p class="enllacalabel">Enlla莽a</p></a>
     </div>
     <div  title="Carregar ruta gpx" id="uploadbt">
       <input type="file" (change)="fileEvent($event)" class="inputfile ui mini white button explorar"
@@ -227,10 +226,10 @@
 
   <!--END MAPA-->
   <div id="infobox">
-    <p class="infotext"> 🛈 : </p>
-    <p id="distanceLabel" class="infoLabel"> �?0 km </p>
-    <p id="desnivellPositiuLabel" class="infoLabel"> �?0 m </p>
-    <p id="desnivellNegatiuLabel" class="infoLabel"> �?0 m </p>
+    <p class="infotext"> 馃泩 : </p>
+    <p id="distanceLabel" class="infoLabel"> 鈫?0 km </p>
+    <p id="desnivellPositiuLabel" class="infoLabel"> 鈫?0 m </p>
+    <p id="desnivellNegatiuLabel" class="infoLabel"> 鈫?0 m </p>
   </div>
   </div>
   </div>
@@ -315,23 +314,23 @@
       -->
     </div>
   </div>
-  <!--MODAL ENLLAÇA-->
+  <!--MODAL ENLLA脟A-->
 
   <div id="enllacamodal" class="ui modal">
     <i class="close icon"></i>
     <div class="content">
       <div class="ui message modalMsg">
         <div class="header">
-          Enllaçar
+          Enlla莽ar
         </div>
         <form class="ui form">
           <div class="field">
-            <label>Per enllaçar amb aquest mapa, copieu i enganxeu el següent
+            <label>Per enlla莽ar amb aquest mapa, copieu i enganxeu el seg眉ent
               text/label>
               <input type="text" name="urlMap" id="urlMap" placeholder="">
           </div>
           <div class="field">
-            <label>Per inserir aquest mapa al vostre web, copieu i enganxeu el següent
+            <label>Per inserir aquest mapa al vostre web, copieu i enganxeu el seg眉ent
               text</label>
             <textarea id="iframeMap" rows="3" name="iframeMap"></textarea>
           </div>
@@ -351,23 +350,23 @@
           Rutes Catalunya 3D
         </div>
         <p>
-          El visor proporciona una visualització personalitzada de les rutes provinents de la Generalitat de Catalunya
+          El visor proporciona una visualitzaci贸 personalitzada de les rutes provinents de la Generalitat de Catalunya
           en un escenari 3D. L'usuari pot escollir entre diferents mapes base i amb possibilitat d'afegir-hi capes
           addicionals.
-          Un cop es visualitza la ruta desistjada, té l'opció d'animar-la, exportar l'animació en un video o consultar detalls com la distància
-          recorreguda, desnivell acumulat i el seu perfil topogràfic.
+          Un cop es visualitza la ruta desistjada, t茅 l'opci贸 d'animar-la, exportar l'animaci贸 en un video o consultar detalls com la dist脿ncia
+          recorreguda, desnivell acumulat i el seu perfil topogr脿fic.
 
         </p>
-        L’usuari pot triar entre diferents mapes base i capes d'informació:
+        L鈥檜suari pot triar entre diferents mapes base i capes d'informaci贸:
         <ul class="list">
-          <li>Mapes Base: Ortofoto, Topogràfic, Topogràfic clàssic, Relleu, Geològic.</li>
+          <li>Mapes Base: Ortofoto, Topogr脿fic, Topogr脿fic cl脿ssic, Relleu, Geol貌gic.</li>
 
-          <li>Capes Addicionals: Topònims, Allaus, Esllavissades, Híbrid. </li>
+          <li>Capes Addicionals: Top貌nims, Allaus, Esllavissades, H铆brid. </li>
 
         </ul>
 
-        <p>La cartografia proporcinada d'allaus i d'esllavissades tenen com a referència les dades publicades
-          al <a href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de
+        <p>La cartografia proporcinada d'allaus i d'esllavissades tenen com a refer猫ncia les dades publicades
+          al <a href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butllet铆 de
             Perill d'allaus del ICGC</a>
           i a <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces">
@@ -393,15 +392,15 @@
           Allaus
         </div>
         <p>
-          Aquesta capa d'informació proporciona la distribució espacial de les zones on s'han produït desencadenaments
+          Aquesta capa d'informaci贸 proporciona la distribuci贸 espacial de les zones on s'han produ茂t desencadenaments
           d'allaus segons
           <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Geoinformacio-en-linia-Geoserveis/WMS-Geoindex/WMS-Allaus">la
             base de dades</a>
           oberta del ICGC.
         </p>
-        <p>Per a més informació disposeu del <a
-            href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de
+        <p>Per a m茅s informaci贸 disposeu del <a
+            href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butllet铆 de
             Perill d'allaus del ICGC</a></p>
 
 
@@ -424,12 +423,12 @@
           Esllavissades
         </div>
         <p>
-          Aquesta capa d'informació proporciona el mapa de perillositat natural per esllavissades a escala 1:25000 
-          de les àrees analitzades segons <a
+          Aquesta capa d'informaci贸 proporciona el mapa de perillositat natural per esllavissades a escala 1:25000 
+          de les 脿rees analitzades segons <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/WMS-Riscos-geologics">l'inventari</a>
           obert del ICGC.
         </p>
-        <p>Per a més informació disposeu de la <a
+        <p>Per a m茅s informaci贸 disposeu de la <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces">
             Base de dades d'esllavissades LLISCAT del ICGC</a></p>
 
