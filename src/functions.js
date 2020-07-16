@@ -66,8 +66,8 @@ export var rutes = (function () {
 
 				$("#totlen").html(`Distància: ${track.distance.toFixed(2)} km <i class="arrows alternate horizontal right ui icon">`);
 				$("#desni").html(`Desnivell: ${desnivell} m <i class="arrows alternate vertical ui icon">`);
-				$("#maxele").html(`Alçada màxima: ${parseInt(track.elevation_max)} m <i class="level up alternate ui icon">`);
-				$("#minele").html(`Alçada mínima: ${parseInt(track.elevation_min)} m <i class="level down alternate ui icon">`);
+				$("#maxele").html(`Altitud màxima: ${parseInt(track.elevation_max)} m <i class="level up alternate ui icon">`);
+				$("#minele").html(`Altitud mínima: ${parseInt(track.elevation_min)} m <i class="level down alternate ui icon">`);
 
 
 			});

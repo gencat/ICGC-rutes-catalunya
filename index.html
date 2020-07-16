@@ -78,7 +78,7 @@
     </div>
     <div class="item">
 
-      <b>Mapa Base</b><i class="map icon tiny"  id="iniciaHome"></i>
+      <b>Mapa Base</b><i class="map icon"  id="iniciaHome"></i>
       <div id="baseLayers" class="menu">
         <a class="item labeling active" id="ortofotoMenu">Ortofoto</a>
         <a class="item labeling" id="topographicMenu">Topogràfic</a>
@@ -119,7 +119,7 @@
       </a>
     </div>    
 
-    <div><a class="item" href="mailto:Betaportal@icgc.cat">Contactan's! <i class="mail icon iconooff"></i> </a>
+    <div><a class="item" href="mailto:Betaportal@icgc.cat">Contacta'ns! <i class="mail icon iconooff"></i> </a>
     </div>
 
     <div class="textPalau">
@@ -163,7 +163,7 @@
     <div id="aturar">
  
       <div id="play">
-        <i title="Animar recorregut ruta" class="circular play icon"></i>
+        <i title="Anima recorregut ruta" class="circular play icon"></i>
          
         <span class="spnText"></span>
         
@@ -173,7 +173,7 @@
         <i title="Tornar inici" class="circular orange spinner loading icon"></i>
       </div>
 
-      <div title="Reinicia Inicia l'animació" id="home">
+      <div title="Reinicia/Inicia l'animació" id="home">
         <i class="circular undo icon"></i>
         
         <span class="spnText"></span>
@@ -182,7 +182,7 @@
      
     </div>
 
-    <div title="Inicia l'animació per poder descarregar el video" id="savevideobutton">
+    <div title="Descarrega vídeo de l'animació" id="savevideobutton">
       <i  class="circular video ui icon"></i><span class="spnText"></span>
     </div>
 
@@ -203,11 +203,11 @@
       <div id="resultsCerca"  class="results"></div>
     </div>
     <div id="linkbt">
-      <a title="Enllaçar vista" class="ui button mini footer_invertedButton enllaca">
+      <a title="Enllaça vista" class="ui button mini footer_invertedButton enllaca">
         <i class="linkify icon" aria-hidden="true">
         </i><p class="enllacalabel">Enllaça</p></a>
     </div>
-    <div  title="Carregar ruta gpx" id="uploadbt">
+    <div  title="Carrega ruta gpx" id="uploadbt">
       <input type="file" (change)="fileEvent($event)" class="inputfile ui mini white button explorar"
         id="uploadbutton" />
       <label for="uploadbutton" class="ui mini green button responbutton">
@@ -314,7 +314,7 @@
       -->
     </div>
   </div>
-  <!--MODAL ENLLA脟A-->
+  <!--MODAL ENLLAÇA-->
 
   <div id="enllacamodal" class="ui modal">
     <i class="close icon"></i>
@@ -391,16 +391,15 @@
           Allaus
         </div>
         <p>
-          Aquesta capa d'informació proporciona la distribució espacial de les zones on s'han produït desencadenaments
+          Aquesta capa d'informació correspon a la distribució espacial de les zones on s'han produït desencadenaments
           d'allaus fins el 2015 segons
           <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Geoinformacio-en-linia-Geoserveis/WMS-Geoindex/WMS-Allaus">la
             base de dades</a>
-          oberta del ICGC.
+          oberta de l'ICGC.
         </p>
-        <p>Per a més informació disposeu del <a
-            href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de
-            Perill d'allaus del ICGC</a></p>
+        <p>Per a més informació, disposeu del <a
+            href="https://www.icgc.cat/Ciutada/Explora-Catalunya/Allaus/Butlleti-de-Perill-d-Allaus-BPA">Butlletí de Perill d’Allaus de l’ICGC</a></p>
 
 
       </div>
@@ -422,14 +421,14 @@
           Esllavissades
         </div>
         <p>
-          Aquesta capa d'informació proporciona el mapa de perillositat natural per esllavissades a escala 1:25000 
-          de les àrees analitzades segon <a
+          Aquesta capa d'informació correspon al mapa de perillositat natural per esllavissades a escala 1:25 000 
+          de les àrees analitzades segons <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/WMS-Riscos-geologics">l'inventari</a>
-          obert del ICGC.
+          obert de l'ICGC.
         </p>
-        <p>Per a més informació disposeu de la <a
+        <p>Per a més informació, disposeu de la <a
             href="https://www.icgc.cat/Administracio-i-empresa/Serveis/Riscos-geologics/Base-de-dades-d-esllavissades-LLISCAT/Base-de-dades-d-esllavissades-LLISCAT-Acces">
-            Base de dades d'esllavissades LLISCAT del ICGC</a></p>
+            Base de dades d’esllavissades LLISCAT de l’ICGC</a></p>
 
 
       </div>

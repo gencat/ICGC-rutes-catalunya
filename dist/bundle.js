@@ -141,8 +141,8 @@ var rutes = function () {
         var desnivell = parseInt(track.elevation_max) - parseInt(track.elevation_min);
         $("#totlen").html("Dist\xE0ncia: ".concat(track.distance.toFixed(2), " km <i class=\"arrows alternate horizontal right ui icon\">"));
         $("#desni").html("Desnivell: ".concat(desnivell, " m <i class=\"arrows alternate vertical ui icon\">"));
-        $("#maxele").html("Al\xE7ada m\xE0xima: ".concat(parseInt(track.elevation_max), " m <i class=\"level up alternate ui icon\">"));
-        $("#minele").html("Al\xE7ada m\xEDnima: ".concat(parseInt(track.elevation_min), " m <i class=\"level down alternate ui icon\">"));
+        $("#maxele").html("Altitud m\xE0xima: ".concat(parseInt(track.elevation_max), " m <i class=\"level up alternate ui icon\">"));
+        $("#minele").html("Altitud m\xEDnima: ".concat(parseInt(track.elevation_min), " m <i class=\"level down alternate ui icon\">"));
       });
     } catch (err) {
       console.info(err);

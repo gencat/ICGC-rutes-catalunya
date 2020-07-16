@@ -192,10 +192,10 @@ h4 {
   justify-content: space-between;
 }
 
-#iniciaHome:hover {
-  background-color: rgb(24, 6, 105) !important;
-}
 
+#iniciaHome{
+  cursor: none !important;
+}
 .infotext {
   color: white
 }
@@ -1508,6 +1508,7 @@ small {
   }
   .ui.vertical.menu .item>i.icon {
     display: none;
+    cursor: none !important;
   }
   .enllacalabel{
     display: none;
