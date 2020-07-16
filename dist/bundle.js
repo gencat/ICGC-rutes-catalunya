@@ -521,7 +521,7 @@ $(window.document).ready(function () {
         viewer.entities.add({
           position: Cesium.Cartesian3.fromDegrees(position.coords.longitude, position.coords.latitude),
           billboard: {
-            image: "../dist/css/img/room-24px.svg",
+            image: "dist/css/img/room-24px.svg",
             scale: 1.50,
             color: new Cesium.Color(30.0, 97.0, 148.0, 1.0)
           }
@@ -937,7 +937,7 @@ var LayerSlopeICGC = new Cesium.WebMapServiceImageryProvider({
 exports.LayerSlopeICGC = LayerSlopeICGC;
 var LayersAllausICGC = new Cesium.WebMapServiceImageryProvider({
   url: URL_ALLAUS_ICGC,
-  layers: "zonesallaus",
+  layers: "observacions",
   enablePickFeatures: true,
   showEntitiesLabels: true,
   credit: new Cesium.Credit("Institut Cartogràfic i Geològic de Catalunya"),
