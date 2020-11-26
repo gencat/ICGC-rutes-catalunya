@@ -8,15 +8,15 @@
 
 
 
-## Demo
+## Visor
 
-https://betaserver.icgc.cat/rutes-catalunya
+https://visors.icgc.cat/rutes-catalunya/
 
 ![alt Visors](rutes-catalunya.png)
 ### Clonar
 
 ```
- git clone http://172.17.28.68/geostarters/rutes-catalunya.git
+ git clone https://github.com/gencat/ICGC-rutes-catalunya.git
 
  cd rutes-catalunya
  npm install
